@@ -3,10 +3,34 @@
 import { useState, useEffect } from "react";
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
 import BANCO from "./preguntas.json";
+import BANCO_LAB from "./preguntas_laboratorio.json";
 
-// ====== BANCO DE PREGUNTAS (se lee del archivo preguntas.json) ======
-const PREGUNTAS = Array.isArray(BANCO?.preguntas) ? BANCO.preguntas : [];
-const ACCENT = "#2D6A4F"; // verde Diputación Provincial de Zaragoza
+// ====== BANCOS DE PREGUNTAS ======
+// Acepta tanto array pelado [...] como objeto { "preguntas": [...] }
+function normalizarBanco(b) {
+  if (Array.isArray(b)) return b;
+  if (Array.isArray(b?.preguntas)) return b.preguntas;
+  return [];
+}
+
+// ====== OPOSICIONES DISPONIBLES ======
+const OPOSICIONES = {
+  dpz: {
+    id: "dpz",
+    nombre: "Diputación Provincial de Zaragoza",
+    nombreCorto: "DPZ · Administrativo/a",
+    color: "#2D6A4F", // verde Diputación Provincial de Zaragoza
+    preguntas: normalizarBanco(BANCO),
+  },
+  laboratorio: {
+    id: "laboratorio",
+    nombre: "Ayto. Zaragoza · Téc. Aux. Laboratorio",
+    nombreCorto: "Ayto. Zaragoza · Laboratorio",
+    color: "#0057A8", // azul Ayuntamiento de Zaragoza
+    preguntas: normalizarBanco(BANCO_LAB),
+  },
+};
+
 const CANTIDADES = [5, 10, 20, 50, 100];
 
 function formatDate(ts) {
@@ -27,6 +51,12 @@ function shuffle(arr) {
 export default function App() {
   const [activeTab, setActiveTab] = useState("tests");
   const [step, setStep] = useState("config"); // config | test | resultado
+
+  // ---- Oposición seleccionada ----
+  const [oposicionId, setOposicionId] = useState("dpz"); // dpz | laboratorio
+  const oposicion = OPOSICIONES[oposicionId] || OPOSICIONES.dpz;
+  const PREGUNTAS = oposicion.preguntas;
+  const ACCENT = oposicion.color;
 
   // ---- Filtros del test ----
   const [bloque, setBloque] = useState("todos");   // todos | comun | especifica
@@ -65,6 +95,17 @@ export default function App() {
   const cantidadReal = Math.min(cantidad, disponibles);
 
   function addHistory(entry) { setHistory(prev => [entry, ...prev].slice(0, 100)); }
+
+  function cambiarOposicion(nuevaId) {
+    if (nuevaId === oposicionId) return;
+    setOposicionId(nuevaId);
+    // Los temas y bloques difieren entre oposiciones: reseteamos filtros
+    setBloque("todos");
+    setAmbito("todos");
+    setTema("todos");
+    setStep("config");
+    resetTest();
+  }
 
   function construirLabel() {
     if (tema !== "todos") {
@@ -114,7 +155,8 @@ export default function App() {
       id: Date.now(),
       timestamp: Date.now(),
       temaLabel: testLabel,
-      entidadNombre: "Diputación Provincial de Zaragoza",
+      entidadNombre: oposicion.nombre,
+      oposicionId: oposicionId,
       aciertos: aciertos(),
       total: preguntas.length,
       nota: notaFinal,
@@ -231,7 +273,9 @@ export default function App() {
         <div>
           <p style={S.hTitle}>Preparador de Oposiciones · Aragón</p>
           <p style={S.hSub}>
-            {activeTab === "historial" ? `${history.length} test realizados` : `Banco: ${PREGUNTAS.length} preguntas`}
+            {activeTab === "historial"
+              ? `${history.length} test realizados`
+              : `${oposicion.nombreCorto} · ${PREGUNTAS.length} preguntas`}
           </p>
         </div>
       </div>
@@ -249,7 +293,14 @@ export default function App() {
         {activeTab === "tests" && <>
           {step === "config" && <>
             <h1 style={S.title}>Configura tu test</h1>
-            <p style={S.sub}>Deja todo en “Todos” para un examen general, o filtra para machacar un tema concreto.</p>
+            <p style={S.sub}>Elige la oposición y ajusta los filtros. Deja todo en “Todos” para un examen general, o filtra para machacar un tema concreto.</p>
+
+            <div style={S.secTitle}>Oposición</div>
+            <select style={S.select} value={oposicionId} onChange={e => cambiarOposicion(e.target.value)}>
+              {Object.values(OPOSICIONES).map(o => (
+                <option key={o.id} value={o.id}>{o.nombre} ({o.preguntas.length} preguntas)</option>
+              ))}
+            </select>
 
             <div style={S.secTitle}>Bloque</div>
             <div style={S.chipRow}>
