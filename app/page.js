@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
 import BANCO from "./preguntas.json";
 import BANCO_LAB from "./preguntas_laboratorio.json";
+import BANCO_SANITARIO from "./preguntas_sanitario.json";
 
 // ====== BANCOS DE PREGUNTAS ======
 // Acepta tanto array pelado [...] como objeto { "preguntas": [...] }
