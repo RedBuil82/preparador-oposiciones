@@ -30,6 +30,13 @@ const OPOSICIONES = {
     color: "#0057A8", // azul Ayuntamiento de Zaragoza
     preguntas: normalizarBanco(BANCO_LAB),
   },
+  sanitario: {
+    id: "sanitario",
+    nombre: "Ayto. Zaragoza · Auxiliar Técnico Sanitario",
+    nombreCorto: "Ayto. Zaragoza · Sanitario",
+    color: "#C8102E",
+    preguntas: normalizarBanco(BANCO_SANITARIO),
+  },
 };
 
 const CANTIDADES = [5, 10, 20, 50, 100];
