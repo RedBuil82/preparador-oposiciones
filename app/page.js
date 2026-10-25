@@ -5,8 +5,7 @@ import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianG
 import BANCO from "./preguntas.json";
 import BANCO_LAB from "./preguntas_laboratorio.json";
 import BANCO_SANITARIO from "./preguntas_sanitario.json";
-import BANCO_DELINEANTE from "./preguntas_delineante.json";
-import BANCO_AUTOCAD from "./preguntas_autocad.json";
+import BANCO_COMUNES from "./preguntas_comunes.json";
 
 // ====== BANCOS DE PREGUNTAS ======
 // Acepta tanto array pelado [...] como objeto { "preguntas": [...] }
@@ -30,28 +29,14 @@ const OPOSICIONES = {
     nombre: "Ayto. Zaragoza · Téc. Aux. Laboratorio",
     nombreCorto: "Ayto. Zaragoza · Laboratorio",
     color: "#0057A8", // azul Ayuntamiento de Zaragoza
-    preguntas: normalizarBanco(BANCO_LAB),
+    preguntas: [...normalizarBanco(BANCO_COMUNES), ...normalizarBanco(BANCO_LAB)],
   },
   sanitario: {
     id: "sanitario",
     nombre: "Ayto. Zaragoza · Auxiliar Técnico Sanitario",
     nombreCorto: "Ayto. Zaragoza · Sanitario",
     color: "#C8102E",
-    preguntas: normalizarBanco(BANCO_SANITARIO),
-  },
-  delineante: {
-    id: "delineante",
-    nombre: "Ayto. Zaragoza · Téc. Aux. Delineante",
-    nombreCorto: "Ayto. Zaragoza · Delineante",
-    color: "#6A4C93",
-    preguntas: normalizarBanco(BANCO_DELINEANTE),
-  },
-  autocad: {
-    id: "autocad",
-    nombre: "Ayto. Zaragoza · Delineante · AutoCAD (comandos y variables)",
-    nombreCorto: "Delineante · AutoCAD",
-    color: "#B5179E",
-    preguntas: normalizarBanco(BANCO_AUTOCAD),
+    preguntas: [...normalizarBanco(BANCO_COMUNES), ...normalizarBanco(BANCO_SANITARIO)],
   },
 };
 
@@ -261,9 +246,7 @@ export default function App() {
             {p.tema ? ` · Tema ${p.tema}` : ""}
             {revisando && (ok ? " · ✓ Correcta" : " · ✗ Incorrecta")}
           </div>
-          {p.origen && <div style={{ fontSize: 11, color: "#999", fontFamily: "monospace", marginTop: -4, marginBottom: 8 }}>📄 {p.origen}</div>}
           <p style={S.pText}>{p.pregunta}</p>
-          {p.imagen && <img src={p.imagen} alt="Figura de la pregunta" style={{ maxWidth: "100%", height: "auto", border: "1px solid #e0e0e0", borderRadius: 6, marginBottom: 14, display: "block" }} />}
           {p.opciones.map((op, j) => (
             <div key={j} style={S.op(getEstado(i, j))} onClick={() => seleccionar(i, j)}>
               <span style={{ fontWeight: "bold", flexShrink: 0 }}>{["A", "B", "C", "D"][j]})</span>
