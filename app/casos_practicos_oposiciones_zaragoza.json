@@ -1,0 +1,746 @@
+{
+  "titulo_oposicion": "Oposiciones Ayuntamiento de Zaragoza - Grupo C Subgrupo C1",
+  "convocatorias": [
+    {
+      "id": "auxiliar_laboratorio",
+      "nombre": "Técnico/a Auxiliar de Laboratorio",
+      "plazas": 6,
+      "grupo": "C1",
+      "ejercicios": [
+        {
+          "tipo": "teorico",
+          "nombre": "1.er Ejercicio: Test Teórico",
+          "configuracion": {
+            "preguntas": 50,
+            "reserva": 5,
+            "opciones": 3,
+            "tiempo_minutos": 55,
+            "penalizacion_error": 0.25,
+            "nota_corte": 5.0
+          }
+        },
+        {
+          "tipo": "practico",
+          "nombre": "2.º Ejercicio: Casos Prácticos",
+          "configuracion": {
+            "num_supuestos": 5,
+            "preguntas_por_supuesto": 5,
+            "total_preguntas": 25,
+            "opciones": 4,
+            "tiempo_minutos": 35,
+            "penalizacion_error": 0.25,
+            "nota_corte": 5.0
+          },
+          "supuestos": [
+            {
+              "id_supuesto": 1,
+              "titulo": "Recepción y Análisis Microbiológico de Agua de Consumo (RD 3/2023)",
+              "escenario": "Se recibe en el Laboratorio del Instituto Municipal de Salud Pública de Zaragoza una muestra de agua de consumo procedente de la red de distribución para la determinación de parámetros microbiológicos según la norma ISO 9308-1 y el Real Decreto 3/2023.",
+              "preguntas": [
+                {
+                  "id": "LAB_P1_1",
+                  "enunciado": "¿Qué reactivo debe contener el frasco de muestreo estéril para neutralizar el desinfectante residual y cuál es la temperatura/plazo máximo de conservación?",
+                  "opciones": [
+                    "A) Ácido nítrico al 1% / Conservar 48 h a temperatura ambiente.",
+                    "B) Tiosulfato sódico (0,1 mL de solución al 10% por 100 mL de muestra) / Analizar en máximo 24 h a 5 ± 3 °C.",
+                    "C) Sulfato ferroso amónico / Conservar congelado a -20 °C.",
+                    "D) Hidróxido sódico 3 mol/L / Conservar 72 h a 20 °C."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El tiosulfato sódico neutraliza el cloro residual impidiendo que siga inactivando microorganismos tras la toma. Según ISO 5667-3 e ISO 9308-1, la muestra debe conservarse refrigerada a 5 ± 3 °C y analizarse en menos de 24 horas."
+                },
+                {
+                  "id": "LAB_P1_2",
+                  "enunciado": "Para la cuantificación de E. coli y bacterias coliformes por filtración por membrana según ISO 9308-1, ¿qué poro de membrana, medio y condiciones de incubación se emplean?",
+                  "opciones": [
+                    "A) Poro de 0,22 µm / Agar PCA a 30 °C durante 72 h.",
+                    "B) Poro de 0,45 µm / Agar Cromogénico para Coliformes (CCA) a 36 ± 2 °C durante 21 ± 3 h.",
+                    "C) Poro de 1,2 µm / Agar Slanetz-Bartley a 44 °C durante 48 h.",
+                    "D) Poro de 5,0 µm / Caldo Lauril Sulfato a 20 °C durante 5 días."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La norma ISO 9308-1 especifica membrana de nitrato/acetato de celulosa de 0,45 µm de poro y cultivo en Agar CCA a 36 ± 2 °C durante 21 ± 3 h. El RD 3/2023 exige 0 UFC/100 mL."
+                },
+                {
+                  "id": "LAB_P1_3",
+                  "enunciado": "En la lectura de la placa de CCA, ¿cómo se diferencian las colonias de Escherichia coli de otras bacterias coliformes?",
+                  "opciones": [
+                    "A) E. coli forma colonias amarillas y los coliformes colonias incoloras.",
+                    "B) E. coli forma colonias de azul a violeta (ß-D-galactosidasa y ß-D-glucuronidasa positivas) y coliformes no-E. coli forman colonias rosa a rojas.",
+                    "C) E. coli forma precipitados negros por producción de SH2.",
+                    "D) E. coli fluoresce bajo luz UV a 254 nm mientras que los coliformes son opacos."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El agar CCA contiene dos sustratos cromogénicos (Salmon-GAL y X-GLUC). E. coli expresa ambas enzimas (galactosidasa y glucuronidasa), dando colonias azul-violeta. Los coliformes generales solo expresan galactosidasa, produciendo colonias rosas/rojas."
+                },
+                {
+                  "id": "LAB_P1_4",
+                  "enunciado": "En un ensayo de aerobios a 22 °C (ISO 6222) se inocula 1 mL de agua filtrada pura en Agar PCA por siembra en masa. Tras 68 h se cuentan 45 colonias. ¿Cómo se expresa legalmente el resultado?",
+                  "opciones": [
+                    "A) 45 UFC/100 mL.",
+                    "B) 45 UFC/mL a 22 °C.",
+                    "C) 4,5 x 10^3 UFC/L.",
+                    "D) Negativo para aerobios."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El volumen sembrado en la placa de PCA es de 1 mL directo, por lo que el recuento directo de 45 colonias equivale a 45 UFC/mL a 22 °C."
+                },
+                {
+                  "id": "LAB_P1_5",
+                  "enunciado": "¿Cuál es el valor paramétrico fijado por el RD 3/2023 para E. coli y Enterococos intestinales en red de distribución de agua de consumo?",
+                  "opciones": [
+                    "A) 10 UFC/100 mL en ambos casos.",
+                    "B) 100 UFC/100 mL para E. coli y 0 UFC/100 mL para Enterococos.",
+                    "C) 0 UFC en 100 mL para ambos parámetros microbiológicos.",
+                    "D) Menos de 5 UFC/mL."
+                  ],
+                  "respuesta_correcta": "C",
+                  "justificacion": "El RD 3/2023 establece el valor paramétrico estricto de 0 UFC en 100 mL tanto para E. coli como para Enterococos intestinales en el punto de cumplimiento (grifo del consumidor / red)."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 2,
+              "titulo": "Análisis Espectrofotométrico UV-Vis y Calibración Analítica",
+              "escenario": "Se requiere determinar la concentración de nitratos en una muestra de agua mediante espectrofotometría de absorción molecular UV-Vis a 220 nm y 275 nm en cubeta de cuarzo de 1 cm.",
+              "preguntas": [
+                {
+                  "id": "LAB_P2_1",
+                  "enunciado": "¿Qué ley física rige la cuantificación espectrofotométrica y qué representa cada término en la ecuación A = e · b · c?",
+                  "opciones": [
+                    "A) Ley de Nernst: A = Absorbancia, e = potencial redox, b = volumen, c = carga.",
+                    "B) Ley de Beer-Lambert: A = Absorbancia (adimensional), e = absortividad molar (L·mol^-1·cm^-1), b = paso óptico (cm), c = concentración (mol/L).",
+                    "C) Ley de Snell: A = ángulo de refracción, e = longitud de onda, b = transmitancia, c = densidad.",
+                    "D) Ley de Bragg: A = difracción, e = energía del fotón, b = espesor, c = masa."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La Ley de Beer-Lambert establece la relación lineal directa entre la absorbancia medida y la concentración del analito en disolución: A = e · b · c."
+                },
+                {
+                  "id": "LAB_P2_2",
+                  "enunciado": "¿Por qué motivo para la lectura en la región espectral ultravioleta (220 nm) deben emplearse cubetas de cuarzo en lugar de cubetas de vidrio o plástico estándar?",
+                  "opciones": [
+                    "A) Porque el vidrio y el plástico absorben la radiación UV por debajo de 320 nm, impidiendo el paso de luz.",
+                    "B) Porque el cuarzo es magnético y orienta las moléculas del analito.",
+                    "C) Porque el vidrio cataliza la descomposición térmica del nitrato.",
+                    "D) Porque las cubetas de plástico alteran el pH de la muestra."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "El vidrio óptico convencional y los plásticos de poliestireno absorben la radiación electromagnética en la zona ultravioleta (<320 nm). Por ello, en espectrofotometría UV es obligatorio el uso de cubetas de sílice fundida (cuarzo)."
+                },
+                {
+                  "id": "LAB_P2_3",
+                  "enunciado": "Se prepara una recta de calibrado con 5 patrones. La ecuación ajustada por mínimos cuadrados es Abs = 0,042 · C + 0,005 (donde C está en mg/L). Si la muestra da una absorbancia neta de 0,425, ¿cuál es su concentración?",
+                  "opciones": [
+                    "A) 5,0 mg/L.",
+                    "B) 10,0 mg/L.",
+                    "C) 12,5 mg/L.",
+                    "D) 8,4 mg/L."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Despejando C de la recta: C = (Abs - 0,005) / 0,042 = (0,425 - 0,005) / 0,042 = 0,420 / 0,042 = 10,0 mg/L."
+                },
+                {
+                  "id": "LAB_P2_4",
+                  "enunciado": "¿Qué función cumple el 'blanco de reactivos' en las mediciones espectrofotométricas?",
+                  "opciones": [
+                    "A) Ajustar el cero de absorbancia compensando la señal debida a los reactivos y la matriz exenta de analito.",
+                    "B) Limpiar la fuente de emisión de deuterio.",
+                    "C) Aumentar la sensibilidad del fotomultiplicador.",
+                    "D) Evitar la formación de burbujas en la lámpara de wolframio."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "El blanco de reactivos contiene todos los solventes y reactivos de la preparación excepto el analito de interés. Permite descontar la absorbancia de fondo y fijar la transmitancia al 100% (Abs = 0)."
+                },
+                {
+                  "id": "LAB_P2_5",
+                  "enunciado": "Si una muestra sobrepasa el rango dinámico lineal de la curva de calibrado (Absorbancia > 1,5), ¿qué procedimiento técnico debe aplicar el analista?",
+                  "opciones": [
+                    "A) Aumentar el voltaje de la lámpara UV.",
+                    "B) Diluir la muestra con agua desionizada/blanco para situarla dentro del rango lineal y multiplicar la concentración leída por el factor de dilución.",
+                    "C) Extrapolar matemáticamente la recta de calibrado hasta valores indefinidos.",
+                    "D) Cambiar la longitud de onda a la zona infrarroja."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "A absorbancias elevadas (>1,0 - 1,5) se producen desviaciones negativas de la ley de Beer-Lambert por efectos químicos u ópticos. Debe diluirse la muestra para medir dentro de la zona lineal de la curva y corregir por el factor de dilución."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 3,
+              "titulo": "Caracterización de Aguas Residuales e Inspección Ambiental (EDAR)",
+              "escenario": "En el control de efluentes de la Estación Depuradora de Aguas Residuales (EDAR) La Cartuja de Zaragoza se analizan los parámetros DBO5, DQO y Sólidos en Suspensión Totales (SST).",
+              "preguntas": [
+                {
+                  "id": "LAB_P3_1",
+                  "enunciado": "¿En qué consiste la determinación de la Demanda Bioquímica de Oxígeno a los 5 días (DBO5)?",
+                  "opciones": [
+                    "A) Medición del oxígeno consumido por microorganismos aerobios para oxidar la materia orgánica biodegradable a 20 °C en oscuridad durante 5 días.",
+                    "B) Valoración química con dicromato potásico en medio ácido sulfúrico a ebullición durante 2 horas.",
+                    "C) Medición del volumen de cieno depositado en un cono Imhoff en 30 minutos.",
+                    "D) Calcinación de residuos a 550 °C en mufa."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La DBO5 mide la cantidad de oxígeno disuelto que consumen los microorganismos para degradar la materia orgánica biodegradable presente en la muestra tras incubar 5 días a 20 ± 1 °C en la oscuridad."
+                },
+                {
+                  "id": "LAB_P3_2",
+                  "enunciado": "¿Qué reactivo oxidante fuerte se utiliza en la determinación analítica de la Demanda Química de Oxígeno (DQO) por el método del reflujo cerrado?",
+                  "opciones": [
+                    "A) Permanganato potásico en medio alcalino.",
+                    "B) Dicromato potásico (K2Cr2O7) en medio ácido sulfúrico concentrado con catalizador de sulfato de plata.",
+                    "C) Peróxido de hidrógeno al 30%.",
+                    "D) Hipoclorito sódico 12%."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La DQO determina el oxígeno equivalente a la materia orgánica oxidable químicamente (biodegradable y no biodegradable) mediante digestión ácida a 150 °C con K2Cr2O7 y Ag2SO4 como catalizador (ISO 15705)."
+                },
+                {
+                  "id": "LAB_P3_3",
+                  "enunciado": "Si una muestra de agua residual bruta presenta una DQO de 600 mg O2/L y una DBO5 de 300 mg O2/L, ¿cuál es la relación DQO/DBO5 y qué indica respecto a su biodegradabilidad?",
+                  "opciones": [
+                    "A) Relación = 0,5 / Es un vertido totalmente inorgánico e inerte.",
+                    "B) Relación = 2,0 / Indica que el agua residual es fácilmente biodegradable por vía biológica.",
+                    "C) Relación = 10,0 / Indica presencia masiva de tóxicos industriales.",
+                    "D) Relación = 5,0 / Es agua potable de alta pureza."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La relación DQO/DBO5 es 600/300 = 2,0. Una relación inferior a 2,5 indica que una fracción muy elevada de la carga orgánica es biodegradable, apta para tratamiento biológico en depuradora."
+                },
+                {
+                  "id": "LAB_P3_4",
+                  "enunciado": "¿Cómo se determinan analíticamente los Sólidos en Suspensión Totales (SST) según la norma UNE-EN 872?",
+                  "opciones": [
+                    "A) Por evaporación directa del agua a 105 °C en cápsula de porcelana.",
+                    "B) Por filtración de un volumen conocido de agua a través de un filtro de fibra de vidrio, secado a 105 °C hasta peso constante y pesada gravimétrica.",
+                    "C) Por centrifugación a 10.000 rpm durante 1 hora.",
+                    "D) Por medición de la turbidez con turbidímetro de célula fotoeléctrica."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Los SST se determinan reteniendo las partículas en un filtro de fibra de vidrio (poro nominal 1,5 µm), desecando en estufa a 105 ± 2 °C y calculando la diferencia de masa respecto al filtro tarado."
+                },
+                {
+                  "id": "LAB_P3_5",
+                  "enunciado": "¿Qué reactivo se añade para evitar el consumo de oxígeno por bacterias nitrificantes durante el ensayo de DBO5 (DBO carbonácea)?",
+                  "opciones": [
+                    "A) Azida sódica.",
+                    "B) N-aliltiourea (ATH) o 2-cloro-6-triclorometilpiridina (TCMP).",
+                    "C) Azul de metileno.",
+                    "D) EDTA disódico."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Para medir únicamente la DBO carbonácea e inhibir la oxidación del nitrógeno amoniacal a nitritos/nitratos por bacterias nitrificantes (Nitrosomonas/Nitrobacter), se adiciona un inhibidor específico de la nitrificación como la ATH."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 4,
+              "titulo": "Acreditación UNE-EN ISO/IEC 17025 y Control de Calidad Analítico",
+              "escenario": "El Laboratorio municipal gestiona la calidad de sus ensayos físico-químicos y microbiológicos bajo la norma ISO/IEC 17025 para garantizar la validez de los resultados presentados ante la administración.",
+              "preguntas": [
+                {
+                  "id": "LAB_P4_1",
+                  "enunciado": "Según la norma UNE-EN ISO/IEC 17025, ¿cuál es la diferencia fundamental entre 'verificación' y 'validación' de un método analítico?",
+                  "opciones": [
+                    "A) Son términos idénticos sin diferencia técnica.",
+                    "B) La verificación demuestra que el laboratorio maneja adecuadamente un método normalizado estandarizado; la validación confirma la aptitud de métodos no normalizados o modificados mediante evidencia objetiva.",
+                    "C) La verificación la realiza ENAC y la validación la realiza el proveedor del reactivo.",
+                    "D) La validación solo se aplica a métodos de calibración de balanzas."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La verificación aporta evidencia objetiva de que el laboratorio cumple los requisitos especificados para un método ya normalizado (ej. ISO/UNE). La validación requiere un estudio exhaustivo (precisión, veracidad, linealidad, límites) para métodos propios o modificados."
+                },
+                {
+                  "id": "LAB_P4_2",
+                  "enunciado": "¿Cómo se define el Límite de Cuantificación (LOQ) de un procedimiento analítico en relación con el Límite de Detección (LOD)?",
+                  "opciones": [
+                    "A) LOQ = LOD / 2.",
+                    "B) El LOQ es la menor concentración del analito que puede determinarse cuantitativamente con un nivel aceptable de precisión y veracidad (usualmente LOQ ≈ 3 · LOD o 10 · s_blanco).",
+                    "C) El LOQ es la concentración máxima que admite el detector.",
+                    "D) El LOQ solo se calcula en métodos cualitativos."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El LOD es la concentración mínima detectable (señal/ruido = 3 o 3·s_blanco). El LOQ es la concentración mínima cuantificable con incertidumbre aceptable (señal/ruido = 10 o 10·s_blanco)."
+                },
+                {
+                  "id": "LAB_P4_3",
+                  "enunciado": "En el cálculo de incertidumbre de medida, ¿cómo se expresa la incertidumbre expandida (U) a partir de la incertidumbre combinada (u_c) para un nivel de confianza del 95%?",
+                  "opciones": [
+                    "A) U = u_c / 2.",
+                    "B) U = k · u_c (donde el factor de cobertura k = 2 para un nivel de confianza aprox. del 95%).",
+                    "C) U = u_c + 100.",
+                    "D) U = (u_c)^2."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La incertidumbre expandida U se obtiene multiplicando la incertidumbre estándar combinada u_c por el factor de cobertura k. Para una distribución normal y 95% de confianza, se adopta k = 2."
+                },
+                {
+                  "id": "LAB_P4_4",
+                  "enunciado": "¿Qué herramienta de control interno de la calidad permite evaluar la estabilidad y precisión intermedia de un ensayo a lo largo del tiempo?",
+                  "opciones": [
+                    "A) Gráficos de control (Shewhart) construidos con la medición periódica de un Material de Referencia Control (MRC).",
+                    "B) Auditoría financiera externa.",
+                    "C) Encuestas de satisfacción a usuarios.",
+                    "D) Inspección visual del mobiliario."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Los gráficos de control de Shewhart representan los valores obtenidos en muestras de control/MRC frente al tiempo, marcando la media, los límites de aviso (±2s) y los límites de acción (±3s)."
+                },
+                {
+                  "id": "LAB_P4_5",
+                  "enunciado": "¿Qué ensayo de aptitud o intercomparación externa es obligatorio para demostrar la competencia técnica según ISO/IEC 17025?",
+                  "opciones": [
+                    "A) Programas de Ejercicios Interlaboratorios (Proficiency Testing - PT) organizados por un proveedor acreditado (ISO 17043).",
+                    "B) Autoevaluación del analista.",
+                    "C) Revisión del catálogo comercial de reactivos.",
+                    "D) Examen teórico anual del personal."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La participación satisfactoria en ensayos de aptitud (rondas interlaboratorio) organizados conforme a ISO/IEC 17043 es una exigencia fundamental de ENAC para mantener la acreditación."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 5,
+              "titulo": "Seguridad en el Laboratorio, Productos Químicos y Gestión de Residuos",
+              "escenario": "Durante la preparación de reactivos analíticos se manipulando ácidos concentrados y disolventes orgánicos en el laboratorio, debiendo aplicar el Reglamento CLP/REACH y las normas de protección laboral.",
+              "preguntas": [
+                {
+                  "id": "LAB_P5_1",
+                  "enunciado": "Según el Reglamento CLP (CE 1272/2008), ¿qué significado tiene el pictograma con la bomba explotando y qué indicaciones de peligro le corresponden?",
+                  "opciones": [
+                    "A) Gas a presión / H280.",
+                    "B) Sustancias y mezclas explosivas, autoreactivas o peróxidos orgánicos / Indicaciones de peligro H200 a H240.",
+                    "C) Toxicidad aguda por ingestión / H300.",
+                    "D) Corrosivo para los metales / H290."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El pictograma GHS01 (bomba explotando) alerta sobre peligros físicos por inestabilidad explosiva, autoreactividad severa o presencia de peróxidos orgánicos."
+                },
+                {
+                  "id": "LAB_P5_2",
+                  "enunciado": "Al diluir ácido sulfúrico concentrado (96%) en agua, ¿cuál es el procedimiento de seguridad correcto para evitar proyecciones térmicas violentas?",
+                  "opciones": [
+                    "A) Verter rápidamente el agua sobre el ácido sulfúrico concentrado.",
+                    "B) Verter siempre el ácido lentamente sobre el agua, agitando y refrigerando el recipiente ('nunca des de beber al ácido').",
+                    "C) Mezclar ambos reactivos hirviendo a 100 °C.",
+                    "D) Cerrar herméticamente el matraz y agitar con fuerza."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La hidratación del ácido sulfúrico es una reacción extremadamente exotérmica. Si se añade agua sobre el ácido, el agua menos densa flota, hierve instantáneamente y proyecta ácido corrosivo. Debe añadirse el ácido sobre el agua en pequeñas dosis."
+                },
+                {
+                  "id": "LAB_P5_3",
+                  "enunciado": "¿Qué elemento de protección colectiva es imprescindible utilizar al manipular disolventes volátiles inflamables o ácidos fumantes como el nítrico concentrado?",
+                  "opciones": [
+                    "A) Mascarilla FFP1 antipolvo.",
+                    "B) Vitrina de gases (campana de extracción de gases) con velocidad de captura adecuada y guantes específicos (nitrilo/neopreno).",
+                    "C) Ventilador de mesa convencional.",
+                    "D) Gafas de lectura estándar."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La vitrina de extracción de gases es un equipo de protección colectiva que aspira y confina los vapores tóxicos o inflamables impidiendo su difusión al ambiente de trabajo."
+                },
+                {
+                  "id": "LAB_P5_4",
+                  "enunciado": "En la clasificación de residuos del laboratorio según la Lista Europea de Residuos (código LER), ¿cómo se deben gestionar los frascos con restos de disolventes halogenados (cloroformo, diclorometano)?",
+                  "opciones": [
+                    "A) Verter directamente por el fregadero con abundante agua de grifo.",
+                    "B) Segregar en garrafas específicas para 'Residuos Orgánicos Halogenados' (LER 07 01 03*), etiquetar como peligroso y entregar a gestor autorizado.",
+                    "C) Mezlarlos con los residuos de papel y cartón.",
+                    "D) Evaporarlos al aire libre en la ventana."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Los disolventes halogenados son altamente tóxicos y ecotóxicos. Deben segregarse separadamente de los orgánicos no halogenados, identificarse con código LER marcado con asterisco (*) por peligrosidad y ser retirados por gestor de residuos peligrosos."
+                },
+                {
+                  "id": "LAB_P5_5",
+                  "enunciado": "¿Qué información obligatoria debe figurar en la Ficha de Datos de Seguridad (FDS) según el Reglamento REACH (16 secciones)?",
+                  "opciones": [
+                    "A) El precio de venta al público y descuentos comerciales.",
+                    "B) Composición, identificación de peligros, primeros auxilios, medidas contra incendios, manipulación/almacenamiento, controles de exposición y propiedades físico-químicas.",
+                    "C) El organigrama de la empresa fabricante.",
+                    "D) Fotografías de las instalaciones de la fábrica."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "La Ficha de Datos de Seguridad (FDS) consta de 16 secciones estandarizadas obligatorias que detallan la peligrosidad, medidas de prevención, EPIs recomendados y actuación en emergencias."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auxiliar_sanitario",
+      "nombre": "Técnico/a Auxiliar Sanitario",
+      "plazas": 4,
+      "grupo": "C1",
+      "requisito_especifico": "Permiso de Conducir Clase B",
+      "ejercicios": [
+        {
+          "tipo": "teorico",
+          "nombre": "1.er Ejercicio: Test Teórico",
+          "configuracion": {
+            "preguntas": 50,
+            "reserva": 5,
+            "opciones": 3,
+            "tiempo_minutos": 55,
+            "penalizacion_error": 0.25,
+            "nota_corte": 5.0
+          }
+        },
+        {
+          "tipo": "practico",
+          "nombre": "2.º Ejercicio: Casos Prácticos",
+          "configuracion": {
+            "num_supuestos": 5,
+            "preguntas_por_supuesto": 5,
+            "total_preguntas": 25,
+            "opciones": 4,
+            "tiempo_minutos": 35,
+            "penalizacion_error": 0.25,
+            "nota_corte": 5.0
+          },
+          "supuestos": [
+            {
+              "id_supuesto": 1,
+              "titulo": "Inspección de Higiene Alimentaria en Restauración Colectiva (RD 1021/2022)",
+              "escenario": "Inspectores del Servicio de Salud Pública del Ayuntamiento de Zaragoza realizan una inspección sanitaria en una cocina central de menú escolar para verificar el cumplimiento del RD 1021/2022 y el sistema APPCC.",
+              "preguntas": [
+                {
+                  "id": "SAN_P1_1",
+                  "enunciado": "Durante la inspección de la zona de emplatado, ¿a qué temperatura mínima obligatoria se deben mantener las comidas preparadas en caliente hasta su servicio?",
+                  "opciones": [
+                    "A) >= 50 °C.",
+                    "B) >= 60 °C.",
+                    "C) >= 63 °C.",
+                    "D) >= 65 °C."
+                  ],
+                  "respuesta_correcta": "C",
+                  "justificacion": "El RD 1021/2022 derogó la anterior norma (RD 3484/2000) y fijó en >= 63 °C la temperatura mínima de conservación de comidas calientes."
+                },
+                {
+                  "id": "SAN_P1_2",
+                  "enunciado": "¿Qué temperatura máxima de conservación fija el RD 1021/2022 para comidas preparadas refrigeradas con una vida útil superior a 24 horas?",
+                  "opciones": [
+                    "A) <= 4 °C en todo el alimento.",
+                    "B) <= 8 °C.",
+                    "C) <= 12 °C.",
+                    "D) Ambiente hasta 20 °C."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Las comidas preparadas refrigeradas con duración mayor a 24 horas deben conservarse a una temperatura igual o inferior a 4 °C. Si la vida útil es menor a 24 h se tolera hasta <= 8 °C."
+                },
+                {
+                  "id": "SAN_P1_3",
+                  "enunciado": "En la inspección de alérgenos (Reglamento UE 1169/2011), ¿cuántas sustancias o productos que causan alergias o intolerancias son de declaración obligatoria en la información alimentaria?",
+                  "opciones": [
+                    "A) 8 alérgenos principales.",
+                    "B) 14 sustancias de obligatoria declaración.",
+                    "C) 20 alérgenos.",
+                    "D) Solo el gluten y la lactosa."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El Anexo II del Reglamento (UE) 1169/2011 establece la lista de 14 sustancias alergénicas de información obligatoria en alimentos envasados y no envasados."
+                },
+                {
+                  "id": "SAN_P1_4",
+                  "enunciado": "¿Qué exigencia contempla la normativa sobre la recogida de 'muestras testigo' en establecimientos de restauración colectiva que sirven menús a colectividades vulnerables?",
+                  "opciones": [
+                    "A) Guardar 10 g de pan durante 24 horas a temperatura ambiente.",
+                    "B) Tomar una ración individual representativa (mínimo 100 g) de cada plato elaborado, identificada y conservada en refrigeración (<=4 °C) o congelación durante al menos 7 días.",
+                    "C) Congelar 1 kg de materia prima bruta sin cocinar.",
+                    "D) No es necesario tomar muestras testigo en comedores escolares."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Las muestras testigo (racionamiento de al menos 100 g etiquetado con fecha) deben guardarse refrigeradas (<=4 °C) o congeladas mínimo 7 días para permitir la investigación epidemiológica en caso de brote de toxiinfección."
+                },
+                {
+                  "id": "SAN_P1_5",
+                  "enunciado": "Dentro de los 7 principios del APPCC, ¿cuál corresponde al 'Principio 2'?",
+                  "opciones": [
+                    "A) Realizar un análisis de peligros.",
+                    "B) Determinar los Puntos de Control Crítico (PCC).",
+                    "C) Establecer límites críticos.",
+                    "D) Establecer un sistema de vigilancia."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El Principio 1 es el análisis de peligros; el Principio 2 es la determinación de los Puntos de Control Crítico (PCC) mediante el árbol de decisiones."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 2,
+              "titulo": "Muestreo Oficial de Aguas de Consumo Humano en Red (RD 3/2023)",
+              "escenario": "Un Técnico Auxiliar Sanitario acude a tomar una muestra oficial de agua de consumo en el grifo de un edificio público conectado a la red municipal de Zaragoza.",
+              "preguntas": [
+                {
+                  "id": "SAN_P2_1",
+                  "enunciado": "Antes de tomar la muestra en el grifo para el análisis de parámetros químicos e indicadores, ¿cuál es el protocolo de purga previo según el RD 3/2023 e ISO 5667-5?",
+                  "opciones": [
+                    "A) No purgar y coger la primera gota que salga.",
+                    "B) Desmontar aireadores/filtros, limpiar el grifo, desinfectar la boca y dejar correr el agua a flujo constante durante 2 a 3 minutos hasta estabilizar la temperatura.",
+                    "C) Hervir el grifo con soplete durante 30 minutos.",
+                    "D) Dejar correr el agua durante 5 horas seguidas."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Para obtener una muestra representativa del agua de la red de distribución se retiran difusores, se desinfecta la salida y se purga el agua estancada en la acometida interna durante 2-3 min."
+                },
+                {
+                  "id": "SAN_P2_2",
+                  "enunciado": "¿Qué determinación analítica in situ debe realizar obligatoriamente el inspector en el momento del muestreo de agua de consumo?",
+                  "opciones": [
+                    "A) Recuento de virus entéricos.",
+                    "B) Medición de cloro libre residual y/o cloro combinado residual por el método colorimétrico DPD, pH y temperatura.",
+                    "C) DBO5 e hidrocarburos totales.",
+                    "D) Plaguicidas organoclorados."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El desinfectante residual (Cloro libre con DPD-1 / Cloro total con DPD-3), la temperatura y el pH son determinaciones obligatorias in situ porque cambian rápidamente tras la extracción."
+                },
+                {
+                  "id": "SAN_P2_3",
+                  "enunciado": "¿Cuál es el intervalo de valor paramétrico para el cloro libre residual en el agua de consumo recomendado en red de distribución según el RD 3/2023?",
+                  "opciones": [
+                    "A) 0,2 a 1,0 mg/L (sin superar un máximo de 2,0 mg/L).",
+                    "B) 5,0 a 10,0 mg/L.",
+                    "C) Exactamente 0,0 mg/L.",
+                    "D) 15 a 20 mg/L."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "El RD 3/2023 establece que cuando se utiliza cloro o derivados como desinfectante, el nivel de cloro libre residual en red debe situarse preferentemente entre 0,2 y 1,0 mg/L para garantizar la eficacia microbiológica sin provocar rechazo organoléptico."
+                },
+                {
+                  "id": "SAN_P2_4",
+                  "enunciado": "Para la determinación de metales pesados (Plomo, Cobre, Níquel) por ICP-MS, ¿qué acondicionamiento exige el frasco de toma de muestra?",
+                  "opciones": [
+                    "A) Acidificar la muestra in situ con ácido nítrico (HNO3) concentrado hasta pH < 2 para fijar los metales en disolución y evitar su adsorción en la pared.",
+                    "B) Añadir hidróxido sódico hasta pH 14.",
+                    "C) Congelar con hielo seco inmediatamente.",
+                    "D) Llenar solo la mitad del frasco y agitar vigorosamente."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La preservación de muestras de agua para análisis de cationes metálicos requiere acidificación con HNO3 ultrapuro a pH < 2, impidiendo la precipitación o adsorción en las paredes del envase de polietileno."
+                },
+                {
+                  "id": "SAN_P2_5",
+                  "enunciado": "¿Qué información debe constar indispensablemente en el Acta de Toma de Muestras Oficial para garantizar la cadena de custodia?",
+                  "opciones": [
+                    "A) Solamente la firma del transportista.",
+                    "B) Código de muestra único, punto exacto de toma, fecha y hora, temperatura in situ, valor de cloro, identificador del inspector y firma del responsable del establecimiento o testigo.",
+                    "C) El presupuesto de la analítica.",
+                    "D) La matrícula del vehículo particular del ciudadano."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El acta oficial formaliza la cadena de custodia y da validez legal a la prueba analítica, registrando identificación, condiciones in situ, precintos y firmas reglamentarias."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 3,
+              "titulo": "Prevención y Control de Legionella (RD 487/2022 y RD 614/2024)",
+              "escenario": "Revisión de instalaciones de riesgo de Legionella en un polideportivo municipal dotado de red de ACS con acumulación y torre de refrigeración.",
+              "preguntas": [
+                {
+                  "id": "SAN_P3_1",
+                  "enunciado": "¿A qué temperaturas debe mantenerse el agua en los puntos de la instalación de ACS para evitar la multiplicación de Legionella pneumophila?",
+                  "opciones": [
+                    "A) Acumulador a >= 60 °C y en los puntos de consumo / grifos más alejados a no menos de 50 °C (en menos de 1 minuto).",
+                    "B) Acumulador a 35 °C y grifos a 20 °C.",
+                    "C) Acumulador a 45 °C y grifos a 40 °C.",
+                    "D) Acumulador a 100 °C de forma continua."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Legionella se multiplica entre 20 °C y 45 °C (óptimo 35-37 °C). El RD 487/2022 exige mantener el agua acumulada a >= 60 °C y que en los grifos la temperatura alcance al menos 50 °C antes de 1 minuto."
+                },
+                {
+                  "id": "SAN_P3_2",
+                  "enunciado": "En una torre de refrigeración, ¿cuál es la frecuencia mínima obligatoria de limpieza y desinfección preventiva según el RD 487/2022?",
+                  "opciones": [
+                    "A) Una vez cada 5 años.",
+                    "B) Al menos dos veces al año (semestral), además de tras paradas prolongadas superiores a un mes.",
+                    "C) Mensualmente solo en invierno.",
+                    "D) No requiere desinfección si se usa agua de pozo."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Las torres de refrigeración y condensadores evaporativos deben someterse a limpieza y desinfección de la instalación al menos dos veces al año (preferentemente en primavera y otoño)."
+                },
+                {
+                  "id": "SAN_P3_3",
+                  "enunciado": "Si el resultado analítico de una muestra de agua de ACS arroja un valor de 2.500 UFC/L de Legionella spp., ¿cuál es el nivel de acción correctora exigido?",
+                  "opciones": [
+                    "A) Sin acción (tolerado hasta 10.000 UFC/L).",
+                    "B) Revisar el Plan de Prevención y Control de Legionella (PPCL) / PPCL-PPCL, efectuar desinfección de choque y realizar un nuevo muestreo a los 15-30 días.",
+                    "C) Clausura definitiva y derribo del edificio.",
+                    "D) Añadir tiosulfato sódico a las duchas."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Para recuentos entre 1.000 y 10.000 UFC/L de Legionella en agua sanitaria, la normativa impone revisar las medidas correctoras, limpiar y desinfectar el sistema y tomar muestra de control en 15-30 días."
+                },
+                {
+                  "id": "SAN_P3_4",
+                  "enunciado": "¿Qué documento técnico de evaluación de riesgos sustituye voluntariamente o complementa al PPCL convencional según el RD 487/2022?",
+                  "opciones": [
+                    "A) Plan de Autoprotección de Incendios.",
+                    "B) Plan de Sanidad del Agua (PSA) adaptado a la instalación.",
+                    "C) Certificado ISO 14001 ambiental.",
+                    "D) Memoria económica anual."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "El titular de la instalación puede optar por elaborar un Plan de Sanidad del Agua (PSA) basado en la metodología WSP de la OMS como alternativa de mejora al Plan de Prevención y Control de Legionella (PPCL)."
+                },
+                {
+                  "id": "SAN_P3_5",
+                  "enunciado": "¿Qué tratamiento térmico de choque se puede aplicar en la red de ACS ante una contaminación por Legionella?",
+                  "opciones": [
+                    "A) Elevar la temperatura del agua del acumulador a 70 °C durante al menos 2 horas y hacer correr el agua por todos los grifos/duchas a >= 60 °C durante 5 minutos.",
+                    "B) Enfriar el agua a 0 °C durante 10 minutos.",
+                    "C) Mantener a 40 °C durante 24 horas.",
+                    "D) Hervir a 100 °C con vapor seco durante 3 días."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La desinfección térmica de choque consiste en elevar la temperatura del agua en el acumulador a 70 °C durante 2 h y purgar todos los puntos terminales garantizando >= 60 °C durante 5 min."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 4,
+              "titulo": "Gestión de Plagas Urbanas y Control de Biocidas (ROESB)",
+              "escenario": "Inspección de un programa de desratización alcantarillada y control de roedores en vía pública mediante la aplicación de rodenticidas anticoagulantes (TP14).",
+              "preguntas": [
+                {
+                  "id": "SAN_P4_1",
+                  "enunciado": "¿Qué especies de roedores constituyen las principales plagas urbanas en las redes de alcantarillado y espacios edificados?",
+                  "opciones": [
+                    "A) Rattus norvegicus (Rata parda/alcantarilla), Rattus rattus (Rata negra/de tejado) y Mus musculus (Ratón común).",
+                    "B) Sciurus vulgaris y Glis glis.",
+                    "C) Castor fiber y Myocastor coypus.",
+                    "D) Apodemus sylvaticus exclusivamente."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "El trío de roedores comensales plaga en entorno urbano está formado por la rata parda de alcantarilla (Rattus norvegicus), la rata negra de tejado (Rattus rattus) y el ratón doméstico (Mus musculus)."
+                },
+                {
+                  "id": "SAN_P4_2",
+                  "enunciado": "¿Cuál es el modo de acción toxicológico de los rodenticidas anticoagulantes de segunda generación (ej. bromadiolona, brodifacum, difenacoum)?",
+                  "opciones": [
+                    "A) Inhibir la enzima vitamina K1 epóxido reductasa, alterando la síntesis de factores de coagulación y provocando la muerte por hemorragias internas en 3 a 7 días.",
+                    "B) Provocar paro cardíaco instantáneo en 10 segundos.",
+                    "C) Bloquear la acetilcolinesterasa de la placa motora.",
+                    "D) Paralizar los músculos respiratorios por neurotoxina."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Los anticoagulantes de 2.ª generación impiden la regeneración de la vitamina K1. El efecto diferido (muerte a los 3-7 días) evita que el resto de la colonia asocie el cebo con la muerte (evitando la recelosidad/neofobia)."
+                },
+                {
+                  "id": "SAN_P4_3",
+                  "enunciado": "¿Qué antídoto específico debe administrarse en caso de intoxicación accidental humana o doméstica por rodenticidas anticoagulantes?",
+                  "opciones": [
+                    "A) Atropina sulfato.",
+                    "B) Vitamina K1 (Fitonadiona).",
+                    "C) Naloxona.",
+                    "D) Flumazenilo."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Dado que el anticoagulante bloquea el ciclo de la vitamina K1, el antídoto fisiológico directo e imprescindible es la administración de Vitamina K1 (fitonadiona) por vía parenteral u oral."
+                },
+                {
+                  "id": "SAN_P4_4",
+                  "enunciado": "Según el RD 830/2010 y la norma UNE-EN 16636, ¿qué registro oficial deben poseer las empresas dedicadas a la prestación de servicios de control de plagas con biocidas?",
+                  "opciones": [
+                    "A) Registro Mercantil de Madrid.",
+                    "B) Registro Oficial de Establecimientos y Servicios Biocidas (ROESB).",
+                    "C) Carné de conducir tipo C1.",
+                    "D) Licencia de obras menor."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Las empresas prestadoras de servicios DDD (Desinsectación, Desratización, Desinfección) deben figurar inscritas en el ROESB de la Comunidad Autónoma correspondiente."
+                },
+                {
+                  "id": "SAN_P4_5",
+                  "enunciado": "¿Cómo deben colocarse los cebos rodenticidas en la red de alcantarillado público para evitar el arrastre por el agua?",
+                  "opciones": [
+                    "A) Sueltos flotando en la lámina de agua.",
+                    "B) Fijados con alambre o varilla a la pared/escalón de la banqueta de la arqueta, fuera del caudal de agua directa y en porta-cebos de seguridad.",
+                    "C) Esparcidos en forma de polvo fino por la acera.",
+                    "D) En recipientes abiertos sin fijación."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Los bloques parafinados o cebos de bloque se anclan firmemente con alambre sobre la banqueta o la obra muerta del pozo de registro para evitar que la corriente los arrastre y contamine el río."
+                }
+              ]
+            },
+            {
+              "id_supuesto": 5,
+              "titulo": "Vectores Urbanos y Sanidad Ambiental: Mosca Negra y Mosquito Tigre",
+              "escenario": "Puesta en marcha del Plan Municipal de Control de Vectores en las riberas del río Ebro a su paso por Zaragoza para el control de Simúlidos (mosca negra) y Aedes albopictus.",
+              "preguntas": [
+                {
+                  "id": "SAN_P5_1",
+                  "enunciado": "¿Qué características bioecológicas diferencian la cría de la mosca negra (Simuliidae) de la del mosquito tigre (Aedes albopictus)?",
+                  "opciones": [
+                    "A) La mosca negra se cría en aguas corrientes oxigenadas fijada a la vegetación acuática (macrófitos), mientras que el mosquito tigre cría en pequeñas colecciones de agua estancada (scupper, macetas, imbornales).",
+                    "B) Ambos se crían exclusivamente en piscinas cloradas.",
+                    "C) La mosca negra cría en la tierra seca y el mosquito tigre en el mar.",
+                    "D) No existen diferencias en su hábitat larvario."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Las larvas de mosca negra requieren corriente de agua limpia y bien oxigenada (cauce del Ebro) para filtrar materia orgánica. Aedes albopictus es un mosquito urbano de pequeñas acumulaciones de agua estancada."
+                },
+                {
+                  "id": "SAN_P5_2",
+                  "enunciado": "¿Qué producto larvicida biológico de alta especificidad se aplica en los tramos de río para el control de larvas de mosca negra sin dañar la fauna piscícola?",
+                  "opciones": [
+                    "A) Cipermetrina al 50%.",
+                    "B) Bacillus thuringiensis subsp. israelensis (Bti).",
+                    "C) Malatión organofosforado.",
+                    "D) Dieldrín."
+                  ],
+                  "respuesta_correcta": "B",
+                  "justificacion": "Bti sintetiza cristales proteicos endotóxicos (Cry y Cyt) que se solubilizan en el pH alcalino del tubo digestivo de larvas de dípteros (mosquitos y simúlidos), siendo totalmente inocuo para peces, anfibios y mamíferos."
+                },
+                {
+                  "id": "SAN_P5_3",
+                  "enunciado": "¿Por qué motivo las picaduras de la hembra adulta de mosca negra (Simulium) causan reacciones inflamatorias y dolorosas muy intensas?",
+                  "opciones": [
+                    "A) Porque no pica, sino que muerde y rasga la piel con sus mandíbulas inyectando saliva con anticoagulantes y anestésicos.",
+                    "B) Porque inyecta veneno de áspid.",
+                    "C) Porque deposita huevos subcutáneos.",
+                    "D) Porque transmite la rabia."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La hembra de simúlido es telmófaga: corta el epitelio cutáneo con las piezas bucales rasgadoras creando una pequeña piscina de sangre de la que se alimenta, inyectando saliva rica en sustancias vasoactivas e inmunogénicas."
+                },
+                {
+                  "id": "SAN_P5_4",
+                  "enunciado": "En la inspección de imbornales y scuppers urbanos para prevenir la proliferación de Aedes albopictus, ¿qué inhibidor del desarrollo de insectos (IGR) se utiliza como larvicida persistente?",
+                  "opciones": [
+                    "A) Piriproxifeno o Metopreno (análogos de la hormona juvenil).",
+                    "B) Sal común refinada.",
+                    "C) Gasolina sin plomo.",
+                    "D) Jabón de potasa."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "Los IGR (Insect Growth Regulators) como el piriproxifeno interfieren en la metamorfosis de la larva impidiendo que alcance el estado de pupa o adulto, ofreciendo elevada persistencia en imbornales."
+                },
+                {
+                  "id": "SAN_P5_5",
+                  "enunciado": "¿Qué norma técnica europea fija los requisitos y competencias para la gestión de servicios de control de plagas (Professional Pest Management)?",
+                  "opciones": [
+                    "A) UNE-EN 16636.",
+                    "B) ISO 9001.",
+                    "C) ISO 14001.",
+                    "D) UNE-EN ISO 22000."
+                  ],
+                  "respuesta_correcta": "A",
+                  "justificacion": "La norma UNE-EN 16636 define los requisitos y la prestación de servicios profesionales de gestión de plagas para proteger la salud pública, los bienes y el medio ambiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

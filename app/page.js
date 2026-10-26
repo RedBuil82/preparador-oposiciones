@@ -8,6 +8,7 @@ import BANCO_SANITARIO from "./preguntas_sanitario.json";
 import BANCO_DELINEANTE from "./preguntas_delineante.json";
 import BANCO_AUTOCAD from "./preguntas_autocad.json";
 import BANCO_COMUNES from "./preguntas_comunes.json";
+import CASOS_JSON from "./casos_practicos.json";
 
 // ====== BANCOS DE PREGUNTAS ======
 // Acepta tanto array pelado [...] como objeto { "preguntas": [...] }
@@ -16,6 +17,11 @@ function normalizarBanco(b) {
   if (Array.isArray(b?.preguntas)) return b.preguntas;
   return [];
 }
+
+// ====== CASOS PRÁCTICOS ======
+// Acepta { "casos": [...] } o un array pelado de supuestos
+const CASOS = Array.isArray(CASOS_JSON) ? CASOS_JSON : (Array.isArray(CASOS_JSON?.casos) ? CASOS_JSON.casos : []);
+const SUPUESTOS_SIMULACRO = 5; // el 2.º ejercicio tiene 5 supuestos
 
 // ====== OPOSICIONES DISPONIBLES ======
 const OPOSICIONES = {
@@ -97,6 +103,11 @@ export default function App() {
   const [testLabel, setTestLabel] = useState("");
   const [testPenalizada, setTestPenalizada] = useState(true);
 
+  // ---- Casos prácticos ----
+  const [casoSel, setCasoSel] = useState("simulacro"); // simulacro | <id del supuesto>
+  const casosOposicion = CASOS.filter(c => c.oposicion === oposicionId);
+  const oposicionesConCasos = Object.values(OPOSICIONES).filter(o => CASOS.some(c => c.oposicion === o.id));
+
   // ---- Historial (persistente en el navegador) ----
   const [history, setHistory] = useState([]);
   useEffect(() => {
@@ -128,8 +139,31 @@ export default function App() {
     setBloque("todos");
     setAmbito("todos");
     setTema("todos");
+    setCasoSel("simulacro");
     setStep("config");
     resetTest();
+  }
+
+  function comenzarCasos() {
+    if (!casosOposicion.length) return;
+    const elegidos = casoSel === "simulacro"
+      ? shuffle(casosOposicion).slice(0, SUPUESTOS_SIMULACRO)
+      : casosOposicion.filter(c => c.id === casoSel);
+    if (!elegidos.length) return;
+    const lista = [];
+    elegidos.forEach((c, k) => {
+      (c.preguntas || []).forEach((p, j) => {
+        lista.push({ ...p, tema: null, casoId: c.id, casoNum: k + 1, casoTitulo: c.titulo, escenario: c.escenario, casoPregunta: j + 1, casoTotal: c.preguntas.length });
+      });
+    });
+    setPreguntas(lista);
+    setRespuestas({});
+    setRevisando(false);
+    setTestLabel(casoSel === "simulacro"
+      ? `Casos prácticos · Simulacro (${elegidos.length} supuestos)`
+      : `Caso práctico · ${elegidos[0].titulo}`);
+    setTestPenalizada(penalizacion);
+    setStep("test");
   }
 
   function construirLabel() {
@@ -182,6 +216,7 @@ export default function App() {
       temaLabel: testLabel,
       entidadNombre: oposicion.nombre,
       oposicionId: oposicionId,
+      tipo: activeTab === "casos" ? "casos" : "test",
       aciertos: aciertos(),
       total: preguntas.length,
       nota: notaFinal,
@@ -244,6 +279,9 @@ export default function App() {
       if (est === "sel") return { ...b, background: ac + "18", borderColor: ac };
       return b;
     },
+    caso: { background: "#fff", border: `2px solid ${ac}`, borderRadius: 10, padding: "18px 20px", margin: "26px 0 14px" },
+    casoTit: { fontSize: 17, fontWeight: "bold", margin: "4px 0 10px", lineHeight: 1.3 },
+    casoTxt: { fontSize: 15, lineHeight: 1.6, margin: 0, color: "#333" },
     expl: { marginTop: 10, padding: "10px 12px", background: "#f0f7f0", borderLeft: "3px solid #28a745", borderRadius: "0 4px 4px 0", fontSize: 13, color: "#2d5a3d", lineHeight: 1.5 },
     resBox: { background: "#fff", border: "1px solid #e0e0e0", borderRadius: 12, padding: 32, textAlign: "center", marginBottom: 24 },
     bigNote: (color) => ({ fontSize: 64, fontWeight: "normal", color, lineHeight: 1, marginBottom: 8 }),
@@ -255,10 +293,19 @@ export default function App() {
   function PreguntasList() {
     return preguntas.map((p, i) => {
       const ok = respuestas[i] === p.correcta;
+      const nuevoCaso = p.escenario && (i === 0 || preguntas[i - 1].casoId !== p.casoId);
       return (
-        <div key={i} style={S.pCard(ok)}>
+        <div key={i}>
+        {nuevoCaso && (
+          <div style={S.caso}>
+            <div style={S.label}>Supuesto {p.casoNum}</div>
+            <div style={S.casoTit}>{p.casoTitulo}</div>
+            <p style={S.casoTxt}>{p.escenario}</p>
+          </div>
+        )}
+        <div style={S.pCard(ok)}>
           <div style={S.pNum}>
-            Pregunta {i + 1} de {preguntas.length}
+            {p.casoId ? `Supuesto ${p.casoNum} · Pregunta ${p.casoPregunta} de ${p.casoTotal}` : `Pregunta ${i + 1} de ${preguntas.length}`}
             {p.tema ? ` · Tema ${p.tema}` : ""}
             {revisando && (ok ? " · ✓ Correcta" : " · ✗ Incorrecta")}
           </div>
@@ -272,6 +319,7 @@ export default function App() {
             </div>
           ))}
           {revisando && <div style={S.expl}><strong>Explicación:</strong> {p.explicacion}</div>}
+        </div>
         </div>
       );
     });
@@ -302,7 +350,9 @@ export default function App() {
           <p style={S.hSub}>
             {activeTab === "historial"
               ? `${history.length} test realizados`
-              : `${oposicion.nombreCorto} · ${PREGUNTAS.length} preguntas`}
+              : activeTab === "casos"
+                ? `${oposicion.nombreCorto} · ${casosOposicion.length} supuestos prácticos`
+                : `${oposicion.nombreCorto} · ${PREGUNTAS.length} preguntas`}
           </p>
         </div>
       </div>
@@ -310,6 +360,11 @@ export default function App() {
       <div style={S.tabBar}>
         <div style={S.tabWrap}>
           <button style={S.tab(activeTab === "tests", ACCENT)} onClick={() => { setActiveTab("tests"); setStep("config"); resetTest(); }}>📝 Tests</button>
+          {oposicionesConCasos.length > 0 &&
+            <button style={S.tab(activeTab === "casos", ACCENT)} onClick={() => {
+              setActiveTab("casos"); setStep("config"); resetTest();
+              if (!CASOS.some(c => c.oposicion === oposicionId)) cambiarOposicion(oposicionesConCasos[0].id);
+            }}>🧪 Casos prácticos</button>}
           <button style={S.tab(activeTab === "historial", "#1a1a1a")} onClick={() => { setActiveTab("historial"); }}>
             📊 Historial{history.length > 0 && <span style={{ background: "#555", color: "#fff", borderRadius: 10, padding: "1px 6px", fontSize: 10, marginLeft: 5 }}>{history.length}</span>}
           </button>
@@ -379,12 +434,55 @@ export default function App() {
             {disponibles === 0 && <p style={{ fontSize: 13, color: "#dc3545" }}>No hay preguntas con esa combinación de filtros. Prueba a ampliar la selección.</p>}
           </>}
 
+        </>}
+
+        {activeTab === "casos" && step === "config" && <>
+          <h1 style={S.title}>Casos prácticos</h1>
+          <p style={S.sub}>Cada supuesto plantea una situación real seguida de varias preguntas. Haz un simulacro con {SUPUESTOS_SIMULACRO} supuestos al azar, como en el 2.º ejercicio, o practica uno concreto.</p>
+
+          <div style={S.secTitle}>Oposición</div>
+          <select style={S.select} value={casosOposicion.length ? oposicionId : ""} onChange={e => cambiarOposicion(e.target.value)}>
+            {!casosOposicion.length && <option value="">Elige una oposición</option>}
+            {oposicionesConCasos.map(o => (
+              <option key={o.id} value={o.id}>{o.nombre} ({CASOS.filter(c => c.oposicion === o.id).length} supuestos)</option>
+            ))}
+          </select>
+
+          <div style={S.secTitle}>Supuestos</div>
+          <select style={S.select} value={casoSel} onChange={e => setCasoSel(e.target.value)}>
+            <option value="simulacro">🎲 Simulacro · {Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length)} supuestos al azar</option>
+            {casosOposicion.map((c, k) => (
+              <option key={c.id} value={c.id}>{k + 1}. {c.titulo} ({c.preguntas.length} preguntas)</option>
+            ))}
+          </select>
+
+          <label style={{ ...S.check, marginTop: 22 }}>
+            <input type="checkbox" checked={penalizacion} onChange={e => setPenalizacion(e.target.checked)} style={{ width: 17, height: 17 }} />
+            Aplicar penalización por error (cada 3 fallos restan 1 acierto)
+          </label>
+
+          <div style={S.countBox}>
+            <div>
+              <div style={S.label}>Preguntas de esta selección</div>
+              <div style={{ fontSize: 22, fontWeight: "bold", color: casosOposicion.length ? ACCENT : "#dc3545" }}>
+                {casoSel === "simulacro"
+                  ? "≈ " + Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length) * 5
+                  : (casosOposicion.find(c => c.id === casoSel)?.preguntas.length || 0)}
+              </div>
+            </div>
+            <button style={S.btn(ACCENT, !casosOposicion.length)} disabled={!casosOposicion.length} onClick={comenzarCasos}>
+              Empezar →
+            </button>
+          </div>
+        </>}
+
+        {(activeTab === "tests" || activeTab === "casos") && <>
           {step === "test" && preguntas.length > 0 && <>
-            <h1 style={S.title}>Test de examen</h1>
+            <h1 style={S.title}>{activeTab === "casos" ? "Casos prácticos" : "Test de examen"}</h1>
             <p style={S.sub}>{preguntas.length} preguntas · {testLabel}{testPenalizada ? " · con penalización" : ""}</p>
             <PreguntasList />
             <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
-              <button style={S.btnSec} onClick={() => { setStep("config"); resetTest(); }}>← Cambiar filtros</button>
+              <button style={S.btnSec} onClick={() => { setStep("config"); resetTest(); }}>← {activeTab === "casos" ? "Elegir supuestos" : "Cambiar filtros"}</button>
               <button style={S.btn(ACCENT, respTotal < preguntas.length)} disabled={respTotal < preguntas.length}
                 onClick={finalizarTest}>Corregir y guardar →</button>
               {respTotal < preguntas.length && <span style={{ fontSize: 12, color: "#999", alignSelf: "center" }}>Responde todas ({respTotal}/{preguntas.length})</span>}
@@ -396,7 +494,7 @@ export default function App() {
             <h2 style={{ ...S.title, fontSize: 18, marginBottom: 14 }}>Revisión de respuestas</h2>
             <PreguntasList />
             <div style={{ display: "flex", gap: 12, flexWrap: "wrap", marginTop: 8 }}>
-              <button style={S.btn(ACCENT, false)} onClick={() => { setStep("config"); resetTest(); }}>Nuevo test →</button>
+              <button style={S.btn(ACCENT, false)} onClick={() => { setStep("config"); resetTest(); }}>{activeTab === "casos" ? "Otros supuestos →" : "Nuevo test →"}</button>
               <button style={S.btnSec} onClick={() => { setActiveTab("historial"); }}>Ver historial</button>
             </div>
           </>}
