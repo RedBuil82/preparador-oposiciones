@@ -5780,7 +5780,7 @@
    "Consumo, que comprende la regulación de la protección y defensa de los consumidores y usuarios; el fomento de las asociaciones; la formación y educación para el consumo responsable, así como la regulación de los órganos y procedimientos de mediación."
   ],
   "correcta": 2,
-  "explicacion": "El consumo es competencia exclusiva (art. 71.26.ª EAA). La protección de datos es compartida (art. 75) y la Seguridad Social es de ejecución (art. 77).",
+  "explicacion": "El consumo es competencia exclusiva (art. 71.26.ª EAA). La protección de datos (art. 75.5.ª) y la Seguridad Social, salvo su régimen económico (art. 75.1.ª), son competencias compartidas; la gestión del régimen económico de la Seguridad Social es ejecutiva (art. 77.8.ª).",
   "origen": "Ayto. Zaragoza · 23/10/2021 (EET) · 1.er ejercicio · pregunta 7",
   "oficial": true
  },
@@ -9371,14 +9371,14 @@
   "ambito": "estatal",
   "tema": 7,
   "tema_nombre": "Empleados públicos: derechos, deberes y régimen disciplinario",
-  "pregunta": "Una circunstancia para el nombramiento de funcionarios interinos según el artículo 10.1 del TREBEP (redacción vigente en 2018) es:",
+  "pregunta": "Según el artículo 10.1.d) del TREBEP (redacción vigente tras la Ley 20/2021), se pueden nombrar funcionarios interinos por exceso o acumulación de tareas por un plazo máximo de:",
   "opciones": [
-   "El exceso o acumulación de tareas por plazo máximo de tres meses, dentro de un periodo de seis meses.",
-   "El exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un periodo de dieciocho meses.",
-   "El exceso o acumulación de tareas por plazo máximo de seis meses, dentro de un periodo de doce meses."
+   "Tres meses, dentro de un periodo de seis meses.",
+   "Seis meses, dentro de un periodo de doce meses.",
+   "Nueve meses, dentro de un periodo de dieciocho meses."
   ],
   "correcta": 2,
-  "explicacion": "En la redacción original del art. 10.1.d) TREBEP (vigente en 2018): seis meses dentro de un periodo de doce. Desde la Ley 20/2021 son nueve meses dentro de dieciocho.",
+  "explicacion": "Art. 10.1.d) TREBEP tras la Ley 20/2021: nueve meses dentro de un periodo de dieciocho. La versión original de esta pregunta (examen de 2018) daba por buena la redacción antigua, seis meses dentro de doce, que ya no está vigente.",
   "origen": "Ayto. Zaragoza · 17/12/2018 (lista de espera) · 1.ª prueba · pregunta 1",
   "oficial": true
  },

@@ -108,16 +108,17 @@
       "tema_nombre": "La Constitución española",
       "pregunta": "¿Qué es la moción de censura?",
       "opciones": [
-        "Crítica únicamente",
-        "Sin mecanismo",
-        "Procedimiento para exigir la responsabilidad política del Presidente del Gobierno",
-        "Propuesta de ley"
+        "Una crítica sin efectos",
+        "No existe ese mecanismo",
+        "El procedimiento por el que el Congreso exige la responsabilidad política del Gobierno",
+        "Una propuesta de ley"
       ],
       "correcta": 2,
-      "explicacion": "Art. 113 CE: la moción de censura debe ser propuesta al menos por la décima parte de los diputados y aprobada por mayoría absoluta del Congreso.",
+      "explicacion": "Art. 113 CE: el Congreso exige la responsabilidad política del Gobierno mediante la moción de censura, aprobada por mayoría absoluta. Debe proponerla al menos la décima parte de los diputados e incluir un candidato a la Presidencia.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 12,
@@ -191,18 +192,19 @@
       "id": 4,
       "tema": 1,
       "tema_nombre": "La Constitución española",
-      "pregunta": "¿Cuál es el título preliminar de la Constitución Española?",
+      "pregunta": "¿Qué artículos comprende el Título Preliminar de la Constitución Española?",
       "opciones": [
-        "Principios generales",
-        "Organización territorial del Estado",
-        "Derechos y libertades",
-        "Disposiciones finales"
+        "Artículos 1 a 9",
+        "Artículos 1 a 10",
+        "Artículos 10 a 55",
+        "Artículos 1 a 14"
       ],
       "correcta": 0,
-      "explicacion": "El Título Preliminar de la Constitución (arts. 1 a 9) recoge los principios fundamentales: Estado social y democrático de Derecho, soberanía nacional, forma política del Estado, la Constitución como norma suprema, etc.",
+      "explicacion": "El Título Preliminar (arts. 1 a 9) no tiene rúbrica propia y recoge los principios fundamentales: Estado social y democrático de Derecho, soberanía, Monarquía parlamentaria, unidad y autonomía, lenguas, bandera, capital, partidos, sindicatos, Fuerzas Armadas y principios del art. 9. El Título I empieza en el art. 10.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 7,
@@ -715,6 +717,23 @@
       "fuente": "Generada por Claude"
     },
     {
+      "id": "GEM01",
+      "tema": 1,
+      "tema_nombre": "La Constitución Española de 1978",
+      "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la protección de la salud?",
+      "opciones": [
+        "Artículo 43",
+        "Artículo 45",
+        "Artículo 51",
+        "Artículo 41"
+      ],
+      "correcta": 0,
+      "explicacion": "El art. 43 CE reconoce el derecho a la protección de la salud. El 41 trata de la Seguridad Social, el 45 del medio ambiente y el 51 de la defensa de los consumidores.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
       "id": 1049,
       "tema": 2,
       "tema_nombre": "Igualdad efectiva de mujeres y hombres",
@@ -860,13 +879,14 @@
         "Bromear sobre cuestiones de género",
         "Un gesto amigable entre compañeros",
         "Cualquier contacto físico en el trabajo",
-        "Comportamiento verbal, no verbal o físico de naturaleza sexual no deseado con propósito de violentar la dignidad"
+        "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona"
       ],
       "correcta": 3,
-      "explicacion": "El artículo 7.1 define acoso sexual como todo comportamiento verbal, no verbal o físico de naturaleza sexual no deseado con el propósito o efecto de violar la dignidad.",
+      "explicacion": "Art. 7.1 LO 3/2007: acoso sexual es cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 21,
@@ -957,18 +977,19 @@
       "id": 27,
       "tema": 2,
       "tema_nombre": "Igualdad efectiva de mujeres y hombres",
-      "pregunta": "¿Cuál es actualmente la duración del permiso por nacimiento del progenitor distinto de la madre biológica?",
+      "pregunta": "Según el TREBEP (art. 49), tras el Real Decreto-ley 9/2025, ¿cuál es la duración del permiso por nacimiento del progenitor distinto de la madre biológica?",
       "opciones": [
-        "Igual que el de la madre biológica (16 semanas)",
-        "No hay derecho",
+        "16 semanas",
+        "19 semanas, igual que el de la madre biológica",
         "15 días",
-        "Una semana"
+        "17 semanas, dos menos que la madre"
       ],
-      "correcta": 0,
-      "explicacion": "Desde 2021 el permiso por nacimiento de ambos progenitores es de 16 semanas, equiparado por el Real Decreto-ley 6/2019, que fomenta la corresponsabilidad.",
+      "correcta": 1,
+      "explicacion": "Desde el RDL 9/2025 el permiso por nacimiento es de 19 semanas para cada progenitor (32 en familias monoparentales): 6 semanas obligatorias tras el parto, 11 a distribuir hasta los 12 meses y 2 para el cuidado del menor hasta que cumpla 8 años. Antes eran 16 semanas.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 28,
@@ -1311,6 +1332,186 @@
       "fuente": "Generada por Claude"
     },
     {
+      "id": "COM001",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "¿Cuál es la vigencia del II Plan de Igualdad para empleadas y empleados municipales del Ayuntamiento de Zaragoza?",
+      "opciones": [
+        "Dos años, 2024-2025",
+        "Cuatro años, de 2024 a 2027",
+        "Seis años, de 2022 a 2027",
+        "Indefinida, hasta que se apruebe otro plan"
+      ],
+      "correcta": 1,
+      "explicacion": "El II Plan de Igualdad (II PIEEM) tiene una vigencia de cuatro años, de 2024 a 2027, contados desde su publicación en el BOPZ en enero de 2024.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM002",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "¿Cómo se estructura el II Plan de Igualdad del Ayuntamiento de Zaragoza?",
+      "opciones": [
+        "3 ejes, 10 líneas, 20 objetivos y 40 acciones",
+        "5 ejes, 12 líneas, 25 objetivos y 50 acciones",
+        "4 ejes, 8 líneas, 16 objetivos y 30 acciones",
+        "4 ejes, 12 líneas de actuación, 21 objetivos específicos y 44 acciones"
+      ],
+      "correcta": 3,
+      "explicacion": "El Plan se articula en 4 ejes de actuación, 12 líneas, 21 objetivos específicos y 44 acciones de igualdad calendarizadas, a las que se suman 6 medidas en proceso permanente del I Plan (Anexo I).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM003",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "¿Qué órgano aprobó el II Plan de Igualdad del Ayuntamiento de Zaragoza el 1 de marzo de 2023?",
+      "opciones": [
+        "El Gobierno de Zaragoza",
+        "El Pleno del Ayuntamiento",
+        "La Alcaldía mediante decreto",
+        "El Gobierno de Aragón"
+      ],
+      "correcta": 0,
+      "explicacion": "Tras el diagnóstico (aprobado en febrero de 2021) y el diseño del plan en 2021-2022, la fase final de 2023 terminó con su aprobación por el Gobierno de Zaragoza el 1 de marzo de 2023.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM004",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "¿Qué eje del II Plan de Igualdad municipal se dedica a la conciliación y la corresponsabilidad?",
+      "opciones": [
+        "Eje A",
+        "Eje C",
+        "Eje B",
+        "Eje D"
+      ],
+      "correcta": 1,
+      "explicacion": "Eje A: Cultura de la organización. Eje B: Gestión de recursos humanos. Eje C: Conciliación y corresponsabilidad. Eje D: Prevención, salud laboral y protección frente al acoso sexual, por razón de sexo y por orientación sexual.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM005",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "En el II Plan de Igualdad municipal, el Eje B \"Gestión de Recursos Humanos\" incluye la línea:",
+      "opciones": [
+        "Comunicación y sensibilización",
+        "Corresponsabilidad en los cuidados",
+        "Clima laboral",
+        "Retribuciones, con el objetivo de reducir la brecha salarial"
+      ],
+      "correcta": 3,
+      "explicacion": "El Eje B tiene tres líneas: B.1 Acceso, B.2 Plantilla, RPT y promoción profesional, y B.3 Retribuciones (cumplir la transparencia retributiva y reducir la brecha salarial). Comunicación es del eje A, corresponsabilidad del C y clima laboral del D.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM006",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "Según el II Plan de Igualdad municipal, ¿qué órgano garantiza su cumplimiento mediante el impulso, la supervisión y la evaluación de sus acciones?",
+      "opciones": [
+        "La Comisión de Igualdad",
+        "La Junta de Personal",
+        "El Pleno del Ayuntamiento",
+        "El Justicia de Aragón"
+      ],
+      "correcta": 0,
+      "explicacion": "La Comisión de Igualdad, formada paritariamente por representantes de la institución y de los sindicatos con derecho a la negociación colectiva, supervisa el Plan, elabora una memoria anual pública y prepara el diagnóstico del siguiente. La Unidad Municipal de Igualdad (UMI) le presta asesoramiento técnico.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM007",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "En el protocolo frente al acoso del II Plan de Igualdad municipal, ¿qué órganos aplican el procedimiento?",
+      "opciones": [
+        "La Inspección de Trabajo y los juzgados",
+        "La Asesoría Confidencial y el Comité de Asesoramiento",
+        "El Comité de Seguridad y Salud",
+        "La Junta de Portavoces"
+      ],
+      "correcta": 1,
+      "explicacion": "El protocolo (Anexo II) frente al acoso sexual, por razón de sexo y por orientación sexual se aplica mediante la Asesoría Confidencial, que recibe las denuncias y hace el análisis inicial, y el Comité de Asesoramiento, órgano colegiado que investiga y emite el informe de valoración final.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM008",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "¿A qué personal se aplica el II Plan de Igualdad del Ayuntamiento de Zaragoza?",
+      "opciones": [
+        "Solo al personal funcionario",
+        "Solo al personal laboral",
+        "A todo el personal de la Comunidad Autónoma",
+        "A todo el personal funcionario y laboral del Ayuntamiento y al de sus organismos autónomos (patronatos y sociedades) sin plan propio que estén adheridos al acuerdo de condiciones comunes"
+      ],
+      "correcta": 3,
+      "explicacion": "El ámbito de aplicación alcanza a la totalidad del personal funcionario y laboral de todos los centros del Ayuntamiento y al de sus organismos autónomos (patronatos y sociedades) que no tengan plan de igualdad propio y estén adheridos al acuerdo de condiciones de trabajo comunes.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM009",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "Según el diagnóstico de la plantilla del II Plan de Igualdad (datos de 2019), ¿cómo se repartía la plantilla municipal por sexos?",
+      "opciones": [
+        "50 % hombres y 50 % mujeres",
+        "63,3 % hombres y 36,7 % mujeres",
+        "36,7 % hombres y 63,3 % mujeres",
+        "87 % hombres y 13 % mujeres"
+      ],
+      "correcta": 1,
+      "explicacion": "El diagnóstico recogió 5.019 personas, con un 63,3 % de hombres y un 36,7 % de mujeres. Las áreas más masculinizadas eran Bomberos (95 % hombres) y Policía Local (87,14 %).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM010",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "En el marco conceptual del II Plan de Igualdad, ¿qué es la segregación vertical?",
+      "opciones": [
+        "La concentración de mujeres y hombres en determinadas ocupaciones según estereotipos de género",
+        "La diferencia salarial entre hombres y mujeres",
+        "El reparto equilibrado de las tareas domésticas",
+        "El predominio de hombres en los puestos superiores de poder y mando (techo de cristal)"
+      ],
+      "correcta": 3,
+      "explicacion": "La segregación vertical es el predominio de hombres en los escalafones superiores de poder y mando (techo de cristal). La concentración por ocupaciones según estereotipos es la segregación horizontal.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
       "id": 1054,
       "tema": 3,
       "tema_nombre": "El Estatuto de Autonomía de Aragón",
@@ -1518,35 +1719,37 @@
       "id": 44,
       "tema": 3,
       "tema_nombre": "El Estatuto de Autonomía de Aragón",
-      "pregunta": "¿Quién tiene potestad para modificar el Estatuto de Autonomía?",
+      "pregunta": "¿Qué se necesita para reformar el Estatuto de Autonomía de Aragón?",
       "opciones": [
-        "El Presidente de la Comunidad",
-        "Las Cortes de Aragón",
-        "Las Cortes Generales mediante Ley Orgánica",
-        "Ambas Cortes conjuntamente"
+        "Solo un acuerdo del Presidente de Aragón",
+        "Solo la aprobación de las Cortes de Aragón",
+        "La aprobación de las Cortes de Aragón y, después, la de las Cortes Generales mediante ley orgánica",
+        "Una sesión conjunta de las Cortes de Aragón y las Cortes Generales"
       ],
-      "correcta": 3,
-      "explicacion": "La reforma del Estatuto requiere el acuerdo de las Cortes de Aragón y de las Cortes Generales mediante Ley Orgánica.",
+      "correcta": 2,
+      "explicacion": "La reforma la aprueban primero las Cortes de Aragón (por mayoría de dos tercios) y después las Cortes Generales mediante ley orgánica (art. 115 EAA y art. 147.3 CE). No hay sesión conjunta: son dos aprobaciones sucesivas.",
       "bloque": "comun",
       "ambito": "aragon",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 45,
       "tema": 3,
       "tema_nombre": "El Estatuto de Autonomía de Aragón",
-      "pregunta": "¿Cuáles son las funciones principales del Consejo de Gobierno de Aragón?",
+      "pregunta": "Según el art. 53 del Estatuto de Autonomía de Aragón, ¿qué ejerce el Gobierno de Aragón o Diputación General?",
       "opciones": [
-        "Solo legislativas",
-        "Solo judiciales",
-        "Únicamente de representación",
-        "Ejecutivas y administrativas"
+        "Solo funciones legislativas",
+        "La función ejecutiva y la potestad reglamentaria",
+        "Solo funciones de representación",
+        "La potestad jurisdiccional"
       ],
-      "correcta": 3,
-      "explicacion": "El Consejo de Gobierno ejerce funciones ejecutivas y administrativas de la Comunidad Autónoma bajo presidencia del Presidente.",
+      "correcta": 1,
+      "explicacion": "Art. 53.1 EAA: el Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria. Lo integran el Presidente, los Vicepresidentes en su caso y los Consejeros (art. 53.2) y responde políticamente ante las Cortes de forma solidaria (art. 53.3).",
       "bloque": "comun",
       "ambito": "aragon",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": "LAB005",
@@ -1962,16 +2165,17 @@
       "ambito": "aragon",
       "tema": 3,
       "tema_nombre": "El Estatuto de Autonomía de Aragón",
-      "pregunta": "El Gobierno de Aragón (Diputación General) es:",
+      "pregunta": "Según el art. 53 del Estatuto de Autonomía, el Gobierno de Aragón (Diputación General):",
       "opciones": [
-        "El órgano colegiado que ejerce las funciones ejecutivas y administrativas y dirige la política general de la Comunidad Autónoma",
-        "Un tribunal de justicia",
-        "El órgano legislativo de Aragón",
-        "El órgano de fiscalización de cuentas"
+        "Ejerce la función ejecutiva y la potestad reglamentaria, y está constituido por el Presidente, los Vicepresidentes en su caso y los Consejeros",
+        "Es un tribunal de justicia",
+        "Es el órgano legislativo de Aragón",
+        "Es el órgano de fiscalización de cuentas"
       ],
       "correcta": 0,
-      "explicacion": "El Gobierno de Aragón o Diputación General es el órgano colegiado que ejerce las funciones ejecutivas y administrativas y dirige la política general de la Comunidad, integrado por el Presidente, los Vicepresidentes en su caso y los Consejeros.",
-      "fuente": "Generada por Claude"
+      "explicacion": "Art. 53 EAA: el Gobierno de Aragón ejerce la función ejecutiva y la potestad reglamentaria; lo forman el Presidente, los Vicepresidentes en su caso y los Consejeros, a los que el Presidente nombra y separa libremente.",
+      "fuente": "Generada por Claude",
+      "revisada": "2026-10"
     },
     {
       "id": "LAB888",
@@ -2268,18 +2472,19 @@
       "id": 56,
       "tema": 4,
       "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
-      "pregunta": "¿Qué derechos tiene un interesado en el procedimiento administrativo?",
+      "pregunta": "Según el art. 53 de la Ley 39/2015, ¿cuál de estos es un derecho del interesado en el procedimiento administrativo?",
       "opciones": [
+        "Conocer el estado de la tramitación, obtener copia de los documentos y formular alegaciones antes del trámite de audiencia",
         "Solo el derecho a recurrir",
-        "A ser oído, acceder a expediente, presentar documentos",
-        "Ninguno, es decisión de la Administración",
-        "Derechos indefinidos"
+        "Ninguno, todo lo decide la Administración",
+        "Elegir al funcionario que resolverá"
       ],
-      "correcta": 1,
-      "explicacion": "El artículo 9 de la Ley 39/2015 reconoce derechos como ser informado, acceder a expediente, ser oído y presentar alegaciones y documentos.",
+      "correcta": 0,
+      "explicacion": "Art. 53.1 Ley 39/2015: el interesado tiene derecho, entre otros, a conocer en cualquier momento el estado de la tramitación y obtener copia de los documentos, a no presentar documentos que ya tenga la Administración, a formular alegaciones y aportar documentos antes del trámite de audiencia y a actuar asistido de asesor.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 57,
@@ -2754,8 +2959,9 @@
         "Prorrogada automáticamente"
       ],
       "correcta": 1,
-      "explicacion": "En los procedimientos de responsabilidad patrimonial, el vencimiento del plazo (seis meses) sin resolución expresa permite entender desestimada la solicitud por silencio administrativo, dado que su estimación transferiría facultades sobre el patrimonio público.",
-      "fuente": "Generada por Claude"
+      "explicacion": "Art. 91.3 Ley 39/2015: en los procedimientos de responsabilidad patrimonial, transcurridos seis meses sin resolución expresa podrá entenderse que la resolución es contraria a la indemnización del particular (silencio desestimatorio).",
+      "fuente": "Generada por Claude",
+      "revisada": "2026-10"
     },
     {
       "id": "LAB884",
@@ -2790,6 +2996,23 @@
       "correcta": 0,
       "explicacion": "Los arts. 23 y 24 de la Ley 40/2015 regulan la abstención (deber de apartarse) y la recusación (a instancia de interesado) cuando concurren causas tasadas como interés personal, parentesco, amistad íntima o enemistad, o relación de servicio, que puedan afectar a la objetividad.",
       "fuente": "Generada por Claude"
+    },
+    {
+      "id": "GEM05",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "En una notificación electrónica, ¿cuándo se entiende practicada?",
+      "opciones": [
+        "Cuando pasan 10 días naturales desde su puesta a disposición",
+        "Cuando se firma la resolución",
+        "Cuando el interesado accede a su contenido",
+        "Cuando la Administración la envía"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 43.2 de la Ley 39/2015: se entiende practicada en el momento del acceso. Si pasan 10 días naturales sin acceder, se entiende rechazada (no practicada).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "revisada": "2026-10"
     },
     {
       "id": 61,
@@ -3149,6 +3372,203 @@
       "fuente": "Generada por Claude"
     },
     {
+      "id": "GEM02",
+      "tema": 5,
+      "tema_nombre": "Ley 10/2017 de régimen especial de Zaragoza",
+      "pregunta": "En el Ayuntamiento de Zaragoza, ¿qué órgano aprueba las ordenanzas y reglamentos municipales?",
+      "opciones": [
+        "El Pleno",
+        "El Gobierno de Zaragoza",
+        "El alcalde o alcaldesa",
+        "Las juntas municipales de distrito"
+      ],
+      "correcta": 0,
+      "explicacion": "La aprobación de ordenanzas y reglamentos es atribución del Pleno (art. 11 de la Ley 10/2017 y art. 123 LBRL). El Gobierno de Zaragoza aprueba los proyectos que luego van al Pleno.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM011",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 6 de la Ley 10/2017, ¿qué título de la ciudad de Zaragoza se utiliza habitualmente, salvo en los documentos solemnes?",
+      "opciones": [
+        "Muy Noble",
+        "Inmortal",
+        "Muy Heroica",
+        "Siempre Heroica"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 6 Ley 10/2017: Zaragoza ostenta los títulos de Muy Noble, Muy Leal, Muy Heroica, Siempre Heroica, Muy Benéfica e Inmortal. En los documentos solemnes se consignan todos; habitualmente se usa el de Inmortal.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM012",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 6 de la Ley 10/2017, ¿qué título otorgado por la UNESCO ostenta la ciudad de Zaragoza?",
+      "opciones": [
+        "Patrimonio de la Humanidad",
+        "Sitio Emblemático de la Cultura de Paz",
+        "Ciudad Creativa de la UNESCO",
+        "Capital Europea de la Cultura"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 6 Ley 10/2017: además de sus títulos históricos, Zaragoza ostenta el título de «Sitio Emblemático de la Cultura de Paz» otorgado por la UNESCO.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM013",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 3 de la Ley 10/2017, ¿a quién corresponde la alteración del término municipal de Zaragoza?",
+      "opciones": [
+        "Al Pleno del Ayuntamiento de Zaragoza",
+        "Al Gobierno de Aragón, según el procedimiento de la legislación de régimen local",
+        "A las Cortes de Aragón mediante ley",
+        "A las Cortes Generales"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3 Ley 10/2017: Zaragoza ejerce sus competencias en su término municipal, cuya alteración corresponde al Gobierno de Aragón conforme a la legislación de régimen local, sin perjuicio de las competencias municipales en su delimitación y modificación.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM014",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 4 de la Ley 10/2017, el municipio de Zaragoza tiene legitimación para:",
+      "opciones": [
+        "Dictar leyes en materia urbanística",
+        "Plantear conflictos en defensa de la autonomía local ante el Tribunal Constitucional y defenderla ante las instituciones europeas e internacionales",
+        "Recurrir en amparo cualquier acto del Gobierno de Aragón",
+        "Firmar tratados internacionales"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 4 Ley 10/2017: además de actuar ante la jurisdicción ordinaria, Zaragoza puede plantear conflictos en defensa de la autonomía local contra normas con rango de ley del Estado o de Aragón ante el Tribunal Constitucional, y defender su autonomía ante las instituciones europeas e internacionales.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM015",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 8.1.a) de la Ley 10/2017, el Pleno del Ayuntamiento de Zaragoza es:",
+      "opciones": [
+        "El órgano colegiado ejecutivo de dirección política",
+        "Un órgano directivo",
+        "Un órgano consultivo",
+        "El órgano de máxima representación política de los ciudadanos de Zaragoza"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 8.1.a): el Pleno, integrado por el Alcalde y los Concejales, es el órgano de máxima representación política de los ciudadanos de Zaragoza. El órgano colegiado ejecutivo es el Gobierno de Zaragoza.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM016",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 8.1.b) de la Ley 10/2017, ¿cuál de los siguientes NO es un órgano ejecutivo de dirección política y administrativa del Ayuntamiento de Zaragoza?",
+      "opciones": [
+        "El Vicealcalde",
+        "Los Tenientes de Alcalde",
+        "Los Concejales con responsabilidades de gobierno",
+        "El Pleno"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 8.1.b): son órganos ejecutivos el Alcalde, el Gobierno de Zaragoza, el Vicealcalde, los Tenientes de Alcalde, los Concejales con responsabilidades de gobierno y los que determine el Reglamento orgánico. El Pleno es el órgano de máxima representación política (art. 8.1.a).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM017",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 8.2 de la Ley 10/2017, en sus relaciones con los ciudadanos la Administración municipal de Zaragoza actuará conforme a los principios de:",
+      "opciones": [
+        "Jerarquía y desconcentración",
+        "Lealtad institucional y colaboración",
+        "Transparencia y participación",
+        "Eficacia y eficiencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 8.2: la Administración municipal actúa con eficacia, eficiencia, descentralización, desconcentración, coordinación y servicio a los ciudadanos; con las demás Administraciones, con información mutua, colaboración, coordinación y respeto competencial; y con los ciudadanos, con transparencia y participación.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM018",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 7.1 de la Ley 10/2017, las prescripciones de la ley en materia de organización se desarrollan y concretan a través de:",
+      "opciones": [
+        "Decretos del Gobierno de Aragón",
+        "Los Reglamentos de naturaleza orgánica municipales",
+        "Bandos de Alcaldía",
+        "Leyes de las Cortes de Aragón"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 7.1: las prescripciones organizativas de la Ley 10/2017 se desarrollan a través de los Reglamentos de naturaleza orgánica municipales y sus normas complementarias, en ejercicio de la potestad de autoorganización.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM019",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 8.3 de la Ley 10/2017, el gobierno y la administración del municipio de Zaragoza se ejercen mediante funciones de:",
+      "opciones": [
+        "Deliberación, ordenación, programación y planificación, ejecución, inspección y control",
+        "Legislación y jurisdicción",
+        "Solo ejecución",
+        "Asesoramiento y consulta"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 8.3 Ley 10/2017: deliberación, ordenación, programación y planificación, ejecución, inspección y control.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM020",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el art. 9.1 de la Ley 10/2017, las competencias del Pleno, del Gobierno de Zaragoza y del Alcalde son:",
+      "opciones": [
+        "Las establecidas en la regulación básica de régimen local y demás disposiciones vigentes",
+        "Las que fije cada año el Gobierno de Aragón",
+        "Las que acuerde la Junta de Portavoces",
+        "Exclusivamente las de la propia Ley 10/2017"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 9.1: las competencias de esos órganos son las establecidas en la regulación básica de régimen local y demás disposiciones aplicables. La legislación autonómica se aplica en defecto de previsión expresa de la Ley, del Reglamento orgánico u ordenanzas (art. 9.2).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
       "id": 1069,
       "tema": 6,
       "tema_nombre": "Haciendas Locales",
@@ -3276,13 +3696,14 @@
         "Una compensación privada",
         "Un impuesto ordinario",
         "Un pago voluntario",
-        "Un tributo por beneficios obtenidos de obras públicas de interés general"
+        "Un tributo por el beneficio o aumento de valor de los bienes derivado de obras públicas o del establecimiento o ampliación de servicios públicos de carácter local"
       ],
       "correcta": 3,
-      "explicacion": "La contribución especial grava el aumento de valor de los inmuebles como consecuencia de obras públicas de carácter local.",
+      "explicacion": "Arts. 28 y 58 TRLRHL: el hecho imponible de las contribuciones especiales es la obtención por el sujeto pasivo de un beneficio o aumento de valor de sus bienes como consecuencia de obras públicas o del establecimiento o ampliación de servicios públicos de carácter local.",
       "bloque": "comun",
       "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)"
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 77,
@@ -3640,24 +4061,6 @@
       "correcta": 3,
       "explicacion": "El art. 169.6 TRLHL prevé la prórroga automática del presupuesto anterior (créditos iniciales) si el nuevo no está aprobado el 1 de enero, con determinados ajustes, hasta la entrada en vigor del nuevo presupuesto.",
       "fuente": "Generada por Claude"
-    },
-    {
-      "id": 1074,
-      "tema": 7,
-      "tema_nombre": "Los empleados públicos",
-      "pregunta": "Según la Ley 31/1995, ¿qué es la evaluación de riesgos?",
-      "opciones": [
-        "El proceso para estimar la magnitud de los riesgos que no se han podido evitar y decidir las medidas preventivas",
-        "La auditoría externa del sistema de prevención",
-        "La investigación de un accidente después de que ocurra",
-        "El reconocimiento médico periódico de los trabajadores"
-      ],
-      "correcta": 0,
-      "explicacion": "Art. 16 de la Ley 31/1995 y RD 39/1997: la evaluación inicial de riesgos es la base de la planificación preventiva.",
-      "bloque": "comun",
-      "ambito": "estatal",
-      "fuente": "Banco Sanitario (revisada)",
-      "revisada": "2026-10"
     },
     {
       "id": 81,
@@ -4236,6 +4639,58 @@
       "correcta": 1,
       "explicacion": "El art. 96 TREBEP prevé sanciones como la separación del servicio (solo para faltas muy graves), la suspensión firme de funciones, el traslado forzoso, el demérito o el apercibimiento, correspondiendo a la legislación de función pública graduarlas según la gravedad.",
       "fuente": "Generada por Claude"
+    },
+    {
+      "id": "GEM03",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el art. 97 del TREBEP, ¿cuándo prescriben las faltas muy graves?",
+      "opciones": [
+        "A los 4 años",
+        "A los 2 años",
+        "A los 3 años",
+        "A los 6 meses"
+      ],
+      "correcta": 2,
+      "explicacion": "Faltas: muy graves a los 3 años, graves a los 2 años y leves a los 6 meses. Las sanciones por faltas muy graves también prescriben a los 3 años.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "GEM04",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el TREBEP, ¿qué sanción solo puede imponerse por faltas muy graves?",
+      "opciones": [
+        "La suspensión firme de funciones",
+        "El apercibimiento",
+        "El traslado forzoso",
+        "La separación del servicio de los funcionarios (o el despido disciplinario del personal laboral)"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 96.1 TREBEP: la separación del servicio solo procede por faltas muy graves, y el despido disciplinario del personal laboral también.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1074,
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según la Ley 31/1995, ¿qué es la evaluación de riesgos?",
+      "opciones": [
+        "El proceso para estimar la magnitud de los riesgos que no se han podido evitar y decidir las medidas preventivas",
+        "La auditoría externa del sistema de prevención",
+        "La investigación de un accidente después de que ocurra",
+        "El reconocimiento médico periódico de los trabajadores"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 16 de la Ley 31/1995 y RD 39/1997: la evaluación inicial de riesgos es la base de la planificación preventiva.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Banco Sanitario (revisada)",
+      "revisada": "2026-10"
     },
     {
       "id": 100,
@@ -4834,88 +5289,273 @@
       "fuente": "Generada por Claude"
     },
     {
-      "id": "GEM01",
-      "tema": 1,
-      "tema_nombre": "La Constitución Española de 1978",
-      "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la protección de la salud?",
+      "id": "COM021",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 3 del TREBEP, el personal funcionario de las entidades locales se rige por:",
       "opciones": [
-        "Artículo 43",
-        "Artículo 45",
-        "Artículo 51",
-        "Artículo 41"
-      ],
-      "correcta": 0,
-      "explicacion": "El art. 43 CE reconoce el derecho a la protección de la salud. El 41 trata de la Seguridad Social, el 45 del medio ambiente y el 51 de la defensa de los consumidores.",
-      "bloque": "comun",
-      "ambito": "estatal",
-      "revisada": "2026-10"
-    },
-    {
-      "id": "GEM02",
-      "tema": 5,
-      "tema_nombre": "Ley 10/2017 de régimen especial de Zaragoza",
-      "pregunta": "En el Ayuntamiento de Zaragoza, ¿qué órgano aprueba las ordenanzas y reglamentos municipales?",
-      "opciones": [
-        "El Pleno",
-        "El Gobierno de Zaragoza",
-        "El alcalde o alcaldesa",
-        "Las juntas municipales de distrito"
-      ],
-      "correcta": 0,
-      "explicacion": "La aprobación de ordenanzas y reglamentos es atribución del Pleno (art. 11 de la Ley 10/2017 y art. 123 LBRL). El Gobierno de Zaragoza aprueba los proyectos que luego van al Pleno.",
-      "bloque": "comun",
-      "ambito": "aragon",
-      "revisada": "2026-10"
-    },
-    {
-      "id": "GEM03",
-      "tema": 7,
-      "tema_nombre": "Los empleados públicos",
-      "pregunta": "Según el art. 97 del TREBEP, ¿cuándo prescriben las faltas muy graves?",
-      "opciones": [
-        "A los 4 años",
-        "A los 2 años",
-        "A los 3 años",
-        "A los 6 meses"
+        "Solo por la legislación laboral",
+        "Solo por las ordenanzas municipales",
+        "La legislación estatal aplicable, de la que forma parte el TREBEP, y la legislación de las comunidades autónomas, con respeto a la autonomía local",
+        "Solo por la Ley 7/1985"
       ],
       "correcta": 2,
-      "explicacion": "Faltas: muy graves a los 3 años, graves a los 2 años y leves a los 6 meses. Las sanciones por faltas muy graves también prescriben a los 3 años.",
+      "explicacion": "Art. 3.1 TREBEP. Los Cuerpos de Policía Local se rigen también por el TREBEP y la legislación autonómica, salvo lo establecido para ellos en la LO 2/1986 de Fuerzas y Cuerpos de Seguridad (art. 3.2).",
       "bloque": "comun",
       "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
       "revisada": "2026-10"
     },
     {
-      "id": "GEM04",
-      "tema": 7,
-      "tema_nombre": "Los empleados públicos",
-      "pregunta": "Según el TREBEP, ¿qué sanción solo puede imponerse por faltas muy graves?",
+      "id": "COM022",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 89 de la LBRL, el personal al servicio de las entidades locales está integrado por:",
       "opciones": [
-        "La suspensión firme de funciones",
-        "El apercibimiento",
-        "El traslado forzoso",
-        "La separación del servicio de los funcionarios (o el despido disciplinario del personal laboral)"
+        "Funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual",
+        "Solo funcionarios de carrera",
+        "Funcionarios y becarios",
+        "Personal directivo y personal laboral"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 89 LBRL: funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial. La Ley 7/1999 de Aragón (art. 235) añade expresamente al personal interino.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM023",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 90 de la LBRL, la plantilla de cada Corporación local se aprueba:",
+      "opciones": [
+        "Anualmente, a través del Presupuesto",
+        "Cada cuatro años por el Alcalde",
+        "Cada dos años por el Gobierno de Aragón",
+        "Solo al inicio del mandato"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 90.1 LBRL: cada Corporación aprueba anualmente, a través del Presupuesto, la plantilla, que comprende todos los puestos reservados a funcionarios, personal laboral y eventual, conforme a los principios de racionalidad, economía y eficiencia.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM024",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 92.3 de la LBRL, ¿a quién corresponde exclusivamente el ejercicio de funciones que impliquen participación en potestades públicas o en la salvaguardia de los intereses generales?",
+      "opciones": [
+        "A los funcionarios de carrera",
+        "Al personal eventual",
+        "Al personal laboral fijo",
+        "A los concejales"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 92.3 LBRL: esas funciones, y las que impliquen ejercicio de autoridad, están reservadas a los funcionarios de carrera. Con carácter general los puestos de la Administración local los desempeñan funcionarios (art. 92.2).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM025",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 92 bis de la LBRL, ¿cuál es el sistema normal de provisión de los puestos reservados a funcionarios con habilitación de carácter nacional?",
+      "opciones": [
+        "La libre designación",
+        "La oposición libre",
+        "El nombramiento por el Alcalde",
+        "El concurso, de ámbito estatal"
       ],
       "correcta": 3,
-      "explicacion": "Art. 96.1 TREBEP: la separación del servicio solo procede por faltas muy graves, y el despido disciplinario del personal laboral también.",
+      "explicacion": "Art. 92 bis.6 LBRL: el concurso es el sistema normal de provisión y su ámbito es estatal. Hay dos concursos anuales, el ordinario y el unitario (supletorio, convocado por el Estado). La libre designación es excepcional.",
       "bloque": "comun",
       "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
       "revisada": "2026-10"
     },
     {
-      "id": "GEM05",
-      "tema": 4,
-      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
-      "pregunta": "En una notificación electrónica, ¿cuándo se entiende practicada?",
+      "id": "COM026",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 93 de la LBRL, la cuantía global de las retribuciones complementarias de los funcionarios locales la fija:",
       "opciones": [
-        "Cuando pasan 10 días naturales desde su puesta a disposición",
-        "Cuando se firma la resolución",
-        "Cuando el interesado accede a su contenido",
-        "Cuando la Administración la envía"
+        "El Alcalde",
+        "La Junta de Personal",
+        "El Pleno de la Corporación, dentro de los límites que señale el Estado",
+        "El Gobierno de Aragón"
       ],
       "correcta": 2,
-      "explicacion": "Art. 43.2 de la Ley 39/2015: se entiende practicada en el momento del acceso. Si pasan 10 días naturales sin acceder, se entiende rechazada (no practicada).",
+      "explicacion": "Art. 93 LBRL: las retribuciones básicas tienen la misma estructura e idéntica cuantía que en toda la función pública; la cuantía global de las complementarias la fija el Pleno dentro de los límites máximos y mínimos del Estado.",
       "bloque": "comun",
       "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM027",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 94 de la LBRL, la jornada de trabajo de los funcionarios de la Administración local en cómputo anual es:",
+      "opciones": [
+        "La que fije libremente cada Ayuntamiento",
+        "La que fije el convenio colectivo del sector",
+        "La misma que se fije para los funcionarios de la Administración Civil del Estado",
+        "La de 35 horas semanales en todo caso"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 94 LBRL: la jornada anual es la misma que la de los funcionarios de la Administración Civil del Estado, con las mismas normas sobre equivalencia y reducción de jornada.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM028",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 97 de la LBRL, los anuncios de convocatorias de pruebas de acceso a la función pública local deben publicarse en:",
+      "opciones": [
+        "Solo el tablón de anuncios municipal",
+        "Solo el Boletín Oficial de Aragón",
+        "Un diario de difusión provincial",
+        "El Boletín Oficial del Estado"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 97 LBRL: los anuncios se publican en el BOE y las bases en el Boletín Oficial de la Provincia (salvo las de la habilitación nacional, en el BOE). La Ley 7/1999 de Aragón (art. 237.3) exige además su publicación en el BOA.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM029",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 104 de la LBRL, el número, características y retribuciones del personal eventual los determina:",
+      "opciones": [
+        "El Alcalde, en cualquier momento",
+        "La Junta de Gobierno Local cada año",
+        "El Gobierno de Aragón",
+        "El Pleno de cada Corporación, al comienzo de su mandato"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 104.1 LBRL: los fija el Pleno al comienzo del mandato y solo pueden modificarse al aprobar los presupuestos anuales. Su nombramiento y cese son libres y corresponden al Alcalde o Presidente; cesan automáticamente al cesar la autoridad a la que asesoran (art. 104.2).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM030",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 104 bis de la LBRL, en los Ayuntamientos de municipios de más de 500.000 habitantes, como Zaragoza, el número de puestos de personal eventual no puede exceder:",
+      "opciones": [
+        "Del número de concejales",
+        "Del 0,7 % del total de puestos de trabajo de la plantilla",
+        "De la mitad de los concejales",
+        "De siete"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 104 bis.1.g) LBRL: no puede superar el 0,7 % del total de puestos de la plantilla; el municipio más poblado de un área metropolitana puede sumar un número adicional (seis entre 500.000 y 1.000.000 de habitantes). Entre 75.001 y 500.000 habitantes el límite es el número de concejales.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM031",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 244 de la Ley 7/1999 de Administración Local de Aragón, la escala de Administración General se subdivide en las subescalas:",
+      "opciones": [
+        "Técnica, de gestión, administrativa, auxiliar y subalterna",
+        "Técnica y de servicios especiales",
+        "Secretaría, intervención-tesorería y secretaría-intervención",
+        "Superior, media y básica"
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 244.2 Ley 7/1999: la escala de Administración General tiene las subescalas técnica, de gestión, administrativa, auxiliar y subalterna. La de Administración Especial se divide en técnica y de servicios especiales (art. 244.3).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM032",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 247 de la Ley 7/1999 de Administración Local de Aragón, los tribunales de selección de funcionarios locales se componen de:",
+      "opciones": [
+        "Tres vocales sin presidente",
+        "Cinco concejales",
+        "Un presidente (el Presidente de la Corporación o miembro en quien delegue) y cuatro vocales, uno de los cuales actúa como secretario",
+        "Un presidente y dos vocales designados por los sindicatos"
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 247.1 Ley 7/1999. Uno de los vocales representa a la Comunidad Autónoma (a propuesta del IAAP) y otro se nombra a propuesta de los sindicatos más representativos o de la Junta de Personal. Los tribunales no pueden aprobar más aspirantes que plazas convocadas.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM033",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 239 de la Ley 7/1999 de Administración Local de Aragón, el régimen estatutario de los funcionarios locales (adquisición y pérdida, situaciones, derechos, deberes y régimen disciplinario) será:",
+      "opciones": [
+        "El que fije cada Ayuntamiento libremente",
+        "Equivalente al de los funcionarios de la Comunidad Autónoma",
+        "El del Estatuto de los Trabajadores",
+        "El de los funcionarios del Estado exclusivamente"
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 239 Ley 7/1999: será equivalente al de los funcionarios de la Comunidad Autónoma, sin perjuicio de las competencias de la Administración General del Estado en la separación del servicio de los habilitados nacionales.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM034",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 250 de la Ley 7/1999 de Administración Local de Aragón, el desempeño de un puesto reservado a personal eventual:",
+      "opciones": [
+        "Es mérito preferente para el acceso a la función pública",
+        "Da derecho a la condición de funcionario de carrera a los dos años",
+        "Computa como servicio en la carrera horizontal",
+        "En ningún caso constituirá mérito para el acceso a la función pública o la promoción interna"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 250.2 Ley 7/1999: el personal eventual solo ejerce funciones de confianza o asesoramiento especial, su nombramiento y cese corresponden al Presidente de la entidad, y desempeñar ese puesto en ningún caso es mérito para el acceso o la promoción interna.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "COM035",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "Según el art. 15 del Decreto Legislativo 1/1991 (Ley de Ordenación de la Función Pública de Aragón), los funcionarios de la Administración de la Comunidad Autónoma se integran en:",
+      "opciones": [
+        "Subescalas de Administración General",
+        "Categorías profesionales del convenio colectivo",
+        "Departamentos",
+        "Cuerpos, estructurados en Escalas y especialidades, y encuadrados en Grupos según la titulación exigida para el ingreso"
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 15 del Decreto Legislativo 1/1991: los funcionarios autonómicos se integran en Cuerpos, estructurados en Escalas y especialidades y encuadrados en Grupos en razón del grado de titulación exigido para el ingreso.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "fuente": "Generada por Claude (contrastada con el PDF del temario)",
       "revisada": "2026-10"
     }
   ]
