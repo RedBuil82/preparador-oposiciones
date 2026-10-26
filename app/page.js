@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
 import BANCO from "./preguntas.json";
 import BANCO_LAB from "./preguntas_laboratorio.json";
@@ -22,6 +22,29 @@ function normalizarBanco(b) {
 // Acepta { "casos": [...] } o un array pelado de supuestos
 const CASOS = Array.isArray(CASOS_JSON) ? CASOS_JSON : (Array.isArray(CASOS_JSON?.casos) ? CASOS_JSON.casos : []);
 const SUPUESTOS_SIMULACRO = 5; // el 2.º ejercicio tiene 5 supuestos
+const MINUTOS_CASOS = 35;       // tiempo del 2.º ejercicio (TRBGTL 7.4.C.1)
+
+// ====== CRONÓMETRO (aislado para no redibujar el test cada segundo) ======
+function Cronometro({ fin, onFin, color }) {
+  const [ahora, setAhora] = useState(Date.now());
+  const avisado = useRef(false);
+  useEffect(() => {
+    const t = setInterval(() => setAhora(Date.now()), 1000);
+    return () => clearInterval(t);
+  }, []);
+  const restante = Math.max(0, fin - ahora);
+  useEffect(() => {
+    if (restante === 0 && !avisado.current) { avisado.current = true; onFin(); }
+  }, [restante, onFin]);
+  const m = Math.floor(restante / 60000), sg = Math.floor((restante % 60000) / 1000);
+  const poco = restante < 5 * 60000;
+  return (
+    <div style={{ position: "sticky", top: 0, zIndex: 5, background: poco ? "#dc3545" : color, color: "#fff", borderRadius: 8, padding: "10px 16px", marginBottom: 16, display: "flex", justifyContent: "space-between", alignItems: "center", fontFamily: "monospace", boxShadow: "0 2px 8px rgba(0,0,0,.15)" }}>
+      <span style={{ fontSize: 12, letterSpacing: "0.08em", textTransform: "uppercase" }}>⏱ Tiempo restante</span>
+      <span style={{ fontSize: 22, fontWeight: "bold" }}>{String(m).padStart(2, "0")}:{String(sg).padStart(2, "0")}</span>
+    </div>
+  );
+}
 
 // ====== OPOSICIONES DISPONIBLES ======
 const OPOSICIONES = {
@@ -30,6 +53,7 @@ const OPOSICIONES = {
     nombre: "Diputación Provincial de Zaragoza",
     nombreCorto: "DPZ · Administrativo/a",
     color: "#2D6A4F", // verde Diputación Provincial de Zaragoza
+    divisor: 3, // cada 3 errores restan 1 acierto
     preguntas: normalizarBanco(BANCO),
   },
   laboratorio: {
@@ -37,6 +61,8 @@ const OPOSICIONES = {
     nombre: "Ayto. Zaragoza · Téc. Aux. Laboratorio",
     nombreCorto: "Ayto. Zaragoza · Laboratorio",
     color: "#0057A8", // azul Ayuntamiento de Zaragoza
+    divisor: 4, // TRBGTL 7.4.C.1: cada error resta 1/4 de acierto
+    simulacro: { preguntas: 50, minutos: 55 }, // 1.er ejercicio C1
     preguntas: [...normalizarBanco(BANCO_COMUNES), ...normalizarBanco(BANCO_LAB)],
   },
   sanitario: {
@@ -44,6 +70,8 @@ const OPOSICIONES = {
     nombre: "Ayto. Zaragoza · Auxiliar Técnico Sanitario",
     nombreCorto: "Ayto. Zaragoza · Sanitario",
     color: "#C8102E",
+    divisor: 4, // TRBGTL 7.4.C.1: cada error resta 1/4 de acierto
+    simulacro: { preguntas: 50, minutos: 55 }, // 1.er ejercicio C1
     preguntas: [...normalizarBanco(BANCO_COMUNES), ...normalizarBanco(BANCO_SANITARIO)],
   },
   delineante: {
@@ -51,6 +79,8 @@ const OPOSICIONES = {
     nombre: "Ayto. Zaragoza · Téc. Aux. Delineante",
     nombreCorto: "Ayto. Zaragoza · Delineante",
     color: "#6A4C93",
+    divisor: 4, // TRBGTL 7.4.C.1: cada error resta 1/4 de acierto
+    simulacro: { preguntas: 50, minutos: 55 }, // 1.er ejercicio C1
     preguntas: normalizarBanco(BANCO_DELINEANTE),
   },
   autocad: {
@@ -58,6 +88,7 @@ const OPOSICIONES = {
     nombre: "Ayto. Zaragoza · Delineante · AutoCAD (comandos y variables)",
     nombreCorto: "Delineante · AutoCAD",
     color: "#B5179E",
+    divisor: 4,
     preguntas: normalizarBanco(BANCO_AUTOCAD),
   },
 };
@@ -102,6 +133,9 @@ export default function App() {
   const [revisando, setRevisando] = useState(false);
   const [testLabel, setTestLabel] = useState("");
   const [testPenalizada, setTestPenalizada] = useState(true);
+  const [testDivisor, setTestDivisor] = useState(3);
+  const [finTiempo, setFinTiempo] = useState(null); // marca de tiempo de fin, o null si no hay cronómetro
+  const [tiempoAgotado, setTiempoAgotado] = useState(false);
 
   // ---- Casos prácticos ----
   const [casoSel, setCasoSel] = useState("simulacro"); // simulacro | <id del supuesto>
@@ -146,8 +180,11 @@ export default function App() {
 
   function comenzarCasos() {
     if (!casosOposicion.length) return;
+    // En el simulacro se usan supuestos de 5 preguntas, como el examen (5 × 5 = 25)
+    const completos = casosOposicion.filter(c => (c.preguntas || []).length >= 5);
+    const baseSim = completos.length >= SUPUESTOS_SIMULACRO ? completos : casosOposicion;
     const elegidos = casoSel === "simulacro"
-      ? shuffle(casosOposicion).slice(0, SUPUESTOS_SIMULACRO)
+      ? shuffle(baseSim).slice(0, SUPUESTOS_SIMULACRO)
       : casosOposicion.filter(c => c.id === casoSel);
     if (!elegidos.length) return;
     const lista = [];
@@ -162,8 +199,12 @@ export default function App() {
     setTestLabel(casoSel === "simulacro"
       ? `Casos prácticos · Simulacro (${elegidos.length} supuestos)`
       : `Caso práctico · ${elegidos[0].titulo}`);
-    setTestPenalizada(penalizacion);
+    setTestPenalizada(casoSel === "simulacro" ? true : penalizacion);
+    setTestDivisor(oposicion.divisor || 4);
+    setFinTiempo(casoSel === "simulacro" ? Date.now() + MINUTOS_CASOS * 60000 : null);
+    setTiempoAgotado(false);
     setStep("test");
+    window.scrollTo(0, 0);
   }
 
   function construirLabel() {
@@ -188,23 +229,48 @@ export default function App() {
     setRevisando(false);
     setTestLabel(construirLabel());
     setTestPenalizada(penalizacion);
+    setTestDivisor(oposicion.divisor || 3);
+    setFinTiempo(null);
+    setTiempoAgotado(false);
     setStep("test");
+  }
+
+  function comenzarSimulacro() {
+    const sim = oposicion.simulacro;
+    if (!sim || !PREGUNTAS.length) return;
+    setPreguntas(shuffle(PREGUNTAS).slice(0, sim.preguntas));
+    setRespuestas({});
+    setRevisando(false);
+    setTestLabel(`Simulacro 1.er ejercicio (${Math.min(sim.preguntas, PREGUNTAS.length)} preguntas · ${sim.minutos} min)`);
+    setTestPenalizada(true);
+    setTestDivisor(oposicion.divisor || 4);
+    setFinTiempo(Date.now() + sim.minutos * 60000);
+    setTiempoAgotado(false);
+    setStep("test");
+    window.scrollTo(0, 0);
   }
 
   function seleccionar(idx, op) {
     if (revisando) return;
-    setRespuestas(prev => ({ ...prev, [idx]: op }));
+    setRespuestas(prev => {
+      const n = { ...prev };
+      if (n[idx] === op) delete n[idx]; // volver a pulsar la misma opción la deja en blanco
+      else n[idx] = op;
+      return n;
+    });
   }
 
   const aciertos = () => preguntas.reduce((a, p, i) => a + (respuestas[i] === p.correcta ? 1 : 0), 0);
+  const enBlanco = () => preguntas.reduce((a, p, i) => a + (respuestas[i] === undefined ? 1 : 0), 0);
+  const errores = () => preguntas.length - aciertos() - enBlanco();
 
   function calcularNota(penaliza) {
     const n = preguntas.length;
     if (!n) return 0;
     const ac_ = aciertos();
-    const err = n - ac_; // en la app se responden todas antes de corregir
+    const err = errores(); // las respuestas en blanco no penalizan
     const bruta = (ac_ / n) * 10;
-    const pen = Math.max(0, (ac_ - err / 3) / n * 10);
+    const pen = Math.max(0, (ac_ - err / testDivisor) / n * 10);
     return penaliza ? pen : bruta;
   }
 
@@ -218,13 +284,19 @@ export default function App() {
       oposicionId: oposicionId,
       tipo: activeTab === "casos" ? "casos" : "test",
       aciertos: aciertos(),
+      blancos: enBlanco(),
       total: preguntas.length,
       nota: notaFinal,
       penalizada: testPenalizada,
     });
+    setFinTiempo(null);
     setRevisando(true);
     setStep("resultado");
+    window.scrollTo(0, 0);
   }
+  const finalizarRef = useRef(finalizarTest);
+  finalizarRef.current = finalizarTest;
+  const alAgotarTiempo = useRef(() => { setTiempoAgotado(true); finalizarRef.current(); }).current;
 
   function getEstado(pi, oi) {
     if (!revisando) return respuestas[pi] === oi ? "sel" : "none";
@@ -269,7 +341,7 @@ export default function App() {
     btn: (color, dis) => ({ background: dis ? "#ccc" : color, color: "#fff", border: "none", borderRadius: 6, padding: "12px 26px", fontSize: 13, letterSpacing: "0.07em", textTransform: "uppercase", cursor: dis ? "not-allowed" : "pointer", fontFamily: "Georgia" }),
     btnSec: { background: "transparent", color: "#666", border: "2px solid #ddd", borderRadius: 6, padding: "10px 20px", fontSize: 13, cursor: "pointer", fontFamily: "Georgia" },
     check: { display: "flex", alignItems: "center", gap: 10, cursor: "pointer", fontSize: 14, color: "#333", userSelect: "none" },
-    pCard: (ok) => ({ background: "#fff", border: `1px solid #e0e0e0`, borderLeft: revisando ? `4px solid ${ok ? "#28a745" : "#dc3545"}` : "1px solid #e0e0e0", borderRadius: 8, padding: 20, marginBottom: 14 }),
+    pCard: (ok, blanco) => ({ background: "#fff", border: `1px solid #e0e0e0`, borderLeft: revisando ? `4px solid ${blanco ? "#adb5bd" : ok ? "#28a745" : "#dc3545"}` : "1px solid #e0e0e0", borderRadius: 8, padding: 20, marginBottom: 14 }),
     pNum: { fontSize: 11, letterSpacing: "0.1em", textTransform: "uppercase", color: "#999", marginBottom: 8, fontFamily: "monospace" },
     pText: { fontSize: 15, lineHeight: 1.6, marginBottom: 16 },
     op: (est) => {
@@ -293,6 +365,7 @@ export default function App() {
   function PreguntasList() {
     return preguntas.map((p, i) => {
       const ok = respuestas[i] === p.correcta;
+      const blanco = respuestas[i] === undefined;
       const nuevoCaso = p.escenario && (i === 0 || preguntas[i - 1].casoId !== p.casoId);
       return (
         <div key={i}>
@@ -303,11 +376,11 @@ export default function App() {
             <p style={S.casoTxt}>{p.escenario}</p>
           </div>
         )}
-        <div style={S.pCard(ok)}>
+        <div style={S.pCard(ok, blanco)}>
           <div style={S.pNum}>
             {p.casoId ? `Supuesto ${p.casoNum} · Pregunta ${p.casoPregunta} de ${p.casoTotal}` : `Pregunta ${i + 1} de ${preguntas.length}`}
             {p.tema ? ` · Tema ${p.tema}` : ""}
-            {revisando && (ok ? " · ✓ Correcta" : " · ✗ Incorrecta")}
+            {revisando && (blanco ? " · — En blanco" : ok ? " · ✓ Correcta" : " · ✗ Incorrecta")}
           </div>
           {p.origen && <div style={{ fontSize: 11, color: "#999", fontFamily: "monospace", marginTop: -4, marginBottom: 8 }}>📄 {p.origen}</div>}
           <p style={S.pText}>{p.pregunta}</p>
@@ -332,9 +405,10 @@ export default function App() {
       <div style={S.resBox}>
         <div style={S.label}>Resultado{testPenalizada ? " · con penalización" : ""}</div>
         <div style={S.bigNote(ap ? "#28a745" : "#dc3545")}>{n}</div>
-        <p style={{ fontSize: 16, color: "#666", marginBottom: 6 }}>{aciertos()} de {preguntas.length} correctas</p>
+        {tiempoAgotado && <p style={{ fontSize: 13, color: "#dc3545", marginBottom: 8 }}>⏱ Se acabó el tiempo: se ha corregido lo que tenías contestado.</p>}
+        <p style={{ fontSize: 16, color: "#666", marginBottom: 6 }}>{aciertos()} correctas · {errores()} falladas · {enBlanco()} en blanco · de {preguntas.length}</p>
         <p style={{ fontSize: 13, color: "#999" }}>{ap ? "✓ Aprobado · Guardado en historial" : "✗ Suspenso · Guardado en historial"}</p>
-        {testPenalizada && <p style={{ fontSize: 11, color: "#bbb", fontFamily: "monospace", marginTop: 8 }}>Fórmula: aciertos − (errores ÷ 3), como el examen real</p>}
+        {testPenalizada && <p style={{ fontSize: 11, color: "#bbb", fontFamily: "monospace", marginTop: 8 }}>Fórmula: aciertos − (errores ÷ {testDivisor}) · las respuestas en blanco no restan</p>}
       </div>
     );
   }
@@ -384,6 +458,16 @@ export default function App() {
               ))}
             </select>
 
+            {oposicion.simulacro && (
+              <div style={{ ...S.countBox, borderColor: ACCENT, borderWidth: 2 }}>
+                <div style={{ flex: 1, minWidth: 200 }}>
+                  <div style={S.label}>Como el examen real</div>
+                  <div style={{ fontSize: 15 }}>🎯 Simulacro del 1.er ejercicio: {oposicion.simulacro.preguntas} preguntas de todo el temario en {oposicion.simulacro.minutos} minutos, con penalización.</div>
+                </div>
+                <button style={S.btn(ACCENT, false)} onClick={comenzarSimulacro}>Empezar simulacro →</button>
+              </div>
+            )}
+
             <div style={S.secTitle}>Bloque</div>
             <div style={S.chipRow}>
               {[["todos", "Todos"], ["comun", "Comunes"], ["especifica", "Específicas"]].map(([v, l]) => (
@@ -417,7 +501,7 @@ export default function App() {
 
             <label style={{ ...S.check, marginTop: 22 }}>
               <input type="checkbox" checked={penalizacion} onChange={e => setPenalizacion(e.target.checked)} style={{ width: 17, height: 17 }} />
-              Aplicar penalización por error (como el examen real: cada 3 fallos restan 1 acierto)
+              Aplicar penalización por error (como el examen real: cada {oposicion.divisor || 3} fallos restan 1 acierto; en blanco no resta)
             </label>
 
             <div style={S.countBox}>
@@ -450,7 +534,7 @@ export default function App() {
 
           <div style={S.secTitle}>Supuestos</div>
           <select style={S.select} value={casoSel} onChange={e => setCasoSel(e.target.value)}>
-            <option value="simulacro">🎲 Simulacro · {Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length)} supuestos al azar</option>
+            <option value="simulacro">🎯 Simulacro · {Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length)} supuestos al azar en {MINUTOS_CASOS} min</option>
             {casosOposicion.map((c, k) => (
               <option key={c.id} value={c.id}>{k + 1}. {c.titulo} ({c.preguntas.length} preguntas)</option>
             ))}
@@ -458,7 +542,7 @@ export default function App() {
 
           <label style={{ ...S.check, marginTop: 22 }}>
             <input type="checkbox" checked={penalizacion} onChange={e => setPenalizacion(e.target.checked)} style={{ width: 17, height: 17 }} />
-            Aplicar penalización por error (cada 3 fallos restan 1 acierto)
+            Aplicar penalización por error (cada {oposicion.divisor || 4} fallos restan 1 acierto; en blanco no resta)
           </label>
 
           <div style={S.countBox}>
@@ -480,19 +564,23 @@ export default function App() {
           {step === "test" && preguntas.length > 0 && <>
             <h1 style={S.title}>{activeTab === "casos" ? "Casos prácticos" : "Test de examen"}</h1>
             <p style={S.sub}>{preguntas.length} preguntas · {testLabel}{testPenalizada ? " · con penalización" : ""}</p>
-            <PreguntasList />
+            {finTiempo && <Cronometro fin={finTiempo} onFin={alAgotarTiempo} color={ACCENT} />}
+            <p style={{ fontSize: 12, color: "#999", marginTop: -12, marginBottom: 16 }}>Puedes dejar preguntas en blanco: vuelve a pulsar una opción marcada para desmarcarla.</p>
+            {PreguntasList()}
             <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
               <button style={S.btnSec} onClick={() => { setStep("config"); resetTest(); }}>← {activeTab === "casos" ? "Elegir supuestos" : "Cambiar filtros"}</button>
-              <button style={S.btn(ACCENT, respTotal < preguntas.length)} disabled={respTotal < preguntas.length}
+              <button style={S.btn(ACCENT, respTotal === 0)} disabled={respTotal === 0}
                 onClick={finalizarTest}>Corregir y guardar →</button>
-              {respTotal < preguntas.length && <span style={{ fontSize: 12, color: "#999", alignSelf: "center" }}>Responde todas ({respTotal}/{preguntas.length})</span>}
+              <span style={{ fontSize: 12, color: "#999", alignSelf: "center" }}>
+                {respTotal}/{preguntas.length} contestadas{respTotal < preguntas.length ? ` · ${preguntas.length - respTotal} en blanco (no restan)` : ""}
+              </span>
             </div>
           </>}
 
           {step === "resultado" && <>
             <ResHeader />
             <h2 style={{ ...S.title, fontSize: 18, marginBottom: 14 }}>Revisión de respuestas</h2>
-            <PreguntasList />
+            {PreguntasList()}
             <div style={{ display: "flex", gap: 12, flexWrap: "wrap", marginTop: 8 }}>
               <button style={S.btn(ACCENT, false)} onClick={() => { setStep("config"); resetTest(); }}>{activeTab === "casos" ? "Otros supuestos →" : "Nuevo test →"}</button>
               <button style={S.btnSec} onClick={() => { setActiveTab("historial"); }}>Ver historial</button>
@@ -582,5 +670,5 @@ export default function App() {
     </div>
   );
 
-  function resetTest() { setPreguntas([]); setRespuestas({}); setRevisando(false); }
+  function resetTest() { setPreguntas([]); setRespuestas({}); setRevisando(false); setFinTiempo(null); setTiempoAgotado(false); }
 }
