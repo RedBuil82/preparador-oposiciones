@@ -14075,6 +14075,57 @@
       "bloque": "especifica",
       "ambito": "estatal",
       "revisada": "2026-10"
+    },
+    {
+      "id": "LABG02",
+      "tema": 12,
+      "tema_nombre": "Medios de cultivo",
+      "pregunta": "¿A qué temperatura se deja enfriar un agar estéril antes de añadir suplementos termolábiles y verterlo en placas?",
+      "opciones": [
+        "60-70 °C",
+        "45-50 °C",
+        "20-25 °C",
+        "80-90 °C"
+      ],
+      "correcta": 1,
+      "explicacion": "Entre 45 y 50 °C el agar sigue líquido y no se estropean los suplementos (antibióticos, vitaminas, sangre). Por debajo de unos 40 °C empieza a solidificar.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "LABG03",
+      "tema": 21,
+      "tema_nombre": "Análisis gravimétrico",
+      "pregunta": "¿Para qué se digiere en caliente el precipitado de BaSO4 antes de filtrarlo?",
+      "opciones": [
+        "Para disolver las impurezas en el agua caliente",
+        "Para eliminar el exceso de bario por evaporación",
+        "Para que crezcan los cristales (maduración de Ostwald) y se filtren mejor",
+        "Para convertir el BaSO4 en BaO antes de pesarlo"
+      ],
+      "correcta": 2,
+      "explicacion": "Los cristales pequeños se redisuelven y la sustancia se deposita sobre los grandes; el precipitado queda más grueso y puro.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": "LABG04",
+      "tema": 29,
+      "tema_nombre": "Radiactividad en agua",
+      "pregunta": "Según el RD 3/2023, ¿qué valor de cribado tiene la actividad alfa total en el agua de consumo?",
+      "opciones": [
+        "1,0 Bq/L",
+        "0,1 Bq/L",
+        "10 Bq/L",
+        "0,5 Bq/L"
+      ],
+      "correcta": 1,
+      "explicacion": "Alfa total 0,1 Bq/L y beta resto 1,0 Bq/L. Si se superan, hay que analizar radionucleidos concretos.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
     }
   ]
 }

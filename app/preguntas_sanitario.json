@@ -6356,6 +6356,125 @@
       ],
       "correcta": 1,
       "revisada": "2026-10"
+    },
+    {
+      "id": 1184,
+      "tema": 9,
+      "tema_nombre": "Introducción a la salud pública",
+      "pregunta": "Según la definición clásica de Winslow (1920), ¿a quién se dirige la salud pública?",
+      "opciones": [
+        "A la comunidad, mediante esfuerzos organizados",
+        "Al individuo enfermo, en el hospital",
+        "Al profesional sanitario",
+        "A la industria farmacéutica"
+      ],
+      "correcta": 0,
+      "explicacion": "Winslow definió la salud pública como la ciencia y el arte de prevenir la enfermedad, prolongar la vida y fomentar la salud mediante el esfuerzo organizado de la comunidad.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1185,
+      "tema": 11,
+      "tema_nombre": "Determinantes de la salud",
+      "pregunta": "Según el análisis de Dever basado en el modelo de Lalonde, ¿qué determinante pesa más en la mortalidad y recibe menos gasto?",
+      "opciones": [
+        "El medio ambiente",
+        "La biología humana",
+        "El sistema de asistencia sanitaria",
+        "Los estilos de vida"
+      ],
+      "correcta": 3,
+      "explicacion": "Dever estimó que los estilos de vida explican en torno al 43 % de la mortalidad, mientras que la mayor parte del gasto se dedica al sistema sanitario, que explica en torno al 11 %.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1186,
+      "tema": 13,
+      "tema_nombre": "Plan Nacional de Control de la Cadena Alimentaria",
+      "pregunta": "¿Qué periodo abarca el Plan Nacional de Control Oficial de la Cadena Alimentaria (PNCOCA) vigente?",
+      "opciones": [
+        "2030-2034",
+        "2026-2030",
+        "2021-2025",
+        "2024-2028"
+      ],
+      "correcta": 1,
+      "explicacion": "El PNCOCA vigente es el 2026-2030. Aragón todavía no ha publicado su plan autonómico para ese periodo.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1187,
+      "tema": 23,
+      "tema_nombre": "Legionelosis",
+      "pregunta": "Según el RD 487/2022, ¿a qué temperatura mínima debe estar el agua del acumulador de ACS?",
+      "opciones": [
+        "70 °C",
+        "50 °C",
+        "45 °C",
+        "60 °C"
+      ],
+      "correcta": 3,
+      "explicacion": "Acumulador a 60 °C o más y puntos terminales y retorno a 50 °C o más. Los 70 °C se usan en la desinfección térmica de choque.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1188,
+      "tema": 27,
+      "tema_nombre": "Cambio climático y salud",
+      "pregunta": "Según la OMM, ¿qué año fue el primero en superar de media 1,5 °C sobre el nivel preindustrial?",
+      "opciones": [
+        "2016",
+        "2020",
+        "2023",
+        "2024"
+      ],
+      "correcta": 3,
+      "explicacion": "2024 fue el año más cálido registrado, con unos 1,55 °C sobre el periodo preindustrial; 2023 fue el anterior récord.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1189,
+      "tema": 31,
+      "tema_nombre": "Plagas urbanas III",
+      "pregunta": "¿Qué larvicida biológico se usa contra las larvas de mosca negra en el Ebro?",
+      "opciones": [
+        "Bacillus thuringiensis var. israelensis (Bti)",
+        "Permetrina",
+        "Piriproxifeno",
+        "Diflubenzurón"
+      ],
+      "correcta": 0,
+      "explicacion": "El Bti es muy específico para larvas de dípteros y no afecta a peces ni a otros organismos. El piriproxifeno y el diflubenzurón son reguladores del crecimiento y la permetrina es un adulticida.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
+    },
+    {
+      "id": 1190,
+      "tema": 33,
+      "tema_nombre": "Biocidas",
+      "pregunta": "Según el Reglamento (UE) 528/2012, ¿en qué grupo y tipo de producto están los insecticidas y acaricidas?",
+      "opciones": [
+        "Grupo 3, TP14",
+        "Grupo 1, TP2",
+        "Grupo 3, TP18",
+        "Grupo 2, TP8"
+      ],
+      "correcta": 2,
+      "explicacion": "El grupo 3 es el de control de plagas: TP14 rodenticidas, TP18 insecticidas y acaricidas, TP19 repelentes.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "revisada": "2026-10"
     }
   ]
 }

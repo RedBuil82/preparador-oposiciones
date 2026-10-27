@@ -853,6 +853,725 @@
       ]
     },
     {
+      "id": "LAB_C13",
+      "oposicion": "laboratorio",
+      "titulo": "Control de calidad microbiológico y ensayo de aptitud",
+      "temas": [
+        13,
+        17
+      ],
+      "escenario": "El laboratorio de microbiología verifica un lote nuevo de agar CCA y participa en un ensayo de aptitud de recuento de E. coli en agua.",
+      "preguntas": [
+        {
+          "id": "LAB_C13_1",
+          "pregunta": "Para comprobar la productividad y la selectividad del agar CCA (ISO 11133), ¿qué cepas de referencia se usan habitualmente?",
+          "opciones": [
+            "Pseudomonas aeruginosa ATCC 27853 para la productividad y Salmonella ATCC 14028 para la selectividad",
+            "Enterococcus faecalis ATCC 29212 para la productividad y E. coli ATCC 25922 para la selectividad",
+            "Staphylococcus aureus ATCC 25923 para la productividad y E. coli ATCC 25922 para la selectividad",
+            "E. coli ATCC 25922 para la productividad y Enterococcus faecalis ATCC 29212 para la selectividad"
+          ],
+          "correcta": 3,
+          "explicacion": "La productividad se comprueba con la bacteria diana (E. coli, que debe dar colonias azul-violeta) y la selectividad con una no diana que el medio debe inhibir (Enterococcus faecalis, grampositivo). Las cepas deben ser trazables a colecciones reconocidas (ATCC, CECT, WDCM)."
+        },
+        {
+          "id": "LAB_C13_2",
+          "pregunta": "En un ensayo de aptitud, ¿cuándo se considera satisfactorio un resultado según su z-score?",
+          "opciones": [
+            "Cuando z es negativo",
+            "Cuando |z| ≥ 2",
+            "Cuando |z| ≤ 2",
+            "Cuando |z| ≤ 3"
+          ],
+          "correcta": 2,
+          "explicacion": "z = (x − valor asignado) / σ. Con |z| ≤ 2 el resultado es satisfactorio, entre 2 y 3 es cuestionable y con |z| ≥ 3 es insatisfactorio (ISO 13528)."
+        },
+        {
+          "id": "LAB_C13_3",
+          "pregunta": "¿Cómo se inactivan las placas de cultivo y el material contaminado antes de desecharlos?",
+          "opciones": [
+            "En autoclave a 121 °C durante 20-30 minutos",
+            "Congelándolos a −20 °C antes de retirarlos",
+            "Sumergiéndolos en agua hirviendo 5 minutos",
+            "En estufa de aire seco a 121 °C durante 20 minutos"
+          ],
+          "correcta": 0,
+          "explicacion": "El calor húmedo a presión (121 °C, 20-30 min según la carga) es el método de inactivación de cultivos. El calor seco necesita temperaturas mucho más altas (160-180 °C) y la congelación no inactiva."
+        },
+        {
+          "id": "LAB_C13_4",
+          "pregunta": "¿Cómo se comprueba la esterilidad de un lote de medio recién preparado?",
+          "opciones": [
+            "Inoculando todas las placas con la cepa de control",
+            "Pesando las placas antes y después de la incubación",
+            "Midiendo el pH del medio tras la esterilización",
+            "Incubando sin sembrar una parte del lote"
+          ],
+          "correcta": 3,
+          "explicacion": "Se incuba una parte representativa del lote sin sembrar, a la temperatura de uso, y no debe aparecer ningún crecimiento. El pH es otro control del medio, pero no de su esterilidad."
+        },
+        {
+          "id": "LAB_C13_5",
+          "pregunta": "En una placa de 90 mm se cuentan 340 colonias a 22 °C. ¿Cómo se valora según la ISO 7218?",
+          "opciones": [
+            "Se informa como 'ausencia', porque las colonias están solapadas",
+            "Es válido y se da tal cual, porque supera el mínimo de 10 colonias",
+            "Es válido si se divide entre dos",
+            "No es fiable: supera las 300 colonias"
+          ],
+          "correcta": 3,
+          "explicacion": "Por encima de unas 300 colonias por placa hay solapamiento y el recuento pierde exactitud; se usa la placa de la dilución siguiente o se repite con más dilución."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C14",
+      "oposicion": "laboratorio",
+      "titulo": "Fluoruros con electrodo selectivo",
+      "temas": [
+        24
+      ],
+      "escenario": "Se determina el fluoruro en agua de consumo por potenciometría con un electrodo selectivo de membrana de fluoruro de lantano (LaF3).",
+      "preguntas": [
+        {
+          "id": "LAB_C14_1",
+          "pregunta": "¿Para qué se añade TISAB a muestras y patrones antes de medir fluoruros?",
+          "opciones": [
+            "Para fijar la fuerza iónica y el pH y liberar el fluoruro",
+            "Para precipitar el fluoruro y medirlo como sólido",
+            "Para eliminar el cloro residual de la muestra",
+            "Para subir el pH por encima de 9 y evitar la formación de HF"
+          ],
+          "correcta": 0,
+          "explicacion": "El TISAB iguala la fuerza iónica, ajusta el pH (a pH bajo se forma HF y a pH alto interfiere el OH−) y, con CDTA o citrato, libera el fluoruro acomplejado con aluminio y hierro."
+        },
+        {
+          "id": "LAB_C14_2",
+          "pregunta": "Según la ecuación de Nernst, ¿qué pendiente teórica tiene la calibración de un anión monovalente como el F− a 25 °C?",
+          "opciones": [
+            "−118,3 mV por década",
+            "−29,58 mV por década",
+            "−59,16 mV por década",
+            "+59,16 mV por década"
+          ],
+          "correcta": 2,
+          "explicacion": "Pendiente = 2,303·R·T/(z·F) = 59,16/z mV por década; para z = −1 sale −59,16 mV. ±29,58 correspondería a un ion divalente."
+        },
+        {
+          "id": "LAB_C14_3",
+          "pregunta": "¿Cómo se cuida la membrana cristalina del electrodo de LaF3?",
+          "opciones": [
+            "Aclarándola y secándola sin frotar",
+            "Secándola al aire caliente con un secador",
+            "Puliéndola con papel abrasivo antes de cada serie",
+            "Guardándola en ácido clorhídrico concentrado"
+          ],
+          "correcta": 0,
+          "explicacion": "La membrana de cristal único es delicada: no debe rayarse ni frotarse. Se aclara, se seca con suavidad y se guarda según el fabricante (en seco o en una disolución diluida de fluoruro)."
+        },
+        {
+          "id": "LAB_C14_4",
+          "pregunta": "Una muestra da 1,20 mg/L de fluoruro. ¿Cumple el RD 3/2023?",
+          "opciones": [
+            "No: el valor paramétrico del fluoruro es 1,0 mg/L",
+            "Sí: el valor paramétrico del fluoruro es 1,5 mg/L",
+            "Sí: el fluoruro no tiene valor paramétrico",
+            "No: el valor paramétrico del fluoruro es 0,7 mg/L"
+          ],
+          "correcta": 1,
+          "explicacion": "El RD 3/2023 fija el fluoruro en 1,5 mg/L, así que 1,20 mg/L cumple."
+        },
+        {
+          "id": "LAB_C14_5",
+          "pregunta": "¿Qué electrodo de referencia se combina habitualmente con un electrodo selectivo de iones?",
+          "opciones": [
+            "Un segundo electrodo de LaF3",
+            "Ag/AgCl (o calomelanos)",
+            "Un electrodo de vidrio de pH",
+            "Un electrodo de platino"
+          ],
+          "correcta": 1,
+          "explicacion": "La celda necesita un electrodo indicador (el selectivo) y otro de referencia de potencial constante, normalmente Ag/AgCl."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C15",
+      "oposicion": "laboratorio",
+      "titulo": "Radiactividad y radón en agua de consumo",
+      "temas": [
+        29
+      ],
+      "escenario": "Se realiza el control de radiactividad del agua de consumo de Zaragoza: actividad alfa total, beta resto y radón-222.",
+      "preguntas": [
+        {
+          "id": "LAB_C15_1",
+          "pregunta": "¿Con qué equipos se mide la actividad alfa total y beta total de una muestra de agua concentrada?",
+          "opciones": [
+            "Espectrómetro de masas con plasma (ICP-MS)",
+            "Contador proporcional o de centelleo líquido",
+            "Espectrofotómetro de absorción atómica con cámara de grafito",
+            "Cromatógrafo de gases con detector de captura electrónica"
+          ],
+          "correcta": 1,
+          "explicacion": "Las actividades alfa y beta de bajo nivel se miden con detectores blindados de bajo fondo: contadores proporcionales o de centelleo líquido. El ICP-MS mide masas, no actividad."
+        },
+        {
+          "id": "LAB_C15_2",
+          "pregunta": "¿Qué es la actividad beta resto según el RD 3/2023?",
+          "opciones": [
+            "La suma de la actividad alfa total y la beta total",
+            "La beta total menos la aportada por el radón",
+            "La beta total menos la aportada por el potasio-40",
+            "La beta total menos la aportada por el tritio"
+          ],
+          "correcta": 2,
+          "explicacion": "El potasio-40 es un emisor beta natural muy común; se resta para valorar el resto de radionucleidos. Beta resto: valor de cribado 1,0 Bq/L; alfa total: 0,1 Bq/L."
+        },
+        {
+          "id": "LAB_C15_3",
+          "pregunta": "Una muestra da 120 Bq/L de radón-222. ¿Qué indica el RD 3/2023?",
+          "opciones": [
+            "Cumple: el valor paramétrico del radón es 500 Bq/L",
+            "El radón no se controla en el agua de consumo",
+            "No cumple: el valor paramétrico del radón es 11 Bq/L",
+            "No cumple: el valor paramétrico del radón es 100 Bq/L"
+          ],
+          "correcta": 0,
+          "explicacion": "El valor paramétrico del radón es 500 Bq/L. El tritio tiene 100 Bq/L."
+        },
+        {
+          "id": "LAB_C15_4",
+          "pregunta": "¿Qué valor paramétrico tiene la dosis indicativa en el RD 3/2023?",
+          "opciones": [
+            "10 mSv/año",
+            "0,10 mSv/año",
+            "1,0 mSv/año",
+            "0,01 mSv/año"
+          ],
+          "correcta": 1,
+          "explicacion": "La dosis indicativa es la dosis efectiva por un año de consumo de agua: 0,10 mSv/año, excluidos el tritio, el potasio-40, el radón y sus descendientes de vida corta."
+        },
+        {
+          "id": "LAB_C15_5",
+          "pregunta": "¿Cómo se toma una muestra de agua para analizar radón?",
+          "opciones": [
+            "Filtrándola al vacío antes de envasarla",
+            "Agitando la muestra para homogeneizarla",
+            "Llenando el vial sin turbulencias y sin cámara de aire",
+            "Dejando una cámara de aire para que el gas se equilibre"
+          ],
+          "correcta": 2,
+          "explicacion": "El radón es un gas disuelto que escapa con facilidad: hay que evitar turbulencias, burbujas y espacio de cabeza."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C16",
+      "oposicion": "laboratorio",
+      "titulo": "Nitrógeno y fósforo en el efluente de una depuradora",
+      "temas": [
+        34,
+        35
+      ],
+      "escenario": "Se analiza el efluente tratado de la depuradora de La Cartuja para comprobar la eliminación de nitrógeno y fósforo exigida en vertidos a zonas sensibles.",
+      "preguntas": [
+        {
+          "id": "LAB_C16_1",
+          "pregunta": "¿Cuáles son las etapas del método Kjeldahl (NTK)?",
+          "opciones": [
+            "Reducción de nitratos con cadmio, reacción de Griess y fotometría",
+            "Destilación de la muestra, digestión con persulfato y medida a 880 nm",
+            "Digestión con dicromato, valoración con sulfato ferroso amónico y cálculo",
+            "Digestión ácida, destilación del amoniaco y valoración"
+          ],
+          "correcta": 3,
+          "explicacion": "La digestión pasa el N orgánico a amonio; al alcalinizar con NaOH se destila el NH3 (normalmente sobre ácido bórico) y se valora. La reducción con cadmio y Griess es para nitratos y el dicromato es de la DQO."
+        },
+        {
+          "id": "LAB_C16_2",
+          "pregunta": "¿Cómo se obtiene el nitrógeno total a partir del NTK?",
+          "opciones": [
+            "El NTK ya incluye nitritos y nitratos",
+            "Sumando al NTK el nitrógeno de nitritos y nitratos",
+            "Restando al NTK el nitrógeno amoniacal",
+            "Sumando al NTK el nitrógeno amoniacal"
+          ],
+          "correcta": 1,
+          "explicacion": "El Kjeldahl mide el N orgánico y el amoniacal, pero no los nitritos ni los nitratos. N total = NTK + N-NO2− + N-NO3−."
+        },
+        {
+          "id": "LAB_C16_3",
+          "pregunta": "Para medir el fósforo total (ISO 6878), ¿qué digestión previa se hace?",
+          "opciones": [
+            "Calcinación de la muestra a 550 °C",
+            "Digestión con ácido sulfúrico y catalizador de cobre, como en el Kjeldahl",
+            "Digestión oxidante con persulfato potásico en medio ácido",
+            "Ninguna: se mide directamente el ortofosfato"
+          ],
+          "correcta": 2,
+          "explicacion": "El persulfato transforma los polifosfatos y el fósforo orgánico en ortofosfato, que es lo que reacciona con el molibdato. Sin digestión solo se mide el ortofosfato."
+        },
+        {
+          "id": "LAB_C16_4",
+          "pregunta": "¿Qué compuesto coloreado se mide en la determinación de ortofosfato con molibdato y ácido ascórbico?",
+          "opciones": [
+            "El azul de molibdeno, a unos 880 nm",
+            "El azul de indofenol, a 655 nm",
+            "El complejo amarillo de vanadomolibdofosfato, a 880 nm",
+            "Un complejo rosa con DPD, a 515 nm"
+          ],
+          "correcta": 0,
+          "explicacion": "El molibdofosfato reducido con ascórbico (con antimonio como catalizador) da azul de molibdeno, medido a 880 nm. El azul de indofenol es del método del amonio."
+        },
+        {
+          "id": "LAB_C16_5",
+          "pregunta": "Según el RD 509/1996, ¿qué límites tiene el efluente de una depuradora de más de 100.000 h-e que vierte a zona sensible?",
+          "opciones": [
+            "Nitrógeno total 15 mg/L y fósforo total 2 mg/L",
+            "Nitrógeno total 1 mg/L y fósforo total 0,1 mg/L",
+            "Nitrógeno total 25 mg/L y fósforo total 5 mg/L",
+            "Nitrógeno total 10 mg/L y fósforo total 1 mg/L"
+          ],
+          "correcta": 3,
+          "explicacion": "Más de 100.000 h-e: N total 10 mg/L y P total 1 mg/L. Entre 10.000 y 100.000 h-e: 15 mg/L y 2 mg/L. La Directiva (UE) 2024/3019 endurecerá estos requisitos."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C17",
+      "oposicion": "laboratorio",
+      "titulo": "Validación del cadmio por ICP-MS",
+      "temas": [
+        38,
+        39,
+        40
+      ],
+      "escenario": "Se valida la determinación de cadmio en agua por ICP-MS dentro del sistema de calidad ISO/IEC 17025.",
+      "preguntas": [
+        {
+          "id": "LAB_C17_1",
+          "pregunta": "¿Cómo se evalúa la veracidad (sesgo) del método?",
+          "opciones": [
+            "Repitiendo diez veces la misma muestra y calculando el CV %",
+            "Calculando el coeficiente de correlación de la recta",
+            "Con un material de referencia certificado (recuperación)",
+            "Analizando diez blancos y calculando su desviación"
+          ],
+          "correcta": 2,
+          "explicacion": "La veracidad se mide frente a un valor de referencia (MRC o fortificación) y se expresa como recuperación o sesgo. Las réplicas dan precisión, la recta linealidad y los blancos los límites."
+        },
+        {
+          "id": "LAB_C17_2",
+          "pregunta": "Un control de 2,00 µg/L de cadmio da 15 resultados con media 2,02 µg/L y s = 0,08 µg/L. ¿Cuál es el CV %?",
+          "opciones": [
+            "3,96 %",
+            "4,00 %",
+            "8,00 %",
+            "1,01 %"
+          ],
+          "correcta": 0,
+          "explicacion": "CV % = s / media × 100 = 0,08 / 2,02 × 100 = 3,96 %. Si se divide entre el valor nominal (2,00) sale 4,00 %, que no es lo correcto."
+        },
+        {
+          "id": "LAB_C17_3",
+          "pregunta": "La incertidumbre combinada del cadmio es uc = 0,15 µg/L. ¿Cuál es la incertidumbre expandida con k = 2?",
+          "opciones": [
+            "0,15 µg/L",
+            "0,075 µg/L",
+            "0,30 µg/L",
+            "0,60 µg/L"
+          ],
+          "correcta": 2,
+          "explicacion": "U = k · uc = 2 × 0,15 = 0,30 µg/L, con un nivel de confianza aproximado del 95 %."
+        },
+        {
+          "id": "LAB_C17_4",
+          "pregunta": "¿Cómo se expresa en el informe acreditado un resultado de 3,40 µg/L con U = 0,30 µg/L?",
+          "opciones": [
+            "(3,40 ± 0,15) µg/L, indicando k = 2",
+            "(3,40 ± 0,30) µg/L, con k = 2",
+            "Entre 3,10 y 3,70 µg/L, sin dar el valor medido",
+            "3,40 µg/L, sin incertidumbre, porque está por debajo del límite"
+          ],
+          "correcta": 1,
+          "explicacion": "Se da el valor con su incertidumbre expandida, las mismas unidades y el factor de cobertura. ±0,15 sería la incertidumbre combinada, no la expandida."
+        },
+        {
+          "id": "LAB_C17_5",
+          "pregunta": "En la validación, ¿cómo se estiman habitualmente el LOD y el LOQ a partir de 10 blancos?",
+          "opciones": [
+            "LOD = 10·s del blanco y LOQ = 3·s del blanco",
+            "LOD = media de los blancos y LOQ = el doble de esa media",
+            "LOD = 3·s y LOQ = 10·s del blanco",
+            "LOD = el patrón más bajo de la recta y LOQ = el siguiente"
+          ],
+          "correcta": 2,
+          "explicacion": "La señal se divide entre la pendiente de la recta para expresarla en concentración. El LOQ es unas 3,3 veces el LOD."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C18",
+      "oposicion": "laboratorio",
+      "titulo": "Cálculos: disoluciones, riqueza y diluciones",
+      "temas": [
+        22
+      ],
+      "escenario": "Hay que preparar y valorar disoluciones de NaOH y H2SO4 a partir de reactivos comerciales con la pureza, la riqueza y la densidad de su etiqueta.",
+      "preguntas": [
+        {
+          "id": "LAB_C18_1",
+          "pregunta": "Hay que preparar 2,0 L de NaOH 0,25 mol/L (Pm = 40,0 g/mol) con un reactivo del 98,0 % de pureza. ¿Qué masa se pesa?",
+          "opciones": [
+            "20,00 g",
+            "19,60 g",
+            "40,82 g",
+            "20,41 g"
+          ],
+          "correcta": 3,
+          "explicacion": "Masa pura = 0,25 × 2,0 × 40,0 = 20,00 g. Con el 98 % de pureza: 20,00 / 0,98 = 20,41 g. Multiplicar por 0,98 (19,60 g) es el error típico."
+        },
+        {
+          "id": "LAB_C18_2",
+          "pregunta": "¿Qué molaridad tiene un H2SO4 comercial del 96,0 % en peso y densidad 1,84 g/mL (Pm = 98,08 g/mol)?",
+          "opciones": [
+            "36,02 mol/L",
+            "18,77 mol/L",
+            "1,80 mol/L",
+            "18,01 mol/L"
+          ],
+          "correcta": 3,
+          "explicacion": "M = d · 1000 · riqueza / Pm = 1,84 × 1000 × 0,96 / 98,08 = 18,01 mol/L. 36,02 sería la normalidad (diprótico) y 18,77 resulta de olvidar la riqueza."
+        },
+        {
+          "id": "LAB_C18_3",
+          "pregunta": "Con ese ácido 18,01 mol/L, ¿qué volumen hace falta para preparar 500 mL de H2SO4 0,50 mol/L?",
+          "opciones": [
+            "250 mL",
+            "13,9 mL",
+            "27,8 mL",
+            "6,9 mL"
+          ],
+          "correcta": 1,
+          "explicacion": "V1 · C1 = V2 · C2 → V1 = 500 × 0,50 / 18,01 = 13,9 mL. Recuerda: siempre el ácido sobre el agua."
+        },
+        {
+          "id": "LAB_C18_4",
+          "pregunta": "Se toman 5,0 mL de agua residual y se enrasan a 250 mL. ¿Qué factor de dilución se aplica al resultado?",
+          "opciones": [
+            "49",
+            "50",
+            "250",
+            "25"
+          ],
+          "correcta": 1,
+          "explicacion": "FD = volumen final / volumen de muestra = 250 / 5,0 = 50. 49 saldría de dividir entre el volumen de agua añadido (245 mL), que es un error."
+        },
+        {
+          "id": "LAB_C18_5",
+          "pregunta": "Se valoran 25,0 mL de HCl con NaOH 0,100 mol/L y se gastan 18,5 mL. ¿Qué molaridad tiene el HCl?",
+          "opciones": [
+            "0,074 mol/L",
+            "0,135 mol/L",
+            "0,185 mol/L",
+            "0,0463 mol/L"
+          ],
+          "correcta": 0,
+          "explicacion": "Va · Ma = Vb · Mb → Ma = 18,5 × 0,100 / 25,0 = 0,074 mol/L. 0,135 sale al invertir los volúmenes."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C19",
+      "oposicion": "laboratorio",
+      "titulo": "Cálculos: Beer-Lambert y calibración",
+      "temas": [
+        25
+      ],
+      "escenario": "Se trabaja con medidas espectrofotométricas: concentraciones por absortividad molar, fosfatos con recta de calibrado y verificación de una pipeta.",
+      "preguntas": [
+        {
+          "id": "LAB_C19_1",
+          "pregunta": "Una disolución da A = 0,450 en cubeta de 1,0 cm y su absortividad molar es ε = 3150 L/(mol·cm). ¿Qué concentración tiene?",
+          "opciones": [
+            "1,43 × 10⁻⁴ mol/L",
+            "1,43 × 10⁻² mol/L",
+            "1,42 × 10³ mol/L",
+            "7,00 × 10⁻³ mol/L"
+          ],
+          "correcta": 0,
+          "explicacion": "c = A / (ε · b) = 0,450 / (3150 × 1,0) = 1,43 × 10⁻⁴ mol/L. 1,42 × 10³ sale de multiplicar en vez de dividir."
+        },
+        {
+          "id": "LAB_C19_2",
+          "pregunta": "La recta de fosfatos es A = 0,125 · C + 0,005 (C en mg P/L). Una muestra diluida 1:10 da A = 0,505. ¿Qué concentración tiene la muestra original?",
+          "opciones": [
+            "4,00 mg P/L",
+            "40,4 mg P/L",
+            "0,40 mg P/L",
+            "40,0 mg P/L"
+          ],
+          "correcta": 3,
+          "explicacion": "C diluida = (0,505 − 0,005) / 0,125 = 4,00 mg/L; × 10 = 40,0 mg P/L. 4,00 es olvidar el factor de dilución y 40,4 olvidar restar la ordenada."
+        },
+        {
+          "id": "LAB_C19_3",
+          "pregunta": "¿Cómo se prepara una dilución 1:5?",
+          "opciones": [
+            "2,0 mL de muestra + 10,0 mL de agua",
+            "1,0 mL de muestra + 5,0 mL de agua",
+            "2,0 mL de muestra + 8,0 mL de agua",
+            "5,0 mL de muestra + 5,0 mL de agua"
+          ],
+          "correcta": 2,
+          "explicacion": "1:5 es 1 parte de muestra en 5 partes de volumen TOTAL: 2 mL en 10 mL totales. 2 + 10 o 1 + 5 serían diluciones 1:6."
+        },
+        {
+          "id": "LAB_C19_4",
+          "pregunta": "Al verificar una pipeta de 1000 µL se pesa agua a 20 °C (d = 0,9982 g/mL) con una masa media de 0,9962 g. ¿Qué volumen dispensa?",
+          "opciones": [
+            "998,0 µL",
+            "996,2 µL",
+            "1000,0 µL",
+            "994,4 µL"
+          ],
+          "correcta": 0,
+          "explicacion": "V = m / d = 0,9962 / 0,9982 = 0,9980 mL = 998,0 µL (error sistemático de −0,2 %). 996,2 sería suponer densidad 1 y 994,4 multiplicar por la densidad."
+        },
+        {
+          "id": "LAB_C19_5",
+          "pregunta": "Una disolución transmite el 10 % de la luz (T = 0,100). ¿Cuál es su absorbancia?",
+          "opciones": [
+            "0,90",
+            "2,00",
+            "1,00",
+            "0,10"
+          ],
+          "correcta": 2,
+          "explicacion": "A = −log T = −log 0,100 = 1,00. Con T = 1 % sería A = 2 y con T = 100 %, A = 0."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C20",
+      "oposicion": "laboratorio",
+      "titulo": "Cálculos: cargas y rendimientos de una depuradora",
+      "temas": [
+        34,
+        35
+      ],
+      "escenario": "Se calculan las cargas contaminantes y los rendimientos de la depuradora de La Cartuja a partir de los análisis de entrada y salida.",
+      "preguntas": [
+        {
+          "id": "LAB_C20_1",
+          "pregunta": "La depuradora trata 100.000 m³/día con una DQO de entrada de 600 mg/L. ¿Qué carga diaria de DQO recibe?",
+          "opciones": [
+            "60 kg/día",
+            "6.000 kg/día",
+            "600.000 kg/día",
+            "60.000 kg/día"
+          ],
+          "correcta": 3,
+          "explicacion": "1 mg/L = 1 g/m³. Carga = 100.000 m³/día × 600 g/m³ = 60.000.000 g/día = 60.000 kg/día."
+        },
+        {
+          "id": "LAB_C20_2",
+          "pregunta": "La DBO5 baja de 300 mg/L a la entrada a 15 mg/L a la salida. ¿Qué rendimiento de eliminación tiene?",
+          "opciones": [
+            "80 %",
+            "5 %",
+            "95 %",
+            "90 %"
+          ],
+          "correcta": 2,
+          "explicacion": "Rendimiento = (300 − 15) / 300 × 100 = 95 %. El 5 % es lo que queda, no lo eliminado."
+        },
+        {
+          "id": "LAB_C20_3",
+          "pregunta": "Se filtran 250 mL de agua residual. El filtro pesa 1,1240 g limpio y 1,1865 g tras secar a 105 °C. ¿Cuántos SST tiene?",
+          "opciones": [
+            "62,5 mg/L",
+            "15,6 mg/L",
+            "250 mg/L",
+            "625 mg/L"
+          ],
+          "correcta": 2,
+          "explicacion": "Retenido = 1,1865 − 1,1240 = 0,0625 g = 62,5 mg; 62,5 mg / 0,250 L = 250 mg/L. 62,5 es la masa, no la concentración."
+        },
+        {
+          "id": "LAB_C20_4",
+          "pregunta": "Con 100.000 m³/día y 300 mg/L de DBO5 de entrada, ¿a cuántos habitantes equivalentes corresponde (1 h-e = 60 g DBO5/día)?",
+          "opciones": [
+            "500.000 h-e",
+            "50.000 h-e",
+            "5.000.000 h-e",
+            "1.000.000 h-e"
+          ],
+          "correcta": 0,
+          "explicacion": "Carga de DBO5 = 100.000 × 300 = 30.000.000 g/día; 30.000.000 / 60 = 500.000 h-e. Con la DQO saldría el doble, pero el h-e se define con la DBO5."
+        },
+        {
+          "id": "LAB_C20_5",
+          "pregunta": "Al calcinar a 550 °C el filtro con 62,5 mg de SST se pierden 50,0 mg. ¿Qué porcentaje de los SST son volátiles?",
+          "opciones": [
+            "80 %",
+            "125 %",
+            "20 %",
+            "50 %"
+          ],
+          "correcta": 0,
+          "explicacion": "SSV % = 50,0 / 62,5 × 100 = 80 %: la mayor parte de los sólidos es materia orgánica. El 20 % sería la fracción mineral (fija)."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C21",
+      "oposicion": "laboratorio",
+      "titulo": "Cálculos: LOD, LOQ, CV e incertidumbre",
+      "temas": [
+        38,
+        39,
+        40
+      ],
+      "escenario": "Se tratan estadísticamente 10 réplicas del blanco y los controles de un ensayo acreditado por ENAC.",
+      "preguntas": [
+        {
+          "id": "LAB_C21_1",
+          "pregunta": "Diez blancos dan s = 0,0012 de absorbancia y la pendiente de la recta es 0,060 por mg/L. ¿Cuál es el LOD?",
+          "opciones": [
+            "0,0036 mg/L",
+            "0,060 mg/L",
+            "0,020 mg/L",
+            "0,200 mg/L"
+          ],
+          "correcta": 1,
+          "explicacion": "LOD = 3 · s / m = 3 × 0,0012 / 0,060 = 0,060 mg/L. 0,0036 es la señal, sin pasarla a concentración."
+        },
+        {
+          "id": "LAB_C21_2",
+          "pregunta": "Con los mismos datos, ¿cuál es el LOQ?",
+          "opciones": [
+            "0,600 mg/L",
+            "0,200 mg/L",
+            "0,120 mg/L",
+            "0,060 mg/L"
+          ],
+          "correcta": 1,
+          "explicacion": "LOQ = 10 · s / m = 10 × 0,0012 / 0,060 = 0,200 mg/L."
+        },
+        {
+          "id": "LAB_C21_3",
+          "pregunta": "Seis análisis de un MRC de nitratos (valor certificado 10,00 mg/L) dan media 9,80 mg/L y s = 0,20 mg/L. ¿Qué CV % tiene?",
+          "opciones": [
+            "2,04 %",
+            "2,00 %",
+            "98,0 %",
+            "0,20 %"
+          ],
+          "correcta": 0,
+          "explicacion": "CV % = 0,20 / 9,80 × 100 = 2,04 %. 98 % sería la recuperación (9,80 / 10,00), que mide la veracidad, no la precisión."
+        },
+        {
+          "id": "LAB_C21_4",
+          "pregunta": "La incertidumbre combinada del plomo por ICP-MS es uc = 0,25 µg/L. ¿Cuál es la expandida con k = 2?",
+          "opciones": [
+            "1,00 µg/L",
+            "0,50 µg/L",
+            "0,125 µg/L",
+            "0,25 µg/L"
+          ],
+          "correcta": 1,
+          "explicacion": "U = k · uc = 2 × 0,25 = 0,50 µg/L (aproximadamente el 95 % de confianza)."
+        },
+        {
+          "id": "LAB_C21_5",
+          "pregunta": "Un agua da plomo = 4,80 µg/L con U = 0,50 µg/L y el valor paramétrico es 5 µg/L. ¿Cómo se valora?",
+          "opciones": [
+            "Es conforme sin ninguna observación, porque la incertidumbre no se tiene en cuenta",
+            "El resultado no es válido y hay que repetir siempre el análisis",
+            "Es no conforme, porque el intervalo de incertidumbre supera 5 µg/L",
+            "Conforme con regla simple, aunque el intervalo toca el límite"
+          ],
+          "correcta": 3,
+          "explicacion": "La ISO/IEC 17025 exige declarar qué regla de decisión se aplica. Con la regla simple (comparar el valor medido) es conforme, pero conviene indicar que el intervalo de incertidumbre se solapa con el límite."
+        }
+      ]
+    },
+    {
+      "id": "LAB_C22",
+      "oposicion": "laboratorio",
+      "titulo": "Cálculos: recuentos y diluciones decimales",
+      "temas": [
+        13,
+        18,
+        19
+      ],
+      "escenario": "Se hacen recuentos en placa con diluciones decimales seriadas de muestras de agua y de alimentos.",
+      "preguntas": [
+        {
+          "id": "LAB_C22_1",
+          "pregunta": "Se siembra 1 mL de las diluciones 10⁻¹ y 10⁻² y salen 180 y 22 colonias. ¿Qué resultado da la media ponderada de la ISO 7218?",
+          "opciones": [
+            "1,0 × 10³ UFC/mL",
+            "2,2 × 10³ UFC/mL",
+            "2,0 × 10³ UFC/mL",
+            "1,8 × 10³ UFC/mL"
+          ],
+          "correcta": 3,
+          "explicacion": "N = ΣC / [V · (n1 + 0,1·n2) · d] = (180 + 22) / (1 × 1,1 × 10⁻¹) = 1836 → 1,8 × 10³ UFC/mL, con d la dilución de la primera placa retenida."
+        },
+        {
+          "id": "LAB_C22_2",
+          "pregunta": "Se filtran 100 mL de agua de consumo, se incuban en CCA y no aparece ninguna colonia azul-violeta. ¿Cómo se expresa?",
+          "opciones": [
+            "No se puede informar sin repetir el análisis",
+            "0 UFC/100 mL de E. coli",
+            "Ausencia de coliformes totales",
+            "< 1 UFC/mL de E. coli"
+          ],
+          "correcta": 1,
+          "explicacion": "Se informa por el volumen filtrado: 0 UFC/100 mL, que es lo que exige el RD 3/2023. Las colonias azul-violeta son E. coli; las rosas son otros coliformes."
+        },
+        {
+          "id": "LAB_C22_3",
+          "pregunta": "¿Cómo se llega a una dilución 10⁻³ con tubos de 9,0 mL de diluyente?",
+          "opciones": [
+            "Pasando 0,1 mL de muestra a un solo tubo",
+            "Pasando 3,0 mL de muestra a un solo tubo",
+            "Pasando 1,0 mL a cada uno de los tres tubos, siempre desde la muestra original",
+            "Pasando 1,0 mL en tres pasos sucesivos, homogeneizando cada vez"
+          ],
+          "correcta": 3,
+          "explicacion": "Cada paso de 1 mL en 9 mL diluye 1/10: 10⁻¹ → 10⁻² → 10⁻³. 0,1 mL en 9 mL daría solo 1/91."
+        },
+        {
+          "id": "LAB_C22_4",
+          "pregunta": "Se siembran en superficie 0,1 mL de la dilución 10⁻² en Baird-Parker y salen 45 colonias características de S. aureus. ¿Cuántas UFC/mL hay en la muestra?",
+          "opciones": [
+            "4,5 × 10³ UFC/mL",
+            "4,5 × 10⁵ UFC/mL",
+            "4,5 × 10⁴ UFC/mL",
+            "450 UFC/mL"
+          ],
+          "correcta": 2,
+          "explicacion": "UFC/mL = 45 / (0,1 × 10⁻²) = 45.000 = 4,5 × 10⁴. Olvidar que se sembraron 0,1 mL da 4,5 × 10³."
+        },
+        {
+          "id": "LAB_C22_5",
+          "pregunta": "Según la ISO 7218, ¿qué placas de 90 mm se usan normalmente para el recuento?",
+          "opciones": [
+            "Las que tienen entre 1 y 1.000 colonias",
+            "Cualquier placa, porque el número de colonias no influye",
+            "Solo las que tienen más de 300 colonias",
+            "Las que tienen hasta unas 300 colonias"
+          ],
+          "correcta": 3,
+          "explicacion": "Por encima de unas 300 colonias se solapan; con muy pocas el error estadístico es grande, así que el resultado se da como estimado."
+        }
+      ]
+    },
+    {
       "id": "SAN_C01",
       "oposicion": "sanitario",
       "titulo": "Inspección de higiene en restauración colectiva",
@@ -1759,6 +2478,727 @@
           ],
           "correcta": 1,
           "explicacion": "La UNE-EN 16636 regula la prestación de servicios de gestión de plagas. La ISO 9001 es de gestión de la calidad, la 17025 de laboratorios y la 22000 de seguridad alimentaria."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C15",
+      "oposicion": "sanitario",
+      "titulo": "Estrategia municipal de salud pública",
+      "temas": [
+        9,
+        10,
+        11
+      ],
+      "escenario": "Se diseña la estrategia municipal de salud pública de Zaragoza en el marco del ODS 3 de la Agenda 2030 y de los determinantes sociales de la salud.",
+      "preguntas": [
+        {
+          "id": "SAN_C15_1",
+          "pregunta": "¿Qué meta del ODS 3 trata de reducir las muertes y enfermedades por productos químicos y por contaminación del aire, el agua y el suelo?",
+          "opciones": [
+            "Meta 3.4",
+            "Meta 3.6",
+            "Meta 3.1",
+            "Meta 3.9"
+          ],
+          "correcta": 3,
+          "explicacion": "La 3.9 es la de productos químicos y contaminación. La 3.1 es mortalidad materna, la 3.6 accidentes de tráfico y la 3.4 enfermedades no transmisibles y salud mental."
+        },
+        {
+          "id": "SAN_C15_2",
+          "pregunta": "En el modelo de Dahlgren y Whitehead, ¿dónde se sitúan la vivienda, el empleo, la educación, el agua y los servicios sanitarios?",
+          "opciones": [
+            "En la capa de condiciones de vida y de trabajo",
+            "En la capa de redes sociales y comunitarias",
+            "En el núcleo de factores individuales (edad, sexo, genética)",
+            "En la capa de estilos de vida individuales"
+          ],
+          "correcta": 0,
+          "explicacion": "El arco iris va de dentro a fuera: factores individuales, estilos de vida, redes sociales y comunitarias, condiciones de vida y trabajo, y condiciones socioeconómicas, culturales y ambientales generales."
+        },
+        {
+          "id": "SAN_C15_3",
+          "pregunta": "¿Qué dice la 'ley de cuidados inversos' de Tudor Hart (1971)?",
+          "opciones": [
+            "Que los cuidados preventivos son inversamente proporcionales a los curativos",
+            "Que cuanto más se gasta en sanidad, peor es la salud de la población",
+            "Que la buena atención llega menos a quien más la necesita",
+            "Que las zonas rurales reciben más atención que las urbanas"
+          ],
+          "correcta": 2,
+          "explicacion": "Quien más lo necesita suele recibir menos y peor atención. Para corregirlo se propone el universalismo proporcional."
+        },
+        {
+          "id": "SAN_C15_4",
+          "pregunta": "¿Cuáles son los cuatro grupos de determinantes de la salud del informe Lalonde (1974)?",
+          "opciones": [
+            "Biología, medio ambiente, estilos de vida y sistema sanitario",
+            "Agua, aire, suelo y alimentos",
+            "Genética, renta, educación y vivienda",
+            "Alimentación, ejercicio, sueño y consumo de tabaco"
+          ],
+          "correcta": 0,
+          "explicacion": "Lalonde agrupó los determinantes en esos cuatro campos y destacó el peso de los estilos de vida frente al gasto que se dedica al sistema sanitario."
+        },
+        {
+          "id": "SAN_C15_5",
+          "pregunta": "¿Qué exige el principio de 'salud en todas las políticas' de la Ley 33/2011 General de Salud Pública?",
+          "opciones": [
+            "Que el gasto sanitario sea la primera partida de todos los presupuestos",
+            "Valorar el impacto en salud de las políticas no sanitarias",
+            "Que solo se apliquen políticas sanitarias basadas en la asistencia",
+            "Que todas las políticas públicas las apruebe la autoridad sanitaria"
+          ],
+          "correcta": 1,
+          "explicacion": "Es uno de los principios del art. 3 de la Ley 33/2011, que se desarrolla con la evaluación del impacto en salud de otras políticas."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C16",
+      "oposicion": "sanitario",
+      "titulo": "Contaminantes químicos en alimentos",
+      "temas": [
+        16
+      ],
+      "escenario": "Se revisan informes de laboratorio sobre contaminantes químicos en alimentos vendidos en Zaragoza, en el marco del Reglamento (UE) 2023/915.",
+      "preguntas": [
+        {
+          "id": "SAN_C16_1",
+          "pregunta": "¿Qué micotoxina pasa a la leche como aflatoxina M1 cuando las vacas comen pienso contaminado?",
+          "opciones": [
+            "Zearalenona",
+            "Patulina",
+            "Aflatoxina B1",
+            "Ocratoxina A"
+          ],
+          "correcta": 2,
+          "explicacion": "La aflatoxina B1 (Aspergillus flavus) se metaboliza en el hígado de la vaca y se excreta en la leche como M1, también cancerígena."
+        },
+        {
+          "id": "SAN_C16_2",
+          "pregunta": "Según el Reglamento (UE) 2017/2158, ¿cómo se fríen las patatas para reducir la acrilamida?",
+          "opciones": [
+            "Por debajo de 175 °C y hasta un color dorado, no tostado",
+            "Hasta que estén bien tostadas, porque así se destruye la acrilamida",
+            "Con aceite reutilizado varias veces, que forma menos acrilamida",
+            "A 190-200 °C durante poco tiempo, para sellar la superficie"
+          ],
+          "correcta": 0,
+          "explicacion": "La acrilamida se forma por la reacción de Maillard entre azúcares y asparagina a más de 120 °C. Freír a menos de 175 °C y retirar al dorado claro la reduce."
+        },
+        {
+          "id": "SAN_C16_3",
+          "pregunta": "¿A quién recomienda la AESAN evitar el pez espada, el tiburón, el atún rojo y el lucio por el mercurio?",
+          "opciones": [
+            "Solo a personas con alergia al pescado",
+            "A embarazadas, lactantes y niños de hasta 10 años",
+            "Solo a mayores de 65 años",
+            "A deportistas y a personas con dietas hiperproteicas"
+          ],
+          "correcta": 1,
+          "explicacion": "El metilmercurio afecta al sistema nervioso en desarrollo, por eso la recomendación se dirige a embarazo, lactancia e infancia."
+        },
+        {
+          "id": "SAN_C16_4",
+          "pregunta": "¿Qué sustancia prohibió el Reglamento (UE) 2024/3190 en los materiales en contacto con alimentos?",
+          "opciones": [
+            "Los ftalatos",
+            "El estireno",
+            "El bisfenol A (BPA)",
+            "El cloruro de vinilo"
+          ],
+          "correcta": 2,
+          "explicacion": "El BPA es un disruptor endocrino; el Reglamento (UE) 2024/3190 prohíbe su uso en plásticos, barnices y recubrimientos en contacto con alimentos."
+        },
+        {
+          "id": "SAN_C16_5",
+          "pregunta": "¿Qué micotoxina es el contaminante típico de las manzanas y sus zumos?",
+          "opciones": [
+            "Aflatoxina M1",
+            "Patulina",
+            "Fumonisina",
+            "Deoxinivalenol"
+          ],
+          "correcta": 1,
+          "explicacion": "La produce sobre todo Penicillium expansum en frutas podridas. Límites: 50 µg/kg en zumos y 10 µg/kg en alimentos infantiles."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C17",
+      "oposicion": "sanitario",
+      "titulo": "Brote de gastroenteritis en una boda",
+      "temas": [
+        17,
+        18,
+        19
+      ],
+      "escenario": "Quince personas enferman de gastroenteritis tras una boda en un restaurante de Zaragoza. Se investiga el brote y se notifica a las redes de alerta.",
+      "preguntas": [
+        {
+          "id": "SAN_C17_1",
+          "pregunta": "Los afectados tienen diarrea, fiebre y dolor abdominal entre 18 y 36 h después de comer tortilla con huevo poco cuajado. ¿Qué patógeno es el más probable?",
+          "opciones": [
+            "Bacillus cereus emético",
+            "Clostridium botulinum",
+            "Staphylococcus aureus",
+            "Salmonella"
+          ],
+          "correcta": 3,
+          "explicacion": "Salmonella: incubación de 12 a 36 h, gastroenteritis con fiebre y vehículo típico en preparaciones con huevo. S. aureus y B. cereus emético dan vómitos en pocas horas y el botulismo, síntomas neurológicos."
+        },
+        {
+          "id": "SAN_C17_2",
+          "pregunta": "Según el RD 1021/2022, ¿qué tratamiento debe tener el huevo de una elaboración que no se consume de inmediato?",
+          "opciones": [
+            "70 °C durante 2 s en el centro, o usar ovoproducto",
+            "Al menos 75 °C durante 10 minutos en el centro",
+            "Al menos 63 °C durante 20 segundos en el centro",
+            "Ninguno, si se conserva refrigerado a 8 °C"
+          ],
+          "correcta": 0,
+          "explicacion": "Art. 9: 70 °C durante 2 s (o equivalente). Los 63 °C durante 20 s solo valen si se sirve de inmediato (huevos fritos, tortillas). Si no, se usa ovoproducto."
+        },
+        {
+          "id": "SAN_C17_3",
+          "pregunta": "¿Qué es la red SCIRI y cómo se relaciona con la RASFF?",
+          "opciones": [
+            "Es la red de vigilancia de enfermedades de declaración obligatoria",
+            "La red española de la AESAN, que enlaza con la RASFF",
+            "Es el registro de empresas alimentarias de cada comunidad autónoma",
+            "Es la red europea de alertas y la RASFF es la española"
+          ],
+          "correcta": 1,
+          "explicacion": "El SCIRI conecta a la AESAN y las comunidades autónomas; la AESAN es el punto de contacto con la RASFF. La vigilancia de enfermedades es la RENAVE."
+        },
+        {
+          "id": "SAN_C17_4",
+          "pregunta": "Según el RD 1945/1983, ¿cuántos ejemplares tiene una muestra reglamentaria?",
+          "opciones": [
+            "Cinco, como en el muestreo de lotes",
+            "Dos: inicial y contradictorio",
+            "Uno, que analiza el laboratorio oficial",
+            "Tres: inicial, contradictorio y dirimente"
+          ],
+          "correcta": 3,
+          "explicacion": "El inicial lo analiza el laboratorio oficial, el contradictorio queda para el interesado y el dirimente para resolver discrepancias."
+        },
+        {
+          "id": "SAN_C17_5",
+          "pregunta": "Si el brote fuera por enterotoxina de Staphylococcus aureus, ¿qué cuadro cabría esperar?",
+          "opciones": [
+            "Incubación de 1 a 6 h, con náuseas y vómitos intensos y poca fiebre",
+            "Incubación de 1 a 3 días, con diarrea sanguinolenta",
+            "Incubación de 12 a 36 h, con diarrea y fiebre alta",
+            "Incubación de 12 a 72 h, con parálisis descendente"
+          ],
+          "correcta": 0,
+          "explicacion": "La toxina ya está formada en el alimento y es termoestable, por eso actúa muy rápido y no se destruye al recalentar."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C18",
+      "oposicion": "sanitario",
+      "titulo": "Red de vigilancia de la calidad del aire",
+      "temas": [
+        20,
+        27
+      ],
+      "escenario": "Se analizan los datos de las estaciones de la red municipal de calidad del aire de Zaragoza frente al RD 102/2011 y la Directiva (UE) 2024/2881.",
+      "preguntas": [
+        {
+          "id": "SAN_C18_1",
+          "pregunta": "¿Qué valor límite anual tiene el NO2 en el RD 102/2011 y cuál fijará la Directiva (UE) 2024/2881 desde 2030?",
+          "opciones": [
+            "40 µg/m³ ahora y 20 µg/m³ desde 2030",
+            "40 µg/m³ ahora y 10 µg/m³ desde 2030",
+            "50 µg/m³ ahora y 40 µg/m³ desde 2030",
+            "200 µg/m³ ahora y 100 µg/m³ desde 2030"
+          ],
+          "correcta": 0,
+          "explicacion": "El NO2 tiene 40 µg/m³ de media anual y la Directiva lo baja a 20 µg/m³ en 2030. Los 200 µg/m³ son el valor límite horario."
+        },
+        {
+          "id": "SAN_C18_2",
+          "pregunta": "¿Cuál es el umbral de información a la población para el ozono?",
+          "opciones": [
+            "120 µg/m³ de media octohoraria",
+            "50 µg/m³ de media horaria",
+            "180 µg/m³ de media horaria",
+            "240 µg/m³ de media horaria"
+          ],
+          "correcta": 2,
+          "explicacion": "Información: 180 µg/m³ en una hora. Alerta: 240 µg/m³. 120 µg/m³ en 8 h es el valor objetivo para la salud."
+        },
+        {
+          "id": "SAN_C18_3",
+          "pregunta": "¿Qué contaminante se forma en verano, por la tarde y sobre todo en la periferia, a partir de NOx y COV con la luz solar?",
+          "opciones": [
+            "El ozono troposférico",
+            "El dióxido de azufre",
+            "El monóxido de carbono",
+            "El benceno"
+          ],
+          "correcta": 0,
+          "explicacion": "El ozono es un contaminante secundario fotoquímico: no lo emiten los coches directamente, se forma en la atmósfera y se desplaza hacia la periferia."
+        },
+        {
+          "id": "SAN_C18_4",
+          "pregunta": "¿Por qué las PM2,5 son más dañinas que las PM10?",
+          "opciones": [
+            "Porque solo proceden de fuentes naturales",
+            "Porque llegan hasta los alvéolos y pueden pasar a la sangre",
+            "Porque son más pesadas y sedimentan sobre la piel",
+            "Porque quedan retenidas en la nariz y la garganta"
+          ],
+          "correcta": 1,
+          "explicacion": "Las partículas finas atraviesan las defensas de las vías altas y se asocian a enfermedad cardiovascular, respiratoria y cáncer de pulmón."
+        },
+        {
+          "id": "SAN_C18_5",
+          "pregunta": "¿Cuál es el valor límite horario del NO2 en el RD 102/2011?",
+          "opciones": [
+            "40 µg/m³, que no puede superarse ninguna vez",
+            "400 µg/m³, que no puede superarse más de 3 veces al año",
+            "200 µg/m³, que no puede superarse más de 35 veces al año",
+            "200 µg/m³, que no puede superarse más de 18 veces al año"
+          ],
+          "correcta": 3,
+          "explicacion": "Horario de NO2: 200 µg/m³ con 18 superaciones al año. 400 µg/m³ en 3 h consecutivas es el umbral de alerta. Las 35 superaciones son del valor diario de PM10."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C19",
+      "oposicion": "sanitario",
+      "titulo": "APPCC de un catering escolar",
+      "temas": [
+        12,
+        19
+      ],
+      "escenario": "Se audita el plan de autocontrol (APPCC y prerrequisitos) de un catering que sirve menús en línea fría a colegios de Zaragoza.",
+      "preguntas": [
+        {
+          "id": "SAN_C19_1",
+          "pregunta": "¿Qué diferencia hay entre los prerrequisitos (planes generales de higiene) y los puntos de control crítico?",
+          "opciones": [
+            "Los prerrequisitos son voluntarios y los PCC obligatorios",
+            "Prerrequisitos: higiene de base; PCC: fases que controlan un peligro",
+            "Son lo mismo con distinto nombre",
+            "Los PCC son las condiciones de base y los prerrequisitos las fases del proceso"
+          ],
+          "correcta": 1,
+          "explicacion": "Los prerrequisitos son agua, limpieza y desinfección, plagas, formación, trazabilidad, mantenimiento… Los PCC son fases como la cocción o el abatimiento, con límites críticos y vigilancia."
+        },
+        {
+          "id": "SAN_C19_2",
+          "pregunta": "Según el RD 1021/2022, ¿cómo se enfrían las comidas cocinadas que se van a refrigerar?",
+          "opciones": [
+            "Bajando de 60 °C a 4 °C en el centro en menos de 1 hora",
+            "Bajando de 60 °C a 10 °C en el centro en menos de 2 horas",
+            "Bajando de 70 °C a 20 °C en el centro en menos de 6 horas",
+            "Dejándolas a temperatura ambiente hasta que se enfríen y luego refrigerando"
+          ],
+          "correcta": 1,
+          "explicacion": "Hay que atravesar rápido la zona de peligro para que no germinen esporas de Clostridium perfringens o Bacillus cereus; por eso se usan abatidores."
+        },
+        {
+          "id": "SAN_C19_3",
+          "pregunta": "Según el RD 1021/2022, ¿cómo se recalienta una comida refrigerada que se va a servir caliente?",
+          "opciones": [
+            "Alcanzando al menos 65 °C durante 2 minutos en el centro",
+            "Alcanzando al menos 70 °C durante 2 s en el centro, sin límite de tiempo",
+            "Alcanzando al menos 74 °C durante 15 s en el centro, en menos de 1 hora",
+            "Alcanzando al menos 63 °C durante 15 s en el centro, en menos de 2 horas"
+          ],
+          "correcta": 2,
+          "explicacion": "74 °C durante 15 s en el centro, en menos de una hora desde que sale de la refrigeración. Lo que no se consuma se desecha: no se vuelve a recalentar."
+        },
+        {
+          "id": "SAN_C19_4",
+          "pregunta": "¿Qué registro diario se espera en el plan de control del agua de la cocina?",
+          "opciones": [
+            "El volumen de agua consumido",
+            "La temperatura del agua fría",
+            "La dureza del agua",
+            "El cloro libre residual"
+          ],
+          "correcta": 3,
+          "explicacion": "El autocontrol del agua comprueba a diario el desinfectante residual en el punto de uso (en red se recomienda al menos 0,2 mg/L)."
+        },
+        {
+          "id": "SAN_C19_5",
+          "pregunta": "El termómetro del abatidor no se ha verificado en tres años. ¿Qué se anota en la auditoría?",
+          "opciones": [
+            "Nada, porque los termómetros no necesitan verificarse",
+            "El cierre inmediato del catering",
+            "Una recomendación sin importancia, porque el abatidor funciona",
+            "No conformidad: el equipo del PCC debe estar verificado"
+          ],
+          "correcta": 3,
+          "explicacion": "Si el instrumento que vigila un límite crítico no es fiable, no está garantizada la vigilancia del PCC."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C20",
+      "oposicion": "sanitario",
+      "titulo": "Cálculos: dosificación de cloro",
+      "temas": [
+        22,
+        24
+      ],
+      "escenario": "Hay que calcular el hipoclorito sódico necesario para clorar un depósito de agua de consumo y para un tratamiento de choque en una piscina municipal.",
+      "preguntas": [
+        {
+          "id": "SAN_C20_1",
+          "pregunta": "Un depósito de 200 m³ debe quedar con 1,0 mg/L de cloro libre y el agua tiene una demanda de cloro de 0,5 mg/L. ¿Cuánto cloro activo hace falta?",
+          "opciones": [
+            "300 g",
+            "200 g",
+            "3.000 g",
+            "100 g"
+          ],
+          "correcta": 0,
+          "explicacion": "Dosis = demanda + residual = 1,5 mg/L = 1,5 g/m³; 200 × 1,5 = 300 g. Sin contar la demanda saldrían 200 g."
+        },
+        {
+          "id": "SAN_C20_2",
+          "pregunta": "Para aportar esos 300 g se usa hipoclorito con 150 g/L de cloro activo. ¿Cuánto se dosifica?",
+          "opciones": [
+            "0,5 L",
+            "4,5 L",
+            "20 L",
+            "2,0 L"
+          ],
+          "correcta": 3,
+          "explicacion": "Volumen = 300 g / 150 g/L = 2,0 L."
+        },
+        {
+          "id": "SAN_C20_3",
+          "pregunta": "En una piscina de 500 m³ con 0,5 mg/L de cloro libre se quiere llegar a 5,0 mg/L tras un incidente fecal. ¿Cuánto hipoclorito de 150 g/L hay que añadir?",
+          "opciones": [
+            "150 L",
+            "16,7 L",
+            "15,0 L",
+            "1,5 L"
+          ],
+          "correcta": 2,
+          "explicacion": "Hay que subir 4,5 mg/L = 4,5 g/m³; 500 × 4,5 = 2.250 g; 2.250 / 150 = 15,0 L. 16,7 L sale de no descontar el cloro que ya había."
+        },
+        {
+          "id": "SAN_C20_4",
+          "pregunta": "Una piscina tiene 1,80 mg/L de cloro total y 1,10 mg/L de cloro libre. ¿Cumple el RD 742/2013 en cloro combinado?",
+          "opciones": [
+            "Sí: hay 0,50 mg/L de cloro combinado y el máximo es 0,6 mg/L",
+            "No: hay 0,70 mg/L de cloro combinado y el máximo es 0,6 mg/L",
+            "Sí: hay 0,70 mg/L de cloro combinado y el máximo es 1,0 mg/L",
+            "No: hay 2,90 mg/L de cloro combinado y el máximo es 2,0 mg/L"
+          ],
+          "correcta": 1,
+          "explicacion": "Cloro combinado = total − libre = 1,80 − 1,10 = 0,70 mg/L, por encima del máximo de 0,6 mg/L. Hay que renovar agua o reforzar el tratamiento."
+        },
+        {
+          "id": "SAN_C20_5",
+          "pregunta": "Una bomba inyecta 250 mL/h de hipoclorito (150 g/L) en una recirculación de 50 m³/h. ¿Cuánto cloro aporta al agua?",
+          "opciones": [
+            "0,075 mg/L",
+            "7,5 mg/L",
+            "0,75 mg/L",
+            "3,0 mg/L"
+          ],
+          "correcta": 2,
+          "explicacion": "0,25 L/h × 150 g/L = 37,5 g/h; 37,5 g/h / 50 m³/h = 0,75 g/m³ = 0,75 mg/L."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C21",
+      "oposicion": "sanitario",
+      "titulo": "Cálculos: recirculación y aforo de piscinas",
+      "temas": [
+        24
+      ],
+      "escenario": "Se revisa el funcionamiento hidráulico de un vaso infantil y de un vaso recreativo. Los valores de diseño que se dan en cada pregunta son datos del supuesto: la normativa autonómica es la que fija estos requisitos.",
+      "preguntas": [
+        {
+          "id": "SAN_C21_1",
+          "pregunta": "Un vaso infantil de 30 m³ debe recircular todo su volumen en 1 hora como máximo. ¿Qué caudal mínimo necesita?",
+          "opciones": [
+            "30 m³/h",
+            "0,5 m³/h",
+            "60 m³/h",
+            "15 m³/h"
+          ],
+          "correcta": 0,
+          "explicacion": "Q = V / t = 30 m³ / 1 h = 30 m³/h."
+        },
+        {
+          "id": "SAN_C21_2",
+          "pregunta": "Un vaso de 480 m³ tiene bombas de 120 m³/h. ¿Cuánto tarda en recircular todo el volumen?",
+          "opciones": [
+            "6 horas",
+            "0,25 horas",
+            "2 horas",
+            "4 horas"
+          ],
+          "correcta": 3,
+          "explicacion": "t = V / Q = 480 / 120 = 4 h. 0,25 h sale de dividir al revés."
+        },
+        {
+          "id": "SAN_C21_3",
+          "pregunta": "El vaso tiene 300 m² de lámina de agua y el aforo es de 1 bañista por cada 2 m². ¿Cuántos bañistas caben a la vez?",
+          "opciones": [
+            "600",
+            "300",
+            "150",
+            "100"
+          ],
+          "correcta": 2,
+          "explicacion": "Aforo = 300 / 2 = 150 personas. 600 sale de multiplicar en lugar de dividir."
+        },
+        {
+          "id": "SAN_C21_4",
+          "pregunta": "Un filtro de arena tiene 2,01 m² de superficie y pasan 60 m³/h. ¿Qué velocidad de filtración tiene?",
+          "opciones": [
+            "120,6 m/h",
+            "29,9 m/h",
+            "60 m/h",
+            "0,03 m/h"
+          ],
+          "correcta": 1,
+          "explicacion": "v = Q / S = 60 / 2,01 = 29,9 m/h. 120,6 sale de multiplicar."
+        },
+        {
+          "id": "SAN_C21_5",
+          "pregunta": "Si hay que reponer al menos 20 L de agua nueva por bañista y día, ¿cuánta agua se repone un día con 250 bañistas?",
+          "opciones": [
+            "50 m³",
+            "0,5 m³",
+            "12,5 m³",
+            "5,0 m³"
+          ],
+          "correcta": 3,
+          "explicacion": "250 × 20 L = 5.000 L = 5,0 m³."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C22",
+      "oposicion": "sanitario",
+      "titulo": "Cálculos: larvicidas y caldos insecticidas",
+      "temas": [
+        31,
+        33,
+        34
+      ],
+      "escenario": "Se planifica el tratamiento con Bti contra la mosca negra en el Ebro y con larvicida en imbornales contra el mosquito tigre, y se preparan caldos para mochila. Las dosis son datos del supuesto.",
+      "preguntas": [
+        {
+          "id": "SAN_C22_1",
+          "pregunta": "El Ebro lleva 30 m³/s y el Bti se aplica durante 10 minutos. ¿Qué volumen de agua pasa en ese tiempo?",
+          "opciones": [
+            "300 m³",
+            "180.000 m³",
+            "1.800 m³",
+            "18.000 m³"
+          ],
+          "correcta": 3,
+          "explicacion": "10 min = 600 s; 30 m³/s × 600 s = 18.000 m³ = 18 millones de litros. 300 m³ sale de usar 10 en vez de 600 s."
+        },
+        {
+          "id": "SAN_C22_2",
+          "pregunta": "Con una dosis de 0,5 mg de producto por litro en esos 18.000 m³, ¿cuánto Bti se necesita?",
+          "opciones": [
+            "9,0 kg",
+            "0,9 kg",
+            "90 kg",
+            "36 kg"
+          ],
+          "correcta": 0,
+          "explicacion": "18.000.000 L × 0,5 mg/L = 9.000.000 mg = 9,0 kg."
+        },
+        {
+          "id": "SAN_C22_3",
+          "pregunta": "Se aplican 2,0 g de larvicida granulado por imbornal en 1.500 imbornales del Actur. ¿Cuánto producto hace falta?",
+          "opciones": [
+            "300 g",
+            "30 kg",
+            "3,0 kg",
+            "0,75 kg"
+          ],
+          "correcta": 2,
+          "explicacion": "1.500 × 2,0 g = 3.000 g = 3,0 kg."
+        },
+        {
+          "id": "SAN_C22_4",
+          "pregunta": "Una mochila de 15 L gasta 3,0 L de caldo por cada 100 m². ¿Qué superficie se trata con un depósito?",
+          "opciones": [
+            "45 m²",
+            "500 m²",
+            "300 m²",
+            "5.000 m²"
+          ],
+          "correcta": 1,
+          "explicacion": "15 / 3,0 = 5 tandas de 100 m² = 500 m²."
+        },
+        {
+          "id": "SAN_C22_5",
+          "pregunta": "Hay que preparar 15 L de caldo al 2 % v/v. ¿Cómo se mezcla?",
+          "opciones": [
+            "30 mL de concentrado + 14,97 L de agua",
+            "300 mL de concentrado + 15 L de agua",
+            "300 mL de concentrado + 14,7 L de agua",
+            "2 L de concentrado + 13 L de agua"
+          ],
+          "correcta": 2,
+          "explicacion": "15 L × 0,02 = 0,30 L de concentrado; el resto, 14,7 L, es agua. Añadir 15 L de agua daría un caldo algo más diluido del 2 %."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C23",
+      "oposicion": "sanitario",
+      "titulo": "Cálculos: muestreo de partículas en aire",
+      "temas": [
+        20
+      ],
+      "escenario": "Se revisan los datos de un captador de alto volumen de PM10 de la red municipal de calidad del aire de Zaragoza.",
+      "preguntas": [
+        {
+          "id": "SAN_C23_1",
+          "pregunta": "El captador aspira 30,0 m³/h durante 24 h. ¿Qué volumen de aire muestrea?",
+          "opciones": [
+            "1,25 m³",
+            "2.400 m³",
+            "720 m³",
+            "300 m³"
+          ],
+          "correcta": 2,
+          "explicacion": "V = Q · t = 30,0 × 24 = 720 m³."
+        },
+        {
+          "id": "SAN_C23_2",
+          "pregunta": "El filtro pasa de 2,8450 g a 2,8810 g con esos 720 m³. ¿Qué concentración de PM10 hay?",
+          "opciones": [
+            "50,0 µg/m³",
+            "5,0 µg/m³",
+            "500 µg/m³",
+            "36,0 µg/m³"
+          ],
+          "correcta": 0,
+          "explicacion": "Masa = 0,0360 g = 36.000 µg; 36.000 / 720 = 50,0 µg/m³, justo en el valor límite diario (50 µg/m³, máximo 35 superaciones al año)."
+        },
+        {
+          "id": "SAN_C23_3",
+          "pregunta": "¿A qué condiciones se refiere el volumen de aire en la medida de partículas (PM10, PM2,5)?",
+          "opciones": [
+            "A 298 K y 100 kPa",
+            "A las condiciones ambientales",
+            "A 293 K y 101,3 kPa, como los gases",
+            "A 273 K y 101,3 kPa (condiciones normales)"
+          ],
+          "correcta": 1,
+          "explicacion": "En la normativa de calidad del aire, las partículas se refieren al volumen en condiciones ambientales. Los gases (NO2, SO2, CO…) se refieren a 293 K y 101,3 kPa."
+        },
+        {
+          "id": "SAN_C23_4",
+          "pregunta": "Para un gas, ¿cómo quedan a 293 K y 101,3 kPa 720 m³ muestreados a 308 K y 98,0 kPa?",
+          "opciones": [
+            "720 m³",
+            "782,4 m³",
+            "684,9 m³",
+            "662,6 m³"
+          ],
+          "correcta": 3,
+          "explicacion": "Vn = V · (P / 101,3) · (293 / T) = 720 × 0,9674 × 0,9513 = 662,6 m³. 782,4 sale de invertir los factores."
+        },
+        {
+          "id": "SAN_C23_5",
+          "pregunta": "En paralelo, el filtro de PM2,5 recoge 18,0 mg en los mismos 720 m³. ¿Qué proporción de PM10 es PM2,5?",
+          "opciones": [
+            "200 %",
+            "50 %",
+            "2 %",
+            "25 %"
+          ],
+          "correcta": 1,
+          "explicacion": "PM10 = 36,0 mg; PM2,5 / PM10 = 18,0 / 36,0 = 0,50: la mitad de las partículas eran finas."
+        }
+      ]
+    },
+    {
+      "id": "SAN_C24",
+      "oposicion": "sanitario",
+      "titulo": "Cálculos: muestras de alimentos y control",
+      "temas": [
+        15,
+        18,
+        19
+      ],
+      "escenario": "Se preparan muestras de alimentos para microbiología, se revisan dosis de aditivos y tiempos de enfriamiento, y se calculan indicadores del control oficial.",
+      "preguntas": [
+        {
+          "id": "SAN_C24_1",
+          "pregunta": "Para la suspensión madre 1:10 de 25,0 g de producto cárnico (ISO 6887), ¿cuánto diluyente se añade?",
+          "opciones": [
+            "225 mL",
+            "275 mL",
+            "2,5 mL",
+            "250 mL"
+          ],
+          "correcta": 0,
+          "explicacion": "1:10 significa 25 g en 250 g totales, así que se añaden 225 mL. Con 250 mL sería 1:11."
+        },
+        {
+          "id": "SAN_C24_2",
+          "pregunta": "La ficha técnica de un embutido fija una adición de 100 mg/kg de nitrito sódico (E 250). ¿Cuánto se añade a 500 kg de masa?",
+          "opciones": [
+            "500 g",
+            "5 g",
+            "200 g",
+            "50 g"
+          ],
+          "correcta": 3,
+          "explicacion": "500 kg × 100 mg/kg = 50.000 mg = 50 g. Ojo: el Reglamento (UE) 2023/2108 rebajó los máximos de nitritos desde el 9 de octubre de 2025 y ahora se expresan como ion nitrito; comprueba la cifra vigente en tus apuntes."
+        },
+        {
+          "id": "SAN_C24_3",
+          "pregunta": "Una bandeja de lasaña baja de 60 °C a 8 °C en el centro en 100 minutos. ¿Cumple el RD 1021/2022?",
+          "opciones": [
+            "Sí, porque no hay tiempo máximo si acaba en refrigeración",
+            "No: debe bajar de 60 °C a 4 °C en menos de 1 hora",
+            "Sí: debe bajar de 60 °C a 10 °C en menos de 2 horas",
+            "No: debe bajar de 60 °C a 10 °C en menos de 90 minutos"
+          ],
+          "correcta": 2,
+          "explicacion": "El RD 1021/2022 exige pasar de 60 °C a 10 °C en el centro del producto en menos de dos horas: 100 minutos y 8 °C cumplen."
+        },
+        {
+          "id": "SAN_C24_4",
+          "pregunta": "A 121 °C (z = 10 °C) cada minuto equivale a 1 minuto de F0. ¿Cuánto F0 aportan 15 minutos a 121 °C?",
+          "opciones": [
+            "1,5 minutos",
+            "121 minutos",
+            "15 minutos",
+            "150 minutos"
+          ],
+          "correcta": 2,
+          "explicacion": "La letalidad a la temperatura de referencia es L = 10^((121 − 121)/10) = 1; por tanto 15 min reales = 15 min de F0."
+        },
+        {
+          "id": "SAN_C24_5",
+          "pregunta": "En un año se analizan 80 muestras de un establecimiento y 4 no son conformes. ¿Qué porcentaje de no conformidad tiene?",
+          "opciones": [
+            "5 %",
+            "20 %",
+            "4 %",
+            "2 %"
+          ],
+          "correcta": 0,
+          "explicacion": "4 / 80 × 100 = 5 %. El 20 % sale de dividir 80 entre 4."
         }
       ]
     }
