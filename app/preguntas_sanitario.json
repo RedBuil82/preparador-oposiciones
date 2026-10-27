@@ -6475,6 +6475,816 @@
       "bloque": "especifica",
       "ambito": "estatal",
       "revisada": "2026-10"
+    },
+    {
+      "id": "QZ26_21",
+      "tema": 26,
+      "tema_nombre": "Aguas Residuales",
+      "pregunta": "Los vertidos de las pólizas para usos no domésticos se caracterizan individualmente, según su carga contaminante, con tres coeficientes: K1, K2 y F. Indique la afirmación INCORRECTA:",
+      "opciones": [
+        "El coeficiente F está en función de las cantidades de contaminantes evacuados de un vertido determinado.",
+        "El coeficiente K2 viene definido por la eficiencia en la utilización del agua y su trascendencia económica para determinadas actividades económicas.",
+        "En ningún caso el coeficiente F podrá alcanzar valores inferiores a 0,28.",
+        "El valor resultante de la aplicación conjunta de los coeficientes K1, K2 y F no podrá ser inferior a 0,5. Caso de resultar inferior, se aplicará el valor mínimo 0,5."
+      ],
+      "correcta": 3,
+      "explicacion": "Pregunta sobre la normativa tarifaria municipal de vertidos de Zaragoza. Según la plantilla definitiva, la afirmación incorrecta es la d).",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 21, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_22",
+      "tema": 26,
+      "tema_nombre": "Aguas Residuales",
+      "pregunta": "La Declaración de Vertido, según caudal y potencia contaminante, se clasifica como de clase 0, primera, segunda o tercera. Se considerará de clase tercera cuando:",
+      "opciones": [
+        "Se trate de vertido inferior a 1000 m³/año en actividades donde el consumo de agua sea para usos de naturaleza higiénico-sanitaria y no generen residuos peligrosos en fase líquida.",
+        "Se trate de vertidos inferiores a 4.000 m³/año, en actividades donde no haya riesgo de vertido de sustancias peligrosas para las aguas.",
+        "Se trate de vertidos de 4.000 a 15.000 m³/año, o para caudales inferiores en actividades donde sea posible el vertido de sustancias peligrosas para las aguas.",
+        "Se trate de vertidos superiores a 15.000 m³/año."
+      ],
+      "correcta": 3,
+      "explicacion": "En la ordenanza municipal de vertidos de Zaragoza (OMECGIA), la clase tercera corresponde a los vertidos de más de 15.000 m³/año; las demás opciones describen las clases inferiores.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 22, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_23",
+      "tema": 26,
+      "tema_nombre": "Aguas Residuales",
+      "pregunta": "En la eliminación biológica de nitrógeno por nitrificación-desnitrificación, ¿qué reacción corresponde al proceso global de nitrificación?",
+      "opciones": [
+        "NH₄⁺ + 1,5 O₂ → NO₂⁻ + H₂O + 2H⁺",
+        "NH₄⁺ + 2 O₂ → NO₃⁻ + H₂O + 2H⁺",
+        "NO₃⁻ + 6H⁺ → 0,5 N₂ + 3 H₂O",
+        "NO₂⁻ + 0,5 O₂ → NO₃⁻"
+      ],
+      "correcta": 1,
+      "explicacion": "La nitrificación global oxida el amonio hasta nitrato: NH₄⁺ + 2 O₂ → NO₃⁻ + H₂O + 2H⁺. La a) es solo la primera etapa (nitritación, Nitrosomonas), la d) la segunda (nitratación, Nitrobacter) y la c) es la desnitrificación.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 23, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_55",
+      "tema": 39,
+      "tema_nombre": "Análisis Residuales",
+      "pregunta": "En el análisis de un agua residual urbana de tipo doméstico, ¿qué afirmación es correcta sobre la DBO5?",
+      "opciones": [
+        "La DBO5 es siempre superior a la DQO.",
+        "La DBO5 es inferior a la DQO.",
+        "La DBO5 es a veces superior a la DQO.",
+        "Ninguna de las respuestas anteriores."
+      ],
+      "correcta": 1,
+      "explicacion": "La DQO oxida químicamente la materia biodegradable y la no biodegradable, por eso siempre es mayor que la DBO5. En aguas urbanas el cociente DQO/DBO5 suele estar en torno a 2.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 55, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_25",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "El RD 102/2011 establece umbrales de alerta para diversos contaminantes. ¿Qué afirmación es correcta?",
+      "opciones": [
+        "El umbral de alerta del dióxido de azufre se considerará superado cuando durante tres horas consecutivas se exceda el valor de 400 µg/m³ (promedio horario) cada hora.",
+        "El umbral de alerta del dióxido de nitrógeno se considerará superado cuando durante tres horas consecutivas se exceda el valor de 200 µg/m³ (promedio horario) cada hora.",
+        "El umbral de alerta para las partículas PM10 se considerará superado cuando el promedio 24 h o promedio móvil 24 h supere el valor de 80 µg/m³.",
+        "El umbral de alerta para el ozono se considera superado cuando el promedio 8 horas supere el valor de 240 µg/m³."
+      ],
+      "correcta": 2,
+      "explicacion": "Las demás tienen el dato cambiado: el umbral de alerta del SO2 es 500 µg/m³ y el del NO2 400 µg/m³ (ambos durante 3 h consecutivas), y el del ozono es 240 µg/m³ de media horaria, no octohoraria.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 25, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_26",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "Según el anexo VII del RD 102/2011, el método de referencia para medir el dióxido de azufre es:",
+      "opciones": [
+        "Espectroscopía infrarroja no dispersiva.",
+        "Quimioluminiscencia.",
+        "Fluorescencia de ultravioleta.",
+        "Fotometría ultravioleta."
+      ],
+      "correcta": 2,
+      "explicacion": "SO2: fluorescencia UV (UNE-EN 14212). NO2: quimioluminiscencia. CO: infrarrojo no dispersivo. O3: fotometría UV.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 26, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_27",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "En el RD 1513/2005, que desarrolla la Ley 37/2003 del Ruido, se define el índice Lden como:",
+      "opciones": [
+        "El índice de ruido asociado a la molestia global.",
+        "El índice de ruido asociado a la molestia durante el período día.",
+        "El índice de ruido asociado a la molestia durante el período tarde.",
+        "El índice de ruido correspondiente a la alteración del sueño."
+      ],
+      "correcta": 0,
+      "explicacion": "Lden (día-tarde-noche) es el índice de molestia global. Ld es el del periodo día, Le el de la tarde y Ln el de la alteración del sueño.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 27, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_28",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "El índice de calidad del aire (ICA) lo determinan las concentraciones, en cada estación, de hasta cinco contaminantes clave, que son:",
+      "opciones": [
+        "NO2, PM10, PM2,5, O3 y SO2.",
+        "NO, PM10, PM2,5, O3 y SH2.",
+        "CO, PM10, PM2,5, NO2 y O3.",
+        "O3, PM10, PM2,5, CO y SO2."
+      ],
+      "correcta": 0,
+      "explicacion": "El ICA nacional se calcula con NO2, PM10, PM2,5, O3 y SO2.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 28, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_29",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "La Red Automática de Calidad del Aire del Ayuntamiento de Zaragoza tiene ocho estaciones remotas. ¿En cuáles se miden los niveles de inmisión de H2S?",
+      "opciones": [
+        "Renovales y Avenida Soria.",
+        "Picarral y Jaime Ferrán.",
+        "Las Fuentes, Roger de Flor, Actur y Centro.",
+        "Picarral."
+      ],
+      "correcta": 1,
+      "explicacion": "Según la plantilla definitiva, el H2S se mide en las estaciones de Picarral y Jaime Ferrán. Es un dato de la información municipal de la red.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 29, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_30",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "¿Qué Administraciones son las responsables de realizar la evaluación de la calidad del aire en España?",
+      "opciones": [
+        "Las comunidades autónomas.",
+        "Las entidades locales.",
+        "Las comunidades autónomas y las entidades locales, cuando corresponda según la legislación vigente.",
+        "El Ministerio para la Transición Ecológica y el Reto Demográfico, las comunidades autónomas y las entidades locales cuando corresponda según la legislación vigente."
+      ],
+      "correcta": 2,
+      "explicacion": "El RD 102/2011 atribuye la evaluación de la calidad del aire a las comunidades autónomas y, cuando corresponda, a las entidades locales.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 30, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_31",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "Una estación registra una media diaria de PM10 de 50 µg/m³ en 19 días de un año. Conforme al anexo I de la Directiva (UE) 2024/2881, ¿qué conclusión es correcta?",
+      "opciones": [
+        "No se cumple la Directiva, porque el valor límite diario es de 45 µg/m³ que no podrán alcanzarse más de 18 veces por año civil.",
+        "Se cumple la Directiva, porque el valor límite diario es de 55 µg/m³ que no podrán superarse en más de 18 ocasiones por año.",
+        "No se cumple la Directiva, porque el valor límite diario es de 45 µg/m³ que no podrán superarse en más de 18 veces por año.",
+        "No se cumple la Directiva, porque el valor límite diario es de 50 µg/m³ que no podrán alcanzarse en más de 18 ocasiones por año."
+      ],
+      "correcta": 2,
+      "explicacion": "La Directiva (UE) 2024/2881 fija desde 2030 un valor límite diario de PM10 de 45 µg/m³ que no puede SUPERARSE más de 18 veces al año. 19 días a 50 µg/m³ lo incumplen. Ojo al matiz: \"superarse\", no \"alcanzarse\".",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 31, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_32",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "Según la Directiva (UE) 2024/2881, se define «superemplazamiento de control» como:",
+      "opciones": [
+        "Los lugares situados en áreas urbanas y suburbanas cuyos niveles sean representativos de la exposición de la población urbana en general.",
+        "La conurbación de población superior a 250 000 habitantes o, cuando tenga una población igual o inferior a 250 000 habitantes, con una densidad de población por km² que habrán de determinar los Estados miembros.",
+        "La estación de control situada en una ubicación de fondo urbano o ubicación de fondo rural que combina múltiples puntos de muestreo para recopilar datos de largo plazo sobre varios contaminantes.",
+        "Las ubicaciones dentro de una zona con las concentraciones más elevadas a las que es probable que la población esté expuesta directa o indirectamente durante un período significativo en relación con el período de cálculo de la media de los valores límite o valores objetivo."
+      ],
+      "correcta": 2,
+      "explicacion": "Superemplazamiento: estación de fondo (urbano o rural) con múltiples puntos de muestreo para datos de largo plazo de varios contaminantes. La a) es ubicación de fondo urbano, la b) aglomeración y la d) ubicación de máxima concentración.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 32, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_35",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "La Directiva 2016/2284 establece compromisos de reducción de emisiones de los Estados miembros para las emisiones atmosféricas antropogénicas de:",
+      "opciones": [
+        "PM2,5, PM10, NO2, CO y O3.",
+        "NO2, SO2, COVNM, PM2,5, PM10 y NH3.",
+        "SO2, NOx, COVNM, NH3 y PM2,5.",
+        "COVNM, NH3, NOx y PM2,5."
+      ],
+      "correcta": 2,
+      "explicacion": "La Directiva de techos nacionales de emisión (2016/2284) regula cinco contaminantes: SO2, NOx, COVNM, NH3 y PM2,5.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 35, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_R5",
+      "tema": 20,
+      "tema_nombre": "Sanidad Ambiental",
+      "pregunta": "La Directiva 2024/2881 obliga a los Estados miembros a establecer planes de acción a corto plazo cuando:",
+      "opciones": [
+        "En una zona determinada exista el riesgo de que el nivel de contaminantes supere uno o más de los umbrales de alerta especificados en el anexo I sección 4 de la directiva.",
+        "En una zona determinada se produzcan superaciones de los umbrales de alerta de PM10, PM2,5 y NO2 especificados en el anexo I sección 4 de la directiva.",
+        "En una zona determinada exista el riesgo de que el nivel de contaminantes supere uno o más de los valores límite para la protección de la salud especificados en el anexo I sección 4 de la directiva.",
+        "En una zona determinada se produzcan superaciones de los umbrales de alerta de PM10, PM2,5, O3 y NO2 especificados en el anexo I sección 4 de la directiva."
+      ],
+      "correcta": 0,
+      "explicacion": "Los planes de acción a corto plazo se exigen cuando hay RIESGO de superar uno o más umbrales de alerta; no hace falta que la superación ya se haya producido.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta R5, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_34",
+      "tema": 27,
+      "tema_nombre": "Cambio Climático",
+      "pregunta": "Respecto a la inscripción en el Registro de huella de carbono, compensación y proyectos de absorción de CO2, el Real Decreto 214/2025 establece que:",
+      "opciones": [
+        "La inscripción es de carácter obligatorio para las empresas obligadas a calcular la huella de carbono y para los departamentos ministeriales de la Administración General del Estado.",
+        "La inscripción es de carácter obligatorio para las empresas obligadas a calcular la huella de carbono.",
+        "La inscripción es de carácter voluntario para todos los organismos del sector público administrativo.",
+        "La inscripción es de carácter obligatorio para los departamentos ministeriales de la Administración General del Estado."
+      ],
+      "correcta": 3,
+      "explicacion": "Según la plantilla definitiva, el RD 214/2025 hace obligatoria la inscripción para los departamentos ministeriales de la AGE.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 34, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_36",
+      "tema": 10,
+      "tema_nombre": "Problemas Salud Pública Actual",
+      "pregunta": "El Objetivo de Desarrollo Sostenible \"Acción por el clima\" (\"Adoptar medidas urgentes para combatir el cambio climático y sus efectos\") es:",
+      "opciones": [
+        "El ODS 11.",
+        "El ODS 5.",
+        "El ODS 13.",
+        "El ODS 12."
+      ],
+      "correcta": 2,
+      "explicacion": "ODS 13: acción por el clima. El 11 es ciudades sostenibles, el 5 igualdad de género y el 12 producción y consumo responsables.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 36, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_39",
+      "tema": 27,
+      "tema_nombre": "Cambio Climático",
+      "pregunta": "En relación con la Misión de la UE «Ciudades inteligentes y climáticamente neutras», ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "La Misión tiene como horizonte que las ciudades participantes alcancen la neutralidad climática en 2030 y plantea un enfoque integrado que incluye transformación urbana, movilidad, energía, edificios, innovación, financiación y participación ciudadana.",
+        "La Misión establece 2040 como horizonte para que las ciudades seleccionadas alcancen la neutralidad climática y utiliza 2030 como etapa intermedia para la reducción de emisiones.",
+        "La Misión establece 2030 como horizonte común para todas las ciudades de la Unión Europea, con independencia de su participación en la iniciativa, y proporciona instrumentos financieros específicos para facilitar su cumplimiento.",
+        "La Misión tiene como principal instrumento los planes nacionales de energía y clima, que deben incorporar los objetivos de neutralidad climática de las ciudades participantes para el año 2030."
+      ],
+      "correcta": 0,
+      "explicacion": "La Misión busca 100 ciudades climáticamente neutras en 2030 (Zaragoza es una de ellas), solo entre las participantes y con un enfoque integrado.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 39, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_40",
+      "tema": 27,
+      "tema_nombre": "Cambio Climático",
+      "pregunta": "En el marco del Pacto de las Alcaldías por el clima y la energía, los firmantes se comprometen a:",
+      "opciones": [
+        "Elaborar un acuerdo climático de ciudad que incluya un plan de acción y un plan de inversión.",
+        "Reducir sus emisiones de gases de efecto invernadero (pilar de mitigación), aumentar su resistencia al cambio climático (pilar de adaptación) y luchar contra la pobreza energética (pilar de pobreza energética).",
+        "Realizar un conjunto de indicadores climáticos y llevar a cabo su seguimiento anual.",
+        "Establecer un objetivo vinculante de reducción de emisiones brutas de gases de efecto invernadero de al menos un 55 % de aquí a 2050."
+      ],
+      "correcta": 1,
+      "explicacion": "El Pacto de las Alcaldías se apoya en tres pilares: mitigación, adaptación y pobreza energética. El acuerdo climático de ciudad con plan de inversión es propio de la Misión de ciudades neutras.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 40, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_41",
+      "tema": 37,
+      "tema_nombre": "ISO 17025",
+      "pregunta": "¿Cuál de estas afirmaciones es la correcta?",
+      "opciones": [
+        "Un laboratorio acreditado tiene implantado un sistema de gestión de calidad y además ha sido auditado por la Asociación Española de Normalización AENOR para verificar el cumplimiento del alcance de sus procesos.",
+        "Un laboratorio acreditado tiene implantado un sistema de gestión de calidad y un sistema de gestión medioambiental.",
+        "Un laboratorio acreditado tiene implantado un sistema de gestión de calidad y ha demostrado su competencia técnica ante la Entidad Nacional de Acreditación (ENAC) para los ensayos incluidos en el alcance de acreditación.",
+        "Un laboratorio acreditado tiene implantado un sistema de gestión de calidad y participa habitualmente en ejercicios interlaboratorios."
+      ],
+      "correcta": 2,
+      "explicacion": "La acreditación (ISO/IEC 17025) la concede ENAC y reconoce la competencia técnica para los ensayos de su alcance. AENOR certifica sistemas (ISO 9001, 14001), no acredita.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 41, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_44",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "En el RD 3/2023, el valor paramétrico de los trihalometanos se calcula como la suma de:",
+      "opciones": [
+        "Tricloroeteno y benceno.",
+        "Cloroformo y cloro residual.",
+        "Cloroformo, bromoformo, bromodiclorometano y dibromometano.",
+        "Yodoformo y tricloroeteno."
+      ],
+      "correcta": 2,
+      "explicacion": "Los THM son cloroformo, bromoformo, bromodiclorometano y dibromoclorometano (en el examen aparece como \"dibromometano\"). Su suma no debe superar 100 µg/L.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 44, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_48",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "El RD 3/2023 ha introducido parámetros químicos que no tenía el anterior RD 140/2003, como:",
+      "opciones": [
+        "Mercurio.",
+        "Bisfenol A.",
+        "Conductividad.",
+        "Turbidez."
+      ],
+      "correcta": 1,
+      "explicacion": "El bisfenol A es nuevo en el RD 3/2023 (junto con PFAS, uranio, clorato, clorito o ácidos haloacéticos, entre otros). Mercurio, conductividad y turbidez ya estaban.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 48, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_58",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Según el RD 3/2023, ¿qué es el valor paramétrico?",
+      "opciones": [
+        "Nivel máximo fijado para cada uno de los parámetros a controlar.",
+        "Nivel mínimo fijado para cada uno de los parámetros a controlar.",
+        "Nivel promedio deseable para cada uno de los parámetros a controlar.",
+        "Nivel máximo o mínimo fijado para cada uno de los parámetros a controlar."
+      ],
+      "correcta": 3,
+      "explicacion": "Es el nivel máximo o mínimo fijado para cada parámetro: casi todos son máximos, pero hay mínimos (por ejemplo, el pH tiene un intervalo).",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 58, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_59",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "A efectos del RD 3/2023, ¿qué es una acometida?",
+      "opciones": [
+        "Zona de captación del agua para producción del agua de consumo.",
+        "Entrada a un depósito regulador de agua de consumo.",
+        "Agua distribuida por un depósito de cabecera.",
+        "Tubería y elementos que enlazan la instalación general del edificio o red interior con la red de distribución exterior de suministro."
+      ],
+      "correcta": 3,
+      "explicacion": "La acometida enlaza la red de distribución pública con la instalación interior del edificio.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 59, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_60",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Los laboratorios que analicen entre 300 y 5000 muestras al año tienen que tener acreditados todos los métodos de análisis antes del:",
+      "opciones": [
+        "2 de enero de 2024.",
+        "Sólo tiene que tener los métodos validados y documentados.",
+        "10 de enero de 2023.",
+        "2 de enero de 2028."
+      ],
+      "correcta": 3,
+      "explicacion": "Según la plantilla definitiva, el RD 3/2023 da a estos laboratorios de plazo hasta el 2 de enero de 2028 para acreditar todos sus métodos.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 60, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_61",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Conforme al art. 36 del RD 3/2023, ¿qué es correcto sobre la filtración por arena u otro medio filtrante previa a la desinfección en una captación subterránea?",
+      "opciones": [
+        "Nunca es obligatoria.",
+        "Es obligatoria cuando la calidad del agua captada tiene una turbidez mayor de 1 UNF en más del 5 % de las muestras anuales.",
+        "Es obligatoria cuando la calidad del agua captada tiene una turbidez mayor de 5 UNF en más del 10 % de las muestras anuales.",
+        "Es obligatoria cuando la calidad del agua captada tiene una turbidez mayor de 10 UNF en más del 10 % de las muestras anuales."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 36 RD 3/2023: en captaciones subterráneas la filtración previa es obligatoria si la turbidez supera 1 UNF en más del 5 % de las muestras anuales.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 61, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_62",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Respecto a la limpieza y desinfección de depósitos (art. 37 del RD 3/2023), señale la afirmación correcta:",
+      "opciones": [
+        "Para depósitos mayores de 50.000 m³ de capacidad, la limpieza y desinfección se realizará en todo caso cada 3 años.",
+        "Para depósitos menores de 5.000 m³ de capacidad, la limpieza y desinfección se realizará al menos cada 5 años o cuando la autoridad sanitaria así lo requiera.",
+        "Para depósitos menores de 10.000 m³ de capacidad, la limpieza y desinfección se realizará al menos cada 3 años o cuando la autoridad sanitaria así lo requiera.",
+        "Todas las respuestas anteriores son correctas."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el art. 37, los depósitos de menos de 10.000 m³ se limpian y desinfectan al menos cada 3 años o cuando lo requiera la autoridad sanitaria.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 62, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_63",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Conforme al anexo II, parte A, del RD 3/2023, ¿qué es correcto sobre el control de rutina?",
+      "opciones": [
+        "Tiene por objeto facilitar al operador y a la autoridad sanitaria la información sobre la calidad organoléptica y microbiológica del agua de consumo, así como información sobre la eficacia del tratamiento de potabilización.",
+        "Tiene por objeto la valoración de las características organolépticas del agua de consumo y el control de la desinfección.",
+        "Tiene por objeto facilitar al ciudadano las características generales del agua.",
+        "Tiene por objeto facilitar al operador una visión rápida de la eficacia del tratamiento y los problemas de calidad del agua, permitiendo una acción correctora rápida previamente planificada."
+      ],
+      "correcta": 1,
+      "explicacion": "Según la plantilla definitiva, el control de rutina sirve para valorar las características organolépticas y controlar la desinfección. Fíjate en las opciones a) y d): son definiciones parecidas que se confunden con ella.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 63, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_64",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Según las definiciones del anexo VII del RD 3/2023, ¿qué es un punto crítico?",
+      "opciones": [
+        "Es el punto, operación o etapa donde se realiza un seguimiento programado en base al Plan Sanitario del Agua.",
+        "Es el punto, operación o etapa que requiere medidas preventivas, de control o correctoras eficaces para eliminar o minimizar el riesgo hasta niveles aceptables en base al Plan Sanitario del Agua.",
+        "Es el hecho o suceso que introduce agentes biológicos, químicos, físicos o radiológicos en la zona de abastecimiento o en sus infraestructuras, o que no los elimina.",
+        "Es el agente biológico, químico, físico o radiológico presente en el agua, u otro aspecto de su estado, que pueda causar daño a la salud humana."
+      ],
+      "correcta": 1,
+      "explicacion": "Punto crítico: etapa que necesita medidas eficaces para eliminar o reducir un riesgo. La c) define un suceso peligroso y la d) un peligro.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 64, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_65",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Según el artículo 50 del RD 3/2023, ¿quién es responsable de la evaluación y gestión de los riesgos de la etapa de CAPTACIÓN?",
+      "opciones": [
+        "Administración hidráulica.",
+        "Autoridad sanitaria.",
+        "Operador de la toma de captación.",
+        "Operador de la planta de tratamiento."
+      ],
+      "correcta": 0,
+      "explicacion": "En la zona de captación, la evaluación y gestión del riesgo corresponde a la Administración hidráulica (los organismos de cuenca), no al operador.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 65, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_66",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Sobre el valor paramétrico de los TRIHALOMETANOS en el anexo I, parte B, del RD 3/2023:",
+      "opciones": [
+        "El valor paramétrico es de 10,0 µg/L.",
+        "El valor paramétrico es de 25,0 µg/L.",
+        "El valor paramétrico es de 60,0 µg/L.",
+        "El valor paramétrico es de 100,0 µg/L."
+      ],
+      "correcta": 3,
+      "explicacion": "Suma de THM: 100 µg/L. Los ácidos haloacéticos tienen 60 µg/L.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 66, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_67",
+      "tema": 22,
+      "tema_nombre": "Aspectos Sanitarios Agua",
+      "pregunta": "Sobre el valor paramétrico de TURBIDEZ en un depósito de distribución o regulación (anexo I, parte C, RD 3/2023):",
+      "opciones": [
+        "El valor paramétrico es de 1,0 UNF.",
+        "El valor paramétrico es de 2,0 UNF.",
+        "El valor paramétrico es de 4,0 UNF.",
+        "El valor paramétrico es de 5,0 UNF."
+      ],
+      "correcta": 2,
+      "explicacion": "Depósitos de distribución, red e instalaciones interiores: 4 UNF. A la salida de la ETAP el valor de referencia es 0,8 UNF y a la salida de la filtración ≤ 0,3 UNF en el 95 % de las muestras.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 67, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_R3",
+      "tema": 25,
+      "tema_nombre": "Muestreo Aguas",
+      "pregunta": "Los envases para toma de muestras de agua de consumo para análisis microbiológico, para neutralizar el desinfectante (cloro/hipoclorito), contienen:",
+      "opciones": [
+        "Sulfato de aluminio.",
+        "Tiosulfato sódico.",
+        "Etanol.",
+        "Magnesio."
+      ],
+      "correcta": 1,
+      "explicacion": "El tiosulfato sódico neutraliza el cloro residual para que no siga matando bacterias tras la toma.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta R3, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_68",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "¿Cuál es el pH óptimo de coagulación-floculación de los cationes Al³⁺?",
+      "opciones": [
+        "5,0 a 6,4.",
+        "6,0 a 7,4.",
+        "7,4 a 8,0.",
+        "8,0 a 8,6."
+      ],
+      "correcta": 1,
+      "explicacion": "Las sales de aluminio coagulan mejor entre pH 6 y 7,4 aproximadamente, donde la solubilidad del hidróxido de aluminio es mínima.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 68, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_69",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Al aumentar en exceso la velocidad de los agitadores de una cámara de floculación, aumenta la turbidez del agua decantada. ¿Cuál es la explicación más probable?",
+      "opciones": [
+        "El aumento de velocidad modifica la viscosidad del agua, frenando la decantación de los flóculos.",
+        "Un exceso de energía de mezcla en la floculación provoca el cizallamiento y la rotura de los flóculos ya formados.",
+        "El aumento de velocidad vuelve a cargar negativamente los coloides, elevando su potencial Zeta.",
+        "El aumento de velocidad genera flóculos excesivamente grandes que flotan en lugar de decantar."
+      ],
+      "correcta": 1,
+      "explicacion": "La floculación necesita una agitación lenta; si es demasiado intensa, los flóculos se rompen y decantan peor.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 69, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_70",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "En una ETAP se incrementa progresivamente la dosis de coagulante por encima de la que anula el potencial Zeta. ¿Qué se observa?",
+      "opciones": [
+        "Un descenso continuo y lineal de la turbiedad residual hasta su estabilización.",
+        "Una reaparición inicial de turbiedad residual por inversión de cargas seguida de la eliminación de esa turbiedad mediante la captura de los coloides en el exceso de flóculo («sweep coagulation»).",
+        "Una reaparición de la turbiedad residual causada por la subida del pH.",
+        "Una disminución de la turbiedad residual causada por la subida del pH."
+      ],
+      "correcta": 1,
+      "explicacion": "Con exceso de coagulante los coloides se reestabilizan con carga positiva y vuelve la turbidez; con dosis aún mayores el precipitado de hidróxido los arrastra (coagulación de barrido). Además, el coagulante acidifica, no sube el pH.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 70, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_71",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Entre los parámetros empleados para caracterizar un carbón activo en el laboratorio figuran:",
+      "opciones": [
+        "El índice de iodo.",
+        "El contenido en cenizas.",
+        "La capacidad de decloración.",
+        "Todas las respuestas anteriores son correctas."
+      ],
+      "correcta": 3,
+      "explicacion": "El índice de yodo (microporosidad), las cenizas y la capacidad de decloración se usan para caracterizar un carbón activo.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 71, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_72",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "El coeficiente de uniformidad (Cu) de un material filtrante se obtiene como…",
+      "opciones": [
+        "Cu = talla a 60% de peso pasante / talla a 30% de peso pasante, siendo recomendable que sea menor que 1,5.",
+        "Cu = talla a 60% de peso pasante / talla a 10% de peso pasante, siendo recomendable que sea menor que 1,5.",
+        "Cu = talla a 90% de peso pasante / talla a 10% de peso pasante, siendo recomendable que sea mayor que 1,5.",
+        "Cu = talla a 30% de peso pasante / talla a 10% de peso pasante, siendo recomendable que sea mayor que 2."
+      ],
+      "correcta": 1,
+      "explicacion": "Cu = d60/d10. Cuanto más cerca de 1, más uniforme es la arena; en filtros de agua se recomienda que sea menor de 1,5.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 72, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_73",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "El método más empleado para regenerar carbón activo en grano saturado es la regeneración térmica: calentamiento en atmósfera controlada hasta una temperatura de:",
+      "opciones": [
+        "100 °C.",
+        "200 °C.",
+        "400 °C.",
+        "800 °C."
+      ],
+      "correcta": 3,
+      "explicacion": "La regeneración térmica (secado, pirólisis y reactivación con vapor) llega a unos 800-900 °C.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 73, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_74",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "En relación con el poder biocida del cloro, señale la afirmación correcta:",
+      "opciones": [
+        "Su eficacia aumenta a valores altos de pH.",
+        "Es eficaz como bactericida y presenta una notable acción virulicida, pero tiene un efecto despreciable sobre los organismos parásitos, sobre todo enquistados.",
+        "Es igualmente eficaz frente a bacterias, virus y quistes de protozoos, con independencia del tiempo de contacto.",
+        "Carece de acción sobre las bacterias, actuando exclusivamente sobre los virus."
+      ],
+      "correcta": 1,
+      "explicacion": "El cloro funciona muy bien contra bacterias y virus, pero apenas contra quistes y ooquistes (Cryptosporidium, Giardia). A pH alto predomina el hipoclorito, menos eficaz que el ácido hipocloroso.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 74, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_75",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Según el Ayuntamiento de Zaragoza, en la Planta Potabilizadora de Casablanca los reactivos de coagulación y floculación son, respectivamente:",
+      "opciones": [
+        "Sulfato de alúmina y almidón.",
+        "Cloruro férrico y polielectrolito aniónico.",
+        "Policloruro de aluminio (PAC) y sílice activada.",
+        "Sulfato de alúmina y polielectrolito catiónico."
+      ],
+      "correcta": 0,
+      "explicacion": "Según la plantilla definitiva, en Casablanca se coagula con sulfato de alúmina y se flocula con almidón (un floculante natural).",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 75, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_76",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Según el Ayuntamiento de Zaragoza, sobre la Planta de Recuperación de Agua (PRA) de la potabilizadora de Casablanca, señale la afirmación correcta:",
+      "opciones": [
+        "La deshidratación se realiza mediante batería de filtros banda y el agua recuperada vuelve a la cabecera de la Planta Potabilizadora.",
+        "La deshidratación se realiza mediante centrifugadoras y el agua recuperada vuelve a la cabecera de la Planta Potabilizadora.",
+        "La deshidratación se realiza mediante batería de filtros banda y el agua recuperada vuelve al Canal Imperial de Aragón.",
+        "La deshidratación se realiza mediante centrifugadoras y el agua recuperada vuelve al Canal Imperial de Aragón."
+      ],
+      "correcta": 0,
+      "explicacion": "Según la plantilla definitiva, los fangos se deshidratan con una batería de filtros banda y el agua recuperada vuelve a la cabecera de la potabilizadora.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 76, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_77",
+      "tema": 21,
+      "tema_nombre": "Aguas Consumo",
+      "pregunta": "Según el Ayuntamiento de Zaragoza, sobre la configuración de la red de distribución de agua de Zaragoza y sus presiones de servicio:",
+      "opciones": [
+        "Es una red fundamentalmente ramificada, con mallas únicamente en los extremos hacia zonas industriales; las presiones medias varían entre 20 y 50 metros de columna de agua.",
+        "Es una gran malla, con ramificaciones en los extremos hacia zonas industriales o barrios periféricos; las presiones medias varían entre 20 y 50 metros de columna de agua.",
+        "Es una gran malla, con ramificaciones en los extremos hacia zonas industriales o barrios periféricos; las presiones medias varían entre 20 y 50 bar.",
+        "Es una red fundamentalmente ramificada, con mallas únicamente en los extremos hacia zonas industriales; las presiones medias varían entre 20 y 50 bar."
+      ],
+      "correcta": 1,
+      "explicacion": "La red es una gran malla con ramales en la periferia, a 20-50 m de columna de agua (2-5 bar). 20-50 bar sería una presión desorbitada para una red urbana.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 77, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_78",
+      "tema": 25,
+      "tema_nombre": "Muestreo Aguas",
+      "pregunta": "Las estaciones de la red SAICA en la cuenca del Ebro hacen un seguimiento en continuo y miden:",
+      "opciones": [
+        "pH, temperatura, conductividad, turbidez y sodio.",
+        "pH, temperatura, cloro residual, turbidez y amonio total.",
+        "pH, temperatura, conductividad, oxígeno disuelto, turbidez y amonio total.",
+        "pH, temperatura, conductividad, cloro residual, turbidez y nitritos."
+      ],
+      "correcta": 2,
+      "explicacion": "El SAICA (Sistema Automático de Información de Calidad de las Aguas) mide en continuo pH, temperatura, conductividad, oxígeno disuelto, turbidez y amonio. El cloro residual no tiene sentido en un río.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 78, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_79",
+      "tema": 40,
+      "tema_nombre": "Laboratorio Fisicoquímica",
+      "pregunta": "La ITC MIE APQ-6 se aplica a los almacenamientos que superen determinadas cantidades totales almacenadas. Señale la respuesta correcta:",
+      "opciones": [
+        "100 l de clase 1A, 400 l de clase 1B y 1.000 l de clase 1C.",
+        "200 l de clase 1A, 400 l de clase 1B y 1.000 l de clase 1C.",
+        "200 l de clase 1A, 500 l de clase 1B y 1.000 l de clase 1C.",
+        "250 l de clase 1A, 500 l de clase 1B y 1.000 l de clase 1C."
+      ],
+      "correcta": 1,
+      "explicacion": "Según la plantilla definitiva, la ITC MIE APQ-6 (líquidos corrosivos, RD 656/2017) se aplica a partir de 200 L de clase 1A, 400 L de clase 1B y 1.000 L de clase 1C.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 79, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_R4",
+      "tema": 40,
+      "tema_nombre": "Laboratorio Fisicoquímica",
+      "pregunta": "Según el art. 5 del Reglamento de almacenamiento de productos químicos, sobre el control de las instalaciones y las obligaciones del titular:",
+      "opciones": [
+        "Cada tres años el titular deberá presentar ante el órgano competente de la comunidad autónoma un certificado emitido por un organismo de control habilitado.",
+        "Cada cinco años el titular deberá presentar ante el órgano competente de la comunidad autónoma un certificado emitido por un organismo de control habilitado.",
+        "Cada diez años el titular deberá presentar ante el órgano competente de la comunidad autónoma un certificado emitido por un organismo de control habilitado.",
+        "Cada diez años el titular deberá presentar ante el órgano competente de la comunidad autónoma un certificado emitido por el titular de la instalación."
+      ],
+      "correcta": 1,
+      "explicacion": "RD 656/2017, art. 5: cada cinco años el titular presenta un certificado de un organismo de control habilitado.",
+      "bloque": "especifica",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta R4, plantilla definitiva)",
+      "oficial": true
     }
   ]
 }

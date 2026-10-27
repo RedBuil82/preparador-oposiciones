@@ -5557,6 +5557,276 @@
       "ambito": "aragon",
       "fuente": "Generada por Claude (contrastada con el PDF del temario)",
       "revisada": "2026-10"
+    },
+    {
+      "id": "QZ26_1",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "Además de un Título Preliminar, la Constitución española consta de:",
+      "opciones": [
+        "Ocho títulos.",
+        "Diez títulos.",
+        "Doce títulos.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 1,
+      "explicacion": "La CE tiene un Título Preliminar y diez títulos (I a X), además de disposiciones adicionales, transitorias, derogatoria y final.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 1, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_2",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "Los artículos 6 y 7 de la Constitución española dicen que \"su estructura interna y funcionamiento deberán ser democráticos\" refiriéndose:",
+      "opciones": [
+        "A los partidos políticos.",
+        "A los sindicatos de trabajadores.",
+        "A las asociaciones empresariales.",
+        "Las respuestas a), b) y c) son correctas."
+      ],
+      "correcta": 3,
+      "explicacion": "El art. 6 lo exige a los partidos políticos y el art. 7 a los sindicatos de trabajadores y a las asociaciones empresariales.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 2, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_3",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "De acuerdo con el artículo 137 de la Constitución española, el Estado se organiza territorialmente:",
+      "opciones": [
+        "En municipios.",
+        "En municipios, provincias y Comunidades Autónomas.",
+        "En municipios y provincias.",
+        "En Comunidades Autónomas."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 137 CE: el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 3, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_4",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "La Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, dice en su artículo 2.1 que gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo:",
+      "opciones": [
+        "Todos.",
+        "Los ciudadanos.",
+        "Todas las personas.",
+        "Los españoles."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 2.1 LO 3/2007: \"Todas las personas gozarán de los derechos derivados del principio de igualdad de trato…\".",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 4, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_5",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "El artículo 1.1 de su Estatuto de Autonomía define a Aragón como:",
+      "opciones": [
+        "Nación.",
+        "Nacionalidad histórica.",
+        "Nacionalidad.",
+        "Región."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 1.1 EAAr: Aragón, como nacionalidad histórica, ejerce su autogobierno de acuerdo con el Estatuto.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 5, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_6",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "Según el artículo 37.4 del Estatuto de Autonomía de Aragón, para la elección de Diputados y Diputadas de las Cortes de Aragón la circunscripción electoral será:",
+      "opciones": [
+        "La Comunidad Autónoma.",
+        "La provincia.",
+        "La comarca.",
+        "El municipio."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 37.4 EAAr: la circunscripción electoral es la provincia.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 6, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_7",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "Según el artículo 46.1 del Estatuto de Autonomía de Aragón, el Presidente de Aragón es elegido:",
+      "opciones": [
+        "Por el Gobierno de Aragón.",
+        "Por las Cortes de Aragón a propuesta del Gobierno de Aragón.",
+        "Por las Cortes de Aragón.",
+        "Por el Gobierno de Aragón a propuesta de las Cortes de Aragón."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 46.1 EAAr: el Presidente es elegido por las Cortes de Aragón de entre sus miembros y nombrado por el Rey.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 7, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_8",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "¿Figura la materia \"Relaciones internacionales\" como una materia sobre la que corresponde competencia a la Comunidad Autónoma de Aragón según los artículos 70 y siguientes de su Estatuto de Autonomía?",
+      "opciones": [
+        "No.",
+        "Sí, competencia ejecutiva.",
+        "Sí, competencia compartida.",
+        "Sí, competencia exclusiva."
+      ],
+      "correcta": 0,
+      "explicacion": "Las relaciones internacionales son competencia exclusiva del Estado (art. 149.1.3.ª CE); no figuran entre las competencias de Aragón de los arts. 71, 75 y 77 del Estatuto.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 8, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_11",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "De acuerdo con el artículo 80.1 de la Ley 39/2015, salvo disposición expresa en contrario los informes serán:",
+      "opciones": [
+        "Facultativos.",
+        "No vinculantes.",
+        "Las respuestas a) y b) son correctas.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 80.1 Ley 39/2015: salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 11, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_12",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "Según los artículos 122 y 124 de la Ley 39/2015, ¿para la interposición de qué recurso el plazo será de un mes si el acto fuera expreso?",
+      "opciones": [
+        "Para la interposición del recurso de alzada.",
+        "Para la interposición del recurso de reposición.",
+        "Las respuestas a) y b) son correctas.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "explicacion": "Tanto la alzada (art. 122) como la reposición (art. 124) tienen un plazo de un mes si el acto es expreso.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 12, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_13",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "El artículo 59 del TRLRHL (RDL 2/2004) enumera los impuestos municipales. Entre ellos figura:",
+      "opciones": [
+        "El Impuesto Especial sobre determinados Medios de Transporte.",
+        "El Impuesto sobre el Valor Añadido.",
+        "Las respuestas a) y b) son correctas.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 59 TRLRHL: IBI, IAE e IVTM (obligatorios) e ICIO e IIVTNU (potestativos). El impuesto de matriculación y el IVA son estatales.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 13, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_14",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "Según el artículo 65 del TRLRHL, ¿qué valor de un inmueble constituye la base imponible del Impuesto sobre Bienes Inmuebles?",
+      "opciones": [
+        "El valor hipotecario.",
+        "El valor de mercado.",
+        "El valor catastral.",
+        "El valor de referencia."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 65 TRLRHL: la base imponible del IBI es el valor catastral.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 14, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_R2",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "Del artículo 2.1 b) del TRLRHL (RDL 2/2004) se desprende que NO constituyen un tributo propio de las entidades locales:",
+      "opciones": [
+        "Los precios públicos.",
+        "Las tasas.",
+        "Las contribuciones especiales.",
+        "Los impuestos."
+      ],
+      "correcta": 0,
+      "explicacion": "Los tributos propios son tasas, contribuciones especiales e impuestos (art. 2.1 b). Los precios públicos son un recurso distinto (art. 2.1 e), no un tributo.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta R2, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_19",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el artículo 39 del TREBEP, las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo:",
+      "opciones": [
+        "De 25 funcionarios.",
+        "De 50 funcionarios.",
+        "De 100 funcionarios.",
+        "De 250 funcionarios."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 39 TREBEP: Juntas de Personal en unidades electorales con un censo mínimo de 50 funcionarios; por debajo hay Delegados de Personal.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 19, plantilla definitiva)",
+      "oficial": true
+    },
+    {
+      "id": "QZ26_20",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el artículo 60 del TREBEP (\"órganos de selección\"), no podrán formar parte de los órganos de selección:",
+      "opciones": [
+        "El personal de elección o de designación política.",
+        "Los funcionarios interinos.",
+        "El personal eventual.",
+        "Las respuestas a), b) y c) son correctas."
+      ],
+      "correcta": 3,
+      "explicacion": "Art. 60.2 TREBEP: no pueden formar parte el personal de elección o designación política, los funcionarios interinos ni el personal eventual.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 20, plantilla definitiva)",
+      "oficial": true
     }
   ]
 }
