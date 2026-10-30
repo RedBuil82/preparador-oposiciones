@@ -5827,6 +5827,397 @@
       "ambito": "estatal",
       "origen": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 20, plantilla definitiva)",
       "oficial": true
+    },
+    {
+      "id": "OAI26_1",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "El 6 de diciembre de 1978:",
+      "opciones": [
+        "Fue aprobada la vigente Constitución española.",
+        "Fue ratificado en referéndum el proyecto de la vigente Constitución española.",
+        "Fue sancionada y promulgada la vigente Constitución española."
+      ],
+      "correcta": 1,
+      "explicacion": "El 6 de diciembre de 1978 se ratificó en referéndum el proyecto de Constitución. Las Cortes lo habían aprobado el 31 de octubre; el Rey la sancionó y promulgó el 27 de diciembre y se publicó en el BOE el 29 de diciembre, fecha de su entrada en vigor.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 1, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_2",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "De acuerdo con el artículo 1.3 de la Constitución española, la forma política del Estado español es:",
+      "opciones": [
+        "La Monarquía liberal.",
+        "La Monarquía democrática.",
+        "La Monarquía parlamentaria."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 1.3 CE: la forma política del Estado español es la Monarquía parlamentaria.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 2, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_3",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "Según el artículo 5 de su Estatuto de Autonomía, Aragón estructura su organización territorial:",
+      "opciones": [
+        "En municipios.",
+        "En municipios y comarcas.",
+        "En municipios, comarcas y provincias."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 5 EAA: Aragón estructura su organización territorial en municipios, comarcas y provincias.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 3, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_4",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "De acuerdo con el artículo 33 del Estatuto de Autonomía de Aragón, la representación del pueblo aragonés la ostenta:",
+      "opciones": [
+        "El Presidente de Aragón.",
+        "Las Cortes de Aragón.",
+        "El Gobierno de Aragón."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 33.1 EAA: las Cortes de Aragón representan al pueblo aragonés, ejercen la potestad legislativa, aprueban los presupuestos e impulsan y controlan la acción del Gobierno. El Presidente ostenta la suprema representación de Aragón y la ordinaria del Estado (art. 46), que es otra cosa.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_5",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "De acuerdo con el artículo 54 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los procedimientos podrán iniciarse:",
+      "opciones": [
+        "De oficio o a solicitud del interesado.",
+        "De oficio.",
+        "A solicitud del interesado."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 54 Ley 39/2015: los procedimientos podrán iniciarse de oficio o a solicitud del interesado.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 5, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_6",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "De acuerdo con los artículos 93 y 94 de la Ley 39/2015, el procedimiento puede finalizar:",
+      "opciones": [
+        "Mediante desistimiento de la Administración.",
+        "Mediante desistimiento del interesado.",
+        "Mediante desistimiento de la Administración o del interesado."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 93: en los procedimientos iniciados de oficio, la Administración puede desistir motivadamente. Art. 94: todo interesado puede desistir de su solicitud. Por eso caben las dos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 6, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_7",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el artículo 12.1 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, el nombramiento de los miembros del Gobierno de Zaragoza es una atribución:",
+      "opciones": [
+        "Del Pleno.",
+        "Del Alcalde.",
+        "Del Pleno a propuesta del Alcalde."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 12.1 Ley 10/2017: corresponde al Alcalde nombrar y cesar a los miembros del Gobierno de Zaragoza y a los Tenientes de Alcalde.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 7, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_8",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "De acuerdo con el artículo 2.1 del TRLRHL (RDL 2/2004), constituyen tributos propios de las entidades locales:",
+      "opciones": [
+        "Los precios públicos.",
+        "Las contribuciones especiales.",
+        "Las subvenciones."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 2.1.b) TRLRHL: los tributos propios son las tasas, las contribuciones especiales y los impuestos. Los precios públicos (2.1.e) y las subvenciones (2.1.d) son recursos, pero no tributos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 8, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_9",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "De acuerdo con el artículo 59.2 del TRLRHL (RDL 2/2004), los ayuntamientos podrán establecer y exigir:",
+      "opciones": [
+        "El Impuesto sobre Construcciones, Instalaciones y Obras.",
+        "El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 59.2 TRLRHL: son potestativos el ICIO y el IIVTNU (plusvalía). Los obligatorios son el IBI, el IAE y el IVTM (art. 59.1).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 9, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_10",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "De acuerdo con el artículo 65 del TRLRHL (RDL 2/2004), la base imponible del Impuesto sobre Bienes Inmuebles estará constituida por:",
+      "opciones": [
+        "El valor real de los bienes inmuebles.",
+        "El valor catastral de los bienes inmuebles.",
+        "El valor hipotecario de los bienes inmuebles."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 65 TRLRHL: la base imponible del IBI es el valor catastral de los bienes inmuebles.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 10, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_R4",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el artículo 95 del TREBEP (RDL 5/2015), el acoso laboral es una falta disciplinaria:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 95.2.o) TREBEP: el acoso laboral es falta muy grave, igual que el acoso por razón de origen racial o étnico, religión, discapacidad, edad u orientación sexual, y el acoso sexual o por razón de sexo (art. 95.2.b).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta de reserva 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OAI26_R5",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el artículo 39.1 del TREBEP (RDL 5/2015), los órganos específicos de representación de los funcionarios son:",
+      "opciones": [
+        "Los Delegados de Personal.",
+        "Los Delegados de Personal y las Juntas de Personal.",
+        "Las Juntas de Personal."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 39.1 TREBEP: los órganos específicos de representación de los funcionarios son los Delegados de Personal (unidades de 6 a 49 funcionarios) y las Juntas de Personal (50 o más).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Agente Inspector/a (PI) Ayto. Zaragoza, 29-10-2026 (pregunta de reserva 5, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_1",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "El artículo 53.1 del TREBEP (RDL 5/2015) cita expresamente como normativa que deben respetar los empleados públicos:",
+      "opciones": [
+        "La Constitución.",
+        "El Estatuto Básico del Empleado Público.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 53.1 TREBEP: los empleados públicos respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico. Solo cita expresamente la Constitución.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 1, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_2",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "El artículo 53.7 del TREBEP (RDL 5/2015) dice que los empleados públicos no aceptarán ningún trato de favor o situación que implique privilegio o:",
+      "opciones": [
+        "Ventaja inmerecida.",
+        "Ventaja injustificada.",
+        "Ventaja."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 53.7 TREBEP: no aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 2, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_3",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "El artículo 53.12 del TREBEP (RDL 5/2015) dice que los empleados públicos mantendrán la debida discreción:",
+      "opciones": [
+        "Sobre las materias clasificadas.",
+        "Sobre aquellos asuntos que conozcan por razón de su cargo.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 53.12 TREBEP: guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo. Secreto y discreción son deberes distintos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 3, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_4",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 54.3 del TREBEP (RDL 5/2015), el empleado público que reciba una instrucción u orden profesional de sus superiores que constituya una infracción manifiesta del ordenamiento jurídico:",
+      "opciones": [
+        "No debe obedecerla.",
+        "La pondrá inmediatamente en conocimiento de los órganos de inspección procedentes.",
+        "No debe obedecerla y la pondrá inmediatamente en conocimiento de los órganos de inspección procedentes."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 54.3 TREBEP: obedecerán las órdenes de los superiores salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección. Es decir, no la obedece y además la comunica.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_5",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "Según el artículo 20.1 del TREBEP (RDL 5/2015), la evaluación del desempeño es el procedimiento mediante el cual se mide y valora:",
+      "opciones": [
+        "La conducta profesional y el rendimiento o el logro de resultados.",
+        "El rendimiento.",
+        "La conducta profesional."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 20.1 TREBEP: la evaluación del desempeño mide y valora la conducta profesional y el rendimiento o el logro de resultados. Las Administraciones \"establecerán\" (obligatorio) sistemas para ello.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 5, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_6",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 95.1 del TREBEP (RDL 5/2015), las faltas disciplinarias pueden ser:",
+      "opciones": [
+        "Graves y leves.",
+        "Graves, menos graves y leves.",
+        "Muy graves, graves y leves."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 95.1 TREBEP: las faltas disciplinarias pueden ser muy graves, graves y leves.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 6, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_7",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 94.2 del TREBEP (RDL 5/2015), la potestad disciplinaria se ejercerá de acuerdo, entre otros, con:",
+      "opciones": [
+        "El principio de culpabilidad.",
+        "El principio de presunción de inocencia.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 94.2 TREBEP: principios de legalidad y tipicidad, irretroactividad de las disposiciones desfavorables y retroactividad de las favorables, proporcionalidad, culpabilidad y presunción de inocencia.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 7, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_8",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 94.3 del TREBEP (RDL 5/2015), cuando de la instrucción de un procedimiento disciplinario resulten indicios fundados de criminalidad, se suspenderá su tramitación poniéndolo en conocimiento:",
+      "opciones": [
+        "Del Juez competente.",
+        "Del Ministerio Fiscal.",
+        "Del Juez competente o del Ministerio Fiscal."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 94.3 TREBEP: se suspende la tramitación poniéndolo en conocimiento del Ministerio Fiscal. Los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 8, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_10",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 47.1 del TREBEP (RDL 5/2015):",
+      "opciones": [
+        "La jornada de trabajo será a tiempo completo.",
+        "La jornada de trabajo podrá ser a tiempo completo o a tiempo parcial.",
+        "La jornada de trabajo podrá ser a tiempo parcial."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 47.1 TREBEP: las Administraciones establecerán la jornada general y las especiales de sus funcionarios; la jornada podrá ser a tiempo completo o a tiempo parcial.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta 10, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_R4",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "El artículo 47.2 del TREBEP (RDL 5/2015) dice que las Administraciones adoptarán medidas de flexibilización horaria para la conciliación de los empleados públicos que tengan a su cargo hijos e hijas:",
+      "opciones": [
+        "Menores de diez años.",
+        "Menores de catorce años.",
+        "Menores de doce años."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 47.2 TREBEP: flexibilización horaria para quienes tengan a su cargo hijos e hijas menores de doce años, y para quienes tengan necesidades de cuidado de hijos mayores de doce, cónyuge o pareja, familiares hasta el segundo grado u otros convivientes que no puedan valerse por sí mismos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta de reserva 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "AF26_R5",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 47.2 del TREBEP (RDL 5/2015), las Administraciones adoptarán medidas de flexibilización horaria para los empleados públicos que tengan necesidades de cuidado respecto de los hijos e hijas:",
+      "opciones": [
+        "Mayores de diez años.",
+        "Mayores de doce años.",
+        "Mayores de catorce años."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 47.2 TREBEP: hasta los doce años basta con tenerlos a cargo; por encima de doce, la flexibilización procede cuando hay necesidades de cuidado (por edad, accidente o enfermedad).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta de reserva 5, plantilla provisional)",
+      "oficial": true
     }
   ]
 }
