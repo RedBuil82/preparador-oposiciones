@@ -6218,6 +6218,227 @@
       "ambito": "estatal",
       "origen": "Examen real · Agente Forestal (PI) Ayto. Zaragoza, 29-10-2026 (pregunta de reserva 5, plantilla provisional)",
       "oficial": true
+    },
+    {
+      "id": "OPID26_1",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "¿Qué título de la Constitución española tiene como epígrafe «De los derechos y deberes fundamentales»?",
+      "opciones": [
+        "El Título I.",
+        "El Título II.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 0,
+      "explicacion": "El Título I (arts. 10 a 55) se titula «De los derechos y deberes fundamentales». El Título II (arts. 56 a 65) es «De la Corona».",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 1, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_2",
+      "tema": 1,
+      "tema_nombre": "La Constitución española",
+      "pregunta": "De acuerdo con el artículo 141.4 de la Constitución española, en los archipiélagos, las islas tendrán además su administración propia en forma:",
+      "opciones": [
+        "De Cabildos o Consejos.",
+        "De Cabildos.",
+        "De Consejos."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 141.4 CE: en los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos (Canarias) o Consejos (Baleares).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 2, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_3",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "Según el artículo 1.2 del Estatuto de Autonomía de Aragón, los poderes de la Comunidad Autónoma de Aragón emanan:",
+      "opciones": [
+        "Del pueblo aragonés.",
+        "Del pueblo aragonés y de la Constitución.",
+        "Del pueblo aragonés, de la Constitución y del Estatuto de Autonomía."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 1.2 EAA: los poderes de la Comunidad Autónoma de Aragón emanan del pueblo aragonés y de la Constitución.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 3, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_4",
+      "tema": 3,
+      "tema_nombre": "El Estatuto de Autonomía de Aragón",
+      "pregunta": "El artículo 32 del Estatuto de Autonomía de Aragón enumera las instituciones de la Comunidad Autónoma. Entre ellas figura:",
+      "opciones": [
+        "El Tribunal Superior de Justicia.",
+        "El Justicia.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 32 EAA: las instituciones son las Cortes de Aragón, el Presidente, el Gobierno de Aragón o Diputación General y el Justicia de Aragón. El Tribunal Superior de Justicia no es una institución de la Comunidad Autónoma (pertenece al Poder Judicial).",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_5",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "Según el artículo 88.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las resoluciones contendrán la decisión y expresarán, además:",
+      "opciones": [
+        "Los recursos que contra la misma procedan.",
+        "Los recursos que contra la misma procedan y órgano administrativo o judicial ante el que hubieran de presentarse.",
+        "Los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 88.3 Ley 39/2015: la resolución contendrá la decisión, que será motivada en los casos del art. 35, y expresará además los recursos que procedan, el órgano administrativo o judicial ante el que hubieran de presentarse y el plazo para interponerlos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 5, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_6",
+      "tema": 4,
+      "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+      "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas establece en su artículo 82.2 («Trámite de audiencia») que los interesados podrán alegar y presentar los documentos y justificaciones que estimen pertinentes en un plazo no inferior a diez días ni superior:",
+      "opciones": [
+        "A quince.",
+        "A veinte.",
+        "A treinta."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 82.2 Ley 39/2015: los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 6, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_7",
+      "tema": 5,
+      "tema_nombre": "Ley de capitalidad de Zaragoza",
+      "pregunta": "Según el artículo 3 de la Ley 10/2017, de 30 de noviembre, de régimen especial del municipio de Zaragoza como capital de Aragón, la alteración del término municipal de Zaragoza corresponde, de acuerdo con el procedimiento establecido en la legislación de régimen local:",
+      "opciones": [
+        "A las Cortes de Aragón.",
+        "Al Gobierno de Aragón.",
+        "Al Gobierno de la Nación."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 3 Ley 10/2017: la alteración del término municipal de Zaragoza corresponde al Gobierno de Aragón, de acuerdo con el procedimiento de la legislación de régimen local.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 7, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_8",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "De acuerdo con el artículo 2.1 del Real Decreto Legislativo 2/2004 (TRLRHL), constituyen un tributo propio de las entidades locales:",
+      "opciones": [
+        "Las tasas.",
+        "Los precios públicos.",
+        "Las multas y sanciones."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 2.1.b) TRLRHL: los tributos propios son las tasas, las contribuciones especiales y los impuestos. Los precios públicos (2.1.e) y las multas y sanciones (2.1.g) son recursos de las entidades locales, pero no tributos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 8, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_9",
+      "tema": 6,
+      "tema_nombre": "Haciendas Locales",
+      "pregunta": "Según el artículo 59 del Real Decreto Legislativo 2/2004 (TRLRHL), es un impuesto que los ayuntamientos «exigirán»:",
+      "opciones": [
+        "El Impuesto sobre Construcciones, Instalaciones y Obras.",
+        "El Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+        "Ninguna de las respuestas anteriores es correcta."
+      ],
+      "correcta": 2,
+      "explicacion": "Art. 59.1 TRLRHL: los ayuntamientos exigirán el IBI, el IAE y el IVTM. El ICIO y el IIVTNU son potestativos: «podrán establecer y exigir» (art. 59.2).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 9, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_10",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 39.3 del TREBEP (RDL 5/2015), las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo:",
+      "opciones": [
+        "De 25 funcionarios.",
+        "De 50 funcionarios.",
+        "De 100 funcionarios."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 39.3 TREBEP: las Juntas de Personal se constituyen en unidades electorales con un censo mínimo de 50 funcionarios. Por debajo, de 6 a 49, la representación corresponde a los Delegados de Personal (art. 39.2).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 10, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_30",
+      "tema": 8,
+      "tema_nombre": "Empleados públicos locales y prevención de riesgos laborales",
+      "pregunta": "En virtud del artículo 16 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el Plan de Prevención de Riesgos Laborales de una empresa deberá incluir:",
+      "opciones": [
+        "La estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos, los procesos y los recursos necesarios para realizar la acción de prevención de riesgos en la empresa, en los términos que reglamentariamente se establezcan.",
+        "La estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos de colaboración con la Inspección de Trabajo, los procesos y los recursos necesarios para realizar la acción de prevención de riesgos en la empresa, en los términos que reglamentariamente se establezcan.",
+        "La estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos, las pautas de participación, los procesos y los recursos necesarios para realizar la acción de prevención de riesgos en la empresa, en los términos que reglamentariamente se establezcan."
+      ],
+      "correcta": 0,
+      "explicacion": "Art. 16.1 LPRL: el Plan de prevención incluirá la estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos, los procesos y los recursos necesarios. No menciona la colaboración con la Inspección ni las pautas de participación. Sus instrumentos esenciales son la evaluación de riesgos y la planificación de la actividad preventiva (art. 16.2).",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta 30, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_R4",
+      "tema": 7,
+      "tema_nombre": "Los empleados públicos",
+      "pregunta": "De acuerdo con el artículo 61.6 del TREBEP (RDL 5/2015), ¿qué sistema/s selectivo/s de funcionarios de carrera solo podrá/n aplicarse en virtud de ley, con carácter excepcional?",
+      "opciones": [
+        "El concurso-oposición.",
+        "El concurso.",
+        "Las respuestas a) y b) son correctas."
+      ],
+      "correcta": 1,
+      "explicacion": "Art. 61.6 TREBEP: los sistemas selectivos de funcionarios de carrera son la oposición y el concurso-oposición. Solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso, que consiste únicamente en la valoración de méritos.",
+      "bloque": "comun",
+      "ambito": "estatal",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta de reserva 4, plantilla provisional)",
+      "oficial": true
+    },
+    {
+      "id": "OPID26_R5",
+      "tema": 2,
+      "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+      "pregunta": "El vigente Plan Municipal de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza es:",
+      "opciones": [
+        "El I Plan.",
+        "El II Plan.",
+        "El III Plan."
+      ],
+      "correcta": 1,
+      "explicacion": "Está vigente el II Plan de Igualdad para empleadas y empleados municipales (II PIEEM), aprobado por el Gobierno de Zaragoza el 1 de marzo de 2023, con vigencia de 2024 a 2027.",
+      "bloque": "comun",
+      "ambito": "aragon",
+      "origen": "Examen real · Oficial Polivalente Instalaciones Deportivas (TL) Ayto. Zaragoza, 07-11-2026 (pregunta de reserva 5, plantilla provisional)",
+      "oficial": true
     }
   ]
 }
