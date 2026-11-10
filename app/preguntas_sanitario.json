@@ -568,6 +568,104 @@
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
   },
   {
+   "id": "SANZ001",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "tema_nombre": "La Constitución española",
+   "pregunta": "«De la reforma constitucional» es el epígrafe:",
+   "opciones": [
+    "Del Título VIII de la Constitución.",
+    "Del Título IX de la Constitución.",
+    "Del Título X de la Constitución.",
+    "Del Título VII de la Constitución."
+   ],
+   "correcta": 2,
+   "explicacion": "La reforma constitucional se regula en el Título X (arts. 166 a 169). El Título VII es Economía y Hacienda, el VIII la Organización Territorial y el IX el Tribunal Constitucional.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ002",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "tema_nombre": "La Constitución española",
+   "pregunta": "De acuerdo con el artículo 8 de la Constitución española, las Fuerzas Armadas tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y defender:",
+   "opciones": [
+    "El ordenamiento jurídico.",
+    "El principio de legalidad.",
+    "La paz y la seguridad internacionales.",
+    "El ordenamiento constitucional."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 8.1 CE: garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_01",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "El artículo 103.1 de la Constitución dice que la Administración Pública actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho. Ese mismo artículo dice que la Administración Pública sirve con objetividad:",
+   "opciones": [
+    "Los intereses públicos.",
+    "El interés nacional.",
+    "Los intereses generales."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 103.1 CE: «La Administración Pública sirve con objetividad los intereses generales…».",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 01, plantilla definitiva)",
+   "tema_nombre": "La Constitución española"
+  },
+  {
+   "id": "TAS23_1_06",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "De acuerdo con el artículo 15 de la Ley 7/1985, reguladora de las Bases del Régimen Local, ¿cuál de las siguientes afirmaciones NO es cierta?",
+   "opciones": [
+    "La condición de vecino se adquiere por la residencia habitual en el municipio.",
+    "La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón.",
+    "El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 15 LBRL: la condición de vecino se adquiere en el momento de la inscripción en el Padrón, no por la mera residencia.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 06, plantilla definitiva)",
+   "tema_nombre": "La Constitución española"
+  },
+  {
+   "id": "TAS23_1_07",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "El Título I de la Constitución tiene como epígrafe:",
+   "opciones": [
+    "De los derechos y libertades.",
+    "De los derechos y deberes fundamentales.",
+    "De los derechos fundamentales y de las libertades públicas."
+   ],
+   "correcta": 1,
+   "explicacion": "Título I: «De los derechos y deberes fundamentales». La c) es el epígrafe de la sección 1.ª del capítulo II.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 07, plantilla definitiva)",
+   "tema_nombre": "La Constitución española"
+  },
+  {
+   "id": "TAS23_1_10",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "De acuerdo con el artículo 13 de la Ley 7/1985, reguladora de las Bases del Régimen Local, podrán acordar su fusión los municipios:",
+   "opciones": [
+    "Aunque no sean colindantes.",
+    "Aunque no pertenezcan a la misma provincia.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 13.4 LBRL: pueden fusionarse municipios colindantes dentro de la misma provincia.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 10, plantilla definitiva)",
+   "tema_nombre": "La Constitución española"
+  },
+  {
    "id": "SAN0029",
    "bloque": "comun",
    "ambito": "estatal",
@@ -935,6 +1033,22 @@
    "correcta": 2,
    "explicacion": "Art. 2.1 LO 3/2007: «Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo». No se limita a ciudadanos ni a españoles.",
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+  },
+  {
+   "id": "TAS23_1_02",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 2,
+   "pregunta": "Según el Plan de Igualdad para las empleadas y empleados del Ayuntamiento de Zaragoza, el acoso sexual es toda conducta de naturaleza sexual en el ámbito laboral que plantea una amenaza sobre el empleo para obtener provecho sexual o crea un entorno intimidatorio, degradante u ofensivo. Constituye un tipo de acoso sexual:",
+   "opciones": [
+    "El chantaje sexual.",
+    "El acoso ambiental.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "correcta": 2,
+   "explicacion": "El Plan distingue dos tipos de acoso sexual: el chantaje sexual (quid pro quo) y el acoso ambiental.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 02, plantilla definitiva)",
+   "tema_nombre": "Igualdad de mujeres y hombres"
   },
   {
    "id": "SAN0051",
@@ -1512,7 +1626,7 @@
    ],
    "correcta": 1,
    "explicacion": "Art. 37.4 del Estatuto: la circunscripción electoral para elegir a los Diputados de las Cortes de Aragón es la provincia.",
-   "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+   "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional) · también salió en Técnico/a Auxiliar Sanitario 01-12-2023"
   },
   {
    "id": "SANX011",
@@ -1547,6 +1661,124 @@
    "correcta": 0,
    "explicacion": "Las relaciones internacionales son competencia exclusiva del Estado (art. 149.1.3.ª CE). El Estatuto solo recoge la acción exterior y la participación de Aragón en asuntos europeos, no una competencia sobre la materia. Recuerda: compartidas art. 75, ejecutivas art. 77.",
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+  },
+  {
+   "id": "SANZ003",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 59.3 del Estatuto de Autonomía de Aragón, el Justicia rendirá cuentas de su gestión ante:",
+   "opciones": [
+    "Las Cortes de Aragón.",
+    "El Gobierno de Aragón.",
+    "Las Cortes Generales.",
+    "El Tribunal Superior de Justicia de Aragón."
+   ],
+   "correcta": 0,
+   "explicacion": "El Justicia de Aragón es elegido por las Cortes de Aragón y ante ellas rinde cuentas de su gestión (art. 59.3 EAA).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ004",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 71.4.ª del Estatuto de Autonomía de Aragón, en materia de lenguas y modalidades lingüísticas propias de Aragón corresponde a la Comunidad Autónoma la competencia:",
+   "opciones": [
+    "Ejecutiva.",
+    "Compartida.",
+    "Exclusiva.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 71 EAA enumera las competencias exclusivas de Aragón; su apartado 4.ª recoge las lenguas y modalidades lingüísticas propias.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ005",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 42.2 del Estatuto de Autonomía de Aragón, la iniciativa legislativa corresponde:",
+   "opciones": [
+    "A los miembros de las Cortes de Aragón.",
+    "Al Gobierno de Aragón.",
+    "Las respuestas a) y b) son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "Según el EAA la iniciativa legislativa corresponde a los Diputados y al Gobierno de Aragón, además de la iniciativa popular y de los ayuntamientos en los términos legales.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ006",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 45 del Estatuto de Autonomía de Aragón, a efectos de la vigencia de las leyes aragonesas regirá:",
+   "opciones": [
+    "La última fecha de publicación.",
+    "La fecha de publicación en el Boletín Oficial del Estado.",
+    "La fecha de publicación en el Boletín Oficial de Aragón.",
+    "La fecha de su sanción por el Presidente de Aragón."
+   ],
+   "correcta": 2,
+   "explicacion": "Las leyes aragonesas se publican en el BOA y en el BOE, pero a efectos de vigencia rige la fecha de publicación en el BOA.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ007",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 10 del Estatuto de Autonomía de Aragón, podrán incorporarse a la Comunidad Autónoma otros territorios o municipios, limítrofes o enclavados, mediante el cumplimiento, entre otros requisitos, de la aprobación por las Cortes Generales del Estado mediante:",
+   "opciones": [
+    "Ley.",
+    "Ley orgánica.",
+    "Ley aprobada por mayoría absoluta de ambas Cámaras.",
+    "Real decreto."
+   ],
+   "correcta": 1,
+   "explicacion": "La incorporación de otros territorios requiere, entre otros trámites, su aprobación por las Cortes Generales mediante ley orgánica (art. 10 EAA).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ008",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "pregunta": "De acuerdo con el artículo 36.2 del Estatuto de Autonomía de Aragón, relativo a la composición de las Cortes de Aragón, cada provincia estará representada, en todo caso, por un mínimo de:",
+   "opciones": [
+    "12 escaños.",
+    "10 escaños.",
+    "14 escaños.",
+    "16 escaños."
+   ],
+   "correcta": 2,
+   "explicacion": "Las Cortes de Aragón tienen entre 65 y 75 Diputados y cada provincia está representada por un mínimo de 14.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_03",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "pregunta": "Según el artículo 77 del Estatuto de Autonomía de Aragón (Título V, competencias), el sistema penitenciario es una materia en la que corresponde a la Comunidad Autónoma la competencia:",
+   "opciones": [
+    "Exclusiva.",
+    "Compartida.",
+    "Ejecutiva."
+   ],
+   "correcta": 2,
+   "explicacion": "El sistema penitenciario figura entre las competencias ejecutivas del art. 77 del Estatuto.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 03, plantilla definitiva)",
+   "tema_nombre": "Estatuto de Autonomía de Aragón"
   },
   {
    "id": "SAN0085",
@@ -2499,6 +2731,57 @@
    "explicacion": "La Ley 7/1999 es la de Administración Local de Aragón; la de régimen especial de Zaragoza es la Ley 10/2017."
   },
   {
+   "id": "SANZ009",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 5,
+   "tema_nombre": "Régimen especial de Zaragoza",
+   "pregunta": "De acuerdo con el artículo 12.1 de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, el término municipal es el territorio en que:",
+   "opciones": [
+    "Reside la población del municipio.",
+    "El ayuntamiento presta sus servicios.",
+    "Se encuentra la casa consistorial.",
+    "El ayuntamiento ejerce sus competencias."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 12.1 LBRL: «El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias».",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ010",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 5,
+   "tema_nombre": "Régimen especial de Zaragoza",
+   "pregunta": "De acuerdo con el artículo 132 de la Ley 7/1985, ¿qué órgano municipal estará formado por representantes de todos los grupos que integren el Pleno, de forma proporcional al número de miembros que tengan en el mismo?",
+   "opciones": [
+    "El Consejo Social de la Ciudad.",
+    "La Comisión especial de Sugerencias y Reclamaciones.",
+    "Las dos respuestas anteriores son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 1,
+   "explicacion": "En los municipios de gran población, la Comisión especial de Sugerencias y Reclamaciones se compone de representantes de todos los grupos del Pleno en proporción a su número de miembros (art. 132 LBRL). El Consejo Social de la Ciudad (art. 131) es un órgano de participación ciudadana.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ011",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 5,
+   "tema_nombre": "Régimen especial de Zaragoza",
+   "pregunta": "De acuerdo con el artículo 13.2 de la Ley 7/1985, reguladora de las Bases del Régimen Local, la creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos:",
+   "opciones": [
+    "10.000 habitantes.",
+    "5.000 habitantes.",
+    "1.000 habitantes.",
+    "2.000 habitantes."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 13.2 LBRL: núcleos de población territorialmente diferenciados de, al menos, 5.000 habitantes, y que los municipios resultantes cuenten con recursos suficientes.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
    "id": "SAN0138",
    "bloque": "comun",
    "ambito": "estatal",
@@ -2886,6 +3169,124 @@
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (reserva, plantilla provisional)"
   },
   {
+   "id": "SANZ012",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 59 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), los ayuntamientos:",
+   "opciones": [
+    "Podrán establecer y exigir el Impuesto sobre Actividades Económicas.",
+    "Podrán establecer y exigir el Impuesto sobre Vehículos de Tracción Mecánica.",
+    "Exigirán el Impuesto sobre Bienes Inmuebles.",
+    "Podrán establecer y exigir el Impuesto sobre Bienes Inmuebles."
+   ],
+   "correcta": 2,
+   "explicacion": "Son impuestos obligatorios (los ayuntamientos «exigirán») el IBI, el IAE y el IVTM. Solo el ICIO y el IIVTNU son potestativos («podrán establecer y exigir»).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ013",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 3.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), constituyen ingresos de derecho privado de las entidades locales:",
+   "opciones": [
+    "Los rendimientos o productos de cualquier naturaleza derivados de su patrimonio.",
+    "Las adquisiciones a título de herencia, legado o donación.",
+    "Las respuestas a) y b) son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 3 TRLRHL califica como ingresos de derecho privado tanto los rendimientos del patrimonio como las adquisiciones por herencia, legado o donación.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ014",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 169.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), aprobado inicialmente el presupuesto general, se expondrá al público, previo anuncio en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial, por:",
+   "opciones": [
+    "15 días.",
+    "10 días.",
+    "30 días.",
+    "Un mes."
+   ],
+   "correcta": 0,
+   "explicacion": "El presupuesto general aprobado inicialmente se expone al público durante 15 días, plazo en el que los interesados pueden examinarlo y presentar reclamaciones ante el Pleno (art. 169.1 TRLRHL).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ015",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 128.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), podrán imponer la prestación personal y de transporte para la realización de obras de la competencia municipal los ayuntamientos con población de derecho no superior a:",
+   "opciones": [
+    "10.000 habitantes.",
+    "5.000 habitantes.",
+    "20.000 habitantes.",
+    "1.000 habitantes."
+   ],
+   "correcta": 1,
+   "explicacion": "Los ayuntamientos con población de derecho no superior a 5.000 habitantes pueden imponer prestaciones personales y de transporte para obras de su competencia (art. 128.1 TRLRHL).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ016",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con los artículos 129 y 130 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), los residentes del municipio que sean menores de dieciocho años y los mayores de cincuenta y cinco no estarán sujetos:",
+   "opciones": [
+    "A la prestación personal.",
+    "A la prestación de transporte.",
+    "Las dos respuestas anteriores son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 0,
+   "explicacion": "Los menores de 18 y mayores de 55 años están exentos de la prestación personal (art. 129).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ017",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 129 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), la prestación personal no excederá de:",
+   "opciones": [
+    "Siete días al año.",
+    "Quince días al año.",
+    "Cinco días al año.",
+    "Treinta días al año."
+   ],
+   "correcta": 1,
+   "explicacion": "La prestación personal no puede exceder de quince días al año (art. 129 TRLRHL).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_04",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "pregunta": "De acuerdo con el artículo 3 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), NO constituyen ingresos de derecho privado de las entidades locales:",
+   "opciones": [
+    "Los rendimientos o productos de cualquier naturaleza derivados de su patrimonio.",
+    "Los que procedan, por cualquier concepto, de los bienes de dominio público local.",
+    "Las adquisiciones a título de herencia, legado o donación."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 3 TRLRHL: son ingresos de derecho privado los derivados del patrimonio y las adquisiciones a título gratuito; se exceptúan expresamente los procedentes de bienes de dominio público.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 04, plantilla definitiva)",
+   "tema_nombre": "Haciendas Locales"
+  },
+  {
    "id": "SAN0159",
    "bloque": "comun",
    "ambito": "estatal",
@@ -3270,6 +3671,174 @@
    "correcta": 3,
    "explicacion": "Art. 60.2 TREBEP: el personal de elección o de designación política, los funcionarios interinos y el personal eventual no podrán formar parte de los órganos de selección. La pertenencia es siempre a título individual.",
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+  },
+  {
+   "id": "SANZ018",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 15 del texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015), los empleados públicos tienen, entre otros, derechos individuales que se ejercen colectivamente:",
+   "opciones": [
+    "El derecho a la libertad sindical.",
+    "El derecho a la carrera profesional y a la promoción interna.",
+    "El derecho a recibir protección eficaz en materia de seguridad y salud en el trabajo.",
+    "El derecho a percibir las retribuciones y las indemnizaciones por razón de servicio."
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 15 TREBEP recoge los derechos individuales de ejercicio colectivo (libertad sindical, negociación colectiva, huelga, planteamiento de conflictos...). Los demás son derechos individuales del art. 14.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ019",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 61.6 del TREBEP (RDL 5/2015), el concurso es un sistema selectivo:",
+   "opciones": [
+    "Que solo podrá aplicarse en virtud de ley.",
+    "Que tiene carácter excepcional.",
+    "Las respuestas a) y b) son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 61.6 TREBEP: el concurso, que consiste únicamente en la valoración de méritos, tiene carácter excepcional y solo puede aplicarse en virtud de ley.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ020",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 70.1 del TREBEP (RDL 5/2015), la ejecución de la oferta de empleo público deberá desarrollarse dentro del plazo improrrogable de:",
+   "opciones": [
+    "Cinco años.",
+    "Un año.",
+    "Tres años.",
+    "Dos años."
+   ],
+   "correcta": 2,
+   "explicacion": "La oferta de empleo público debe ejecutarse en un plazo improrrogable de tres años (art. 70.1 TREBEP).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ021",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 60.2 del TREBEP (RDL 5/2015), no podrá formar parte de los órganos de selección:",
+   "opciones": [
+    "El personal laboral.",
+    "Los funcionarios de carrera.",
+    "El personal eventual.",
+    "El personal con legislación específica propia."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 60.2 TREBEP: no pueden formar parte de los órganos de selección el personal de elección o designación política, los funcionarios interinos y el personal eventual.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ022",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 12.1 del TREBEP (RDL 5/2015), el personal que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial es el:",
+   "opciones": [
+    "Personal eventual.",
+    "Personal laboral temporal.",
+    "Personal funcionario interino.",
+    "Personal directivo."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 12.1 TREBEP: personal eventual.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ023",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 76 del TREBEP (RDL 5/2015), para el acceso al grupo/subgrupo A2 la titulación exigida es:",
+   "opciones": [
+    "Técnico Superior.",
+    "Título universitario de Grado.",
+    "Ninguna de las respuestas anteriores es correcta.",
+    "Título de Bachiller o Técnico."
+   ],
+   "correcta": 1,
+   "explicacion": "Los grupos A1 y A2 exigen título universitario de Grado (el A2 diferencia del A1 por el nivel de responsabilidad, no por la titulación). C1 exige Bachiller o Técnico y C2 la ESO.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ024",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "De acuerdo con el artículo 95 del TREBEP (RDL 5/2015), las faltas disciplinarias pueden ser:",
+   "opciones": [
+    "Graves, menos graves y leves.",
+    "Muy graves, graves y leves.",
+    "Muy graves y leves.",
+    "Graves y leves."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 95.1 TREBEP: las faltas disciplinarias pueden ser muy graves, graves y leves.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ025",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "tema_nombre": "Empleados públicos",
+   "pregunta": "Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados con carácter temporal para el desempeño de funciones propias de funcionarios de carrera cuando se dé, entre otras, la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de:",
+   "opciones": [
+    "Dos años, en los términos previstos en el apartado 4.",
+    "Cinco años, en los términos previstos en el apartado 4.",
+    "Tres años, en los términos previstos en el apartado 4.",
+    "Cuatro años, en los términos previstos en el apartado 4."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 10.1.a) TREBEP: plazas vacantes sin posibilidad de cobertura por funcionarios de carrera, por un máximo de tres años (art. 10.4, tras la Ley 20/2021).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_08",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "pregunta": "Según el artículo 54.3 del TREBEP (RDL 5/2015), los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan:",
+   "opciones": [
+    "Delito.",
+    "Una infracción manifiesta del ordenamiento jurídico.",
+    "Delito o infracción administrativa."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 54.3 TREBEP: salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso lo pondrán en conocimiento de los órganos de inspección.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 08, plantilla definitiva)",
+   "tema_nombre": "Empleados públicos"
+  },
+  {
+   "id": "TAS23_1_R5",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "pregunta": "Según el artículo 44 del TREBEP (RDL 5/2015), las Juntas de Personal se eligen mediante:",
+   "opciones": [
+    "Listas abiertas y sistema mayoritario.",
+    "Listas cerradas a través de un sistema proporcional corregido.",
+    "Listas cerradas y sistema mayoritario."
+   ],
+   "correcta": 1,
+   "explicacion": "Pregunta de reserva. Art. 44 TREBEP: listas cerradas y sistema proporcional corregido.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R5, plantilla definitiva)",
+   "tema_nombre": "Empleados públicos"
   },
   {
    "id": "SAN0181",
@@ -4343,6 +4912,22 @@
    "tema_nombre": "Introducción a la Salud Pública"
   },
   {
+   "id": "TAS23_1_11",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 9,
+   "pregunta": "¿Qué definición de salud pública es más apropiada actualmente?",
+   "opciones": [
+    "El conjunto de actividades organizadas por las Administraciones con participación de la sociedad para prevenir las enfermedades y conocer el estado general de salud de la población.",
+    "El conjunto de actividades organizadas por las Administraciones con participación de la sociedad para prevenir la enfermedad así como para proteger, promover y recuperar la salud de las personas, tanto en el ámbito individual como en el colectivo, mediante acciones sanitarias, sectoriales y transversales.",
+    "El estado de salud general de la población, cuyo conocimiento depende de las administraciones públicas."
+   ],
+   "correcta": 1,
+   "explicacion": "Es la definición del art. 1 de la Ley 33/2011, General de Salud Pública.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 11, plantilla definitiva)",
+   "tema_nombre": "Introducción a la Salud Pública"
+  },
+  {
    "tema": 10,
    "pregunta": "¿Cuándo aprobó la Asamblea General de Naciones Unidas la Agenda 2030?",
    "opciones": [
@@ -4867,6 +5452,22 @@
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 36, plantilla definitiva)"
   },
   {
+   "id": "TAS23_1_12",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 10,
+   "pregunta": "En 2015 la Asamblea General de la ONU adoptó la Agenda 2030, con 17 Objetivos de Desarrollo Sostenible y 169 metas. ¿Cuál de los siguientes objetivos está directamente relacionado con la salud pública?",
+   "opciones": [
+    "ODS n.º 3.",
+    "ODS n.º 13.",
+    "ODS n.º 12."
+   ],
+   "correcta": 0,
+   "explicacion": "ODS 3: salud y bienestar. El 13 es acción por el clima y el 12 producción y consumo responsables.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 12, plantilla definitiva)",
+   "tema_nombre": "Problemas de salud pública y Agenda 2030"
+  },
+  {
    "tema": 11,
    "pregunta": "Según Dever, ¿qué determinante explica una mayor parte de la mortalidad?",
    "opciones": [
@@ -5304,6 +5905,22 @@
    ],
    "correcta": 1,
    "explicacion": "La Comisión, creada por el Ministerio de Sanidad, propuso en 2010 políticas para reducir las desigualdades sociales en salud."
+  },
+  {
+   "id": "TAS23_1_13",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 11,
+   "pregunta": "Marc Lalonde estableció en la década de 1970 un modelo de determinantes de la salud. Señale cuál es el correcto:",
+   "opciones": [
+    "Biología humana, medio ambiente y estilos de vida y conductas de salud.",
+    "Biología humana, medio ambiente y provisión de servicios de salud.",
+    "Medio ambiente, estilos de vida, biología humana y provisión de servicios de salud."
+   ],
+   "correcta": 2,
+   "explicacion": "El informe Lalonde (1974) agrupa cuatro determinantes: biología humana, medio ambiente, estilos de vida y sistema de asistencia sanitaria.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 13, plantilla definitiva)",
+   "tema_nombre": "Determinantes de la Salud"
   },
   {
    "tema": 12,
@@ -6928,6 +7545,39 @@
    "explicacion": "La QUID (indicación cuantitativa de ingredientes) es obligatoria cuando el ingrediente figura en la denominación o se destaca en el etiquetado."
   },
   {
+   "id": "TAS23_1_32",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 14,
+   "pregunta": "En cuanto al etiquetado de alimentos (Reglamento 1169/2011):",
+   "opciones": [
+    "Si la cara mayor del envase tiene una superficie menor de 10 cm² no es obligatorio que figure la lista de ingredientes.",
+    "En la lista de ingredientes se incluirán todos los ingredientes, en orden decreciente de peso en el producto terminado.",
+    "Todos los alimentos deberán indicar en su etiquetado la fecha de caducidad."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 16.2: en envases cuya cara mayor sea < 10 cm² solo es obligatorio denominación, alérgenos, cantidad neta y fecha. La b) falla porque el orden es el peso en el momento de la fabricación y la c) porque muchos llevan consumo preferente.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 32, plantilla definitiva)",
+   "tema_nombre": "Etiquetado de alimentos y bebidas"
+  },
+  {
+   "id": "TAS23_2_22",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 14,
+   "pregunta": "Supuesto 5: se instala en Zaragoza un puesto ambulante (no permanente) de comidas preparadas y se hace su control sanitario. En cuanto al etiquetado de alimentos:",
+   "opciones": [
+    "En todos los alimentos envasados es obligatorio que figure el número de registro sanitario de la empresa responsable.",
+    "Los productos de origen animal (incluida la miel) llevarán una marca sanitaria o de identificación.",
+    "Entre los alérgenos que deben figurar en el etiquetado está la proteína vegetal LTP.",
+    "El contenido de la información nutricional obligatoria podrá completarse con la cantidad de ácidos grasos poliinsaturados."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 30.2 del Reglamento 1169/2011: puede completarse con AG monoinsaturados, poliinsaturados, polialcoholes, almidón, fibra, vitaminas y minerales. La miel no lleva marca de identificación y la LTP no está en la lista de 14 alérgenos.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 5 (pregunta 22, plantilla definitiva)",
+   "tema_nombre": "Etiquetado de alimentos y bebidas"
+  },
+  {
    "id": "SAN0350",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -8336,6 +8986,38 @@
    "explicacion": "La RENAVE recoge las enfermedades de declaración obligatoria, como salmonelosis, listeriosis, botulismo o hidatidosis."
   },
   {
+   "id": "TAS23_1_36",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 17,
+   "pregunta": "Para la prevención de Anisakis en establecimientos minoristas que sirvan comidas:",
+   "opciones": [
+    "Si un producto de la pesca debe congelarse, no es necesario si se somete a un tratamiento térmico que alcance un mínimo de 60 ºC durante un minuto en el centro del producto.",
+    "No es necesaria la congelación en el caso de boquerones en escabeche.",
+    "Hay que congelar los productos de la pesca a -20 ºC un mínimo de 48 horas."
+   ],
+   "correcta": 0,
+   "explicacion": "Tratamiento térmico ≥ 60 ºC durante 1 minuto en el centro del producto. La congelación es a ≤ -20 ºC durante 24 h (o ≤ -35 ºC 15 h), y el escabeche no garantiza la muerte del parásito.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 36, plantilla definitiva)",
+   "tema_nombre": "Contaminantes biológicos de los alimentos"
+  },
+  {
+   "id": "TAS23_1_38",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 17,
+   "pregunta": "Según el Reglamento (CE) 2073/2005, relativo a los criterios microbiológicos de los alimentos, ¿qué afirmación es cierta sobre los criterios de seguridad alimentaria?",
+   "opciones": [
+    "Todos los criterios microbiológicos del anexo son criterios de seguridad alimentaria.",
+    "La histamina no se investiga, al no ser un microorganismo.",
+    "En semillas germinadas se investiga Salmonella."
+   ],
+   "correcta": 2,
+   "explicacion": "El anexo distingue criterios de seguridad e higiene del proceso; la histamina sí figura (productos de la pesca) y en semillas germinadas se investiga Salmonella.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 38, plantilla definitiva)",
+   "tema_nombre": "Contaminantes biológicos de los alimentos"
+  },
+  {
    "id": "SAN0438",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -8750,6 +9432,22 @@
    ],
    "correcta": 2,
    "explicacion": "El muestreo puede ser aleatorio (simple, estratificado, sistemático) o dirigido cuando hay sospecha."
+  },
+  {
+   "id": "TAS23_1_37",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 18,
+   "pregunta": "Sobre la sistemática de la toma de muestras de alimentos:",
+   "opciones": [
+    "Está regulada en el Real Decreto 50/1993 de control oficial de los alimentos.",
+    "Se tomarán tres muestras homogéneas que en todos los casos serán retiradas por la inspección.",
+    "El acta de toma de muestras puede ser firmada por un testigo si el titular u otra persona que represente al establecimiento se negara a firmarla."
+   ],
+   "correcta": 2,
+   "explicacion": "La b) es falsa: una de las muestras queda en poder del interesado (contradictoria).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 37, plantilla definitiva)",
+   "tema_nombre": "Toma de muestras de alimentos"
   },
   {
    "id": "SAN0464",
@@ -9167,6 +9865,121 @@
    "bloque": "especifica",
    "ambito": "estatal",
    "fuente": "Revisada en otro hilo (2026-10)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_1_31",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 19,
+   "pregunta": "Las condiciones higiénico-sanitarias de los establecimientos ambulantes de alimentación:",
+   "opciones": [
+    "Las recoge el Real Decreto 199/2010.",
+    "En el caso de Aragón, se aplica el Decreto 131/2006 a todos los establecimientos.",
+    "Vienen recogidas en el Anexo II del Reglamento (CE) 852/2004."
+   ],
+   "correcta": 2,
+   "explicacion": "El Anexo II, capítulo III, del Reglamento 852/2004 regula los locales ambulantes o provisionales. El RD 199/2010 regula la venta ambulante desde el punto de vista comercial.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 31, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_1_33",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 19,
+   "pregunta": "Un establecimiento ambulante o no permanente deberá inscribirse en el registro sanitario:",
+   "opciones": [
+    "Siempre en la comunidad autónoma donde tenga el domicilio fiscal el titular.",
+    "En el Registro General Sanitario de Empresas Alimentarias y Alimentos.",
+    "En el caso de Aragón, el registro de estos establecimientos corresponde a las entidades locales."
+   ],
+   "correcta": 2,
+   "explicacion": "En Aragón, los minoristas y ambulantes se inscriben en registros de las entidades locales; el RGSEAA es para industrias.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 33, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_1_34",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 19,
+   "pregunta": "En los establecimientos minoristas de alimentación:",
+   "opciones": [
+    "La carne fresca se podrá vender descongelada.",
+    "Los productos que por razones tecnológicas lo justifiquen se podrán descongelar a temperatura ambiente.",
+    "Si un alimento se cocina inmediatamente tras su descongelación, se podrá descongelar en microondas o en agua corriente caliente."
+   ],
+   "correcta": 1,
+   "explicacion": "La descongelación se hace en refrigeración salvo productos que por razones tecnológicas lo justifiquen. La carne descongelada no puede venderse como fresca.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 34, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_1_40",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 19,
+   "pregunta": "Sobre los alimentos elaborados con huevo en un comercio minorista:",
+   "opciones": [
+    "Están regulados por el Real Decreto 1254/1991.",
+    "Solamente se podrá utilizar huevo crudo en alimentos que se sometan a un tratamiento térmico que asegure 70 ºC durante dos segundos en el centro del producto.",
+    "Los alimentos elaborados con ovoproductos se podrán conservar a un máximo de 8 ºC y se consumirán en un máximo de 24 horas."
+   ],
+   "correcta": 2,
+   "explicacion": "Respuesta según la plantilla de 2023. Ojo: el RD 1254/1991 fue derogado por el RD 1021/2022, así que la opción a) ya no sería válida en ningún caso.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 40, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_2_23",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 19,
+   "pregunta": "Supuesto 5: se instala en Zaragoza un puesto ambulante (no permanente) de comidas preparadas y se hace su control sanitario. Los alimentos servidos en el puesto podrán proceder de otros establecimientos minoristas de alimentación cuando:",
+   "opciones": [
+    "En ningún caso, porque un establecimiento ambulante no se considera minorista.",
+    "Sea del mismo titular, en cuyo caso se podría considerar suministro marginal.",
+    "Suponga un máximo de 500 kg a la semana, incluido el suministro al consumidor final.",
+    "En ningún caso, porque todos los alimentos deben proceder de establecimientos inscritos en el RGSEAA."
+   ],
+   "correcta": 2,
+   "explicacion": "Respuesta según la plantilla definitiva (suministro de minorista a minorista con límite cuantitativo).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 5 (pregunta 23, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_2_24",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 19,
+   "pregunta": "Supuesto 5: se instala en Zaragoza un puesto ambulante (no permanente) de comidas preparadas y se hace su control sanitario. Según el Decreto 131/2006 del Gobierno de Aragón, el establecimiento de comidas preparadas deberá cumplir:",
+   "opciones": [
+    "Las zonas de manipulación no necesitan estar independizadas de otras ajenas a ese cometido.",
+    "El abastecimiento de agua procederá siempre de la red general.",
+    "Deberá contar con suministro suficiente de agua fría y caliente.",
+    "Los lavamanos no podrán compartir la pila con los fregaderos de limpieza."
+   ],
+   "correcta": 2,
+   "explicacion": "Requisito del Decreto 131/2006: suministro suficiente de agua fría y caliente.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 5 (pregunta 24, plantilla definitiva)",
+   "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
+  },
+  {
+   "id": "TAS23_2_25",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 19,
+   "pregunta": "Supuesto 5: se instala en Zaragoza un puesto ambulante (no permanente) de comidas preparadas y se hace su control sanitario. En cuanto a la conservación de los alimentos, ¿qué afirmación es correcta?",
+   "opciones": [
+    "Los vegetales cortados y los zumos no pasteurizados listos para el consumo se conservarán a 8 ºC o menos.",
+    "Los alimentos envasados se conservarán en las condiciones o temperaturas que indique la etiqueta.",
+    "Las comidas preparadas se podrán mantener a 55 ºC o más.",
+    "Todas las respuestas anteriores son correctas."
+   ],
+   "correcta": 1,
+   "explicacion": "Según la plantilla definitiva solo la b) es correcta. Las comidas calientes se mantienen a ≥ 63 ºC (RD 1021/2022), no a 55 ºC.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 5 (pregunta 25, plantilla definitiva)",
    "tema_nombre": "Ferias, venta ambulante y restauración colectiva"
   },
   {
@@ -9854,6 +10667,259 @@
    "correcta": 0,
    "explicacion": "Los consejos sectoriales son órganos de participación de naturaleza consultiva: informan y asesoran, pero no aprueban planes ni sus acuerdos vinculan.",
    "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+  },
+  {
+   "id": "SANZ026",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "Cuando hablamos de análisis de aire y sus principales contaminantes, ¿qué significa la abreviatura PM?",
+   "opciones": [
+    "Metales pesados.",
+    "Materia particulada.",
+    "Componente minoritario.",
+    "Componente mayoritario."
+   ],
+   "correcta": 1,
+   "explicacion": "PM (particulate matter) es la materia particulada en suspensión; PM10 y PM2,5 se definen por el diámetro aerodinámico (10 y 2,5 µm).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ027",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Las legionellas son:",
+   "opciones": [
+    "Bacilos Gram negativo, aerobios estrictos.",
+    "Cocos Gram positivo, aerobios estrictos.",
+    "Bacilos Gram negativo, anaerobios facultativos.",
+    "Cocos Gram positivo, anaerobios estrictos."
+   ],
+   "correcta": 0,
+   "explicacion": "Legionella es un bacilo Gram negativo aerobio estricto, que necesita L-cisteína y hierro para crecer.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ028",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. La legionelosis se transmite:",
+   "opciones": [
+    "De persona enferma a persona sana.",
+    "A través de los animales.",
+    "Mediante inhalación de aerosoles de agua infectada con Legionella.",
+    "Todas son correctas."
+   ],
+   "correcta": 2,
+   "explicacion": "Se contagia por inhalación de aerosoles con bacterias; no se transmite de persona a persona.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ029",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Las muestras para análisis microbiológicos (Legionella y aerobios) se toman en:",
+   "opciones": [
+    "Recipiente de plástico con neutralizante del biocida.",
+    "Recipiente de plástico o vidrio borosilicatado.",
+    "Recipiente de vidrio oscuro con tapón con revestimiento interno de teflón.",
+    "Recipiente estéril de plástico con neutralizante del biocida."
+   ],
+   "correcta": 3,
+   "explicacion": "Muestras microbiológicas: envase estéril y, si el agua lleva desinfectante, con neutralizante (tiosulfato).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ030",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Respecto al volumen de muestra necesario para analizar Legionella por cultivo:",
+   "opciones": [
+    "Se requiere un volumen mínimo de 500 mL y el envase se debe llenar completamente.",
+    "Se requiere un volumen mínimo de 1000 mL y siempre debe dejarse una pequeña cámara de aire sobre el nivel del agua.",
+    "Se requiere un volumen mínimo de 1000 mL y el envase se debe llenar completamente.",
+    "Ninguna es correcta."
+   ],
+   "correcta": 1,
+   "explicacion": "Se recoge como mínimo 1 L y se deja una pequeña cámara de aire para poder homogeneizar la muestra.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ031",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Se toma una muestra de agua en un spa (jacuzzi) para analizar Legionella y se miden in situ los siguientes parámetros:",
+   "opciones": [
+    "pH, temperatura y turbidez.",
+    "pH y temperatura. El resto de parámetros se miden en el laboratorio.",
+    "pH, temperatura y desinfectante residual.",
+    "pH, temperatura y oxígeno disuelto."
+   ],
+   "correcta": 2,
+   "explicacion": "In situ se miden pH, temperatura y desinfectante residual, que cambian rápidamente tras la toma.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ032",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "La especie implicada en la mayoría de los casos de legionelosis es:",
+   "opciones": [
+    "Legionella bozemanii.",
+    "Legionella anisa.",
+    "Legionella pneumophila.",
+    "Legionella micdadei."
+   ],
+   "correcta": 2,
+   "explicacion": "L. pneumophila (sobre todo el serogrupo 1) causa la gran mayoría de los casos de legionelosis.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ033",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "El método de referencia para el análisis de Legionella spp en muestras de agua es:",
+   "opciones": [
+    "El método de cultivo contemplado en la norma UNE-EN ISO 11731:2017.",
+    "La reacción en cadena de la polimerasa en tiempo real (PCR-RT).",
+    "El método del número más probable con el sistema Legiolert/Quanti-Tray.",
+    "La inmunofluorescencia directa."
+   ],
+   "correcta": 0,
+   "explicacion": "El método de referencia es el cultivo según UNE-EN ISO 11731. La PCR es un método rápido alternativo, no el de referencia.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ034",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "Las placas sembradas para el análisis de Legionella spp en agua se incuban a 36 °C durante:",
+   "opciones": [
+    "10 días.",
+    "48 horas exactas.",
+    "1 día.",
+    "44 ± 4 h."
+   ],
+   "correcta": 0,
+   "explicacion": "Legionella crece lentamente: según la norma ISO 11731 se incuba a 36 ± 2 °C hasta 10 días, con lecturas intermedias.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ035",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "El método utilizado para la determinación de la concentración másica de PM10 o PM2,5 de la materia particulada en suspensión es:",
+   "opciones": [
+    "Un método volumétrico normalizado.",
+    "Un método potenciométrico.",
+    "Un método gravimétrico normalizado.",
+    "Un método fotométrico."
+   ],
+   "correcta": 2,
+   "explicacion": "El método de referencia (UNE-EN 12341) es gravimétrico: se pesa el filtro antes y después del muestreo.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ036",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "Los metales que se analizan en la fracción PM10 de la materia particulada en suspensión en el aire son:",
+   "opciones": [
+    "Fe, Mn, Cu y Zn.",
+    "Pb, Cd, As y Ni.",
+    "Na, K, Ca y Mg.",
+    "As, Sb, Se y Hg."
+   ],
+   "correcta": 1,
+   "explicacion": "El RD 102/2011 fija valores para el plomo y valores objetivo para arsénico, cadmio y níquel en la fracción PM10.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ037",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "¿Qué nivel de contención es suficiente para que un laboratorio pueda realizar determinaciones de Legionella?",
+   "opciones": [
+    "Laboratorio tipo 0.",
+    "Laboratorio tipo 2.",
+    "Laboratorio tipo 4.",
+    "Laboratorio tipo 5."
+   ],
+   "correcta": 1,
+   "explicacion": "Legionella es un agente biológico del grupo 2, para el que basta un nivel de contención 2 (laboratorio de bioseguridad nivel 2).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ038",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica",
+   "pregunta": "Tras el crecimiento en el medio selectivo elegido, se confirma una colonia como Legionella spp cuando:",
+   "opciones": [
+    "Es capaz de crecer en agar BCYE y no en agar BCYE + AB.",
+    "Es capaz de crecer en agar BCYE y no en agar BCYE sin L-cisteína.",
+    "Es capaz de crecer en agar MacConkey.",
+    "Es capaz de crecer en agar GVPC y no en agar BCYE."
+   ],
+   "correcta": 1,
+   "explicacion": "Legionella es dependiente de L-cisteína: crece en BCYE con cisteína y no sin ella.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_14",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "pregunta": "¿Qué es el nivel de contaminación atmosférica?",
+   "opciones": [
+    "La cantidad de un contaminante en el aire o su depósito en superficies con referencia a un periodo de tiempo determinado.",
+    "La descarga a la atmósfera, continua o discontinua, de materias, sustancias o formas de energía procedentes de cualquier fuente susceptible de producir contaminación atmosférica.",
+    "La cuantía de un contaminante en la atmósfera, aisladamente o asociado con otros, cuyo establecimiento conlleva obligaciones conforme a las condiciones que se determinen."
+   ],
+   "correcta": 0,
+   "explicacion": "Definiciones de la Ley 34/2007: la a) es «nivel», la b) es «emisión» y la c) es «valor límite/objetivo».",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 14, plantilla definitiva)",
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica"
+  },
+  {
+   "id": "TAS23_1_19",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 20,
+   "pregunta": "¿Cuál de estos contaminantes es exclusivamente primario?",
+   "opciones": [
+    "Ozono troposférico.",
+    "Óxidos de nitrógeno.",
+    "Dióxido de azufre."
+   ],
+   "correcta": 2,
+   "explicacion": "El SO2 se emite directamente. El ozono troposférico es secundario y parte del NO2 se forma en la atmósfera.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 19, plantilla definitiva)",
+   "tema_nombre": "Sanidad ambiental y contaminación atmosférica"
   },
   {
    "id": "SAN0516",
@@ -10608,6 +11674,38 @@
    "correcta": 2,
    "explicacion": "Art. 37 RD 3/2023: los depósitos de menos de 10.000 m³ se limpian y desinfectan al menos cada 3 años (o cuando lo requiera la autoridad sanitaria); en los mayores, el operador fija la frecuencia con criterio de la autoridad sanitaria según calidad y dimensiones. Contrastado con el texto del RD.",
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 62, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_18",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 21,
+   "pregunta": "El agua de abastecimiento de Zaragoza procede de:",
+   "opciones": [
+    "El Pantano de Yesa.",
+    "El Canal Imperial de Aragón.",
+    "Ambos."
+   ],
+   "correcta": 2,
+   "explicacion": "Zaragoza se abastece del Canal Imperial de Aragón y, desde 2010, también de agua del Pirineo desde el embalse de Yesa.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 18, plantilla definitiva)",
+   "tema_nombre": "Aguas de consumo y potabilización"
+  },
+  {
+   "id": "TAS23_1_26",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 21,
+   "pregunta": "De los siguientes procesos de una Estación de Tratamiento de Agua Potable, como la Planta Potabilizadora de Zaragoza, ¿cuál es el orden más apropiado?",
+   "opciones": [
+    "Decantación, floculación, filtración.",
+    "Coagulación, floculación, decantación, filtración.",
+    "Desinfección, filtración, coagulación."
+   ],
+   "correcta": 1,
+   "explicacion": "Orden habitual: coagulación, floculación, decantación, filtración y desinfección final.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 26, plantilla definitiva)",
+   "tema_nombre": "Aguas de consumo y potabilización"
   },
   {
    "id": "SAN0544",
@@ -11403,7 +12501,7 @@
    ],
    "correcta": 3,
    "explicacion": "La acometida es la tubería y elementos que unen la instalación general del edificio (red interior) con la red de distribución exterior.",
-   "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 59, plantilla definitiva)"
+   "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 59, plantilla definitiva) · también salió en Técnico/a Auxiliar Sanitario 01-12-2023"
   },
   {
    "id": "SANX053",
@@ -11506,6 +12604,410 @@
    "correcta": 2,
    "explicacion": "Turbidez en depósitos de distribución o regulación, red e instalaciones interiores: 4 UNF (a la salida de ETAP o depósito de cabecera, 0,8 UNF de referencia).",
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 67, plantilla definitiva)"
+  },
+  {
+   "id": "SANZ039",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "¿Qué es la dureza del agua?",
+   "opciones": [
+    "Es el contenido de ión hidrógeno de un agua.",
+    "Se corresponde con el contenido de sales de calcio y magnesio.",
+    "Es el contenido de bicarbonatos de un agua.",
+    "Es el contenido de sodio en un agua."
+   ],
+   "correcta": 1,
+   "explicacion": "La dureza total es la suma de calcio y magnesio (expresada como mg/L de CaCO3).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ040",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Se llama cloro libre residual:",
+   "opciones": [
+    "A los compuestos que forma el cloro con el amoniaco y ciertos compuestos nitrogenados presentes en el agua.",
+    "Al contenido en ácido hipocloroso e ión hipoclorito que queda tras clorar.",
+    "Al cloro total, es decir, libre más combinado.",
+    "Al contenido en cloruros."
+   ],
+   "correcta": 1,
+   "explicacion": "Cloro libre = HClO + ClO⁻. b) es el cloro combinado (cloraminas) y la suma de ambos es el cloro total.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ041",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Indique cuál de las siguientes definiciones de bacteria coliforme resulta más adecuada:",
+   "opciones": [
+    "Bacterias lactosa-negativas y que son oxidasa-positivas.",
+    "Bacterias lactosa-positivas y que son oxidasa-negativas.",
+    "Bacterias lactosa-negativas y que son oxidasa-negativas.",
+    "Bacterias lactosa-positivas y que son oxidasa-positivas."
+   ],
+   "correcta": 1,
+   "explicacion": "Los coliformes fermentan la lactosa y son oxidasa negativos; por eso la oxidasa descarta a Pseudomonas y Aeromonas.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ042",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "En un agua de consumo humano, el recuento de colonias a 22 °C:",
+   "opciones": [
+    "Indica contaminación fecal del agua.",
+    "Proporciona información sobre la limpieza y el estado de los sistemas de distribución.",
+    "Indica contaminación por virus entéricos.",
+    "Indica posible presencia de quistes u ooquistes de protozoos en el agua."
+   ],
+   "correcta": 1,
+   "explicacion": "El recuento de aerobios a 22 °C es un indicador de calidad general: refleja el estado de limpieza de la red y los depósitos, no contaminación fecal.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ043",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Según el Real Decreto 3/2023 de calidad del agua de consumo humano, ¿en qué unidades se expresa el parámetro Dureza?",
+   "opciones": [
+    "En mg/L de calcio.",
+    "En mg/L de carbonato sódico.",
+    "En mg/L de magnesio.",
+    "En mg/L de carbonato cálcico."
+   ],
+   "correcta": 3,
+   "explicacion": "La dureza se expresa convencionalmente como mg/L de CaCO3.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ044",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "¿Qué es la alcalinidad de un agua?",
+   "opciones": [
+    "Se corresponde con el contenido en bicarbonatos, carbonatos e hidróxidos.",
+    "Se corresponde con la presencia de alta contaminación por plaguicidas.",
+    "Se corresponde con el contenido de anhídrido carbónico libre y ácidos minerales.",
+    "Se corresponde con el contenido en cloruros y sulfatos."
+   ],
+   "correcta": 0,
+   "explicacion": "La alcalinidad es la capacidad del agua para neutralizar ácidos: la aportan bicarbonatos, carbonatos e hidróxidos.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ045",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. E. coli es miembro de la familia Enterobacteriaceae. Las enterobacterias se caracterizan por:",
+   "opciones": [
+    "Ser grampositivas y fermentar azúcares.",
+    "Ser gramnegativas, aerobias y anaerobias facultativas y fermentar azúcares.",
+    "Ser gramnegativas y no fermentar azúcares.",
+    "Ser gramnegativas y aerobias estrictas."
+   ],
+   "correcta": 1,
+   "explicacion": "Las enterobacterias son bacilos gramnegativos, aerobios-anaerobios facultativos, oxidasa negativos, que fermentan la glucosa.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ046",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Los medios de cultivo para analizar Escherichia coli contienen:",
+   "opciones": [
+    "Un sustrato específico para la β-galactosidasa y otro para la β-glucuronidasa.",
+    "Azida de sodio y sales de tetrazolio.",
+    "Metabisulfito sódico y cicloserina.",
+    "Cetrimida y ácido nalidíxico."
+   ],
+   "correcta": 0,
+   "explicacion": "Los medios cromogénicos (CCA, Colilert) detectan coliformes por β-galactosidasa y E. coli por β-glucuronidasa. Azida/tetrazolio son para enterococos y cetrimida para Pseudomonas.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ047",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. La concentración de Escherichia coli en aguas de consumo humano se expresa en:",
+   "opciones": [
+    "ufc/L.",
+    "ufc/500 mL.",
+    "ufc/100 mL.",
+    "ufc/10 mL."
+   ],
+   "correcta": 2,
+   "explicacion": "El RD 3/2023 expresa los recuentos de E. coli como ufc o NMP por 100 mL.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ048",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. El método de análisis oficial de E. coli y bacterias coliformes viene recogido en la norma:",
+   "opciones": [
+    "UNE-EN ISO 11731.",
+    "UNE-EN ISO 14189.",
+    "UNE-EN ISO 7899-2.",
+    "UNE-EN ISO 9308-1 o UNE-EN ISO 9308-2."
+   ],
+   "correcta": 3,
+   "explicacion": "ISO 9308-1 (filtración por membrana) y 9308-2 (NMP, Colilert/Quanti-Tray) son los métodos para E. coli y coliformes. ISO 11731 es Legionella, 14189 C. perfringens y 7899-2 enterococos.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ049",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. El tiempo máximo de transporte y almacenamiento de una muestra de agua, adecuadamente conservada, para analizar E. coli y bacterias coliformes es:",
+   "opciones": [
+    "1 hora.",
+    "18 horas.",
+    "72 horas.",
+    "7 días."
+   ],
+   "correcta": 1,
+   "explicacion": "Las muestras microbiológicas se conservan refrigeradas y en oscuridad y se analizan lo antes posible; el límite dado por el tribunal es 18 horas.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ050",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Se analiza una muestra de 100 mL por NMP con una bandeja Quanti-Tray de 51 pocillos. Tras la incubación se cuentan 23 pocillos amarillos y 11 pocillos amarillos y fluorescentes. Según la tabla del NMP (23 positivos = 30,6; 11 positivos = 12,4), ¿cuál es el NMP de bacterias coliformes?",
+   "opciones": [
+    "30,6.",
+    "23.",
+    "34.",
+    "12,4."
+   ],
+   "correcta": 0,
+   "explicacion": "Los coliformes totales son todos los pocillos amarillos (23, que incluyen los fluorescentes): la tabla da 30,6 NMP/100 mL.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ051",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Con los mismos resultados (23 pocillos amarillos y 11 amarillos y fluorescentes; 23 positivos = 30,6; 11 positivos = 12,4), ¿cuál es el NMP de Escherichia coli en la muestra?",
+   "opciones": [
+    "30,6.",
+    "12,4.",
+    "23.",
+    "11."
+   ],
+   "correcta": 1,
+   "explicacion": "E. coli corresponde a los pocillos amarillos y fluorescentes (11): la tabla da 12,4 NMP/100 mL. La cifra 11 es el número de pocillos, no el NMP.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ052",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Se analizan 100 mL por filtración por membrana con medio CCA y se obtienen 20 colonias rosas (oxidasa negativas) y 15 colonias azul oscuro/violeta. ¿Cuál es el recuento de bacterias coliformes?",
+   "opciones": [
+    "0.",
+    "20.",
+    "15.",
+    "35."
+   ],
+   "correcta": 3,
+   "explicacion": "En CCA las colonias rosas son coliformes (β-galactosidasa) y las azul oscuro/violeta son E. coli (que también es coliforme): total 20 + 15 = 35.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ053",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Con el mismo resultado (20 colonias rosas oxidasa negativas y 15 azul oscuro/violeta en CCA), ¿cuál es el recuento de Escherichia coli?",
+   "opciones": [
+    "0.",
+    "20.",
+    "15.",
+    "35."
+   ],
+   "correcta": 2,
+   "explicacion": "Solo las colonias azul oscuro/violeta (β-D-glucuronidasa positivas) son E. coli: 15.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ054",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "¿Cuál de los siguientes equipos y materiales de laboratorio NO se utiliza en una determinación rutinaria de cloro libre por el método colorimétrico del DPD?",
+   "opciones": [
+    "Un espectrofotómetro.",
+    "Una cubeta.",
+    "Una estufa.",
+    "Una pipeta."
+   ],
+   "correcta": 2,
+   "explicacion": "El DPD es una reacción inmediata a temperatura ambiente medida por colorimetría, por lo que no hace falta estufa.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ055",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. El recuento de colonias a 22 °C en una muestra de agua se realiza por:",
+   "opciones": [
+    "La técnica de siembra en profundidad.",
+    "La técnica de siembra en superficie.",
+    "La técnica de filtración en membrana.",
+    "La técnica de siembra por agotamiento."
+   ],
+   "correcta": 0,
+   "explicacion": "El recuento de aerobios mesófilos a 22 °C se hace por siembra en profundidad (vertido en placa) en agar de extracto de levadura.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ056",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. Para el recuento de enterococos intestinales en aguas de consumo se utiliza el medio de cultivo:",
+   "opciones": [
+    "TSC-MUP.",
+    "Triptosa sulfito cicloserina.",
+    "Baird-Parker.",
+    "Slanetz y Bartley."
+   ],
+   "correcta": 3,
+   "explicacion": "Los enterococos se cuentan en agar Slanetz y Bartley (contiene azida y TTC). TSC es para C. perfringens y Baird-Parker para Staphylococcus.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ057",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. Escherichia coli β-D-glucuronidasa positivo forma colonias en el medio CCA de color:",
+   "opciones": [
+    "De azul oscuro a violeta.",
+    "De color rosa a rojo.",
+    "De color negro.",
+    "Incoloras."
+   ],
+   "correcta": 0,
+   "explicacion": "En CCA, E. coli aparece azul oscuro-violeta (β-glucuronidasa + β-galactosidasa) y los demás coliformes, rosa.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ058",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "tema_nombre": "Control de calidad del agua de consumo",
+   "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. En el recuento de Clostridium perfringens en aguas, las placas se deben incubar con las siguientes condiciones:",
+   "opciones": [
+    "A 44 °C, en condiciones de anaerobiosis.",
+    "A 37 °C, en condiciones de anaerobiosis.",
+    "A 37 °C, en condiciones de aerobiosis.",
+    "A 41,5 °C, en condiciones de aerobiosis."
+   ],
+   "correcta": 0,
+   "explicacion": "C. perfringens es anaerobio y se incuba a 44 ± 1 °C en anaerobiosis (UNE-EN ISO 14189).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_15",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "pregunta": "Según el Real Decreto 3/2023, los parámetros que caracterizan un agua son:",
+   "opciones": [
+    "Calcio, dureza total, magnesio y potasio.",
+    "Calcio, sodio, magnesio y potasio.",
+    "Calcio, dureza total, magnesio y sodio."
+   ],
+   "correcta": 0,
+   "explicacion": "Según la plantilla definitiva, los parámetros de caracterización del agua del RD 3/2023 son calcio, dureza total, magnesio y potasio (el sodio figura como parámetro indicador).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 15, plantilla definitiva)",
+   "tema_nombre": "Control de calidad del agua de consumo"
+  },
+  {
+   "id": "TAS23_1_16",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "pregunta": "Entre los nuevos parámetros incorporados por la normativa actual (RD 3/2023) para analizar en el agua de consumo están:",
+   "opciones": [
+    "Plaguicidas organofosforados.",
+    "Selenio.",
+    "Bisfenol A y ácido perfluorooctanoico (PFOA)."
+   ],
+   "correcta": 2,
+   "explicacion": "El RD 3/2023 incorpora, entre otros, bisfenol A, PFAS (incluido el PFOA), ácidos haloacéticos, clorato, clorito, microcistina y uranio.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 16, plantilla definitiva)",
+   "tema_nombre": "Control de calidad del agua de consumo"
+  },
+  {
+   "id": "TAS23_1_17",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "pregunta": "La conductividad y el pH de un agua de consumo son, según la clasificación del Anexo I del Real Decreto 3/2023:",
+   "opciones": [
+    "Parámetros químicos (parte B).",
+    "Características organolépticas (parte D).",
+    "Parámetros indicadores de calidad (parte C)."
+   ],
+   "correcta": 2,
+   "explicacion": "pH y conductividad son parámetros indicadores (parte C del Anexo I).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 17, plantilla definitiva)",
+   "tema_nombre": "Control de calidad del agua de consumo"
+  },
+  {
+   "id": "TAS23_1_R1",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 22,
+   "pregunta": "¿Cuál es el ámbito de aplicación del Real Decreto 3/2023 de agua de consumo?",
+   "opciones": [
+    "Todas las aguas que se pueden beber, tanto de una red de abastecimiento como las embotelladas.",
+    "Las aguas de captación y las aguas de consumo humano en su estado original o después del tratamiento, incluidas las aguas de consumo en el ámbito de la industria alimentaria.",
+    "El agua de consumo que se suministra a través de una red de distribución una vez realizado el tratamiento."
+   ],
+   "correcta": 1,
+   "explicacion": "Pregunta de reserva. El RD 3/2023 abarca desde la captación hasta el grifo, incluida la industria alimentaria; las aguas envasadas tienen su propia norma.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R1, plantilla definitiva)",
+   "tema_nombre": "Control de calidad del agua de consumo"
   },
   {
    "tema": 23,
@@ -12930,6 +14432,38 @@
    "tema_nombre": "Piscinas y aguas de baño"
   },
   {
+   "id": "TAS23_1_22",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 24,
+   "pregunta": "Señale los parámetros microbiológicos que se deben controlar obligatoriamente para evaluar las aguas de baño:",
+   "opciones": [
+    "Bacterias coliformes y Escherichia coli.",
+    "Enterococos intestinales y Escherichia coli.",
+    "Bacterias coliformes y enterococos intestinales."
+   ],
+   "correcta": 1,
+   "explicacion": "RD 1341/2007: E. coli y enterococos intestinales.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 22, plantilla definitiva)",
+   "tema_nombre": "Piscinas y aguas de baño"
+  },
+  {
+   "id": "TAS23_1_24",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 24,
+   "pregunta": "Señale los parámetros microbiológicos que se deben controlar obligatoriamente para evaluar las aguas de piscina:",
+   "opciones": [
+    "Bacterias coliformes y Escherichia coli.",
+    "Pseudomonas aeruginosa y Escherichia coli.",
+    "Recuento de bacterias a 22 ºC y Pseudomonas aeruginosa."
+   ],
+   "correcta": 1,
+   "explicacion": "RD 742/2013, Anexo I: E. coli y Pseudomonas aeruginosa (Legionella en vasos con agua climatizada o aerosoles).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 24, plantilla definitiva)",
+   "tema_nombre": "Piscinas y aguas de baño"
+  },
+  {
    "id": "SAN0651",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -13362,6 +14896,242 @@
    "correcta": 2,
    "explicacion": "Las estaciones SAICA (Sistema Automático de Información de Calidad de las Aguas) miden en continuo pH, temperatura, conductividad, oxígeno disuelto, turbidez y amonio, además de otros parámetros según estación. No miden cloro residual (agua sin tratar).",
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 78, plantilla definitiva)"
+  },
+  {
+   "id": "SANZ059",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "tema_nombre": "Muestreo de aguas",
+   "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Hidrocarburos policíclicos aromáticos:",
+   "opciones": [
+    "Recipiente de vidrio con tapón con revestimiento interno de politetrafluoroetileno (PTFE).",
+    "Envase de plástico con tiosulfato.",
+    "Envase de vidrio o plástico indistintamente siempre que estén limpios.",
+    "Envase de plástico con ácido clorhídrico."
+   ],
+   "correcta": 0,
+   "explicacion": "Los HAP (orgánicos) se toman en vidrio con tapón con PTFE, porque el plástico adsorbe o cede compuestos orgánicos.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ060",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "tema_nombre": "Muestreo de aguas",
+   "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Carbono orgánico total:",
+   "opciones": [
+    "Envase de plástico.",
+    "Envase de vidrio.",
+    "Ninguna de las anteriores.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "correcta": 3,
+   "explicacion": "Para el COT valen envases de plástico o de vidrio, siempre que estén limpios y exentos de materia orgánica.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_20",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "En una depuradora de aguas residuales, ¿cómo se deben tomar las muestras para su control?",
+   "opciones": [
+    "Puntualmente cada 24 horas.",
+    "Proporcionalmente al caudal o a intervalos regulares, durante un periodo de 24 horas.",
+    "Cuatro veces en 24 horas."
+   ],
+   "correcta": 1,
+   "explicacion": "RD 509/1996: muestras compuestas de 24 horas, proporcionales al caudal o a intervalos regulares.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 20, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_1_25",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "¿En qué envase tomarías una muestra de agua clorada de una fuente ornamental para el análisis de parámetros microbiológicos?",
+   "opciones": [
+    "Envase estéril de color topacio.",
+    "Envase estéril con neutralizante de biocida.",
+    "Envase limpio con ácido ascórbico."
+   ],
+   "correcta": 1,
+   "explicacion": "En agua tratada con biocida se usa envase estéril con neutralizante (tiosulfato sódico) para que el cloro no siga actuando.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 25, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_06",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 2: en el Servicio de Salud Pública se le pide tomar muestras de agua. Muestreo de agua de consumo en el grifo de una vivienda para determinar cobre, plomo y níquel:",
+   "opciones": [
+    "Muestreo aleatorio nocturno de un volumen de 1 litro.",
+    "Muestreo aleatorio diurno de 1 litro, tras 5 minutos de descarga.",
+    "Muestreo aleatorio diurno de 1 litro, tras 10-15 minutos de descarga.",
+    "Muestreo aleatorio diurno de 1 litro, sin descarga previa."
+   ],
+   "correcta": 3,
+   "explicacion": "Para Cu, Pb y Ni se toma 1 litro sin descarga previa en muestreo aleatorio diurno, para reflejar lo que bebe el consumidor.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 2 (pregunta 6, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_07",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 2: en el Servicio de Salud Pública se le pide tomar muestras de agua. Muestreo de agua de consumo para determinar trihalometanos (COV):",
+   "opciones": [
+    "En recipiente de plástico con ácido ascórbico, enjuagando el envase y llenándolo sin cámara de aire.",
+    "En recipiente de plástico con tapón de PTFE y ácido ascórbico, sin enjuagar y llenándolo sin cámara de aire.",
+    "En envase de vidrio con tapón revestido de PTFE y ácido ascórbico, sin enjuagar el envase y llenándolo hasta arriba sin cámara de aire.",
+    "En envase de vidrio con tapón revestido de PTFE y ácido ascórbico, enjuagando el envase y llenándolo sin cámara de aire."
+   ],
+   "correcta": 2,
+   "explicacion": "Vidrio y PTFE (el plástico adsorbe orgánicos), sin enjuagar para no perder el conservante y sin cámara de aire para no perder volátiles.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 2 (pregunta 7, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_08",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 2: en el Servicio de Salud Pública se le pide tomar muestras de agua. Muestreo en una EDAR para verificar que SS, DQO, DBO5, nitrógeno total y fósforo cumplen la normativa:",
+   "opciones": [
+    "Muestra puntual a la salida de la EDAR.",
+    "Muestra compuesta de 24 horas entre el tratamiento primario y el secundario.",
+    "Muestra compuesta de 24 horas entre el tratamiento primario y el desengrasado.",
+    "Muestra integrada o compuesta de 24 horas a la salida de la EDAR."
+   ],
+   "correcta": 3,
+   "explicacion": "El cumplimiento del vertido se comprueba en el efluente con muestra compuesta de 24 horas.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 2 (pregunta 8, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_09",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 2: en el Servicio de Salud Pública se le pide tomar muestras de agua. Muestreo de un agua superficial de más de 1 m de profundidad para verificar su aptitud como agua de baño:",
+   "opciones": [
+    "En la superficie de las aguas.",
+    "100 cm por debajo de la superficie.",
+    "30 cm por debajo de la superficie.",
+    "En la superficie, dejando una cámara de aire."
+   ],
+   "correcta": 2,
+   "explicacion": "RD 1341/2007: la muestra se toma unos 30 cm bajo la superficie en aguas de al menos 1 m de profundidad.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 2 (pregunta 9, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_10",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 2: en el Servicio de Salud Pública se le pide tomar muestras de agua. Muestreo de agua de consumo para determinar pH y cloro residual:",
+   "opciones": [
+    "Envase de plástico con un ácido como conservante.",
+    "Envase de vidrio, conservando la muestra a 20 ºC hasta el laboratorio.",
+    "Envase de plástico con ácido ascórbico como conservante.",
+    "Medir el pH y el cloro «in situ» es la mejor práctica."
+   ],
+   "correcta": 3,
+   "explicacion": "pH y cloro cambian en minutos: se miden en el punto de muestreo.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 2 (pregunta 10, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_11",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 3: hay que preparar envases limpios para muestrear agua de consumo presumiblemente clorada. Para el análisis de hidrocarburos policíclicos aromáticos (HPA):",
+   "opciones": [
+    "Envase de vidrio oscuro.",
+    "Envase de plástico.",
+    "Envase de vidrio o de plástico indistintamente, siempre que estén limpios.",
+    "Envase de plástico con ácido clorhídrico."
+   ],
+   "correcta": 0,
+   "explicacion": "Compuestos orgánicos fotosensibles: vidrio (no adsorbe) y oscuro (evita la fotodegradación).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 3 (pregunta 11, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_12",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 3: hay que preparar envases limpios para muestrear agua de consumo presumiblemente clorada. Para el análisis de plaguicidas:",
+   "opciones": [
+    "Envase de vidrio oscuro.",
+    "Envase de plástico oscuro.",
+    "Envase de plástico.",
+    "Cualquiera de los anteriores es válido."
+   ],
+   "correcta": 0,
+   "explicacion": "Los plaguicidas se muestrean en vidrio topacio; el plástico puede adsorberlos o contaminar.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 3 (pregunta 12, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_13",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 3: hay que preparar envases limpios para muestrear agua de consumo presumiblemente clorada. Para el análisis de cationes y aniones (calcio, magnesio, sodio, potasio, sulfato, cloruro, nitrato y fluoruro):",
+   "opciones": [
+    "Recipiente de plástico con tiosulfato sódico.",
+    "Recipiente de plástico con ácido sulfúrico.",
+    "Recipiente de plástico con ácido nítrico.",
+    "Recipiente de plástico."
+   ],
+   "correcta": 3,
+   "explicacion": "Plástico sin conservante: un ácido añadiría sulfato o nitrato y alteraría los aniones.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 3 (pregunta 13, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_14",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 3: hay que preparar envases limpios para muestrear agua de consumo presumiblemente clorada. Para el análisis de COV (trihalometanos):",
+   "opciones": [
+    "Recipiente de plástico con tiosulfato sódico.",
+    "Recipiente de plástico especialmente limpio.",
+    "Recipiente de vidrio con ácido ascórbico y tapón con revestimiento interno de PTFE.",
+    "Envase de vidrio transparente especialmente limpio."
+   ],
+   "correcta": 2,
+   "explicacion": "Vidrio con tapón de PTFE y declorante (ascórbico) para frenar la formación de THM.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 3 (pregunta 14, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
+  },
+  {
+   "id": "TAS23_2_15",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 25,
+   "pregunta": "Supuesto 3: hay que preparar envases limpios para muestrear agua de consumo presumiblemente clorada. Para el análisis microbiológico:",
+   "opciones": [
+    "Recipiente de plástico con tiosulfato sódico.",
+    "Recipiente de vidrio.",
+    "Recipiente de plástico.",
+    "Recipiente de vidrio oscuro."
+   ],
+   "correcta": 0,
+   "explicacion": "Envase estéril con tiosulfato sódico para neutralizar el cloro residual.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 3 (pregunta 15, plantilla definitiva)",
+   "tema_nombre": "Muestreo de aguas"
   },
   {
    "id": "SAN0676",
@@ -14024,6 +15794,38 @@
    "correcta": 2,
    "explicacion": "La suspensión inmediata procede cuando el vertido pueda causar daños a las personas, a los bienes o al medio ambiente. Si el riesgo es limitable se concede un trámite de alegaciones (en el examen se preguntó el plazo: 15 días según la plantilla).",
    "fuente": "Examen real Auxiliar Administrativo C2 Ecociudad Zaragoza (4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_21",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 26,
+   "pregunta": "¿Por qué es importante eliminar o reducir el fósforo y el nitrógeno de un agua residual antes de verterla a una zona sensible?",
+   "opciones": [
+    "Porque son elementos tóxicos y un peligro para la salud.",
+    "Porque son elementos corrosivos que destruyen las instalaciones.",
+    "Para evitar la eutrofización del medio acuático donde vierte el agua depurada."
+   ],
+   "correcta": 2,
+   "explicacion": "N y P son nutrientes: su exceso provoca la eutrofización, que es lo que define a una zona sensible.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 21, plantilla definitiva)",
+   "tema_nombre": "Aguas residuales"
+  },
+  {
+   "id": "TAS23_1_23",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 26,
+   "pregunta": "Según el RD 509/1996, las concentraciones máximas de DBO5 y sólidos en suspensión en los vertidos de instalaciones de tratamiento de aguas residuales urbanas son:",
+   "opciones": [
+    "35 mg/L O2 para DBO5 y 25 mg/L para sólidos en suspensión.",
+    "30 mg/L O2 para DBO5 y 35 mg/L para sólidos en suspensión.",
+    "25 mg/L O2 para DBO5 y 35 mg/L para sólidos en suspensión."
+   ],
+   "correcta": 2,
+   "explicacion": "DBO5 25 mg/L O2 (70-90 %), DQO 125 mg/L (75 %) y SS 35 mg/L (90 %).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 23, plantilla definitiva)",
+   "tema_nombre": "Aguas residuales"
   },
   {
    "tema": 27,
@@ -14862,6 +16664,22 @@
    "explicacion": "Actuar sobre la fase más vulnerable y concentrada es más eficaz."
   },
   {
+   "id": "TAS23_1_46",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 28,
+   "pregunta": "El hospedador principal del virus del Nilo Occidental, transmitido por Culex pipiens, es:",
+   "opciones": [
+    "Las aves.",
+    "El hombre.",
+    "Los caballos."
+   ],
+   "correcta": 0,
+   "explicacion": "Las aves son el reservorio; el hombre y el caballo son hospedadores accidentales (fondo de saco).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 46, plantilla definitiva)",
+   "tema_nombre": "Plagas y vectores"
+  },
+  {
    "id": "SAN0759",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -15260,6 +17078,54 @@
    ],
    "correcta": 2,
    "explicacion": "Las trampas adhesivas para roedores están restringidas por el sufrimiento que causan."
+  },
+  {
+   "id": "TAS23_1_41",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 29,
+   "pregunta": "¿Cuál de estas sustancias rodenticidas NO está afectada por la reclasificación del Reglamento (CE) 1272/2008 (CLP)?",
+   "opciones": [
+    "Flocumafén.",
+    "Difenacum.",
+    "Alfacloralosa."
+   ],
+   "correcta": 2,
+   "explicacion": "La reclasificación como tóxicos para la reproducción afectó a los anticoagulantes; la alfacloralosa no es anticoagulante.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 41, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas I: desratización"
+  },
+  {
+   "id": "TAS23_1_42",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 29,
+   "pregunta": "¿Cuál de estos rodenticidas es efectivo en una sola ingestión?",
+   "opciones": [
+    "Brodifacum.",
+    "Difenacum.",
+    "Bromadiolona."
+   ],
+   "correcta": 0,
+   "explicacion": "El brodifacum es el anticoagulante de 2.ª generación más potente: una sola ingesta puede ser letal.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 42, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas I: desratización"
+  },
+  {
+   "id": "TAS23_1_43",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 29,
+   "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Los rodenticidas anticoagulantes no deben usarse más de 35 días sin evaluar la infestación y la eficacia del tratamiento.",
+    "Los rodenticidas anticoagulantes no deben usarse más de 30 días sin evaluar la infestación y la eficacia del tratamiento.",
+    "Los rodenticidas anticoagulantes no deben usarse más de 20 días sin evaluar la infestación y la eficacia del tratamiento."
+   ],
+   "correcta": 0,
+   "explicacion": "Es una condición de uso de las autorizaciones de rodenticidas anticoagulantes: máximo 35 días sin evaluar.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 43, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas I: desratización"
   },
   {
    "id": "SAN0784",
@@ -15662,6 +17528,38 @@
    "explicacion": "El Btk actúa sobre las orugas de lepidópteros."
   },
   {
+   "id": "TAS23_1_47",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 30,
+   "pregunta": "La fiebre botonosa o exantemática mediterránea es transmitida principalmente por el vector:",
+   "opciones": [
+    "Rhipicephalus spp.",
+    "Dermacentor marginatus.",
+    "Hyalomma marginatum."
+   ],
+   "correcta": 0,
+   "explicacion": "La transmite la garrapata del perro (Rhipicephalus sanguineus). Hyalomma transmite la fiebre de Crimea-Congo.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 47, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas II: desinsectación"
+  },
+  {
+   "id": "TAS23_1_48",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 30,
+   "pregunta": "¿Cuál de las siguientes afirmaciones sobre el ciclo biológico de las chinches (Cimex lectularius) es correcta?",
+   "opciones": [
+    "Comprende el huevo, 5 estadios ninfales y el adulto.",
+    "Comprende el huevo, 4 estadios ninfales y el adulto.",
+    "Comprende el huevo, 3 estadios ninfales y el adulto."
+   ],
+   "correcta": 0,
+   "explicacion": "Metamorfosis incompleta con 5 estadios ninfales, cada uno necesita una ingesta de sangre.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 48, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas II: desinsectación"
+  },
+  {
    "id": "SAN0809",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -16030,6 +17928,106 @@
    "explicacion": "También afectan al bienestar, al turismo y al patrimonio."
   },
   {
+   "id": "TAS23_1_45",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 31,
+   "pregunta": "¿Qué especie del género Aedes NO se encuentra en la España peninsular?",
+   "opciones": [
+    "Aedes japonicus.",
+    "Aedes aegypti.",
+    "Aedes albopictus."
+   ],
+   "correcta": 1,
+   "explicacion": "A. albopictus (mosquito tigre) está establecido y A. japonicus se ha detectado en Asturias y Cantabria; A. aegypti no está establecido en la península.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 45, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
+   "id": "TAS23_1_49",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 31,
+   "pregunta": "¿Cuál de las siguientes afirmaciones sobre los simúlidos (mosca negra) es correcta?",
+   "opciones": [
+    "A diferencia de los culícidos, son de hábitos nocturnos y provocan la mayoría de las picaduras por la noche.",
+    "Se encuentran en zonas abiertas y no entran nunca en edificaciones humanas.",
+    "Su ciclo biológico es huevo, larva y adulto."
+   ],
+   "correcta": 1,
+   "explicacion": "Pican de día (sobre todo al amanecer y atardecer), en exteriores, y su ciclo incluye pupa: huevo, larva, pupa y adulto.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 49, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
+   "id": "TAS23_2_16",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 31,
+   "pregunta": "Supuesto 4: aumentan en Zaragoza las picaduras sospechosas de mosca negra (simúlidos), sin avenidas primaverales, con poca lluvia, caudales bajos y muchos macrófitos. En la recogida de información previa al diagnóstico de situación, ¿qué actuación NO es correcta para el control de la mosca negra?",
+   "opciones": [
+    "Cartografiar ríos, arroyos y canales de riego.",
+    "Cartografiar zonas sensibles próximas a los ríos, como áreas recreativas y deportivas.",
+    "Conocer la calidad del agua de los ríos.",
+    "Cartografiar los puntos de alcantarillado de la ciudad."
+   ],
+   "correcta": 3,
+   "explicacion": "Las larvas de simúlidos viven en aguas corrientes y oxigenadas, no en el alcantarillado (eso sería para mosquitos o cucarachas).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 4 (pregunta 16, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
+   "id": "TAS23_2_18",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 31,
+   "pregunta": "Supuesto 4: aumentan en Zaragoza las picaduras sospechosas de mosca negra (simúlidos), sin avenidas primaverales, con poca lluvia, caudales bajos y muchos macrófitos. ¿Cuál de estos factores NO favorece el aumento de la mosca negra en el río Ebro?",
+   "opciones": [
+    "La aparición de especies invasoras (siluro, mejillón cebra).",
+    "La implantación en la cuenca de sistemas de depuración de aguas residuales.",
+    "La mejora en el uso racional de la fertirrigación.",
+    "Ninguno de los anteriores."
+   ],
+   "correcta": 3,
+   "explicacion": "Según la plantilla definitiva, todos ellos favorecen a la mosca negra: el agua más limpia y los cambios del ecosistema fluvial le benefician.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 4 (pregunta 18, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
+   "id": "TAS23_2_19",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 31,
+   "pregunta": "Supuesto 4: aumentan en Zaragoza las picaduras sospechosas de mosca negra (simúlidos), sin avenidas primaverales, con poca lluvia, caudales bajos y muchos macrófitos. El larvicida biológico Bacillus thuringiensis var. israelensis (Bti) está incluido en el grupo de biocidas:",
+   "opciones": [
+    "TP18.",
+    "TP17.",
+    "TP16.",
+    "Ninguno de los anteriores."
+   ],
+   "correcta": 0,
+   "explicacion": "TP18: insecticidas, acaricidas y productos para controlar otros artrópodos.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 4 (pregunta 19, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
+   "id": "TAS23_2_20",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 31,
+   "pregunta": "Supuesto 4: aumentan en Zaragoza las picaduras sospechosas de mosca negra (simúlidos), sin avenidas primaverales, con poca lluvia, caudales bajos y muchos macrófitos. Si en el río Gállego hay un caudal de 20 m³/s y se aplica Bti (Vectobac) a 4 ppm, ¿cuántos litros de biocida se aplican en cada punto, con una duración de 10 minutos por punto?",
+   "opciones": [
+    "80.",
+    "48.",
+    "40.",
+    "44."
+   ],
+   "correcta": 1,
+   "explicacion": "20 m³/s = 20.000 L/s × 4 ppm = 0,08 L/s; × 600 s = 48 L.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 4 (pregunta 20, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas III"
+  },
+  {
    "id": "SAN0832",
    "bloque": "especifica",
    "ambito": "estatal",
@@ -16348,6 +18346,38 @@
    ],
    "correcta": 0,
    "explicacion": "Salud Pública del Gobierno de Aragón gestiona estos registros."
+  },
+  {
+   "id": "TAS23_1_50",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 32,
+   "pregunta": "Sobre el Decreto 75/2018, que regula el Registro Oficial de Establecimientos y Servicios de Biocidas de Aragón, ¿qué afirmación es verdadera?",
+   "opciones": [
+    "Los 3 últimos dígitos del código de registro corresponden a la actividad que se realiza.",
+    "Los 3 últimos dígitos del código de registro corresponden a la provincia de la empresa.",
+    "Los 3 últimos dígitos del código de registro corresponden a la clave que identifica a la empresa."
+   ],
+   "correcta": 0,
+   "explicacion": "Según la plantilla definitiva, los 3 últimos dígitos del número de inscripción indican la actividad.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 50, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas IV: servicios de control"
+  },
+  {
+   "id": "TAS23_1_R4",
+   "bloque": "especifica",
+   "ambito": "aragon",
+   "tema": 32,
+   "pregunta": "El plazo de validez de la inscripción en el Registro Oficial de Establecimientos y Servicios de Biocidas de Aragón es:",
+   "opciones": [
+    "5 años, salvo que por motivos de salud pública o a solicitud del titular proceda su cancelación o modificación.",
+    "10 años, salvo que por motivos de salud pública o a solicitud del titular proceda su cancelación o modificación.",
+    "Indefinido, salvo que por motivos de salud pública o a solicitud del titular proceda su cancelación o modificación."
+   ],
+   "correcta": 2,
+   "explicacion": "Pregunta de reserva. Según el Decreto 75/2018, la inscripción tiene validez indefinida.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R4, plantilla definitiva)",
+   "tema_nombre": "Plagas urbanas IV: servicios de control"
   },
   {
    "id": "SAN0852",
@@ -16990,6 +19020,22 @@
    "bloque": "especifica",
    "ambito": "estatal",
    "fuente": "Revisada en otro hilo (2026-10)",
+   "tema_nombre": "Biocidas"
+  },
+  {
+   "id": "TAS23_1_44",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 33,
+   "pregunta": "El pictograma que debe aparecer en los recipientes de brodifacum en concentración > 0,003 % es:",
+   "opciones": [
+    "GHS05.",
+    "GHS02.",
+    "GHS08."
+   ],
+   "correcta": 2,
+   "explicacion": "GHS08, peligro para la salud (tóxico para la reproducción). GHS05 es corrosivo y GHS02 inflamable.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 44, plantilla definitiva)",
    "tema_nombre": "Biocidas"
   },
   {
@@ -18639,7 +20685,40 @@
    ],
    "correcta": 2,
    "explicacion": "Acreditar (ISO/IEC 17025) es reconocer formalmente la competencia técnica del laboratorio para unos ensayos concretos (alcance) y lo hace ENAC, el organismo nacional de acreditación. AENOR certifica sistemas de gestión; la acreditación no exige un sistema medioambiental.",
-   "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 41, plantilla definitiva)"
+   "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 41, plantilla definitiva) · también salió en Técnico/a Auxiliar Sanitario 01-12-2023"
+  },
+  {
+   "id": "SANZ065",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 37,
+   "tema_nombre": "Laboratorios acreditados · ISO 17025",
+   "pregunta": "La ISO 17025 es una norma:",
+   "opciones": [
+    "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que disponen de sistemas de gestión de seguridad y salud en el trabajo destinados a proteger a los trabajadores y visitantes de accidentes y enfermedades laborales.",
+    "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que son técnicamente competentes y que sus resultados son veraces.",
+    "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que están comprometidos con la protección del medio ambiente.",
+    "Ninguna respuesta es correcta."
+   ],
+   "correcta": 1,
+   "explicacion": "UNE-EN ISO/IEC 17025 establece los requisitos de competencia técnica y gestión de los laboratorios de ensayo y calibración. La seguridad laboral es ISO 45001 y el medio ambiente, ISO 14001.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_30",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 37,
+   "pregunta": "¿Qué entidad evalúa en España el cumplimiento de los requisitos de la norma ISO/IEC 17025?",
+   "opciones": [
+    "La Asociación Española de Normalización (AENOR).",
+    "La Entidad Nacional de Acreditación (ENAC).",
+    "Lo pueden hacer las dos entidades."
+   ],
+   "correcta": 1,
+   "explicacion": "ENAC es el único organismo nacional de acreditación (RD 1715/2010).",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 30, plantilla definitiva)",
+   "tema_nombre": "Laboratorios acreditados · ISO 17025"
   },
   {
    "id": "SAN0991",
@@ -18960,6 +21039,22 @@
    ],
    "correcta": 3,
    "explicacion": "El muestreo puede ser una fuente importante del error total."
+  },
+  {
+   "id": "TAS23_1_28",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 38,
+   "pregunta": "En el control de calidad del muestreo de aguas, se considera fuente de error por transmisión de sustancias a la muestra:",
+   "opciones": [
+    "El muestreo en puntos no representativos, no homogéneos o que no se ajustan al objeto del muestreo.",
+    "El riesgo de contaminación cruzada procedente de conservantes químicos.",
+    "La desgasificación de sustancias volátiles por usar recipientes no herméticos o por el llenado incompleto."
+   ],
+   "correcta": 1,
+   "explicacion": "La a) es un error de representatividad y la c) es una pérdida de sustancias, no una transmisión.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 28, plantilla definitiva)",
+   "tema_nombre": "Control de calidad en la toma de muestras de aguas"
   },
   {
    "id": "SAN1011",
@@ -19458,6 +21553,395 @@
    "correcta": 1,
    "explicacion": "La DQO oxida químicamente toda la materia oxidable (biodegradable o no), mientras que la DBO₅ solo mide la fracción biodegradable en 5 días. Por eso DBO₅ < DQO (en un agua urbana doméstica DBO₅/DQO ≈ 0,4-0,6).",
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta 55, plantilla definitiva)"
+  },
+  {
+   "id": "SANZ068",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Para analizar el contenido total de metales en un agua residual, antes de utilizar una técnica instrumental se requiere:",
+   "opciones": [
+    "Digestión en medio básico de la muestra.",
+    "Filtrar la muestra.",
+    "Digestión ácida y en caliente de la muestra y posterior filtración.",
+    "Solo acidificar la muestra a pH < 2 y medir directamente."
+   ],
+   "correcta": 2,
+   "explicacion": "Para metales totales hay que digerir en medio ácido y en caliente (liberar los metales ligados a la materia particulada) y filtrar antes de la medida instrumental.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ069",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de sólidos en suspensión:",
+   "opciones": [
+    "Cromatografía iónica.",
+    "Potenciometría.",
+    "Gravimetría.",
+    "Volumetría."
+   ],
+   "correcta": 2,
+   "explicacion": "Los sólidos en suspensión se filtran, se secan el filtro y se pesan: gravimetría.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ070",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de la DQO:",
+   "opciones": [
+    "Cromatografía iónica.",
+    "Gravimetría.",
+    "Cromatografía de líquidos con detector de fluorescencia.",
+    "Método de digestión ácida y volumetría."
+   ],
+   "correcta": 3,
+   "explicacion": "La DQO se determina por digestión ácida con dicromato y valoración (o colorimetría) del exceso de oxidante.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ071",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de la DBO5:",
+   "opciones": [
+    "Método de digestión ácida y volumetría.",
+    "Determinación de oxígeno disuelto antes y después de cinco días de incubación a 20 °C.",
+    "Cromatografía iónica.",
+    "Gravimetría."
+   ],
+   "correcta": 1,
+   "explicacion": "DBO5 = diferencia de oxígeno disuelto antes y después de 5 días de incubación a 20 °C en oscuridad.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ072",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de plomo:",
+   "opciones": [
+    "Método de diluciones.",
+    "Método de Kjeldahl.",
+    "Espectrometría de masas con plasma por acoplamiento inductivo (ICP-MS).",
+    "Cromatografía de gases con detector selectivo."
+   ],
+   "correcta": 2,
+   "explicacion": "El plomo, como metal traza, se analiza por ICP-MS (o absorción atómica). Kjeldahl es para nitrógeno y el método de diluciones para la DBO.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ073",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de fósforo total:",
+   "opciones": [
+    "Método de digestión ácida y espectrofotometría molecular.",
+    "Método de diluciones.",
+    "Método de Kjeldahl.",
+    "Volumetría."
+   ],
+   "correcta": 0,
+   "explicacion": "El fósforo total se convierte en ortofosfato por digestión ácida y se determina por espectrofotometría molecular (azul de molibdeno).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ074",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En la composición típica de aguas residuales domésticas se puede decir que:",
+   "opciones": [
+    "El valor de la Demanda Química de Oxígeno es mayor al valor de la Demanda Bioquímica de Oxígeno.",
+    "El valor de la Demanda Química de Oxígeno es menor al valor de la Demanda Bioquímica de Oxígeno.",
+    "Ninguna de las dos respuestas es correcta.",
+    "Ambos valores son siempre iguales."
+   ],
+   "correcta": 0,
+   "explicacion": "La DQO oxida toda la materia orgánica (incluida la no biodegradable), mientras que la DBO5 solo la biodegradable: DQO > DBO5 (típicamente DBO5/DQO ≈ 0,4-0,6).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ075",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Determinación de pH:",
+   "opciones": [
+    "Se deja sedimentar la muestra 24 horas a temperatura ambiente y entonces se mide.",
+    "Se mide lo antes posible, una vez recibida la muestra.",
+    "Se centrifuga la muestra y se mide en el sobrenadante.",
+    "Se filtra la muestra y se mide en el filtrado."
+   ],
+   "correcta": 1,
+   "explicacion": "El pH cambia con el tiempo por equilibrios del CO2 y actividad biológica, por lo que se mide cuanto antes (idealmente in situ).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ076",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de DBO5:",
+   "opciones": [
+    "Digestión de la muestra con ácido nítrico concentrado y, una vez enfriada, se aplica el método del dicromato.",
+    "Se realiza el método de las diluciones lo antes posible, una vez recibida la muestra.",
+    "Se filtra la muestra y se aplica el método de las diluciones en el filtrado.",
+    "Gravimetría."
+   ],
+   "correcta": 1,
+   "explicacion": "La DBO5 se determina por el método de diluciones lo antes posible (o conservando la muestra a ≤ 4 °C): la actividad biológica cambia la muestra con el tiempo.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ077",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de nitrógeno total:",
+   "opciones": [
+    "Método de las diluciones.",
+    "Análisis por combustión oxidativa/quimioluminiscencia.",
+    "Cromatografía líquida.",
+    "Cromatografía iónica."
+   ],
+   "correcta": 1,
+   "explicacion": "El nitrógeno total se determina por oxidación a NO con detección por quimioluminiscencia (o por Kjeldahl).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ078",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de grasas:",
+   "opciones": [
+    "Filtración, extracción con hexano y pesada del extracto.",
+    "Saponificación y volumetría.",
+    "Valoración complexométrica.",
+    "Cromatografía líquida."
+   ],
+   "correcta": 0,
+   "explicacion": "Las grasas y aceites se extraen con hexano y se pesan (método gravimétrico).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ079",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de sulfatos:",
+   "opciones": [
+    "Por cromatografía iónica de cationes.",
+    "Por cromatografía iónica de aniones.",
+    "Digestión ácida y espectroscopía de absorción atómica.",
+    "Digestión ácida y cámara de grafito."
+   ],
+   "correcta": 1,
+   "explicacion": "El sulfato es un anión: cromatografía iónica de aniones.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ080",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de cloruros:",
+   "opciones": [
+    "Análisis directo por turbidimetría.",
+    "Digestión ácida y cámara de grafito.",
+    "Por cromatografía iónica de aniones.",
+    "Cromatografía líquida con detector de diodos."
+   ],
+   "correcta": 2,
+   "explicacion": "El cloruro es un anión: cromatografía iónica de aniones (o volumetría con nitrato de plata).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ081",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de metales (Hg, As, Sb, Se, Cd, Cu, Cr, Ni, Pb, Fe, Mn y Zn):",
+   "opciones": [
+    "Digestión ácida de la muestra y posterior determinación de los metales por ICP-MS.",
+    "Por espectrometría de absorción molecular.",
+    "Cromatografía líquida de alta resolución para su separación y posterior determinación.",
+    "Cromatografía gaseosa e identificación por espectrometría de masas."
+   ],
+   "correcta": 0,
+   "explicacion": "Para metales totales hay que digerir la muestra con ácido y medir por ICP-MS (multielemental).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+  },
+  {
+   "id": "SANZ082",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En el análisis de fósforo en aguas residuales, ¿qué técnica analítica se utiliza una vez formado el complejo molecular correspondiente?",
+   "opciones": [
+    "Una gravimetría.",
+    "Una volumetría indirecta.",
+    "Una volumetría directa.",
+    "Espectrofotometría de absorción molecular UV-Visible."
+   ],
+   "correcta": 3,
+   "explicacion": "El complejo de molibdeno coloreado (azul) se mide por espectrofotometría de absorción molecular.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "SANZ083",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "tema_nombre": "Análisis de aguas residuales",
+   "pregunta": "En la determinación de la DQO se utiliza sulfato de mercurio (II) para:",
+   "opciones": [
+    "Eliminar interferencias.",
+    "Reducir el tiempo de la determinación.",
+    "Catalizar la oxidación de los compuestos orgánicos.",
+    "Mejorar el límite de detección."
+   ],
+   "correcta": 0,
+   "explicacion": "El HgSO4 forma un complejo con los cloruros e impide que se oxiden por el dicromato (interferencia positiva).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (reserva, plantilla definitiva; 4.ª opción añadida)"
+  },
+  {
+   "id": "TAS23_1_R2",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "¿Cómo se define la Demanda Química de Oxígeno (DQO)?",
+   "opciones": [
+    "La cantidad de materia orgánica que reacciona y se consume al tratar el agua residual con permanganato potásico.",
+    "La concentración másica de oxígeno equivalente a la cantidad de dicromato consumido por la materia disuelta y en suspensión cuando una muestra de agua se trata con este oxidante en condiciones definidas.",
+    "El total de la materia orgánica oxidada en una ozonización completa de una muestra de agua residual."
+   ],
+   "correcta": 1,
+   "explicacion": "Pregunta de reserva. Es la definición de la norma ISO 6060 / UNE 77004.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R2, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_1_R3",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "¿Qué se entiende por sólidos en suspensión de un agua?",
+   "opciones": [
+    "Sustancias que permanecen en el agua después de filtrar la muestra.",
+    "Sustancias que se determinan evaporando a sequedad la muestra bajo condiciones específicas.",
+    "Sólidos separados por filtración o centrifugación bajo condiciones específicas."
+   ],
+   "correcta": 2,
+   "explicacion": "Pregunta de reserva. La a) son los sólidos disueltos y la b) el residuo seco total.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R3, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_2_01",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "Supuesto 1: llega al laboratorio una muestra de agua residual para pH, sólidos en suspensión, DQO, DBO5 y fósforo total. Para la determinación del pH:",
+   "opciones": [
+    "Se deja sedimentar la muestra 24 horas a temperatura ambiente para que se estabilice y luego se mide.",
+    "Se mide lo antes posible, tras recibir la muestra.",
+    "Se centrifuga una alícuota y se mide el pH en el sobrenadante.",
+    "Se filtra la muestra y se mide el pH en el filtrado."
+   ],
+   "correcta": 1,
+   "explicacion": "El pH cambia rápidamente (CO2, actividad biológica): se mide in situ o lo antes posible.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 1 (pregunta 1, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_2_02",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "Supuesto 1: llega al laboratorio una muestra de agua residual para pH, sólidos en suspensión, DQO, DBO5 y fósforo total. Para la determinación de los sólidos en suspensión:",
+   "opciones": [
+    "Se evapora a sequedad una alícuota y por diferencia de pesada se calculan los sólidos en suspensión.",
+    "Se calcina una alícuota a 550 ºC durante 4 horas y el peso del residuo indica los sólidos en suspensión.",
+    "Se filtra la muestra lo antes posible a vacío a través de fibra de vidrio, se seca el filtro a 105 ± 2 ºC y por pesada se calcula el residuo retenido.",
+    "Se guarda la muestra hasta 10 días en refrigeración a 4 ± 2 ºC y luego se procede como en c)."
+   ],
+   "correcta": 2,
+   "explicacion": "Método gravimétrico de la UNE-EN 872. La a) es el residuo seco total y a 550 ºC se obtienen los volátiles.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 1 (pregunta 2, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_2_03",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "Supuesto 1: llega al laboratorio una muestra de agua residual para pH, sólidos en suspensión, DQO, DBO5 y fósforo total. Para la determinación de la DQO:",
+   "opciones": [
+    "Se acidifica y filtra la muestra y en el filtrado se aplica el método del dicromato.",
+    "Se acidifica a pH < 2 con ácido sulfúrico y se puede guardar refrigerada a 4 ± 2 ºC hasta 45 días.",
+    "Se toma una alícuota tras homogeneizar manualmente la muestra y se determina la DQO por el método del dicromato.",
+    "Se toma una alícuota tras homogeneizar manualmente la muestra y se determina la DQO por permanganimetría."
+   ],
+   "correcta": 2,
+   "explicacion": "La DQO se hace sobre la muestra homogeneizada (sin filtrar) con dicromato. Acidificada y refrigerada se conserva unos días, no 45.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 1 (pregunta 3, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_2_04",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "Supuesto 1: llega al laboratorio una muestra de agua residual para pH, sólidos en suspensión, DQO, DBO5 y fósforo total. Para la determinación de la DBO5:",
+   "opciones": [
+    "Lo antes posible se hacen 2 o 3 diluciones, se mide el oxígeno disuelto, se guardan réplicas 5 días en oscuridad a 20 ºC y se vuelve a medir; el oxígeno consumido da la DBO5.",
+    "Se digiere la muestra con ácido nítrico concentrado 5 minutos, se enfría y el oxígeno disuelto da la DBO5.",
+    "Se hacen 2 o 3 diluciones que se guardan 5 días en oscuridad a 20 ºC y solo entonces se mide el oxígeno disuelto.",
+    "Se homogeneiza la muestra, se filtra y se aplica el método de las diluciones."
+   ],
+   "correcta": 0,
+   "explicacion": "Método de diluciones: hace falta medir el oxígeno inicial y el final tras 5 días a 20 ºC en oscuridad. No se filtra.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 1 (pregunta 4, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
+  },
+  {
+   "id": "TAS23_2_05",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 39,
+   "pregunta": "Supuesto 1: llega al laboratorio una muestra de agua residual para pH, sólidos en suspensión, DQO, DBO5 y fósforo total. Para la determinación del fósforo total:",
+   "opciones": [
+    "Se prepara la muestra para cromatografía de gases con detector sensible al fósforo.",
+    "Se determina por combustión oxidativa midiendo los óxidos de fósforo resultantes.",
+    "Se analiza con un electrodo selectivo de fósforo.",
+    "Se digiere la muestra con persulfato en medio sulfúrico, se añade molibdato y un reductor y se mide la coloración por espectrofotometría UV-visible."
+   ],
+   "correcta": 3,
+   "explicacion": "Digestión con persulfato para pasar todo el P a ortofosfato y método del azul de molibdeno.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 2.º ejercicio, supuesto 1 (pregunta 5, plantilla definitiva)",
+   "tema_nombre": "Análisis de aguas residuales"
   },
   {
    "id": "SAN1040",
@@ -20006,6 +22490,142 @@
    "correcta": 1,
    "explicacion": "Art. 5.1 del Reglamento de almacenamiento de productos químicos (RD 656/2017): cada cinco años, contados desde la puesta en servicio, el titular presenta ante el órgano competente de la comunidad autónoma un certificado de un organismo de control habilitado. Además, cada cinco años se hace una prueba de estanqueidad a recipientes y tuberías enterradas (art. 5.2). Contrastado con el texto del Reglamento.",
    "fuente": "Examen real · Químico/a Ayto. Zaragoza, 23-09-2026 (pregunta R4, plantilla definitiva)"
+  },
+  {
+   "id": "SANZ084",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué significa el pictograma de peligro con una calavera y dos tibias cruzadas (GHS06)?",
+   "opciones": [
+    "Puede provocar cáncer.",
+    "Puede irritar las vías respiratorias.",
+    "Peligroso para el medio ambiente acuático.",
+    "Mortal en caso de ingestión."
+   ],
+   "correcta": 3,
+   "explicacion": "El pictograma GHS06 (calavera y tibias) indica toxicidad aguda (mortal o tóxico por ingestión, contacto o inhalación). Cáncer corresponde a GHS08 e irritación respiratoria a GHS07.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ085",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué significa el pictograma de corrosión (GHS05: líquido que cae sobre una mano y sobre un metal)?",
+   "opciones": [
+    "Provoca quemaduras graves en la piel y lesiones oculares graves.",
+    "Líquido y vapores muy inflamables.",
+    "Tóxico para los organismos acuáticos, con efectos nocivos duraderos.",
+    "Mortal en caso de inhalación."
+   ],
+   "correcta": 0,
+   "explicacion": "GHS05 señala sustancias corrosivas para metales o que causan quemaduras cutáneas y lesiones oculares graves.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ086",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "Auditoría de acreditación según la norma ISO 17025 en un laboratorio: el auditor solicita varias determinaciones en una muestra de agua de consumo. Uno de los reactivos lleva el pictograma GHS08 (silueta humana con una estrella en el pecho). ¿Qué consejo de prudencia está relacionado con ese pictograma?",
+   "opciones": [
+    "En caso de ingestión, llamar inmediatamente a un centro de información toxicológica o a un médico.",
+    "En caso de ingestión, provocar el vómito.",
+    "a) y b) son correctas.",
+    "a) y b) son incorrectas."
+   ],
+   "correcta": 0,
+   "explicacion": "Ante un producto que puede ser nocivo para la salud por ingestión (consejo P301+P310) se llama a un centro de toxicología o a un médico; nunca se provoca el vómito.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ087",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "Indique a qué peligro corresponde el pictograma GHS08 (silueta humana con una estrella en el pecho):",
+   "opciones": [
+    "Corrosivo.",
+    "Comburente.",
+    "Peligro grave para la salud.",
+    "Peligro para el medio ambiente."
+   ],
+   "correcta": 2,
+   "explicacion": "GHS08 = peligro grave para la salud (carcinógeno, mutágeno, tóxico para la reproducción, sensibilizante respiratorio, toxicidad por aspiración o para órganos diana).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ088",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué riesgo indica el pictograma de la llama (GHS02)?",
+   "opciones": [
+    "Inflamable.",
+    "Explosivo.",
+    "Irritante.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 0,
+   "explicacion": "GHS02 (llama) indica productos inflamables.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ089",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué indica el pictograma con un signo de exclamación (GHS07)?",
+   "opciones": [
+    "Peligro indeterminado.",
+    "Peligro para el medio ambiente.",
+    "Peligro para la salud.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "GHS07 señala productos nocivos o irritantes (peligro para la salud en sentido amplio). Respuesta dada por el tribunal.",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ090",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué indica el pictograma de corrosión (GHS05: líquido sobre metal y mano)?",
+   "opciones": [
+    "Corrosivo.",
+    "Comburente.",
+    "Tóxico.",
+    "Irritante."
+   ],
+   "correcta": 0,
+   "explicacion": "GHS05 = corrosivo (corroe metales y provoca quemaduras cutáneas y lesiones oculares).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+  },
+  {
+   "id": "SANZ091",
+   "bloque": "especifica",
+   "ambito": "estatal",
+   "tema": 40,
+   "tema_nombre": "Laboratorio de fisicoquímica: seguridad",
+   "pregunta": "¿Qué indica el pictograma de la bombona de gas (GHS04)?",
+   "opciones": [
+    "Mantener en posición vertical.",
+    "Mantener en posición horizontal.",
+    "Recipiente frágil.",
+    "Gas a presión."
+   ],
+   "correcta": 3,
+   "explicacion": "GHS04 = gases a presión (comprimidos, licuados, disueltos o refrigerados).",
+   "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
   }
  ]
 }

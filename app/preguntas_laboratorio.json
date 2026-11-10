@@ -18953,5 +18953,2929 @@
   "correcta": 2,
   "explicacion": "Acreditar (ISO/IEC 17025) es reconocer formalmente la competencia técnica del laboratorio para unos ensayos concretos (alcance) y lo hace ENAC, el organismo nacional de acreditación. AENOR certifica sistemas de gestión; la acreditación no exige un sistema medioambiental.",
   "fuente": "Examen real Químico/a Ayto. Zaragoza 23/09/2026 (plantilla provisional)"
+ },
+ {
+  "id": "LAB1116",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 1,
+  "tema_nombre": "La Constitución española",
+  "pregunta": "«De la reforma constitucional» es el epígrafe:",
+  "opciones": [
+   "Del Título VIII de la Constitución.",
+   "Del Título IX de la Constitución.",
+   "Del Título X de la Constitución.",
+   "Del Título VII de la Constitución."
+  ],
+  "correcta": 2,
+  "explicacion": "La reforma constitucional se regula en el Título X (arts. 166 a 169). El Título VII es Economía y Hacienda, el VIII la Organización Territorial y el IX el Tribunal Constitucional.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1117",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 1,
+  "tema_nombre": "La Constitución española",
+  "pregunta": "De acuerdo con el artículo 8 de la Constitución española, las Fuerzas Armadas tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y defender:",
+  "opciones": [
+   "El ordenamiento jurídico.",
+   "El principio de legalidad.",
+   "La paz y la seguridad internacionales.",
+   "El ordenamiento constitucional."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 8.1 CE: garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1118",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 59.3 del Estatuto de Autonomía de Aragón, el Justicia rendirá cuentas de su gestión ante:",
+  "opciones": [
+   "Las Cortes de Aragón.",
+   "El Gobierno de Aragón.",
+   "Las Cortes Generales.",
+   "El Tribunal Superior de Justicia de Aragón."
+  ],
+  "correcta": 0,
+  "explicacion": "El Justicia de Aragón es elegido por las Cortes de Aragón y ante ellas rinde cuentas de su gestión (art. 59.3 EAA).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1119",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 71.4.ª del Estatuto de Autonomía de Aragón, en materia de lenguas y modalidades lingüísticas propias de Aragón corresponde a la Comunidad Autónoma la competencia:",
+  "opciones": [
+   "Ejecutiva.",
+   "Compartida.",
+   "Exclusiva.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "El art. 71 EAA enumera las competencias exclusivas de Aragón; su apartado 4.ª recoge las lenguas y modalidades lingüísticas propias.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1120",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 42.2 del Estatuto de Autonomía de Aragón, la iniciativa legislativa corresponde:",
+  "opciones": [
+   "A los miembros de las Cortes de Aragón.",
+   "Al Gobierno de Aragón.",
+   "Las respuestas a) y b) son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "Según el EAA la iniciativa legislativa corresponde a los Diputados y al Gobierno de Aragón, además de la iniciativa popular y de los ayuntamientos en los términos legales.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1121",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 45 del Estatuto de Autonomía de Aragón, a efectos de la vigencia de las leyes aragonesas regirá:",
+  "opciones": [
+   "La última fecha de publicación.",
+   "La fecha de publicación en el Boletín Oficial del Estado.",
+   "La fecha de publicación en el Boletín Oficial de Aragón.",
+   "La fecha de su sanción por el Presidente de Aragón."
+  ],
+  "correcta": 2,
+  "explicacion": "Las leyes aragonesas se publican en el BOA y en el BOE, pero a efectos de vigencia rige la fecha de publicación en el BOA.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1122",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 10 del Estatuto de Autonomía de Aragón, podrán incorporarse a la Comunidad Autónoma otros territorios o municipios, limítrofes o enclavados, mediante el cumplimiento, entre otros requisitos, de la aprobación por las Cortes Generales del Estado mediante:",
+  "opciones": [
+   "Ley.",
+   "Ley orgánica.",
+   "Ley aprobada por mayoría absoluta de ambas Cámaras.",
+   "Real decreto."
+  ],
+  "correcta": 1,
+  "explicacion": "La incorporación de otros territorios requiere, entre otros trámites, su aprobación por las Cortes Generales mediante ley orgánica (art. 10 EAA).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1123",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "El Estatuto de Autonomía de Aragón",
+  "pregunta": "De acuerdo con el artículo 36.2 del Estatuto de Autonomía de Aragón, relativo a la composición de las Cortes de Aragón, cada provincia estará representada, en todo caso, por un mínimo de:",
+  "opciones": [
+   "12 escaños.",
+   "10 escaños.",
+   "14 escaños.",
+   "16 escaños."
+  ],
+  "correcta": 2,
+  "explicacion": "Las Cortes de Aragón tienen entre 65 y 75 Diputados y cada provincia está representada por un mínimo de 14.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1124",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Ley de capitalidad de Zaragoza",
+  "pregunta": "De acuerdo con el artículo 12.1 de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, el término municipal es el territorio en que:",
+  "opciones": [
+   "Reside la población del municipio.",
+   "El ayuntamiento presta sus servicios.",
+   "Se encuentra la casa consistorial.",
+   "El ayuntamiento ejerce sus competencias."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 12.1 LBRL: «El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias».",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1125",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Ley de capitalidad de Zaragoza",
+  "pregunta": "De acuerdo con el artículo 132 de la Ley 7/1985, ¿qué órgano municipal estará formado por representantes de todos los grupos que integren el Pleno, de forma proporcional al número de miembros que tengan en el mismo?",
+  "opciones": [
+   "El Consejo Social de la Ciudad.",
+   "La Comisión especial de Sugerencias y Reclamaciones.",
+   "Las dos respuestas anteriores son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 1,
+  "explicacion": "En los municipios de gran población, la Comisión especial de Sugerencias y Reclamaciones se compone de representantes de todos los grupos del Pleno en proporción a su número de miembros (art. 132 LBRL). El Consejo Social de la Ciudad (art. 131) es un órgano de participación ciudadana.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1126",
+  "bloque": "comun",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Ley de capitalidad de Zaragoza",
+  "pregunta": "De acuerdo con el artículo 13.2 de la Ley 7/1985, reguladora de las Bases del Régimen Local, la creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos:",
+  "opciones": [
+   "10.000 habitantes.",
+   "5.000 habitantes.",
+   "1.000 habitantes.",
+   "2.000 habitantes."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 13.2 LBRL: núcleos de población territorialmente diferenciados de, al menos, 5.000 habitantes, y que los municipios resultantes cuenten con recursos suficientes.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1127",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con el artículo 59 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), los ayuntamientos:",
+  "opciones": [
+   "Podrán establecer y exigir el Impuesto sobre Actividades Económicas.",
+   "Podrán establecer y exigir el Impuesto sobre Vehículos de Tracción Mecánica.",
+   "Exigirán el Impuesto sobre Bienes Inmuebles.",
+   "Podrán establecer y exigir el Impuesto sobre Bienes Inmuebles."
+  ],
+  "correcta": 2,
+  "explicacion": "Son impuestos obligatorios (los ayuntamientos «exigirán») el IBI, el IAE y el IVTM. Solo el ICIO y el IIVTNU son potestativos («podrán establecer y exigir»).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1128",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con el artículo 3.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), constituyen ingresos de derecho privado de las entidades locales:",
+  "opciones": [
+   "Los rendimientos o productos de cualquier naturaleza derivados de su patrimonio.",
+   "Las adquisiciones a título de herencia, legado o donación.",
+   "Las respuestas a) y b) son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "El art. 3 TRLRHL califica como ingresos de derecho privado tanto los rendimientos del patrimonio como las adquisiciones por herencia, legado o donación.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1129",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con el artículo 169.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), aprobado inicialmente el presupuesto general, se expondrá al público, previo anuncio en el boletín oficial de la provincia o, en su caso, de la comunidad autónoma uniprovincial, por:",
+  "opciones": [
+   "15 días.",
+   "10 días.",
+   "30 días.",
+   "Un mes."
+  ],
+  "correcta": 0,
+  "explicacion": "El presupuesto general aprobado inicialmente se expone al público durante 15 días, plazo en el que los interesados pueden examinarlo y presentar reclamaciones ante el Pleno (art. 169.1 TRLRHL).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1130",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con el artículo 128.1 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), podrán imponer la prestación personal y de transporte para la realización de obras de la competencia municipal los ayuntamientos con población de derecho no superior a:",
+  "opciones": [
+   "10.000 habitantes.",
+   "5.000 habitantes.",
+   "20.000 habitantes.",
+   "1.000 habitantes."
+  ],
+  "correcta": 1,
+  "explicacion": "Los ayuntamientos con población de derecho no superior a 5.000 habitantes pueden imponer prestaciones personales y de transporte para obras de su competencia (art. 128.1 TRLRHL).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1131",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con los artículos 129 y 130 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), los residentes del municipio que sean menores de dieciocho años y los mayores de cincuenta y cinco no estarán sujetos:",
+  "opciones": [
+   "A la prestación personal.",
+   "A la prestación de transporte.",
+   "Las dos respuestas anteriores son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 0,
+  "explicacion": "Los menores de 18 y mayores de 55 años están exentos de la prestación personal (art. 129).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1132",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Haciendas Locales",
+  "pregunta": "De acuerdo con el artículo 129 del texto refundido de la Ley reguladora de las Haciendas Locales (RDL 2/2004), la prestación personal no excederá de:",
+  "opciones": [
+   "Siete días al año.",
+   "Quince días al año.",
+   "Cinco días al año.",
+   "Treinta días al año."
+  ],
+  "correcta": 1,
+  "explicacion": "La prestación personal no puede exceder de quince días al año (art. 129 TRLRHL).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1133",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 15 del texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015), los empleados públicos tienen, entre otros, derechos individuales que se ejercen colectivamente:",
+  "opciones": [
+   "El derecho a la libertad sindical.",
+   "El derecho a la carrera profesional y a la promoción interna.",
+   "El derecho a recibir protección eficaz en materia de seguridad y salud en el trabajo.",
+   "El derecho a percibir las retribuciones y las indemnizaciones por razón de servicio."
+  ],
+  "correcta": 0,
+  "explicacion": "El art. 15 TREBEP recoge los derechos individuales de ejercicio colectivo (libertad sindical, negociación colectiva, huelga, planteamiento de conflictos...). Los demás son derechos individuales del art. 14.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1134",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 61.6 del TREBEP (RDL 5/2015), el concurso es un sistema selectivo:",
+  "opciones": [
+   "Que solo podrá aplicarse en virtud de ley.",
+   "Que tiene carácter excepcional.",
+   "Las respuestas a) y b) son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 61.6 TREBEP: el concurso, que consiste únicamente en la valoración de méritos, tiene carácter excepcional y solo puede aplicarse en virtud de ley.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1135",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 70.1 del TREBEP (RDL 5/2015), la ejecución de la oferta de empleo público deberá desarrollarse dentro del plazo improrrogable de:",
+  "opciones": [
+   "Cinco años.",
+   "Un año.",
+   "Tres años.",
+   "Dos años."
+  ],
+  "correcta": 2,
+  "explicacion": "La oferta de empleo público debe ejecutarse en un plazo improrrogable de tres años (art. 70.1 TREBEP).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1136",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 60.2 del TREBEP (RDL 5/2015), no podrá formar parte de los órganos de selección:",
+  "opciones": [
+   "El personal laboral.",
+   "Los funcionarios de carrera.",
+   "El personal eventual.",
+   "El personal con legislación específica propia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 60.2 TREBEP: no pueden formar parte de los órganos de selección el personal de elección o designación política, los funcionarios interinos y el personal eventual.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1137",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 12.1 del TREBEP (RDL 5/2015), el personal que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial es el:",
+  "opciones": [
+   "Personal eventual.",
+   "Personal laboral temporal.",
+   "Personal funcionario interino.",
+   "Personal directivo."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 12.1 TREBEP: personal eventual.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1138",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 76 del TREBEP (RDL 5/2015), para el acceso al grupo/subgrupo A2 la titulación exigida es:",
+  "opciones": [
+   "Técnico Superior.",
+   "Título universitario de Grado.",
+   "Ninguna de las respuestas anteriores es correcta.",
+   "Título de Bachiller o Técnico."
+  ],
+  "correcta": 1,
+  "explicacion": "Los grupos A1 y A2 exigen título universitario de Grado (el A2 diferencia del A1 por el nivel de responsabilidad, no por la titulación). C1 exige Bachiller o Técnico y C2 la ESO.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1139",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "De acuerdo con el artículo 95 del TREBEP (RDL 5/2015), las faltas disciplinarias pueden ser:",
+  "opciones": [
+   "Graves, menos graves y leves.",
+   "Muy graves, graves y leves.",
+   "Muy graves y leves.",
+   "Graves y leves."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 95.1 TREBEP: las faltas disciplinarias pueden ser muy graves, graves y leves.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1140",
+  "bloque": "comun",
+  "ambito": "estatal",
+  "tema": 7,
+  "tema_nombre": "Los empleados públicos",
+  "pregunta": "Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados con carácter temporal para el desempeño de funciones propias de funcionarios de carrera cuando se dé, entre otras, la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de:",
+  "opciones": [
+   "Dos años, en los términos previstos en el apartado 4.",
+   "Cinco años, en los términos previstos en el apartado 4.",
+   "Tres años, en los términos previstos en el apartado 4.",
+   "Cuatro años, en los términos previstos en el apartado 4."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 10.1.a) TREBEP: plazas vacantes sin posibilidad de cobertura por funcionarios de carrera, por un máximo de tres años (art. 10.4, tras la Ley 20/2021).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1141",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 9,
+  "tema_nombre": "Seguridad en el laboratorio de microbiología",
+  "pregunta": "¿Qué nivel de contención es suficiente para que un laboratorio pueda realizar determinaciones de Legionella?",
+  "opciones": [
+   "Laboratorio tipo 0.",
+   "Laboratorio tipo 2.",
+   "Laboratorio tipo 4.",
+   "Laboratorio tipo 5."
+  ],
+  "correcta": 1,
+  "explicacion": "Legionella es un agente biológico del grupo 2, para el que basta un nivel de contención 2 (laboratorio de bioseguridad nivel 2).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1142",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 9,
+  "tema_nombre": "Seguridad en el laboratorio de microbiología",
+  "pregunta": "Un agente biológico que puede causar una enfermedad grave en las personas, con riesgo de que se propague a la colectividad, para el que se dispone de medidas de profilaxis o tratamiento eficaces es:",
+  "opciones": [
+   "Un agente biológico del grupo 4.",
+   "Un agente biológico del grupo 2.",
+   "Un agente biológico del grupo 1.",
+   "Un agente biológico del grupo 3."
+  ],
+  "correcta": 3,
+  "explicacion": "RD 664/1997: grupo 3 = enfermedad grave, riesgo de propagación, con profilaxis o tratamiento eficaz. Grupo 4: sin profilaxis ni tratamiento eficaz; grupo 2: poco probable que se propague.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1143",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 10,
+  "tema_nombre": "Equipo básico del laboratorio de microbiología I",
+  "pregunta": "El método para descontaminar el material del laboratorio de microbiología es el autoclavado:",
+  "opciones": [
+   "Como mínimo 60 minutos a 121 °C.",
+   "Como mínimo 15 minutos a 80 °C.",
+   "Como mínimo 30 minutos a 121 °C.",
+   "Como mínimo 10 minutos a 121 °C."
+  ],
+  "correcta": 2,
+  "explicacion": "Para descontaminar material contaminado se autoclava como mínimo 30 minutos a 121 °C (criterio del tribunal; la esterilización de medios suele ser de 15-20 min).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1144",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 10,
+  "tema_nombre": "Equipo básico del laboratorio de microbiología I",
+  "pregunta": "Para esterilizar por calor húmedo se utiliza:",
+  "opciones": [
+   "Estufa de cultivo.",
+   "Horno Pasteur.",
+   "Baño de ultrasonidos.",
+   "Autoclave."
+  ],
+  "correcta": 3,
+  "explicacion": "El autoclave esteriliza con vapor de agua a presión (121 °C). El horno Pasteur esteriliza por calor seco.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1145",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 12,
+  "tema_nombre": "Medios de cultivo",
+  "pregunta": "En una placa de agar CN han crecido colonias de color verde/azul:",
+  "opciones": [
+   "Son colonias de Pseudomonas aeruginosa.",
+   "Son colonias de Clostridium perfringens.",
+   "Son colonias de Staphylococcus aureus.",
+   "Son colonias de Escherichia coli."
+  ],
+  "correcta": 0,
+  "explicacion": "El agar CN (cetrimida) es selectivo para Pseudomonas aeruginosa, que produce piocianina (azul) y pioverdina (verde).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1146",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 12,
+  "tema_nombre": "Medios de cultivo",
+  "pregunta": "¿Cómo se denominan los medios de cultivo que permiten el crecimiento de los microorganismos diana e inhiben el crecimiento de otros microorganismos?",
+  "opciones": [
+   "Medios selectivos.",
+   "Medios complejos.",
+   "Medios reductores.",
+   "Medios de enriquecimiento no selectivo."
+  ],
+  "correcta": 0,
+  "explicacion": "Un medio selectivo contiene agentes inhibidores que favorecen el crecimiento de los microorganismos diana.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1147",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 13,
+  "tema_nombre": "Técnicas de recuento de microorganismos",
+  "pregunta": "En la técnica de filtración en membrana, el volumen de muestra a filtrar debe seleccionarse de tal forma que el número esperado de colonias formadas sobre el filtro de membrana de 47 mm de diámetro sea inferior a:",
+  "opciones": [
+   "200 colonias.",
+   "100 colonias.",
+   "120 colonias.",
+   "80 colonias."
+  ],
+  "correcta": 3,
+  "explicacion": "Para poder contar con fiabilidad sin solapamiento se busca un número de colonias inferior a unas 80 por filtro de 47 mm (rango óptimo habitual 20-80). Respuesta dada por el tribunal.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1148",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 13,
+  "tema_nombre": "Técnicas de recuento de microorganismos",
+  "pregunta": "Al realizar un recuento de colonias de bacterias en una placa en la que se sembraron 100 µL de la muestra sin diluir se han contabilizado 97 colonias. ¿Qué cantidad de ufc/mL hay en la muestra de partida?",
+  "opciones": [
+   "9,7×10¹",
+   "9,7×10⁴",
+   "9,7×10³",
+   "9,7×10²"
+  ],
+  "correcta": 3,
+  "explicacion": "97 ufc / 0,1 mL = 970 ufc/mL = 9,7×10² ufc/mL.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1149",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 13,
+  "tema_nombre": "Técnicas de recuento de microorganismos",
+  "pregunta": "El método más frecuentemente utilizado para obtener un cultivo puro es:",
+  "opciones": [
+   "La siembra por agotamiento.",
+   "La siembra en superficie y extensión mediante asa de Drigalski.",
+   "La siembra en picadura.",
+   "La siembra por vertido."
+  ],
+  "correcta": 0,
+  "explicacion": "El agotamiento en estría con asa de siembra permite aislar colonias individuales a partir de las que se obtiene un cultivo puro.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1150",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 13,
+  "tema_nombre": "Técnicas de recuento de microorganismos",
+  "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. Si realiza un análisis con un factor de dilución 1:100 y el resultado de su NMP es de 14,5, ¿cuál es el resultado final después de tener en cuenta la dilución?",
+  "opciones": [
+   "145.",
+   "1450.",
+   "0,15.",
+   "14500."
+  ],
+  "correcta": 1,
+  "explicacion": "Resultado = NMP × factor de dilución = 14,5 × 100 = 1.450.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1151",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 14,
+  "tema_nombre": "Examen microscópico y tinciones",
+  "pregunta": "¿En qué tipo de tinción se utiliza lugol?",
+  "opciones": [
+   "Tinción de ácido-alcohol resistencia.",
+   "Tinción de esporas.",
+   "Tinción negativa.",
+   "Tinción de Gram."
+  ],
+  "correcta": 3,
+  "explicacion": "En la tinción de Gram el lugol (yodo) actúa como mordiente fijando el cristal violeta.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1152",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 14,
+  "tema_nombre": "Examen microscópico y tinciones",
+  "pregunta": "Al realizar una tinción de Gram de Escherichia coli, esta queda teñida de color:",
+  "opciones": [
+   "Violeta.",
+   "Rosa.",
+   "Verde.",
+   "No se tiñe."
+  ],
+  "correcta": 1,
+  "explicacion": "E. coli es gramnegativa: pierde el cristal violeta con el decolorante y se tiñe de rosa con la safranina.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1153",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 15,
+  "tema_nombre": "Clasificación de microorganismos",
+  "pregunta": "Los protozoos tienen las siguientes características:",
+  "opciones": [
+   "Son eucariotas, heterótrofos, con capacidad de movimiento.",
+   "Son procariotas, heterótrofos, con capacidad de movimiento.",
+   "Son procariotas, autótrofos y unicelulares.",
+   "Son eucariotas, heterótrofos, pluricelulares."
+  ],
+  "correcta": 0,
+  "explicacion": "Los protozoos son eucariotas unicelulares, heterótrofos y, en general, móviles (flagelos, cilios o pseudópodos).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1154",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 15,
+  "tema_nombre": "Clasificación de microorganismos",
+  "pregunta": "La criptosporidiosis es una enfermedad gastrointestinal causada por:",
+  "opciones": [
+   "Un protozoo.",
+   "Una bacteria.",
+   "Un virus.",
+   "Un hongo."
+  ],
+  "correcta": 0,
+  "explicacion": "Cryptosporidium es un protozoo parásito que se transmite a través del agua (ooquistes resistentes al cloro).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1155",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 15,
+  "tema_nombre": "Clasificación de microorganismos",
+  "pregunta": "¿Cuál de las siguientes bacterias es Gram negativa?",
+  "opciones": [
+   "Staphylococcus aureus.",
+   "Citrobacter freundii.",
+   "Clostridium perfringens.",
+   "Listeria monocytogenes."
+  ],
+  "correcta": 1,
+  "explicacion": "Citrobacter es una enterobacteria (bacilo gramnegativo). Listeria, Staphylococcus y Clostridium son grampositivos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1156",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 16,
+  "tema_nombre": "Técnicas de identificación de bacterias",
+  "pregunta": "En la técnica PCR, el proceso en un ciclo térmico consta de las siguientes fases:",
+  "opciones": [
+   "Desnaturalización, hibridación y elongación.",
+   "Coagulación, elongación e hibridación.",
+   "Elongación, hibridación y desnaturalización.",
+   "Hibridación, coagulación y desnaturalización."
+  ],
+  "correcta": 0,
+  "explicacion": "Cada ciclo de PCR: desnaturalización del ADN (~95 °C), hibridación de los cebadores (~55 °C) y elongación por la polimerasa (~72 °C).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1157",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 16,
+  "tema_nombre": "Técnicas de identificación de bacterias",
+  "pregunta": "Los gérmenes del género Salmonella:",
+  "opciones": [
+   "Son Gram positivo.",
+   "No fermentan la glucosa.",
+   "Fermentan la lactosa.",
+   "No producen ureasa."
+  ],
+  "correcta": 3,
+  "explicacion": "Salmonella es un bacilo Gram negativo, ureasa negativo, que fermenta la glucosa y no la lactosa.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1158",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 16,
+  "tema_nombre": "Técnicas de identificación de bacterias",
+  "pregunta": "Para diferenciar Pseudomonas de enterobacterias se utiliza la prueba bioquímica:",
+  "opciones": [
+   "Coagulasa.",
+   "Ureasa.",
+   "Oxidasa.",
+   "Catalasa."
+  ],
+  "correcta": 2,
+  "explicacion": "Pseudomonas es oxidasa positiva y las enterobacterias son oxidasa negativas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1159",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 17,
+  "tema_nombre": "Control de calidad en el laboratorio de microbiología",
+  "pregunta": "Se entiende como especificidad de un medio de cultivo:",
+  "opciones": [
+   "Demostración, bajo condiciones definidas, de que los microorganismos no diana no presentan las mismas características visuales que los microorganismos diana.",
+   "Grado de inhibición observada sobre un microorganismo no diana en profundidad o sobre la superficie de un medio de cultivo selectivo bajo unas condiciones definidas.",
+   "Capacidad del medio de cultivo para conservar la viabilidad de los microorganismos durante el almacenamiento.",
+   "La tasa de recuperación de un microorganismo diana a partir de un medio de cultivo, bajo condiciones definidas."
+  ],
+  "correcta": 0,
+  "explicacion": "Especificidad: los organismos no diana no se confunden con los diana (se distinguen). a) es la recuperación (eficacia) y c) la selectividad.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1160",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Los colifagos somáticos son:",
+  "opciones": [
+   "Hongos filamentosos indicadores de contaminación del agua.",
+   "Protozoos patógenos que pueden transmitirse a través del agua.",
+   "Virus que utilizan Escherichia coli para replicarse.",
+   "Bacterias indicadoras de contaminación fecal."
+  ],
+  "correcta": 2,
+  "explicacion": "Los colifagos son bacteriófagos (virus) que infectan a E. coli; los somáticos infectan la pared celular y se usan como indicadores de virus entéricos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1161",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Indique cuál de las siguientes definiciones de bacteria coliforme resulta más adecuada:",
+  "opciones": [
+   "Bacterias lactosa-negativas y que son oxidasa-positivas.",
+   "Bacterias lactosa-positivas y que son oxidasa-negativas.",
+   "Bacterias lactosa-negativas y que son oxidasa-negativas.",
+   "Bacterias lactosa-positivas y que son oxidasa-positivas."
+  ],
+  "correcta": 1,
+  "explicacion": "Los coliformes fermentan la lactosa y son oxidasa negativos; por eso la oxidasa descarta a Pseudomonas y Aeromonas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1162",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En un agua de consumo humano, el recuento de colonias a 22 °C:",
+  "opciones": [
+   "Indica contaminación fecal del agua.",
+   "Proporciona información sobre la limpieza y el estado de los sistemas de distribución.",
+   "Indica contaminación por virus entéricos.",
+   "Indica posible presencia de quistes u ooquistes de protozoos en el agua."
+  ],
+  "correcta": 1,
+  "explicacion": "El recuento de aerobios a 22 °C es un indicador de calidad general: refleja el estado de limpieza de la red y los depósitos, no contaminación fecal.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1163",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Las legionellas son:",
+  "opciones": [
+   "Bacilos Gram negativo, aerobios estrictos.",
+   "Cocos Gram positivo, aerobios estrictos.",
+   "Bacilos Gram negativo, anaerobios facultativos.",
+   "Cocos Gram positivo, anaerobios estrictos."
+  ],
+  "correcta": 0,
+  "explicacion": "Legionella es un bacilo Gram negativo aerobio estricto, que necesita L-cisteína y hierro para crecer.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1164",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. La legionelosis se transmite:",
+  "opciones": [
+   "De persona enferma a persona sana.",
+   "A través de los animales.",
+   "Mediante inhalación de aerosoles de agua infectada con Legionella.",
+   "Todas son correctas."
+  ],
+  "correcta": 2,
+  "explicacion": "Se contagia por inhalación de aerosoles con bacterias; no se transmite de persona a persona.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1165",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Respecto al volumen de muestra necesario para analizar Legionella por cultivo:",
+  "opciones": [
+   "Se requiere un volumen mínimo de 500 mL y el envase se debe llenar completamente.",
+   "Se requiere un volumen mínimo de 1000 mL y siempre debe dejarse una pequeña cámara de aire sobre el nivel del agua.",
+   "Se requiere un volumen mínimo de 1000 mL y el envase se debe llenar completamente.",
+   "Ninguna es correcta."
+  ],
+  "correcta": 1,
+  "explicacion": "Se recoge como mínimo 1 L y se deja una pequeña cámara de aire para poder homogeneizar la muestra.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1166",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Las colonias sospechosas de Clostridium perfringens en el medio de cultivo TSC-MUP se confirman mediante:",
+  "opciones": [
+   "Prueba de la coagulasa.",
+   "Prueba de la oxidasa.",
+   "Prueba de aglutinación látex.",
+   "Visualización de halo fluorescente alrededor de la colonia al exponerlas a la luz UV de 365 nm."
+  ],
+  "correcta": 3,
+  "explicacion": "El MUP (4-metilumbeliferil fosfato) se hidroliza por la fosfatasa ácida de C. perfringens y da fluorescencia a 365 nm.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1167",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "La especie implicada en la mayoría de los casos de legionelosis es:",
+  "opciones": [
+   "Legionella bozemanii.",
+   "Legionella anisa.",
+   "Legionella pneumophila.",
+   "Legionella micdadei."
+  ],
+  "correcta": 2,
+  "explicacion": "L. pneumophila (sobre todo el serogrupo 1) causa la gran mayoría de los casos de legionelosis.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1168",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "El método de referencia para el análisis de Legionella spp en muestras de agua es:",
+  "opciones": [
+   "El método de cultivo contemplado en la norma UNE-EN ISO 11731:2017.",
+   "La reacción en cadena de la polimerasa en tiempo real (PCR-RT).",
+   "El método del número más probable con el sistema Legiolert/Quanti-Tray.",
+   "La inmunofluorescencia directa."
+  ],
+  "correcta": 0,
+  "explicacion": "El método de referencia es el cultivo según UNE-EN ISO 11731. La PCR es un método rápido alternativo, no el de referencia.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1169",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Las placas sembradas para el análisis de Legionella spp en agua se incuban a 36 °C durante:",
+  "opciones": [
+   "10 días.",
+   "48 horas exactas.",
+   "1 día.",
+   "44 ± 4 h."
+  ],
+  "correcta": 0,
+  "explicacion": "Legionella crece lentamente: según la norma ISO 11731 se incuba a 36 ± 2 °C hasta 10 días, con lecturas intermedias.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1170",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. E. coli es miembro de la familia Enterobacteriaceae. Las enterobacterias se caracterizan por:",
+  "opciones": [
+   "Ser grampositivas y fermentar azúcares.",
+   "Ser gramnegativas, aerobias y anaerobias facultativas y fermentar azúcares.",
+   "Ser gramnegativas y no fermentar azúcares.",
+   "Ser gramnegativas y aerobias estrictas."
+  ],
+  "correcta": 1,
+  "explicacion": "Las enterobacterias son bacilos gramnegativos, aerobios-anaerobios facultativos, oxidasa negativos, que fermentan la glucosa.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1171",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Los medios de cultivo para analizar Escherichia coli contienen:",
+  "opciones": [
+   "Un sustrato específico para la β-galactosidasa y otro para la β-glucuronidasa.",
+   "Azida de sodio y sales de tetrazolio.",
+   "Metabisulfito sódico y cicloserina.",
+   "Cetrimida y ácido nalidíxico."
+  ],
+  "correcta": 0,
+  "explicacion": "Los medios cromogénicos (CCA, Colilert) detectan coliformes por β-galactosidasa y E. coli por β-glucuronidasa. Azida/tetrazolio son para enterococos y cetrimida para Pseudomonas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1172",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. La concentración de Escherichia coli en aguas de consumo humano se expresa en:",
+  "opciones": [
+   "ufc/L.",
+   "ufc/500 mL.",
+   "ufc/100 mL.",
+   "ufc/10 mL."
+  ],
+  "correcta": 2,
+  "explicacion": "El RD 3/2023 expresa los recuentos de E. coli como ufc o NMP por 100 mL.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1173",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. El método de análisis oficial de E. coli y bacterias coliformes viene recogido en la norma:",
+  "opciones": [
+   "UNE-EN ISO 11731.",
+   "UNE-EN ISO 14189.",
+   "UNE-EN ISO 7899-2.",
+   "UNE-EN ISO 9308-1 o UNE-EN ISO 9308-2."
+  ],
+  "correcta": 3,
+  "explicacion": "ISO 9308-1 (filtración por membrana) y 9308-2 (NMP, Colilert/Quanti-Tray) son los métodos para E. coli y coliformes. ISO 11731 es Legionella, 14189 C. perfringens y 7899-2 enterococos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1174",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. El tiempo máximo de transporte y almacenamiento de una muestra de agua, adecuadamente conservada, para analizar E. coli y bacterias coliformes es:",
+  "opciones": [
+   "1 hora.",
+   "18 horas.",
+   "72 horas.",
+   "7 días."
+  ],
+  "correcta": 1,
+  "explicacion": "Las muestras microbiológicas se conservan refrigeradas y en oscuridad y se analizan lo antes posible; el límite dado por el tribunal es 18 horas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1175",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Se analiza una muestra de 100 mL por NMP con una bandeja Quanti-Tray de 51 pocillos. Tras la incubación se cuentan 23 pocillos amarillos y 11 pocillos amarillos y fluorescentes. Según la tabla del NMP (23 positivos = 30,6; 11 positivos = 12,4), ¿cuál es el NMP de bacterias coliformes?",
+  "opciones": [
+   "30,6.",
+   "23.",
+   "34.",
+   "12,4."
+  ],
+  "correcta": 0,
+  "explicacion": "Los coliformes totales son todos los pocillos amarillos (23, que incluyen los fluorescentes): la tabla da 30,6 NMP/100 mL.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1176",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Con los mismos resultados (23 pocillos amarillos y 11 amarillos y fluorescentes; 23 positivos = 30,6; 11 positivos = 12,4), ¿cuál es el NMP de Escherichia coli en la muestra?",
+  "opciones": [
+   "30,6.",
+   "12,4.",
+   "23.",
+   "11."
+  ],
+  "correcta": 1,
+  "explicacion": "E. coli corresponde a los pocillos amarillos y fluorescentes (11): la tabla da 12,4 NMP/100 mL. La cifra 11 es el número de pocillos, no el NMP.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1177",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Se analizan 100 mL por filtración por membrana con medio CCA y se obtienen 20 colonias rosas (oxidasa negativas) y 15 colonias azul oscuro/violeta. ¿Cuál es el recuento de bacterias coliformes?",
+  "opciones": [
+   "0.",
+   "20.",
+   "15.",
+   "35."
+  ],
+  "correcta": 3,
+  "explicacion": "En CCA las colonias rosas son coliformes (β-galactosidasa) y las azul oscuro/violeta son E. coli (que también es coliforme): total 20 + 15 = 35.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1178",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Escherichia coli está presente en grandes cantidades en las heces de personas y animales; su presencia en agua indica contaminación fecal. Con el mismo resultado (20 colonias rosas oxidasa negativas y 15 azul oscuro/violeta en CCA), ¿cuál es el recuento de Escherichia coli?",
+  "opciones": [
+   "0.",
+   "20.",
+   "15.",
+   "35."
+  ],
+  "correcta": 2,
+  "explicacion": "Solo las colonias azul oscuro/violeta (β-D-glucuronidasa positivas) son E. coli: 15.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1179",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "Tras el crecimiento en el medio selectivo elegido, se confirma una colonia como Legionella spp cuando:",
+  "opciones": [
+   "Es capaz de crecer en agar BCYE y no en agar BCYE + AB.",
+   "Es capaz de crecer en agar BCYE y no en agar BCYE sin L-cisteína.",
+   "Es capaz de crecer en agar MacConkey.",
+   "Es capaz de crecer en agar GVPC y no en agar BCYE."
+  ],
+  "correcta": 1,
+  "explicacion": "Legionella es dependiente de L-cisteína: crece en BCYE con cisteína y no sin ella.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1180",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. El recuento de colonias a 22 °C en una muestra de agua se realiza por:",
+  "opciones": [
+   "La técnica de siembra en profundidad.",
+   "La técnica de siembra en superficie.",
+   "La técnica de filtración en membrana.",
+   "La técnica de siembra por agotamiento."
+  ],
+  "correcta": 0,
+  "explicacion": "El recuento de aerobios mesófilos a 22 °C se hace por siembra en profundidad (vertido en placa) en agar de extracto de levadura.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1181",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. Para el recuento de enterococos intestinales en aguas de consumo se utiliza el medio de cultivo:",
+  "opciones": [
+   "TSC-MUP.",
+   "Triptosa sulfito cicloserina.",
+   "Baird-Parker.",
+   "Slanetz y Bartley."
+  ],
+  "correcta": 3,
+  "explicacion": "Los enterococos se cuentan en agar Slanetz y Bartley (contiene azida y TTC). TSC es para C. perfringens y Baird-Parker para Staphylococcus.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1182",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. Escherichia coli β-D-glucuronidasa positivo forma colonias en el medio CCA de color:",
+  "opciones": [
+   "De azul oscuro a violeta.",
+   "De color rosa a rojo.",
+   "De color negro.",
+   "Incoloras."
+  ],
+  "correcta": 0,
+  "explicacion": "En CCA, E. coli aparece azul oscuro-violeta (β-glucuronidasa + β-galactosidasa) y los demás coliformes, rosa.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1183",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 18,
+  "tema_nombre": "Análisis bacteriológico del agua",
+  "pregunta": "En el laboratorio de microbiología de aguas se analizan parámetros para vigilar la calidad del agua de consumo con los métodos oficiales. En el recuento de Clostridium perfringens en aguas, las placas se deben incubar con las siguientes condiciones:",
+  "opciones": [
+   "A 44 °C, en condiciones de anaerobiosis.",
+   "A 37 °C, en condiciones de anaerobiosis.",
+   "A 37 °C, en condiciones de aerobiosis.",
+   "A 41,5 °C, en condiciones de aerobiosis."
+  ],
+  "correcta": 0,
+  "explicacion": "C. perfringens es anaerobio y se incuba a 44 ± 1 °C en anaerobiosis (UNE-EN ISO 14189).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1184",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué significa el pictograma de peligro con una calavera y dos tibias cruzadas (GHS06)?",
+  "opciones": [
+   "Puede provocar cáncer.",
+   "Puede irritar las vías respiratorias.",
+   "Peligroso para el medio ambiente acuático.",
+   "Mortal en caso de ingestión."
+  ],
+  "correcta": 3,
+  "explicacion": "El pictograma GHS06 (calavera y tibias) indica toxicidad aguda (mortal o tóxico por ingestión, contacto o inhalación). Cáncer corresponde a GHS08 e irritación respiratoria a GHS07.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1185",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué significa el pictograma de corrosión (GHS05: líquido que cae sobre una mano y sobre un metal)?",
+  "opciones": [
+   "Provoca quemaduras graves en la piel y lesiones oculares graves.",
+   "Líquido y vapores muy inflamables.",
+   "Tóxico para los organismos acuáticos, con efectos nocivos duraderos.",
+   "Mortal en caso de inhalación."
+  ],
+  "correcta": 0,
+  "explicacion": "GHS05 señala sustancias corrosivas para metales o que causan quemaduras cutáneas y lesiones oculares graves.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1186",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "Auditoría de acreditación según la norma ISO 17025 en un laboratorio: el auditor solicita varias determinaciones en una muestra de agua de consumo. Uno de los reactivos lleva el pictograma GHS08 (silueta humana con una estrella en el pecho). ¿Qué consejo de prudencia está relacionado con ese pictograma?",
+  "opciones": [
+   "En caso de ingestión, llamar inmediatamente a un centro de información toxicológica o a un médico.",
+   "En caso de ingestión, provocar el vómito.",
+   "a) y b) son correctas.",
+   "a) y b) son incorrectas."
+  ],
+  "correcta": 0,
+  "explicacion": "Ante un producto que puede ser nocivo para la salud por ingestión (consejo P301+P310) se llama a un centro de toxicología o a un médico; nunca se provoca el vómito.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1187",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "Indique a qué peligro corresponde el pictograma GHS08 (silueta humana con una estrella en el pecho):",
+  "opciones": [
+   "Corrosivo.",
+   "Comburente.",
+   "Peligro grave para la salud.",
+   "Peligro para el medio ambiente."
+  ],
+  "correcta": 2,
+  "explicacion": "GHS08 = peligro grave para la salud (carcinógeno, mutágeno, tóxico para la reproducción, sensibilizante respiratorio, toxicidad por aspiración o para órganos diana).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1188",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué riesgo indica el pictograma de la llama (GHS02)?",
+  "opciones": [
+   "Inflamable.",
+   "Explosivo.",
+   "Irritante.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 0,
+  "explicacion": "GHS02 (llama) indica productos inflamables.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1189",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué indica el pictograma con un signo de exclamación (GHS07)?",
+  "opciones": [
+   "Peligro indeterminado.",
+   "Peligro para el medio ambiente.",
+   "Peligro para la salud.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "GHS07 señala productos nocivos o irritantes (peligro para la salud en sentido amplio). Respuesta dada por el tribunal.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1190",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué indica el pictograma de corrosión (GHS05: líquido sobre metal y mano)?",
+  "opciones": [
+   "Corrosivo.",
+   "Comburente.",
+   "Tóxico.",
+   "Irritante."
+  ],
+  "correcta": 0,
+  "explicacion": "GHS05 = corrosivo (corroe metales y provoca quemaduras cutáneas y lesiones oculares).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1191",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 20,
+  "tema_nombre": "Seguridad en el laboratorio físico-químico",
+  "pregunta": "¿Qué indica el pictograma de la bombona de gas (GHS04)?",
+  "opciones": [
+   "Mantener en posición vertical.",
+   "Mantener en posición horizontal.",
+   "Recipiente frágil.",
+   "Gas a presión."
+  ],
+  "correcta": 3,
+  "explicacion": "GHS04 = gases a presión (comprimidos, licuados, disueltos o refrigerados).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1192",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 21,
+  "tema_nombre": "Análisis gravimétrico",
+  "pregunta": "En una determinación gravimétrica, el tamaño de partícula de un precipitado recién formado viene determinado por el mecanismo predominante del proceso de formación del precipitado. Indique la afirmación correcta:",
+  "opciones": [
+   "Si predomina el crecimiento de partícula, el resultado es un precipitado que contiene muchas partículas pequeñas.",
+   "Si predomina la nucleación, el resultado es un precipitado que contiene muchas partículas pequeñas.",
+   "El tamaño de partícula no depende del mecanismo de formación, solo de la temperatura.",
+   "Si predomina la nucleación, el resultado es un precipitado que contiene pocas partículas pequeñas pero de mayor tamaño."
+  ],
+  "correcta": 1,
+  "explicacion": "Si domina la nucleación se forman muchos núcleos pequeños (precipitado coloidal, difícil de filtrar). Si domina el crecimiento, hay pocas partículas y más grandes (cristalino).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1193",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "En la determinación de cloruro por volumetría, el agente valorante más utilizado es:",
+  "opciones": [
+   "Una disolución de nitrato de plata.",
+   "Una disolución de sulfato de sodio.",
+   "Una disolución de EDTA.",
+   "Una disolución de dicromato potásico."
+  ],
+  "correcta": 0,
+  "explicacion": "Los cloruros se valoran con AgNO3 (método de Mohr, con cromato como indicador, o de Volhard): precipita AgCl.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1194",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "¿Qué es una valoración por retroceso?",
+  "opciones": [
+   "Es un proceso en el que se mide la cantidad exacta de analito añadiendo disolución patrón hasta alcanzar el punto de equivalencia.",
+   "Es una valoración en la que el analito reacciona primero con un indicador y luego con una disolución patrón para medir el exceso.",
+   "Es un proceso en el cual el exceso de una disolución patrón empleada para consumir un analito se determina por valoración con una segunda disolución patrón.",
+   "Es una valoración en la que se mide la diferencia de potencial en lugar del volumen de valorante."
+  ],
+  "correcta": 2,
+  "explicacion": "En la valoración por retroceso se añade un exceso conocido de reactivo, que reacciona con el analito, y el sobrante se valora con un segundo patrón. a) es una valoración directa.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1195",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "En las valoraciones ácido-base se utilizan sustancias denominadas indicadores. Indique cuál no es un indicador en dichas valoraciones:",
+  "opciones": [
+   "Naranja de metilo.",
+   "Violeta de genciana.",
+   "Azul de bromotimol.",
+   "Fenolftaleína."
+  ],
+  "correcta": 1,
+  "explicacion": "Fenolftaleína, naranja de metilo y azul de bromotimol son indicadores ácido-base. El violeta de genciana es un colorante (tinción de Gram).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1196",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se determina la alcalinidad total de un agua de consumo (pH < 8,3) por valoración ácido-base con ácido fuerte (H2SO4 0,02 N), con viraje visual a pH 4,5 (rojo de metilo + verde de bromocresol). Procedimiento: 1) pipetear 50 mL de muestra en un erlenmeyer; 2) añadir 5 gotas de indicador; 3) valorar con H2SO4 0,02 N hasta cambio de azul a verde. Alcalinidad (mg/L CaCO3) = V valoración × (100 / V muestra) × 10. ¿Qué material se utiliza en el punto 1 del procedimiento (medir 50 mL de muestra y recibirlos)?",
+  "opciones": [
+   "Una pipeta aforada de 50 mL y un matraz erlenmeyer.",
+   "Una bureta de 25 mL montada en soporte sobre un matraz erlenmeyer.",
+   "a) y b) son correctas.",
+   "a) y b) son incorrectas."
+  ],
+  "correcta": 0,
+  "explicacion": "Los 50 mL de muestra se miden con pipeta aforada y se recogen en el erlenmeyer. La bureta se usa en el punto 3 para el valorante.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva) (imágenes sustituidas por descripción)"
+ },
+ {
+  "id": "LAB1197",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se determina la alcalinidad total de un agua de consumo (pH < 8,3) por valoración ácido-base con ácido fuerte (H2SO4 0,02 N), con viraje visual a pH 4,5 (rojo de metilo + verde de bromocresol). Procedimiento: 1) pipetear 50 mL de muestra en un erlenmeyer; 2) añadir 5 gotas de indicador; 3) valorar con H2SO4 0,02 N hasta cambio de azul a verde. Alcalinidad (mg/L CaCO3) = V valoración × (100 / V muestra) × 10. ¿Cuál de los siguientes tamaños de matraz erlenmeyer es adecuado para el punto 1 del procedimiento?",
+  "opciones": [
+   "250 mL.",
+   "50 mL.",
+   "Ninguno de los anteriores.",
+   "Cualquiera de los anteriores."
+  ],
+  "correcta": 0,
+  "explicacion": "Hay que añadir 50 mL de muestra, indicador y el valorante (hasta ~25 mL) y agitar, por lo que un erlenmeyer de 50 mL se desbordaría: se usa el de 250 mL.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1198",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se determina la alcalinidad total de un agua de consumo (pH < 8,3) por valoración ácido-base con ácido fuerte (H2SO4 0,02 N), con viraje visual a pH 4,5 (rojo de metilo + verde de bromocresol). Procedimiento: 1) pipetear 50 mL de muestra en un erlenmeyer; 2) añadir 5 gotas de indicador; 3) valorar con H2SO4 0,02 N hasta cambio de azul a verde. Alcalinidad (mg/L CaCO3) = V valoración × (100 / V muestra) × 10. ¿Qué material es el adecuado para añadir a la muestra el H2SO4 0,02 N según el punto 3?",
+  "opciones": [
+   "Una pipeta graduada.",
+   "Una pipeta aforada.",
+   "Una bureta.",
+   "Una probeta."
+  ],
+  "correcta": 2,
+  "explicacion": "El valorante se añade gota a gota y se mide su volumen con una bureta.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva) (imágenes sustituidas por descripción)"
+ },
+ {
+  "id": "LAB1199",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se determina la alcalinidad total de un agua de consumo (pH < 8,3) por valoración ácido-base con ácido fuerte (H2SO4 0,02 N), con viraje visual a pH 4,5 (rojo de metilo + verde de bromocresol). Procedimiento: 1) pipetear 50 mL de muestra en un erlenmeyer; 2) añadir 5 gotas de indicador; 3) valorar con H2SO4 0,02 N hasta cambio de azul a verde. Alcalinidad (mg/L CaCO3) = V valoración × (100 / V muestra) × 10. ¿Cuál es la alcalinidad de la muestra si la lectura final de la bureta de 25 mL, enrasada a cero al inicio, es 20,0 mL de H2SO4 0,02 N?",
+  "opciones": [
+   "400 mg/L",
+   "40 mg/L",
+   "4 mg/L",
+   "0,4 mg/L"
+  ],
+  "correcta": 0,
+  "explicacion": "Alcalinidad = 20,0 × (100/50) × 10 = 400 mg/L de CaCO3.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva) (lectura de la imagen indicada en el enunciado)"
+ },
+ {
+  "id": "LAB1200",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "En una volumetría por retroceso:",
+  "opciones": [
+   "Se añade un reactivo en exceso no conocido que reacciona con el analito dando lugar a un producto que posteriormente es valorado.",
+   "Se añade un exceso conocido de un reactivo que reacciona con el analito y posteriormente se valora la cantidad de reactivo que no ha reaccionado.",
+   "Ninguna de las anteriores es correcta.",
+   "Se valora directamente el analito con el patrón hasta el punto de equivalencia."
+  ],
+  "correcta": 1,
+  "explicacion": "El exceso debe ser conocido para poder calcular, por diferencia con lo valorado, lo que consumió el analito.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1201",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se desea preparar una disolución de hidróxido sódico 1 M (pesos atómicos: Na 23, O 16, H 1 g/mol). ¿Cuál de las siguientes preparaciones es correcta?",
+  "opciones": [
+   "40 gramos de hidróxido sódico disueltos en 1 litro de agua destilada.",
+   "1 gramo de hidróxido sódico disuelto en 1 litro de agua destilada.",
+   "10 gramos de hidróxido sódico disueltos en 1 litro de agua destilada.",
+   "4 gramos de hidróxido sódico disueltos en 1 litro de agua destilada."
+  ],
+  "correcta": 0,
+  "explicacion": "M(NaOH) = 23 + 16 + 1 = 40 g/mol; 1 M = 40 g por litro de disolución.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1202",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Se desea preparar una disolución de un analito de 10 mg/L a partir de una solución madre de 1.000 mg/L. ¿Cuál de las siguientes preparaciones es correcta?",
+  "opciones": [
+   "Pipetear 0,1 mL de la solución madre y llevarlos a un matraz aforado de 100 mL con agua desionizada.",
+   "Pipetear 0,2 mL de la solución madre y llevarlos a un matraz aforado de 100 mL con agua desionizada.",
+   "Pipetear 1 mL de la solución madre y llevarlos a un matraz aforado de 100 mL con agua desionizada.",
+   "Pipetear 10 mL de la solución madre y llevarlos a un matraz aforado de 100 mL con agua desionizada."
+  ],
+  "correcta": 2,
+  "explicacion": "C1·V1 = C2·V2: 1.000 × V1 = 10 × 100 → V1 = 1 mL (factor de dilución 1:100).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1203",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 22,
+  "tema_nombre": "Análisis volumétrico",
+  "pregunta": "Entre las técnicas de trabajo asociadas a las volumetrías, la valoración directa es:",
+  "opciones": [
+   "Aquella en la cual el reactivo valorante se adiciona directamente sobre el problema.",
+   "Aquella en la que el analito se valora con un patrón primario sólido.",
+   "Aquella en la que se añade al problema un exceso conocido de una sustancia que reacciona con él y a continuación se valora el exceso no reaccionado.",
+   "Aquella en la que se comienza por añadir al problema un exceso de una sustancia que reacciona con él con elevada cuantitatividad y a continuación se valora alguno de los productos de la reacción."
+  ],
+  "correcta": 0,
+  "explicacion": "En la valoración directa el valorante se añade directamente al analito. b) describe la valoración por retroceso.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1204",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 23,
+  "tema_nombre": "Potenciometría y pH",
+  "pregunta": "¿Qué pH tendrá una disolución 0,01 M de ácido clorhídrico utilizada en una volumetría ácido-base?",
+  "opciones": [
+   "2",
+   "0,01",
+   "0,2",
+   "12"
+  ],
+  "correcta": 0,
+  "explicacion": "HCl es ácido fuerte y está totalmente disociado: [H⁺] = 10⁻² M, pH = −log 10⁻² = 2.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1205",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 23,
+  "tema_nombre": "Potenciometría y pH",
+  "pregunta": "En un electrodo indicador metálico, su potencial depende de la reacción redox que sucede en la interfase electrodo-disolución. Entre los tipos que existen, el electrodo de primera clase es aquel en el que:",
+  "opciones": [
+   "Se utiliza un metal recubierto de una sal poco soluble de ese mismo metal.",
+   "Se utiliza un metal que no participa en la reacción redox y solo actúa como conductor de electrones.",
+   "Se utiliza un metal noble que no sufre reacciones redox en la interfase.",
+   "Se utiliza un metal que está en contacto con una disolución que contiene su ión."
+  ],
+  "correcta": 3,
+  "explicacion": "Electrodo de 1.ª clase: metal en equilibrio con su catión (Ag/Ag⁺). b) y c) describen electrodos redox inertes (Pt) y d) el de 2.ª clase (Ag/AgCl).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1206",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 23,
+  "tema_nombre": "Potenciometría y pH",
+  "pregunta": "Indique la respuesta correcta:",
+  "opciones": [
+   "Un electrodo de referencia ideal tiene un potencial que se conoce con exactitud, es constante y totalmente insensible a la composición de la disolución de analito, como por ejemplo el electrodo de calomelanos.",
+   "Un electrodo de referencia ideal tiene un potencial que se conoce con exactitud, es constante y totalmente insensible a la composición de la disolución de analito, como por ejemplo el electrodo de plata/cloruro de plata.",
+   "a) y b) son correctas.",
+   "Un electrodo de referencia ideal cambia su potencial con la concentración del analito."
+  ],
+  "correcta": 2,
+  "explicacion": "Los electrodos de calomelanos (Hg/Hg2Cl2) y de Ag/AgCl son los dos electrodos de referencia más utilizados.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1207",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 23,
+  "tema_nombre": "Potenciometría y pH",
+  "pregunta": "¿Cuál de los siguientes errores afectan a la medida del pH?",
+  "opciones": [
+   "Error alcalino y error ácido.",
+   "Error de punto final.",
+   "a) y b) son correctas.",
+   "Ninguno de los anteriores."
+  ],
+  "correcta": 0,
+  "explicacion": "El electrodo de vidrio presenta error alcalino (a pH alto) y error ácido (a pH muy bajo). El error de punto final es propio de las valoraciones con indicador.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1208",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 23,
+  "tema_nombre": "Potenciometría y pH",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: pH?",
+  "opciones": [
+   "pHmetro.",
+   "Conductímetro.",
+   "Turbidímetro.",
+   "Colorímetro."
+  ],
+  "correcta": 0,
+  "explicacion": "El pH se mide con electrodo de vidrio conectado a un pHmetro.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1209",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 24,
+  "tema_nombre": "Electrodos selectivos y conductividad",
+  "pregunta": "¿En qué ley está basada la medida de la conductividad en el agua?",
+  "opciones": [
+   "Ley de Ohm.",
+   "La ley de Beer-Lambert.",
+   "Ley de Henry.",
+   "Ley de Gay-Lussac."
+  ],
+  "correcta": 0,
+  "explicacion": "La conductividad es la inversa de la resistividad; se mide aplicando un potencial entre dos electrodos según la ley de Ohm (R = V/I).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1210",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 24,
+  "tema_nombre": "Electrodos selectivos y conductividad",
+  "pregunta": "¿Qué parámetro o parámetros químicos se pueden relacionar directamente con la conductividad de una muestra de agua de consumo?",
+  "opciones": [
+   "Plaguicidas.",
+   "Demanda Química de Oxígeno.",
+   "Turbidez.",
+   "Dureza."
+  ],
+  "correcta": 3,
+  "explicacion": "La conductividad depende de los iones disueltos (calcio, magnesio, sodio...), por lo que se relaciona con la dureza y la salinidad (sólidos disueltos). No refleja materia orgánica ni plaguicidas, que no son iónicos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1211",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "En la determinación de aluminio por el método de la eriocromocianina R, la técnica instrumental utilizada se basa en:",
+  "opciones": [
+   "Absorción molecular UV-Visible.",
+   "Potenciometría.",
+   "Espectrometría de masas.",
+   "Fluorescencia atómica."
+  ],
+  "correcta": 0,
+  "explicacion": "El aluminio forma con la eriocromocianina R un complejo coloreado que se mide por espectrofotometría de absorción molecular en el visible.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1212",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "En espectrofotometría visible-ultravioleta, indique cuál es la definición correcta de la absorbancia (A), siendo P₀ la potencia radiante de la fuente y Pt la potencia radiante transmitida:",
+  "opciones": [
+   "A = log (Pt/P₀)",
+   "A = −log (P₀/Pt)",
+   "A = −log (Pt/P₀)",
+   "A = Pt/P₀"
+  ],
+  "correcta": 2,
+  "explicacion": "A = −log T = −log (Pt/P₀) = log (P₀/Pt), siempre positiva. a) y b) tienen el signo cambiado y d) es la transmitancia.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1213",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "La región ultravioleta abarca el intervalo de longitudes de onda comprendido entre:",
+  "opciones": [
+   "195 - 380 nm.",
+   "380 - 430 nm.",
+   "Ninguna de las anteriores.",
+   "780 - 1100 nm."
+  ],
+  "correcta": 0,
+  "explicacion": "En espectrofotometría analítica la región UV útil es 195-380 nm (por debajo del UV de vacío); 380-780 nm es el visible.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1214",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "Según la ley de Beer-Lambert:",
+  "opciones": [
+   "La absorbancia de una solución disminuye linealmente al aumentar la longitud de la cubeta.",
+   "La absorbancia de una solución aumenta linealmente al elevar la concentración de la especie absorbente.",
+   "a) y b) son correctas.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 1,
+  "explicacion": "A = ε·b·c: la absorbancia crece linealmente con la concentración y con el paso óptico (aumenta, no disminuye, con la longitud de la cubeta).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1215",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "En la técnica de espectrometría de absorción molecular UV-VIS, el rango de longitudes de onda utilizado para realizar la medida es:",
+  "opciones": [
+   "Entre 180 y 780 m⁻¹.",
+   "Entre 780 y 1.100 nm.",
+   "Entre 180 y 780 cm⁻¹.",
+   "Entre 180 y 780 nm."
+  ],
+  "correcta": 3,
+  "explicacion": "La región UV-Vis abarca aproximadamente 180-780 nm; las longitudes de onda se expresan en nm, no en cm⁻¹ ni m⁻¹ (que son números de onda).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1216",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "¿Cuál de las siguientes cubetas de muestra se puede utilizar en la espectroscopía UV-VIS?",
+  "opciones": [
+   "Cubeta de cuarzo.",
+   "Cubeta de grafito.",
+   "Ninguna de las anteriores.",
+   "Cubeta de poliestireno en cualquier región."
+  ],
+  "correcta": 0,
+  "explicacion": "En el UV hay que usar cuarzo (o sílice fundida), transparente a esa radiación. El vidrio y el plástico absorben en el UV.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1217",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "Si representamos la absorbancia a varias longitudes de onda, obtendremos:",
+  "opciones": [
+   "Una curva de calibrado.",
+   "Un espectro de absorción.",
+   "Un cromatograma.",
+   "Un espectro atómico de emisión."
+  ],
+  "correcta": 1,
+  "explicacion": "Absorbancia frente a longitud de onda = espectro de absorción. La curva de calibrado representa absorbancia frente a concentración.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1218",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "En una determinación por espectrometría molecular, tras la adición de los reactivos se observa una coloración azulada. En el procedimiento se indica que la medida se realizará a 620 nm. Indique la respuesta correcta:",
+  "opciones": [
+   "El color observado es el esperado, por lo que se puede seguir con el análisis.",
+   "El color observado no es el esperado, por lo que no se debe seguir con el análisis.",
+   "El color observado no es el esperado pero se debe seguir con el análisis.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 0,
+  "explicacion": "Una disolución azul absorbe en la zona naranja-roja (~600-650 nm), de modo que medir a 620 nm es coherente con el color observado.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1219",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "¿Qué fuente de radiación se utiliza habitualmente en espectroscopía de absorción molecular en la región del ultravioleta?",
+  "opciones": [
+   "Lámpara de arco de argón.",
+   "Lámpara de wolframio.",
+   "Lámpara de hidrógeno/deuterio.",
+   "Lámpara de cátodo hueco."
+  ],
+  "correcta": 2,
+  "explicacion": "El UV se genera con lámparas de deuterio o hidrógeno; el wolframio se usa en visible e infrarrojo próximo y las de cátodo hueco en absorción atómica.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1220",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 25,
+  "tema_nombre": "Espectrofotometría de absorción molecular",
+  "pregunta": "La ley de Lambert-Beer establece que, en el caso de una radiación monocromática que atraviesa una solución:",
+  "opciones": [
+   "La absorbancia de la radiación es directamente proporcional a la concentración de la especie absorbente y a la longitud de la solución atravesada.",
+   "La absorbancia de la radiación solo depende de la longitud atravesada por la radiación del medio absorbente.",
+   "La absorbancia de la radiación es independiente de la concentración de la especie absorbente.",
+   "La absorbancia es inversamente proporcional a la concentración."
+  ],
+  "correcta": 0,
+  "explicacion": "A = ε·b·c: proporcional a la concentración (c) y al paso óptico (b).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1221",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 26,
+  "tema_nombre": "Espectroscopía atómica",
+  "pregunta": "En espectroscopía de absorción atómica se utilizan como fuente de radiación:",
+  "opciones": [
+   "Lámparas de wolframio.",
+   "Lámparas de cátodo hueco y lámparas de descarga sin electrodos.",
+   "Lámparas de deuterio.",
+   "Lámparas de radiación continua."
+  ],
+  "correcta": 1,
+  "explicacion": "En absorción atómica se necesitan fuentes de líneas muy estrechas: lámparas de cátodo hueco y de descarga sin electrodos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1222",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 27,
+  "tema_nombre": "Espectroscopía de Masas con Plasma Acoplado Inductivamente (ICP)",
+  "pregunta": "¿Cuál es la pieza clave de un equipo de plasma?",
+  "opciones": [
+   "La antorcha.",
+   "El nebulizador.",
+   "Los electrodos.",
+   "La fuente de radiación."
+  ],
+  "correcta": 0,
+  "explicacion": "En el equipo ICP la antorcha (tres tubos concéntricos de cuarzo) es donde se genera y mantiene el plasma de argón, rodeada por la bobina de inducción.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1223",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 27,
+  "tema_nombre": "Espectroscopía de Masas con Plasma Acoplado Inductivamente (ICP)",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: cadmio, turbidez, calcio, plaguicidas y trihalometanos. Indique en cada caso la técnica utilizada. Análisis de cadmio:",
+  "opciones": [
+   "Turbidimetría.",
+   "Espectrometría de masas con plasma por acoplamiento inductivo (ICP/MS).",
+   "Cromatografía HPLC.",
+   "Cromatografía de gases."
+  ],
+  "correcta": 1,
+  "explicacion": "Los metales a nivel de traza (Cd, Pb, As...) se determinan por ICP-MS.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1224",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 27,
+  "tema_nombre": "Espectroscopía de Masas con Plasma Acoplado Inductivamente (ICP)",
+  "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de plomo:",
+  "opciones": [
+   "Método de diluciones.",
+   "Método de Kjeldahl.",
+   "Espectrometría de masas con plasma por acoplamiento inductivo (ICP-MS).",
+   "Cromatografía de gases con detector selectivo."
+  ],
+  "correcta": 2,
+  "explicacion": "El plomo, como metal traza, se analiza por ICP-MS (o absorción atómica). Kjeldahl es para nitrógeno y el método de diluciones para la DBO.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1225",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 27,
+  "tema_nombre": "Espectroscopía de Masas con Plasma Acoplado Inductivamente (ICP)",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: cadmio, aluminio, antimonio y cromo?",
+  "opciones": [
+   "Permanganimetría.",
+   "Cromatografía de gases.",
+   "Cromatografía líquida.",
+   "ICP-MS."
+  ],
+  "correcta": 3,
+  "explicacion": "Los metales a nivel de traza se determinan por ICP-MS.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1226",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 27,
+  "tema_nombre": "Espectroscopía de Masas con Plasma Acoplado Inductivamente (ICP)",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: mercurio, selenio y plomo?",
+  "opciones": [
+   "Conductímetro.",
+   "Cromatógrafo iónico para cationes.",
+   "ICP-MS.",
+   "Turbidímetro."
+  ],
+  "correcta": 2,
+  "explicacion": "Metales traza: ICP-MS.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1227",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 28,
+  "tema_nombre": "Otros métodos ópticos",
+  "pregunta": "¿Qué propiedad del analito se utiliza en las determinaciones por polarimetría?",
+  "opciones": [
+   "Absorción de la radiación.",
+   "Dispersión de la radiación.",
+   "Emisión de la radiación.",
+   "Rotación de la radiación."
+  ],
+  "correcta": 3,
+  "explicacion": "La polarimetría mide el giro (rotación) del plano de la luz polarizada al atravesar sustancias ópticamente activas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1228",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 28,
+  "tema_nombre": "Otros métodos ópticos",
+  "pregunta": "Las UNF (Unidades Nefelométricas de Formacina) son unidades de:",
+  "opciones": [
+   "Medidas de índice de refracción.",
+   "Medidas polarimétricas.",
+   "Medidas de conductividad.",
+   "Medidas de turbidez."
+  ],
+  "correcta": 3,
+  "explicacion": "UNF (o NTU) expresan la turbidez medida por nefelometría frente a patrones de formacina.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1229",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 28,
+  "tema_nombre": "Otros métodos ópticos",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: cadmio, turbidez, calcio, plaguicidas y trihalometanos. Indique en cada caso la técnica utilizada. Análisis de turbidez:",
+  "opciones": [
+   "Gravimetría.",
+   "Volumetría.",
+   "Cromatografía de líquidos con detector de fluorescencia.",
+   "Turbidimetría."
+  ],
+  "correcta": 3,
+  "explicacion": "La turbidez se mide con turbidímetro (nefelometría/turbidimetría).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1230",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 30,
+  "tema_nombre": "Cromatografía: fundamentos y tipos",
+  "pregunta": "La cromatografía es:",
+  "opciones": [
+   "Una técnica de análisis basada en la rotación del plano de la luz polarizada.",
+   "Una técnica de análisis basada en la absorción de radiación electromagnética por partículas atómicas.",
+   "Una técnica de análisis que se fundamenta en la intensidad de radiación emitida por átomos excitados.",
+   "Una técnica de separación de componentes de una muestra que se distribuyen entre una fase móvil y una fase estacionaria."
+  ],
+  "correcta": 3,
+  "explicacion": "La cromatografía separa los componentes de una mezcla según su distinto reparto entre una fase móvil y una estacionaria. b) describe la emisión atómica y c) la absorción atómica.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1231",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 30,
+  "tema_nombre": "Cromatografía: fundamentos y tipos",
+  "pregunta": "La columna cromatográfica, tanto en cromatografía de gases como en cromatografía de líquidos:",
+  "opciones": [
+   "Identifica y cuantifica.",
+   "Separa.",
+   "Detecta.",
+   "Cuantifica."
+  ],
+  "correcta": 1,
+  "explicacion": "La columna solo separa; detectar es función del detector y cuantificar se hace a partir de la señal (área o altura del pico).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1232",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 30,
+  "tema_nombre": "Cromatografía: fundamentos y tipos",
+  "pregunta": "En una separación cromatográfica de dos compuestos:",
+  "opciones": [
+   "A menor anchura de picos, mejor resolución.",
+   "A mayor anchura de picos, mejor resolución.",
+   "La anchura de picos no tiene influencia en la resolución.",
+   "La resolución solo depende de la longitud de la columna."
+  ],
+  "correcta": 0,
+  "explicacion": "La resolución aumenta con la distancia entre picos y disminuye con su anchura: picos más estrechos se solapan menos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1233",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: cadmio, turbidez, calcio, plaguicidas y trihalometanos. Indique en cada caso la técnica utilizada. Análisis de plaguicidas:",
+  "opciones": [
+   "Turbidimetría.",
+   "Gravimetría.",
+   "Absorción atómica con cámara de grafito.",
+   "Cromatografía de gases con detector selectivo de masas."
+  ],
+  "correcta": 3,
+  "explicacion": "Los plaguicidas orgánicos se separan por cromatografía de gases (o líquidos) y se identifican por espectrometría de masas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1234",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: cadmio, turbidez, calcio, plaguicidas y trihalometanos. Indique en cada caso la técnica utilizada. Análisis de trihalometanos:",
+  "opciones": [
+   "Absorción atómica de llama.",
+   "Electrodo selectivo.",
+   "Cromatografía de gases con purga y trampa.",
+   "Cromatografía iónica."
+  ],
+  "correcta": 2,
+  "explicacion": "Los THM son compuestos orgánicos volátiles: se extraen por purga y trampa y se analizan por cromatografía de gases.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1235",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "Las columnas capilares utilizadas en cromatografía de gases:",
+  "opciones": [
+   "Tienen un diámetro inferior a 1 mm.",
+   "Son siempre de acero inoxidable.",
+   "No llevan fase estacionaria.",
+   "Necesitan muestras mayores que las empaquetadas."
+  ],
+  "correcta": 0,
+  "explicacion": "Las columnas capilares tienen diámetro interno de 0,1-0,53 mm, con la fase estacionaria en la pared; admiten muestras menores y dan mayor eficacia que las empaquetadas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1236",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: aldrín, dieldrín y heptacloro?",
+  "opciones": [
+   "Potenciometría.",
+   "Cromatografía de gases con espectrometría de masas.",
+   "Cromatografía iónica.",
+   "Espectroscopía de absorción molecular UV-Visible."
+  ],
+  "correcta": 1,
+  "explicacion": "Son plaguicidas organoclorados: GC-MS (o GC-ECD).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1237",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "¿Qué detector le parece más adecuado para el análisis de trihalometanos por cromatografía de gases?",
+  "opciones": [
+   "Detector de UV-Visible.",
+   "Detector de conductividad.",
+   "ECD o detector de captura electrónica.",
+   "Detector de fluorescencia."
+  ],
+  "correcta": 2,
+  "explicacion": "Los THM son compuestos halogenados: el ECD es muy sensible a ellos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1238",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 31,
+  "tema_nombre": "Cromatografía de gases",
+  "pregunta": "Actualmente se conoce como detector universal:",
+  "opciones": [
+   "Detector de conductividad.",
+   "Detector de llama alcalina (NPD).",
+   "Detector de captura electrónica (ECD).",
+   "Detector selectivo de masas (MSD)."
+  ],
+  "correcta": 3,
+  "explicacion": "El espectrómetro de masas responde a casi todos los compuestos y además los identifica, por lo que se considera detector universal.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1239",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En cromatografía líquida (HPLC), antes de la columna analítica y para aumentar la vida útil de la misma, conviene usar:",
+  "opciones": [
+   "Una microcolumna.",
+   "Un termostato.",
+   "Un inyector automático.",
+   "Una precolumna."
+  ],
+  "correcta": 3,
+  "explicacion": "La precolumna (columna de guarda) retiene partículas e impurezas que dañarían la columna analítica y alarga su vida útil.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1240",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "El detector de conductividad es el más utilizado en cromatografía líquida (HPLC) cuando los componentes de la muestra que se desea analizar son:",
+  "opciones": [
+   "Compuestos iónicos.",
+   "Compuestos volátiles apolares.",
+   "Compuestos con capacidad de oxidarse o reducirse.",
+   "Compuestos fluorescentes."
+  ],
+  "correcta": 0,
+  "explicacion": "El detector de conductividad (cromatografía iónica) responde a especies cargadas. Los compuestos oxidables o reducibles se detectan por amperometría y los fluorescentes por fluorescencia.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1241",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: cadmio, turbidez, calcio, plaguicidas y trihalometanos. Indique en cada caso la técnica utilizada. Análisis de calcio:",
+  "opciones": [
+   "Absorción atómica con generación de hidruros.",
+   "Potenciometría.",
+   "Cromatografía iónica.",
+   "Cromatografía de gases."
+  ],
+  "correcta": 2,
+  "explicacion": "El calcio, como catión, puede determinarse por cromatografía iónica de cationes (o por AA/ICP). La generación de hidruros solo sirve para As, Se, Sb, Hg...",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1242",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: benzo(a)pireno?",
+  "opciones": [
+   "Cromatografía líquida y detección por fluorescencia.",
+   "ICP-MS.",
+   "Cromatografía iónica.",
+   "Cámara de grafito."
+  ],
+  "correcta": 0,
+  "explicacion": "Los hidrocarburos aromáticos policíclicos, como el benzo(a)pireno, se determinan por HPLC con detector de fluorescencia.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1243",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: cloruros y sulfatos?",
+  "opciones": [
+   "Cromatografía de gases.",
+   "Cromatografía iónica para aniones.",
+   "Cromatografía iónica para cationes.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 1,
+  "explicacion": "Cloruro y sulfato son aniones: cromatografía iónica para aniones.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1244",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: sodio, potasio, calcio y magnesio?",
+  "opciones": [
+   "Cromatografía de gases con fluorescencia.",
+   "Cromatografía iónica para aniones.",
+   "Cromatografía iónica para cationes.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 2,
+  "explicacion": "Na, K, Ca y Mg son cationes: cromatografía iónica de cationes.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1245",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 32,
+  "tema_nombre": "Cromatografía de líquidos",
+  "pregunta": "En una muestra de agua de consumo se quiere determinar: plomo, benzo(a)pireno, sodio, plaguicidas y trihalometanos. Indique la técnica que utilizaría para: sodio.",
+  "opciones": [
+   "Absorción atómica con generación de hidruros.",
+   "Potenciometría.",
+   "Cromatografía iónica.",
+   "Cromatografía de gases."
+  ],
+  "correcta": 2,
+  "explicacion": "El sodio es un catión: cromatografía iónica de cationes (o fotometría de llama/ICP).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 2.ª prueba (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1246",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "¿Qué es la dureza del agua?",
+  "opciones": [
+   "Es el contenido de ión hidrógeno de un agua.",
+   "Se corresponde con el contenido de sales de calcio y magnesio.",
+   "Es el contenido de bicarbonatos de un agua.",
+   "Es el contenido de sodio en un agua."
+  ],
+  "correcta": 1,
+  "explicacion": "La dureza total es la suma de calcio y magnesio (expresada como mg/L de CaCO3).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1247",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "¿Qué método de los siguientes utilizaría para la medida de la materia orgánica en un agua de consumo?",
+  "opciones": [
+   "Una valoración complexométrica.",
+   "Método del permanganato.",
+   "Método de electrodo selectivo.",
+   "Método de Karl Fischer."
+  ],
+  "correcta": 1,
+  "explicacion": "La oxidabilidad al permanganato es el indicador de materia orgánica en agua de consumo.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1248",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "Para identificar un microcontaminante orgánico en un agua de consumo, ¿qué técnica le parece más apropiada?",
+  "opciones": [
+   "Espectrometría de UV-Visible.",
+   "Conductimetría.",
+   "Potenciometría.",
+   "Cromatografía de gases o líquidos con detector de masas."
+  ],
+  "correcta": 3,
+  "explicacion": "La cromatografía acoplada a espectrometría de masas separa e identifica (por su espectro) los compuestos orgánicos a nivel de traza.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1249",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "Se llama cloro libre residual:",
+  "opciones": [
+   "A los compuestos que forma el cloro con el amoniaco y ciertos compuestos nitrogenados presentes en el agua.",
+   "Al contenido en ácido hipocloroso e ión hipoclorito que queda tras clorar.",
+   "Al cloro total, es decir, libre más combinado.",
+   "Al contenido en cloruros."
+  ],
+  "correcta": 1,
+  "explicacion": "Cloro libre = HClO + ClO⁻. b) es el cloro combinado (cloraminas) y la suma de ambos es el cloro total.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1250",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "Según el Real Decreto 3/2023 de calidad del agua de consumo humano, ¿en qué unidades se expresa el parámetro Dureza?",
+  "opciones": [
+   "En mg/L de calcio.",
+   "En mg/L de carbonato sódico.",
+   "En mg/L de magnesio.",
+   "En mg/L de carbonato cálcico."
+  ],
+  "correcta": 3,
+  "explicacion": "La dureza se expresa convencionalmente como mg/L de CaCO3.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1251",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "¿Qué es la alcalinidad de un agua?",
+  "opciones": [
+   "Se corresponde con el contenido en bicarbonatos, carbonatos e hidróxidos.",
+   "Se corresponde con la presencia de alta contaminación por plaguicidas.",
+   "Se corresponde con el contenido de anhídrido carbónico libre y ácidos minerales.",
+   "Se corresponde con el contenido en cloruros y sulfatos."
+  ],
+  "correcta": 0,
+  "explicacion": "La alcalinidad es la capacidad del agua para neutralizar ácidos: la aportan bicarbonatos, carbonatos e hidróxidos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1252",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "En el laboratorio de fisicoquímica se analiza una muestra de agua de consumo. ¿Qué técnica o equipo utilizaría para determinar: oxidabilidad?",
+  "opciones": [
+   "Potenciometría.",
+   "Permanganimetría.",
+   "Cromatografía de gases.",
+   "Cromatografía líquida."
+  ],
+  "correcta": 1,
+  "explicacion": "La oxidabilidad se determina por permanganimetría (oxidación con KMnO4 y valoración).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1253",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 33,
+  "tema_nombre": "Análisis de agua de consumo",
+  "pregunta": "¿Cuál de los siguientes equipos y materiales de laboratorio NO se utiliza en una determinación rutinaria de cloro libre por el método colorimétrico del DPD?",
+  "opciones": [
+   "Un espectrofotómetro.",
+   "Una cubeta.",
+   "Una estufa.",
+   "Una pipeta."
+  ],
+  "correcta": 2,
+  "explicacion": "El DPD es una reacción inmediata a temperatura ambiente medida por colorimetría, por lo que no hace falta estufa.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1254",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "¿Qué se entiende por sólidos en suspensión de un agua?",
+  "opciones": [
+   "Sustancias que se determinan evaporando a sequedad la muestra bajo condiciones específicas.",
+   "Sustancias que permanecen en el agua después de filtrar la muestra.",
+   "Sólidos que sedimentan en un cono Imhoff en una hora.",
+   "Sólidos separados por filtración o centrifugación bajo condiciones específicas."
+  ],
+  "correcta": 3,
+  "explicacion": "Los sólidos en suspensión son los retenidos por filtración (o centrifugación) en condiciones definidas. a) son los disueltos y b) los sólidos totales.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1255",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "¿Qué es o cómo se define la Demanda Química de Oxígeno o DQO?",
+  "opciones": [
+   "La cantidad de oxígeno consumida por microorganismos en 5 días a 20 °C.",
+   "La concentración másica de oxígeno equivalente a la cantidad de dicromato consumido por la materia disuelta y en suspensión, cuando una muestra de agua se trata con este oxidante.",
+   "El total de materia orgánica oxidada en una ozonización completa de una muestra de agua residual.",
+   "Cantidad de materia orgánica que reacciona y se consume al tratar el agua residual con permanganato potásico."
+  ],
+  "correcta": 1,
+  "explicacion": "DQO: oxígeno equivalente al dicromato potásico consumido al oxidar la materia disuelta y en suspensión. d) define la DBO5 y a) la oxidabilidad al permanganato.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1256",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Para analizar el contenido total de metales en un agua residual, antes de utilizar una técnica instrumental se requiere:",
+  "opciones": [
+   "Digestión en medio básico de la muestra.",
+   "Filtrar la muestra.",
+   "Digestión ácida y en caliente de la muestra y posterior filtración.",
+   "Solo acidificar la muestra a pH < 2 y medir directamente."
+  ],
+  "correcta": 2,
+  "explicacion": "Para metales totales hay que digerir en medio ácido y en caliente (liberar los metales ligados a la materia particulada) y filtrar antes de la medida instrumental.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1257",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de sólidos en suspensión:",
+  "opciones": [
+   "Cromatografía iónica.",
+   "Potenciometría.",
+   "Gravimetría.",
+   "Volumetría."
+  ],
+  "correcta": 2,
+  "explicacion": "Los sólidos en suspensión se filtran, se secan el filtro y se pesan: gravimetría.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1258",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de la DQO:",
+  "opciones": [
+   "Cromatografía iónica.",
+   "Gravimetría.",
+   "Cromatografía de líquidos con detector de fluorescencia.",
+   "Método de digestión ácida y volumetría."
+  ],
+  "correcta": 3,
+  "explicacion": "La DQO se determina por digestión ácida con dicromato y valoración (o colorimetría) del exceso de oxidante.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1259",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de la DBO5:",
+  "opciones": [
+   "Método de digestión ácida y volumetría.",
+   "Determinación de oxígeno disuelto antes y después de cinco días de incubación a 20 °C.",
+   "Cromatografía iónica.",
+   "Gravimetría."
+  ],
+  "correcta": 1,
+  "explicacion": "DBO5 = diferencia de oxígeno disuelto antes y después de 5 días de incubación a 20 °C en oscuridad.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1260",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En una muestra de agua residual se quiere determinar: sólidos en suspensión, DQO, DBO5, plomo y fósforo total. Indique en cada caso la técnica utilizada. Análisis de fósforo total:",
+  "opciones": [
+   "Método de digestión ácida y espectrofotometría molecular.",
+   "Método de diluciones.",
+   "Método de Kjeldahl.",
+   "Volumetría."
+  ],
+  "correcta": 0,
+  "explicacion": "El fósforo total se convierte en ortofosfato por digestión ácida y se determina por espectrofotometría molecular (azul de molibdeno).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1261",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En la composición típica de aguas residuales domésticas se puede decir que:",
+  "opciones": [
+   "El valor de la Demanda Química de Oxígeno es mayor al valor de la Demanda Bioquímica de Oxígeno.",
+   "El valor de la Demanda Química de Oxígeno es menor al valor de la Demanda Bioquímica de Oxígeno.",
+   "Ninguna de las dos respuestas es correcta.",
+   "Ambos valores son siempre iguales."
+  ],
+  "correcta": 0,
+  "explicacion": "La DQO oxida toda la materia orgánica (incluida la no biodegradable), mientras que la DBO5 solo la biodegradable: DQO > DBO5 (típicamente DBO5/DQO ≈ 0,4-0,6).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1262",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de DBO5:",
+  "opciones": [
+   "Digestión de la muestra con ácido nítrico concentrado y, una vez enfriada, se aplica el método del dicromato.",
+   "Se realiza el método de las diluciones lo antes posible, una vez recibida la muestra.",
+   "Se filtra la muestra y se aplica el método de las diluciones en el filtrado.",
+   "Gravimetría."
+  ],
+  "correcta": 1,
+  "explicacion": "La DBO5 se determina por el método de diluciones lo antes posible (o conservando la muestra a ≤ 4 °C): la actividad biológica cambia la muestra con el tiempo.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1263",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de nitrógeno total:",
+  "opciones": [
+   "Método de las diluciones.",
+   "Análisis por combustión oxidativa/quimioluminiscencia.",
+   "Cromatografía líquida.",
+   "Cromatografía iónica."
+  ],
+  "correcta": 1,
+  "explicacion": "El nitrógeno total se determina por oxidación a NO con detección por quimioluminiscencia (o por Kjeldahl).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1264",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de grasas:",
+  "opciones": [
+   "Filtración, extracción con hexano y pesada del extracto.",
+   "Saponificación y volumetría.",
+   "Valoración complexométrica.",
+   "Cromatografía líquida."
+  ],
+  "correcta": 0,
+  "explicacion": "Las grasas y aceites se extraen con hexano y se pesan (método gravimétrico).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1265",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de sulfatos:",
+  "opciones": [
+   "Por cromatografía iónica de cationes.",
+   "Por cromatografía iónica de aniones.",
+   "Digestión ácida y espectroscopía de absorción atómica.",
+   "Digestión ácida y cámara de grafito."
+  ],
+  "correcta": 1,
+  "explicacion": "El sulfato es un anión: cromatografía iónica de aniones.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1266",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de cloruros:",
+  "opciones": [
+   "Análisis directo por turbidimetría.",
+   "Digestión ácida y cámara de grafito.",
+   "Por cromatografía iónica de aniones.",
+   "Cromatografía líquida con detector de diodos."
+  ],
+  "correcta": 2,
+  "explicacion": "El cloruro es un anión: cromatografía iónica de aniones (o volumetría con nitrato de plata).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1267",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Análisis de metales (Hg, As, Sb, Se, Cd, Cu, Cr, Ni, Pb, Fe, Mn y Zn):",
+  "opciones": [
+   "Digestión ácida de la muestra y posterior determinación de los metales por ICP-MS.",
+   "Por espectrometría de absorción molecular.",
+   "Cromatografía líquida de alta resolución para su separación y posterior determinación.",
+   "Cromatografía gaseosa e identificación por espectrometría de masas."
+  ],
+  "correcta": 0,
+  "explicacion": "Para metales totales hay que digerir la muestra con ácido y medir por ICP-MS (multielemental).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1268",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En el análisis de fósforo en aguas residuales, ¿qué técnica analítica se utiliza una vez formado el complejo molecular correspondiente?",
+  "opciones": [
+   "Una gravimetría.",
+   "Una volumetría indirecta.",
+   "Una volumetría directa.",
+   "Espectrofotometría de absorción molecular UV-Visible."
+  ],
+  "correcta": 3,
+  "explicacion": "El complejo de molibdeno coloreado (azul) se mide por espectrofotometría de absorción molecular.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1269",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 34,
+  "tema_nombre": "Análisis de aguas residuales I",
+  "pregunta": "En la determinación de la DQO se utiliza sulfato de mercurio (II) para:",
+  "opciones": [
+   "Eliminar interferencias.",
+   "Reducir el tiempo de la determinación.",
+   "Catalizar la oxidación de los compuestos orgánicos.",
+   "Mejorar el límite de detección."
+  ],
+  "correcta": 0,
+  "explicacion": "El HgSO4 forma un complejo con los cloruros e impide que se oxiden por el dicromato (interferencia positiva).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1270",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Las muestras para análisis microbiológicos (Legionella y aerobios) se toman en:",
+  "opciones": [
+   "Recipiente de plástico con neutralizante del biocida.",
+   "Recipiente de plástico o vidrio borosilicatado.",
+   "Recipiente de vidrio oscuro con tapón con revestimiento interno de teflón.",
+   "Recipiente estéril de plástico con neutralizante del biocida."
+  ],
+  "correcta": 3,
+  "explicacion": "Muestras microbiológicas: envase estéril y, si el agua lleva desinfectante, con neutralizante (tiosulfato).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1271",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "En el laboratorio de microbiología del Servicio de Salud Pública se analiza Legionella spp en muestras de agua de instalaciones con riesgo de proliferación y dispersión. Se toma una muestra de agua en un spa (jacuzzi) para analizar Legionella y se miden in situ los siguientes parámetros:",
+  "opciones": [
+   "pH, temperatura y turbidez.",
+   "pH y temperatura. El resto de parámetros se miden en el laboratorio.",
+   "pH, temperatura y desinfectante residual.",
+   "pH, temperatura y oxígeno disuelto."
+  ],
+  "correcta": 2,
+  "explicacion": "In situ se miden pH, temperatura y desinfectante residual, que cambian rápidamente tras la toma.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1272",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Hidrocarburos policíclicos aromáticos:",
+  "opciones": [
+   "Recipiente de vidrio con tapón con revestimiento interno de politetrafluoroetileno (PTFE).",
+   "Envase de plástico con tiosulfato.",
+   "Envase de vidrio o plástico indistintamente siempre que estén limpios.",
+   "Envase de plástico con ácido clorhídrico."
+  ],
+  "correcta": 0,
+  "explicacion": "Los HAP (orgánicos) se toman en vidrio con tapón con PTFE, porque el plástico adsorbe o cede compuestos orgánicos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1273",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Carbono orgánico total:",
+  "opciones": [
+   "Envase de plástico.",
+   "Envase de vidrio.",
+   "Ninguna de las anteriores.",
+   "Las respuestas a) y b) son correctas."
+  ],
+  "correcta": 3,
+  "explicacion": "Para el COT valen envases de plástico o de vidrio, siempre que estén limpios y exentos de materia orgánica.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1274",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Cationes y aniones (calcio, magnesio, sodio, potasio, sulfato, cloruro, nitrato y fluoruro):",
+  "opciones": [
+   "Recipiente de plástico con tiosulfato sódico.",
+   "Recipiente de plástico con ácido sulfúrico.",
+   "Recipiente de plástico con ácido nítrico.",
+   "Recipiente de plástico."
+  ],
+  "correcta": 3,
+  "explicacion": "Los iones mayoritarios se toman en envase de plástico sin conservante.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1275",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. COV (trihalometanos):",
+  "opciones": [
+   "Recipiente de plástico con ácido nítrico.",
+   "Recipiente de plástico especialmente limpio.",
+   "Recipiente de vidrio con tapones con revestimiento interno de PTFE.",
+   "Envase de vidrio transparente especialmente limpio."
+  ],
+  "correcta": 2,
+  "explicacion": "Los compuestos volátiles requieren vidrio, sin cámara de aire y con tapón con PTFE, para evitar pérdidas.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1276",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe en el laboratorio una muestra de agua de consumo para analizar parámetros del Real Decreto 3/2023. Señale de qué envase tomaría el agua para su análisis. Análisis microbiológico:",
+  "opciones": [
+   "Recipiente de plástico estéril con tiosulfato sódico.",
+   "Recipiente de vidrio.",
+   "Recipiente de plástico.",
+   "Recipiente de vidrio oscuro."
+  ],
+  "correcta": 0,
+  "explicacion": "Microbiología: envase estéril, y el tiosulfato neutraliza el cloro residual que seguiría actuando sobre los microorganismos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 2.º ejercicio 28/11/2024 (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1277",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 36,
+  "tema_nombre": "Toma de muestras",
+  "pregunta": "Se recibe una muestra de agua residual para determinar pH, sólidos en suspensión, DQO, DBO5, nitrógeno total, fósforo total, grasas, sulfatos, cloruros y metales. Determinación de pH:",
+  "opciones": [
+   "Se deja sedimentar la muestra 24 horas a temperatura ambiente y entonces se mide.",
+   "Se mide lo antes posible, una vez recibida la muestra.",
+   "Se centrifuga la muestra y se mide en el sobrenadante.",
+   "Se filtra la muestra y se mide en el filtrado."
+  ],
+  "correcta": 1,
+  "explicacion": "El pH cambia con el tiempo por equilibrios del CO2 y actividad biológica, por lo que se mide cuanto antes (idealmente in situ).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1278",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 37,
+  "tema_nombre": "Análisis de aire y contaminación atmosférica",
+  "pregunta": "Cuando hablamos de análisis de aire y sus principales contaminantes, ¿qué significa la abreviatura PM?",
+  "opciones": [
+   "Metales pesados.",
+   "Materia particulada.",
+   "Componente minoritario.",
+   "Componente mayoritario."
+  ],
+  "correcta": 1,
+  "explicacion": "PM (particulate matter) es la materia particulada en suspensión; PM10 y PM2,5 se definen por el diámetro aerodinámico (10 y 2,5 µm).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1279",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 37,
+  "tema_nombre": "Análisis de aire y contaminación atmosférica",
+  "pregunta": "El método utilizado para la determinación de la concentración másica de PM10 o PM2,5 de la materia particulada en suspensión es:",
+  "opciones": [
+   "Un método volumétrico normalizado.",
+   "Un método potenciométrico.",
+   "Un método gravimétrico normalizado.",
+   "Un método fotométrico."
+  ],
+  "correcta": 2,
+  "explicacion": "El método de referencia (UNE-EN 12341) es gravimétrico: se pesa el filtro antes y después del muestreo.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1280",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 37,
+  "tema_nombre": "Análisis de aire y contaminación atmosférica",
+  "pregunta": "Los metales que se analizan en la fracción PM10 de la materia particulada en suspensión en el aire son:",
+  "opciones": [
+   "Fe, Mn, Cu y Zn.",
+   "Pb, Cd, As y Ni.",
+   "Na, K, Ca y Mg.",
+   "As, Sb, Se y Hg."
+  ],
+  "correcta": 1,
+  "explicacion": "El RD 102/2011 fija valores para el plomo y valores objetivo para arsénico, cadmio y níquel en la fracción PM10.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 1.er ejercicio (reserva, plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1281",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 38,
+  "tema_nombre": "Validación de procedimientos analíticos",
+  "pregunta": "Para el cálculo de la incertidumbre de un método analítico necesitamos conocer los siguientes parámetros:",
+  "opciones": [
+   "Exactitud y precisión.",
+   "Límite de detección y límite de cuantificación.",
+   "Sensibilidad y selectividad.",
+   "Ninguna de las respuestas anteriores es correcta."
+  ],
+  "correcta": 0,
+  "explicacion": "La incertidumbre combina la componente de precisión (repetibilidad/reproducibilidad) y la de exactitud (sesgo o veracidad). Los límites de detección/cuantificación describen la capacidad del método, no su incertidumbre. Respuesta dada como válida por el tribunal.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1282",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 38,
+  "tema_nombre": "Validación de procedimientos analíticos",
+  "pregunta": "En un blanco de tiro, ¿cuál de las siguientes distribuciones de impactos representa resultados «exactos pero no precisos»?",
+  "opciones": [
+   "Impactos muy agrupados en el centro de la diana.",
+   "Impactos muy agrupados pero lejos del centro de la diana.",
+   "Impactos dispersos, repartidos alrededor del centro de la diana.",
+   "Impactos dispersos y lejos del centro de la diana."
+  ],
+  "correcta": 2,
+  "explicacion": "Exactitud = proximidad al valor verdadero (centro); precisión = dispersión entre medidas. Dispersos pero centrados en torno al valor verdadero = exactos y poco precisos.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida) (imagen sustituida por descripción)"
+ },
+ {
+  "id": "LAB1283",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 38,
+  "tema_nombre": "Validación de procedimientos analíticos",
+  "pregunta": "La ecuación de regresión lineal tiene forma de recta «y = ax + b». El coeficiente de correlación «r» se expresa y su valor oscila entre:",
+  "opciones": [
+   "-0,5 y 0,5.",
+   "-1 y 1.",
+   "-10 y 10.",
+   "0 y 10."
+  ],
+  "correcta": 1,
+  "explicacion": "El coeficiente de correlación de Pearson varía entre −1 (correlación negativa perfecta) y +1 (positiva perfecta).",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1284",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 38,
+  "tema_nombre": "Validación de procedimientos analíticos",
+  "pregunta": "En una calibración lineal mediante el ajuste por mínimos cuadrados, ¿cuál de los siguientes valores de R² indica un ajuste lineal perfecto?",
+  "opciones": [
+   "1,0",
+   "0,0",
+   "0,5",
+   "-1,0"
+  ],
+  "correcta": 0,
+  "explicacion": "R² = 1 indica que todos los puntos están sobre la recta; R² = 0 indica ausencia de relación lineal. R² no puede ser negativo.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, lista de espera extraordinaria 03/10/2023, 1.ª prueba (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1285",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 39,
+  "tema_nombre": "Control de calidad en determinaciones físico-químicas",
+  "pregunta": "Una recta de calibrado ha dado los siguientes puntos (mg/L; absorbancia): 1 → 0,05; 2 → 0,10; 5 → 0,24; 10 → 0,50. ¿Cuál será el valor de R² de la recta?",
+  "opciones": [
+   "0,999",
+   "0,009",
+   "-0,099",
+   "-0,990"
+  ],
+  "correcta": 0,
+  "explicacion": "Los puntos son casi perfectamente lineales (A ≈ 0,05 × C), por lo que R² ≈ 0,999. R² nunca es negativo y valores como 0,009 indicarían ausencia de relación.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
+ },
+ {
+  "id": "LAB1286",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 40,
+  "tema_nombre": "Acreditación de laboratorios. ISO 17025",
+  "pregunta": "¿Qué entidad evalúa en España el cumplimiento de los requisitos establecidos en la norma ISO 17025?",
+  "opciones": [
+   "La Asociación Española de Normalización AENOR.",
+   "La Entidad Nacional de Acreditación ENAC.",
+   "Lo pueden hacer ambas entidades.",
+   "El Ministerio de Industria directamente."
+  ],
+  "correcta": 1,
+  "explicacion": "En España la acreditación de laboratorios según ISO/IEC 17025 corresponde a ENAC. AENOR certifica sistemas de gestión (p. ej. ISO 9001), pero no acredita laboratorios.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, turno libre, 1.er ejercicio 28/11/2024 (plantilla definitiva; 4.ª opción añadida)"
+ },
+ {
+  "id": "LAB1287",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 40,
+  "tema_nombre": "Acreditación de laboratorios. ISO 17025",
+  "pregunta": "La ISO 17025 es una norma:",
+  "opciones": [
+   "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que disponen de sistemas de gestión de seguridad y salud en el trabajo destinados a proteger a los trabajadores y visitantes de accidentes y enfermedades laborales.",
+   "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que son técnicamente competentes y que sus resultados son veraces.",
+   "Que es aplicada por los laboratorios de ensayo y calibración con el objetivo de demostrar que están comprometidos con la protección del medio ambiente.",
+   "Ninguna respuesta es correcta."
+  ],
+  "correcta": 1,
+  "explicacion": "UNE-EN ISO/IEC 17025 establece los requisitos de competencia técnica y gestión de los laboratorios de ensayo y calibración. La seguridad laboral es ISO 45001 y el medio ambiente, ISO 14001.",
+  "fuente": "Examen real Técnico/a Auxiliar de Laboratorio Ayto. Zaragoza, concurso-oposición EET 09/04/2024, 2.º ejercicio (plantilla definitiva)"
  }
 ]
