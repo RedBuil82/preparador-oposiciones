@@ -81,7 +81,7 @@ const OPOSICIONES = {
     color: "#6A4C93",
     divisor: 4, // TRBGTL 7.4.C.1: cada error resta 1/4 de acierto
     simulacro: { preguntas: 50, minutos: 55 }, // 1.er ejercicio C1
-    preguntas: normalizarBanco(BANCO_DELINEANTE),
+    preguntas: [...normalizarBanco(BANCO_COMUNES), ...normalizarBanco(BANCO_DELINEANTE)],
   },
   autocad: {
     id: "autocad",
