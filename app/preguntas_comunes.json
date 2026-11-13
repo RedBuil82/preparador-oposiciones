@@ -9482,6 +9482,82 @@
    "explicacion": "Art. 14.1 LPRL: los derechos de información, consulta y participación, formación, paralización de la actividad y vigilancia de la salud forman parte del derecho de los trabajadores a una protección eficaz.",
    "origen": "Ayto. Zaragoza · 17/12/2018 (lista de espera) · 1.ª prueba · reserva 1",
    "oficial": true
+  },
+  {
+   "id": "MI_COM001",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "tema_nombre": "La Constitución española",
+   "pregunta": "De acuerdo con el artículo 142 de la Constitución española, las Haciendas Locales se nutrirán fundamentalmente:",
+   "opciones": [
+    "De participación en los tributos del Estado y de las Comunidades Autónomas.",
+    "De tributos propios.",
+    "De transferencias del Estado exclusivamente.",
+    "De tributos propios y de participación en los del Estado y de las Comunidades Autónomas."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 142 CE: las Haciendas locales deberán disponer de los medios suficientes y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+   "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
+   "oficial": true,
+   "origen": "Examen real · Maestro Inspector"
+  },
+  {
+   "id": "MI_COM002",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 4,
+   "tema_nombre": "Ley 39/2015 del Procedimiento Administrativo Común",
+   "pregunta": "Según el artículo 93 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración podrá desistir:",
+   "opciones": [
+    "En los procedimientos iniciados de oficio.",
+    "En todos los procedimientos, cualquiera que sea la forma de iniciación.",
+    "Solo en los procedimientos de duración superior a seis meses.",
+    "En los procedimientos iniciados a solicitud del interesado."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 93.1 Ley 39/2015: en los procedimientos iniciados de oficio la Administración podrá desistir, motivadamente, en los supuestos y con los requisitos previstos en las leyes.",
+   "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
+   "oficial": true,
+   "origen": "Examen real · Maestro Inspector"
+  },
+  {
+   "id": "MI_COM003",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "pregunta": "De acuerdo con el artículo 2.1 del RDL 2/2004, texto refundido de la Ley Reguladora de las Haciendas Locales:",
+   "opciones": [
+    "El producto de las multas y sanciones es un recurso de las entidades locales.",
+    "Las multas y sanciones constituyen un tributo propio de las entidades locales.",
+    "Las respuestas a) y b) son correctas.",
+    "Las multas y sanciones son ingresos de derecho privado."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 2.1 TRLRHL: las multas y sanciones son un recurso de las haciendas locales, pero no un tributo. Los tributos son los impuestos, tasas y contribuciones especiales.",
+   "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
+   "oficial": true,
+   "origen": "Examen real · Maestro Inspector"
+  },
+  {
+   "id": "MI_COM004",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "El vigente Plan Municipal de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza fue publicado en el Boletín Oficial de la Provincia en:",
+   "opciones": [
+    "2023.",
+    "2024.",
+    "2025.",
+    "2022."
+   ],
+   "correcta": 1,
+   "explicacion": "El II Plan de Igualdad para empleadas y empleados municipales se publicó en el BOPZ en enero de 2024 (aprobado por el Gobierno de Zaragoza el 1 de marzo de 2023, vigencia 2024-2027). Coincide con la plantilla provisional del tribunal.",
+   "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
+   "oficial": true,
+   "origen": "Examen real · Maestro Inspector"
   }
  ]
 }
