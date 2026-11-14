@@ -9558,6 +9558,330 @@
    "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
    "oficial": true,
    "origen": "Examen real · Maestro Inspector"
+  },
+  {
+   "id": "RDL29_001",
+   "pregunta": "¿Sobre qué inmuebles pueden los ayuntamientos de zonas de mercado residencial tensionado establecer el nuevo recargo del IBI introducido por el RDL 29/2026?",
+   "opciones": [
+    "Sobre inmuebles residenciales destinados a alojamientos de uso turístico",
+    "Sobre los locales comerciales de más de 500 m²",
+    "Sobre los solares sin edificar",
+    "Sobre las viviendas de protección oficial"
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 8 del RDL 29/2026 modifica el art. 72 del TRLRHL y permite a los ayuntamientos de zonas de mercado residencial tensionado establecer un recargo sobre la cuota líquida del IBI de los inmuebles residenciales destinados a alojamientos de uso turístico.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 ter TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_002",
+   "pregunta": "Según el RDL 29/2026, ¿hasta qué porcentaje de la cuota líquida del IBI puede llegar, con carácter general, el recargo sobre inmuebles residenciales de uso turístico en zonas tensionadas?",
+   "opciones": [
+    "Hasta el 25 %",
+    "Hasta el 50 %",
+    "Hasta el 75 %",
+    "Hasta el 100 %"
+   ],
+   "correcta": 1,
+   "explicacion": "El recargo general es de hasta el 50 % de la cuota líquida del IBI. Puede elevarse al 100 % si el titular tiene dos o más inmuebles de este tipo y al 150 % si tiene cuatro o más.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 ter TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_003",
+   "pregunta": "Según el RDL 29/2026, ¿a qué porcentaje puede elevarse el recargo del IBI sobre alojamientos turísticos cuando el titular posee cuatro o más inmuebles residenciales con ese uso?",
+   "opciones": [
+    "Hasta el 50 %",
+    "Hasta el 100 %",
+    "Hasta el 150 %",
+    "Hasta el 200 %"
+   ],
+   "correcta": 2,
+   "explicacion": "El recargo es de hasta el 50 % con carácter general, hasta el 100 % para titulares de dos o más inmuebles turísticos y hasta el 150 % para titulares de cuatro o más (art. 72 TRLRHL, modificado por el art. 8 del RDL 29/2026).",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 ter TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_004",
+   "pregunta": "¿Cómo se establece y regula el recargo del IBI sobre inmuebles de uso turístico en zonas tensionadas introducido por el RDL 29/2026?",
+   "opciones": [
+    "Por ordenanza fiscal de cada ayuntamiento",
+    "Directamente por la Ley de Presupuestos Generales del Estado",
+    "Por resolución de la Dirección General del Catastro",
+    "Por decreto de la Comunidad Autónoma, sin intervención municipal"
+   ],
+   "correcta": 0,
+   "explicacion": "Es un recargo potestativo: corresponde a cada ayuntamiento establecerlo y regularlo mediante su ordenanza fiscal, dentro de los límites que fija el art. 72 TRLRHL tras la reforma del RDL 29/2026.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 ter TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_005",
+   "pregunta": "Según el art. 72.4 bis del TRLRHL (RDL 29/2026), ¿a partir de cuánto tiempo de desocupación continuada y sin causa justificada se considera un inmueble residencial desocupado con carácter permanente?",
+   "opciones": [
+    "Más de seis meses",
+    "Más de un año",
+    "Más de dos años",
+    "Más de cuatro años"
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 72.4 bis TRLRHL considera desocupado con carácter permanente el inmueble residencial que permanezca desocupado, de forma continuada y sin causa justificada, por un plazo superior a dos años, según los requisitos y el procedimiento que fije la ordenanza fiscal.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_006",
+   "pregunta": "En un municipio que NO es zona de mercado residencial tensionado, ¿qué recargo general sobre la cuota líquida del IBI pueden exigir los ayuntamientos por inmuebles residenciales desocupados con carácter permanente (art. 72.4 bis TRLRHL)?",
+   "opciones": [
+    "Hasta el 25 %",
+    "Hasta el 50 %",
+    "Hasta el 150 %",
+    "Ninguno: solo se permite en zonas tensionadas"
+   ],
+   "correcta": 1,
+   "explicacion": "Fuera de zonas tensionadas el recargo es de hasta el 50 % de la cuota líquida, y puede llegar al 100 % si la desocupación supera los tres años. En ese caso solo se aplica a inmuebles de titulares de cuatro o más inmuebles residenciales.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_007",
+   "pregunta": "En un municipio que NO es zona tensionada, ¿hasta qué porcentaje puede llegar el recargo del IBI por vivienda desocupada cuando el periodo de desocupación es superior a tres años?",
+   "opciones": [
+    "Hasta el 50 %",
+    "Hasta el 75 %",
+    "Hasta el 100 %",
+    "Hasta el 150 %"
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 72.4 bis TRLRHL permite un recargo de hasta el 100 % de la cuota líquida cuando la desocupación supera los tres años, pudiendo modularse según el tiempo de desocupación.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_008",
+   "pregunta": "En una zona de mercado residencial tensionado, ¿hasta qué porcentaje puede llegar el recargo del IBI por vivienda desocupada con carácter permanente para titulares de cuatro o más inmuebles residenciales?",
+   "opciones": [
+    "Hasta el 50 %",
+    "Hasta el 100 %",
+    "Hasta el 150 %",
+    "Hasta el 200 %"
+   ],
+   "correcta": 1,
+   "explicacion": "En zonas tensionadas el recargo es de hasta el 50 % y, para titulares de cuatro o más inmuebles de uso residencial, de hasta el 100 %. Si la desocupación supera los tres años, se pueden añadir hasta 50 puntos más para esos titulares.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_009",
+   "pregunta": "¿Cuándo se devenga el recargo del IBI sobre inmuebles residenciales desocupados con carácter permanente (art. 72.4 bis TRLRHL)?",
+   "opciones": [
+    "El 1 de enero",
+    "El 30 de junio",
+    "El 31 de diciembre",
+    "El día en que se declare la desocupación"
+   ],
+   "correcta": 2,
+   "explicacion": "El recargo se exige a los sujetos pasivos del IBI, se devenga el 31 de diciembre y se liquida anualmente una vez constatada la desocupación en esa fecha, junto con el acto administrativo que la declara.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_010",
+   "pregunta": "¿Cuál de estas circunstancias NO figura entre las causas que el art. 72.4 bis TRLRHL considera siempre justificadas para la desocupación de un inmueble?",
+   "opciones": [
+    "Que el inmueble esté en obras o rehabilitación",
+    "Que el titular lo ofrezca en alquiler, con un máximo de seis meses",
+    "Que el titular lo ofrezca en venta, con un máximo de un año",
+    "Que el titular prefiera mantenerlo vacío para uso futuro de la familia"
+   ],
+   "correcta": 3,
+   "explicacion": "Son causas justificadas, entre otras, el traslado temporal por trabajo o formación, obras o rehabilitación, un litigio pendiente, la oferta en venta (máximo un año) o en alquiler (máximo seis meses). Mantenerlo vacío por voluntad del titular no es causa justificada.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_011",
+   "pregunta": "¿Qué trámite exige el art. 72.4 bis TRLRHL para declarar un inmueble como desocupado con carácter permanente?",
+   "opciones": [
+    "Informe favorable de la Comunidad Autónoma",
+    "Audiencia previa del sujeto pasivo y acreditación municipal de indicios de desocupación",
+    "Autorización del Catastro",
+    "Resolución judicial"
+   ],
+   "correcta": 1,
+   "explicacion": "La declaración municipal exige la previa audiencia del sujeto pasivo y que el ayuntamiento acredite indicios de desocupación, que regula la ordenanza fiscal (por ejemplo datos del padrón o consumos de suministros).",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_012",
+   "pregunta": "¿Qué modifica el apartado 4 del art. 72 TRLRHL tras el RDL 29/2026 respecto de los tipos diferenciados del IBI?",
+   "opciones": [
+    "Los tipos diferenciados se aplican a los bienes urbanos excluidos los de uso residencial, como máximo al 10 % de los inmuebles de mayor valor catastral de cada uso",
+    "Los tipos diferenciados se aplican a todos los inmuebles residenciales",
+    "Los tipos diferenciados se eliminan",
+    "Solo se aplican a bienes rústicos"
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 72.4 permite tipos diferenciados para bienes urbanos excluidos los de uso residencial, según los usos de la normativa catastral, aplicables como máximo al 10 % de los inmuebles de mayor valor catastral para cada uso.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 8: art. 72.4 bis TRLRHL; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_013",
+   "pregunta": "¿Desde qué fecha se aplican los nuevos importes máximos de los coeficientes del art. 107.4 TRLRHL (plusvalía municipal) fijados por el art. 10 del RDL 29/2026?",
+   "opciones": [
+    "Desde el 8 de octubre de 2026",
+    "Desde el 12 de noviembre de 2026",
+    "Desde el 1 de diciembre de 2026",
+    "Desde el 1 de enero de 2027"
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 10 del RDL 29/2026 establece que los nuevos importes máximos de los coeficientes sobre el valor del terreno en el momento del devengo se aplican con efectos desde el 1 de diciembre de 2026.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_014",
+   "pregunta": "Según el art. 10 del RDL 29/2026, ¿qué coeficiente máximo se aplica al valor del terreno en el IIVTNU cuando el periodo de generación es igual o superior a 20 años?",
+   "opciones": [
+    "0,11",
+    "0,17",
+    "0,25",
+    "0,30"
+   ],
+   "correcta": 3,
+   "explicacion": "En la nueva escala del art. 107.4 TRLRHL, el coeficiente máximo para un periodo de generación igual o superior a 20 años es 0,30, el más alto de toda la tabla.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_015",
+   "pregunta": "Según la nueva escala del art. 107.4 TRLRHL, ¿qué coeficiente máximo corresponde a un periodo de generación inferior a un año?",
+   "opciones": [
+    "0,11",
+    "0,16",
+    "0,17",
+    "0,30"
+   ],
+   "correcta": 2,
+   "explicacion": "Para un periodo de generación inferior a un año el coeficiente máximo es 0,17. Para uno y dos años es 0,16.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_016",
+   "pregunta": "En la escala de coeficientes máximos del art. 107.4 TRLRHL fijada por el RDL 29/2026, ¿qué coeficiente se aplica a los periodos de generación de 14, 15, 16 y 17 años?",
+   "opciones": [
+    "0,11",
+    "0,13",
+    "0,14",
+    "0,20"
+   ],
+   "correcta": 0,
+   "explicacion": "Los periodos de 14 a 17 años tienen un coeficiente máximo de 0,11, el más bajo de la tabla. Después sube a 0,13 (18 años), 0,20 (19 años) y 0,30 (20 años o más).",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_017",
+   "pregunta": "En la nueva escala del art. 107.4 TRLRHL, ¿qué periodo de generación tiene el coeficiente máximo más alto antes de llegar a los 20 años?",
+   "opciones": [
+    "5 años (0,19)",
+    "9 años (0,25)",
+    "10 años (0,22)",
+    "19 años (0,20)"
+   ],
+   "correcta": 1,
+   "explicacion": "Hasta los 19 años el coeficiente máximo más alto es 0,25, para 9 años de generación. Con 10 años baja a 0,22 y con 20 años o más sube a 0,30.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
+  },
+  {
+   "id": "RDL29_018",
+   "pregunta": "Según el art. 10 del RDL 29/2026, ¿qué coeficiente máximo se aplica a un periodo de generación de 10 años?",
+   "opciones": [
+    "0,18",
+    "0,22",
+    "0,25",
+    "0,30"
+   ],
+   "correcta": 1,
+   "explicacion": "En la escala del art. 107.4 TRLRHL el coeficiente máximo para 10 años es 0,22. Con 9 años es 0,25 y con 11 años es 0,18.",
+   "tema": 6,
+   "tema_nombre": "Haciendas Locales",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
+   "revisada": true
   }
  ]
 }
