@@ -1371,7 +1371,7 @@
    "id": "COM003",
    "tema": 2,
    "tema_nombre": "Igualdad efectiva de mujeres y hombres",
-   "pregunta": "¿Qué órgano aprobó el II Plan de Igualdad del Ayuntamiento de Zaragoza el 1 de marzo de 2023?",
+   "pregunta": "¿Qué órgano aprobó el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza el 22 de diciembre de 2023?",
    "opciones": [
     "El Gobierno de Zaragoza",
     "El Pleno del Ayuntamiento",
@@ -1379,10 +1379,10 @@
     "El Gobierno de Aragón"
    ],
    "correcta": 0,
-   "explicacion": "Tras el diagnóstico (aprobado en febrero de 2021) y el diseño del plan en 2021-2022, la fase final de 2023 terminó con su aprobación por el Gobierno de Zaragoza el 1 de marzo de 2023.",
+   "explicacion": "El texto definitivo lo aprobó la Comisión Negociadora el 1 de marzo de 2023. Después lo aprobó por acuerdo el Gobierno de Zaragoza el 22 de diciembre de 2023, y se publicó en el BOPZ n.º 16, de 20 de enero de 2024.",
    "bloque": "comun",
    "ambito": "aragon",
-   "fuente": "Generada por Claude (contrastada con el PDF del temario)",
+   "fuente": "II PIEEM (BOPZ n.º 16, 20-01-2024) y web municipal del Plan de Igualdad; corregida 18/11/2026",
    "revisada": "2026-10"
   },
   {
@@ -9554,7 +9554,7 @@
     "2022."
    ],
    "correcta": 1,
-   "explicacion": "El II Plan de Igualdad para empleadas y empleados municipales se publicó en el BOPZ en enero de 2024 (aprobado por el Gobierno de Zaragoza el 1 de marzo de 2023, vigencia 2024-2027). Coincide con la plantilla provisional del tribunal.",
+   "explicacion": "El II Plan de Igualdad para empleadas y empleados municipales se publicó en el BOPZ n.º 16, de 20 de enero de 2024 (aprobado por el Gobierno de Zaragoza el 22 de diciembre de 2023, con vigencia de cuatro años). Coincide con la plantilla provisional del tribunal.",
    "fuente": "Examen real Maestro Inspector (TL) Ayto. Zaragoza 12-11-2026, 1.er ejercicio (plantilla provisional; 4.ª opción añadida)",
    "oficial": true,
    "origen": "Examen real · Maestro Inspector"
@@ -9882,6 +9882,1086 @@
    "ambito": "estatal",
    "fuente": "RDL 29/2026, de 6 de octubre (BOE-A-2026-20823), art. 10: coeficientes del art. 107.4 TRLRHL, efectos desde 1/12/2026; convalidado el 12/11/2026",
    "revisada": true
+  },
+  {
+   "id": "TAS23_1_01",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "El artículo 103.1 de la Constitución dice que la Administración Pública actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho. Ese mismo artículo dice que la Administración Pública sirve con objetividad:",
+   "opciones": [
+    "Los intereses públicos.",
+    "El interés nacional.",
+    "Los intereses generales."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 103.1 CE: «La Administración Pública sirve con objetividad los intereses generales…».",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 01, plantilla definitiva)",
+   "tema_nombre": "La Constitución española",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 01, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_06",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "De acuerdo con el artículo 15 de la Ley 7/1985, reguladora de las Bases del Régimen Local, ¿cuál de las siguientes afirmaciones NO es cierta?",
+   "opciones": [
+    "La condición de vecino se adquiere por la residencia habitual en el municipio.",
+    "La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón.",
+    "El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 15 LBRL: la condición de vecino se adquiere en el momento de la inscripción en el Padrón, no por la mera residencia.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 06, plantilla definitiva)",
+   "tema_nombre": "La Constitución española",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 06, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_07",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "El Título I de la Constitución tiene como epígrafe:",
+   "opciones": [
+    "De los derechos y libertades.",
+    "De los derechos y deberes fundamentales.",
+    "De los derechos fundamentales y de las libertades públicas."
+   ],
+   "correcta": 1,
+   "explicacion": "Título I: «De los derechos y deberes fundamentales». La c) es el epígrafe de la sección 1.ª del capítulo II.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 07, plantilla definitiva)",
+   "tema_nombre": "La Constitución española",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 07, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_10",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 1,
+   "pregunta": "De acuerdo con el artículo 13 de la Ley 7/1985, reguladora de las Bases del Régimen Local, podrán acordar su fusión los municipios:",
+   "opciones": [
+    "Aunque no sean colindantes.",
+    "Aunque no pertenezcan a la misma provincia.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 13.4 LBRL: pueden fusionarse municipios colindantes dentro de la misma provincia.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 10, plantilla definitiva)",
+   "tema_nombre": "La Constitución española",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 10, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_02",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 2,
+   "pregunta": "Según el Plan de Igualdad para las empleadas y empleados del Ayuntamiento de Zaragoza, el acoso sexual es toda conducta de naturaleza sexual en el ámbito laboral que plantea una amenaza sobre el empleo para obtener provecho sexual o crea un entorno intimidatorio, degradante u ofensivo. Constituye un tipo de acoso sexual:",
+   "opciones": [
+    "El chantaje sexual.",
+    "El acoso ambiental.",
+    "Las respuestas a) y b) son correctas."
+   ],
+   "correcta": 2,
+   "explicacion": "El Plan distingue dos tipos de acoso sexual: el chantaje sexual (quid pro quo) y el acoso ambiental.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 02, plantilla definitiva)",
+   "tema_nombre": "Igualdad de mujeres y hombres",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 02, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_03",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "tema": 3,
+   "pregunta": "Según el artículo 77 del Estatuto de Autonomía de Aragón (Título V, competencias), el sistema penitenciario es una materia en la que corresponde a la Comunidad Autónoma la competencia:",
+   "opciones": [
+    "Exclusiva.",
+    "Compartida.",
+    "Ejecutiva."
+   ],
+   "correcta": 2,
+   "explicacion": "El sistema penitenciario figura entre las competencias ejecutivas del art. 77 del Estatuto.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 03, plantilla definitiva)",
+   "tema_nombre": "Estatuto de Autonomía de Aragón",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 03, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_08",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "pregunta": "Según el artículo 54.3 del TREBEP (RDL 5/2015), los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan:",
+   "opciones": [
+    "Delito.",
+    "Una infracción manifiesta del ordenamiento jurídico.",
+    "Delito o infracción administrativa."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 54.3 TREBEP: salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso lo pondrán en conocimiento de los órganos de inspección.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 08, plantilla definitiva)",
+   "tema_nombre": "Empleados públicos",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta 08, plantilla definitiva)"
+  },
+  {
+   "id": "TAS23_1_R5",
+   "bloque": "comun",
+   "ambito": "estatal",
+   "tema": 7,
+   "pregunta": "Según el artículo 44 del TREBEP (RDL 5/2015), las Juntas de Personal se eligen mediante:",
+   "opciones": [
+    "Listas abiertas y sistema mayoritario.",
+    "Listas cerradas a través de un sistema proporcional corregido.",
+    "Listas cerradas y sistema mayoritario."
+   ],
+   "correcta": 1,
+   "explicacion": "Pregunta de reserva. Art. 44 TREBEP: listas cerradas y sistema proporcional corregido.",
+   "fuente": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R5, plantilla definitiva)",
+   "tema_nombre": "Empleados públicos",
+   "oficial": true,
+   "origen": "Examen real · Técnico/a Auxiliar Sanitario Ayto. Zaragoza, 01-12-2023, 1.er ejercicio (pregunta R5, plantilla definitiva)"
+  },
+  {
+   "id": "PIEEM_001",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuántas líneas de actuación tiene el Eje A «Cultura de la organización» del II Plan de Igualdad municipal?",
+   "opciones": [
+    "2",
+    "3",
+    "5",
+    "4"
+   ],
+   "correcta": 3,
+   "explicacion": "El Eje A tiene 4 líneas: A.1 Comunicación y sensibilización, A.2 Participación y negociación, A.3 Formación y A.4 Estructura y órganos municipales para el seguimiento del Plan. El Plan completo suma 12 líneas (A 4, B 3, C 2, D 3).",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_002",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuántas acciones concentra el Eje A del II Plan de Igualdad municipal, el que más tiene?",
+   "opciones": [
+    "10",
+    "14",
+    "19",
+    "21"
+   ],
+   "correcta": 2,
+   "explicacion": "Reparto de las 44 acciones: Eje A 19, Eje B 10, Eje C 5 y Eje D 10.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_003",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuántos objetivos específicos tiene el Eje C «Conciliación y corresponsabilidad» del II Plan de Igualdad municipal?",
+   "opciones": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correcta": 1,
+   "explicacion": "El Eje C tiene 3 objetivos específicos (C.1.1, C.1.2 y C.2.1) y 5 acciones. Del total de 21 objetivos: A 7, B 7, C 3 y D 4.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_004",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuál es el objetivo general del II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
+   "opciones": [
+    "Reducir a cero la brecha salarial en el plazo de cuatro años",
+    "Garantizar la igualdad real y efectiva de oportunidades entre mujeres y hombres y evitar cualquier tipo de discriminación por razón de sexo en el Ayuntamiento",
+    "Alcanzar una plantilla con el 50 % de mujeres en todas las áreas",
+    "Sustituir el Pacto-Convenio por un régimen específico de igualdad"
+   ],
+   "correcta": 1,
+   "explicacion": "Es el objetivo general recogido en el apartado 8 del Plan. Los cuatro ejes lo desarrollan con sus propios objetivos.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_005",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué línea del II Plan de Igualdad municipal contempla un informe de impacto de género previo a la aprobación del Pacto-Convenio?",
+   "opciones": [
+    "A.2 Participación y negociación",
+    "B.3 Retribuciones",
+    "A.3 Formación",
+    "D.3 Protección frente al acoso"
+   ],
+   "correcta": 0,
+   "explicacion": "La acción A.2.2.2 (objetivo A.2.2: introducir la perspectiva de género en el Pacto-Convenio) prevé realizar un informe de impacto de género previo a su aprobación. La A.2.2.1 prevé formar a quienes participan en las mesas de negociación.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_006",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "En el II Plan de Igualdad municipal, ¿qué medida se propone respecto a las listas electorales sindicales?",
+   "opciones": [
+    "Reservar el 60 % de los puestos de las listas a mujeres",
+    "Prohibir las listas con mayoría de hombres",
+    "Sustituir las listas por candidaturas individuales",
+    "Impulsar el compromiso de presentar listas cremallera en todos los procesos electorales municipales"
+   ],
+   "correcta": 3,
+   "explicacion": "La acción A.2.1.3 impulsa que la representación sindical adopte el compromiso de presentar listas cremallera (alternando mujeres y hombres) en sus procesos electorales municipales.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_007",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el II Plan de Igualdad municipal, ¿qué se prevé incorporar para el personal de nuevo acceso?",
+   "opciones": [
+    "Un permiso adicional de conciliación",
+    "Un protocolo de bienvenida con mentoría obligatoria",
+    "Un módulo de formación en igualdad",
+    "Una prueba selectiva específica sobre violencia de género"
+   ],
+   "correcta": 2,
+   "explicacion": "La acción A.3.1.2 incorpora un módulo de formación en igualdad para el personal de nuevo acceso (línea A.3 Formación).",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_008",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "La línea A.4 del II Plan de Igualdad municipal se denomina:",
+   "opciones": [
+    "Comunicación y sensibilización",
+    "Plantilla, relación de puestos de trabajo y promoción profesional",
+    "Estructura y órganos municipales para el seguimiento del Plan",
+    "Clima laboral"
+   ],
+   "correcta": 2,
+   "explicacion": "A.4 es la única línea del Eje A con un solo objetivo (A.4.1: coordinar planificación, ejecución, seguimiento y evaluación). Entre sus acciones está cubrir de forma continua los puestos de la Unidad Municipal de Igualdad.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_009",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué objetivo específico del Eje B se refiere a los órganos de selección de personal?",
+   "opciones": [
+    "B.1.1 Impulsar la participación de mujeres y hombres en la oferta de plazas",
+    "B.1.2 Promover la paridad en los órganos de selección",
+    "B.2.3 Potenciar el acceso de las mujeres a los puestos de mayor responsabilidad",
+    "B.3.1 Cumplir con el principio de transparencia retributiva"
+   ],
+   "correcta": 1,
+   "explicacion": "El B.1.2 se dirige a la paridad en los órganos de selección (continuar el criterio de paridad y motivar la desigualdad cuando se produzca). Pertenece a la línea B.1 Acceso.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_010",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el II Plan de Igualdad municipal, ¿qué debe revisarse en las bases de acceso a plazas con pruebas físicas donde la presencia de mujeres sea escasa?",
+   "opciones": [
+    "Introducir medidas de acción positiva si procede",
+    "Eliminar las pruebas físicas de todas las convocatorias",
+    "Reservar esas plazas a mujeres",
+    "Aplicar baremos distintos para hombres y mujeres en todos los casos"
+   ],
+   "correcta": 0,
+   "explicacion": "La acción B.1.1.3 prevé revisar esas bases para introducir medidas de acción positiva si procede.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_011",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué acción del II Plan de Igualdad municipal responde al objetivo de transparencia retributiva (B.3.1)?",
+   "opciones": [
+    "Un estudio bienal de productividad por áreas",
+    "La publicación de las nóminas individuales en el portal",
+    "Una auditoría externa de las retribuciones de los puestos directivos",
+    "Un informe anual de retribuciones, básicas y complementarias, con datos desagregados por sexo"
+   ],
+   "correcta": 3,
+   "explicacion": "La acción B.3.1.1 es un informe anual de retribuciones con datos desagregados por sexo. El objetivo B.3.2 (reducir la brecha salarial) se concreta en un estudio de los elementos que la ocasionan.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_012",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el II Plan de Igualdad municipal, ¿qué se propone para identificar por qué cuesta más que las mujeres lleguen a puestos de mayor responsabilidad (B.2.3)?",
+   "opciones": [
+    "Reservar por norma la mitad de los puestos directivos",
+    "Eliminar la libre designación",
+    "Crear una escala propia de promoción para mujeres",
+    "Realizar un estudio de las causas que dificultan su acceso y adoptar medidas para corregirlas"
+   ],
+   "correcta": 3,
+   "explicacion": "La acción B.2.3.1 prevé un estudio de las causas que dificultan el acceso de las mujeres a los puestos de mayor responsabilidad para adoptar medidas de corrección.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_013",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué estudio prevé el Eje C del II Plan de Igualdad municipal respecto a las medidas de conciliación?",
+   "opciones": [
+    "Un estudio sobre el coste económico de los permisos",
+    "Un estudio sobre las bajas por paternidad en otras administraciones",
+    "Un estudio sobre las causas de denegación de las medidas de conciliación",
+    "Un estudio sobre el teletrabajo en el sector privado"
+   ],
+   "correcta": 2,
+   "explicacion": "La acción C.1.1.1 (objetivo C.1.1: conocer las solicitudes y autorizaciones) es un estudio sobre las causas de denegación, para detectar los motivos que dificultan el ejercicio de esas medidas.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_014",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "En el objetivo C.2.1 del II Plan de Igualdad municipal, las campañas sobre los beneficios de compartir tareas domésticas y de cuidados se dirigen principalmente a:",
+   "opciones": [
+    "Las trabajadoras municipales",
+    "Los trabajadores municipales",
+    "Las jefaturas de servicio",
+    "El personal de nuevo acceso"
+   ],
+   "correcta": 1,
+   "explicacion": "La acción C.2.1.1 se dirige principalmente a los trabajadores (hombres), porque se trata de impulsar la corresponsabilidad. La C.2.1.2 va contra los estereotipos de género en el cuidado y el trabajo doméstico.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_015",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué prevé la acción D.1.2.2 del II Plan de Igualdad municipal?",
+   "opciones": [
+    "Adecuar equipos y ropa de trabajo a las características físicas de mujeres y hombres, incluyendo el embarazo",
+    "Ampliar el permiso por riesgo durante el embarazo",
+    "Eliminar el uniforme en los puestos administrativos",
+    "Sustituir el reconocimiento médico por un autoexamen"
+   ],
+   "correcta": 0,
+   "explicacion": "La acción D.1.2.2 (objetivo D.1.2: actuar sobre riesgos que afectan de manera desigual a mujeres y hombres) adapta el diseño de equipos y ropa de trabajo, incluida la situación de embarazo.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_016",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué línea del Eje D se ocupa del acoso sexual, el acoso por razón de sexo y el acoso por orientación sexual?",
+   "opciones": [
+    "D.3 Protección frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual",
+    "D.1 Prevención y salud laboral",
+    "D.2 Clima laboral",
+    "C.2 Corresponsabilidad"
+   ],
+   "correcta": 0,
+   "explicacion": "El Eje D tiene tres líneas: D.1 Prevención y salud laboral, D.2 Clima laboral y D.3 Protección frente al acoso. La D.3 tiene un objetivo (D.3.1: reforzar las herramientas de prevención) y 3 acciones.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_017",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según la acción D.3.1.2 del II Plan de Igualdad municipal, ¿a quién debe darse formación continua en materia de acoso sexual?",
+   "opciones": [
+    "A todo el personal de nuevo acceso exclusivamente",
+    "A los miembros de la Comisión Negociadora",
+    "A las empresas contratadas por el Ayuntamiento",
+    "A las personas que forman la Asesoría Confidencial y el Comité de Asesoramiento"
+   ],
+   "correcta": 3,
+   "explicacion": "La D.3.1.2 mantiene una formación continua para las personas de la Asesoría Confidencial y el Comité de Asesoramiento. La D.3.1.1 es la difusión del protocolo y la D.3.1.3 su revisión y actualización.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_018",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuál de los siguientes sindicatos NO figura entre los que formaron parte de la Comisión Negociadora del II Plan de Igualdad municipal?",
+   "opciones": [
+    "CCOO",
+    "FORZAPOL",
+    "USO",
+    "STAZ"
+   ],
+   "correcta": 2,
+   "explicacion": "Estuvieron CCOO, CGT, CSIF, FORZAPOL, OSTA, STAZ y UGT (7 organizaciones), junto con la representación de la Administración municipal, de forma paritaria.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_019",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuándo se constituyó la Comisión Negociadora del II Plan de Igualdad municipal?",
+   "opciones": [
+    "El 26 de octubre de 2014",
+    "El 20 de febrero de 2023",
+    "El 23 de febrero de 2021",
+    "El 22 de diciembre de 2023"
+   ],
+   "correcta": 1,
+   "explicacion": "La Comisión Negociadora se constituyó el 20-02-2023 y aprobó el texto definitivo el 1-03-2023. El Gobierno de Zaragoza lo aprobó el 22-12-2023.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_020",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuándo aprobó la Comisión de Igualdad el diagnóstico de la plantilla que sirvió de base al II Plan de Igualdad municipal?",
+   "opciones": [
+    "El 18 de abril de 2013",
+    "El 23 de febrero de 2021",
+    "El 15 de noviembre de 2022",
+    "El 1 de marzo de 2023"
+   ],
+   "correcta": 1,
+   "explicacion": "El diagnóstico fue aprobado el 23-02-2021 y sirvió de base junto con la evaluación del I PIEEM. Los datos de la plantilla eran de 2019.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_021",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuándo se aprobó el I Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (I PIEEM)?",
+   "opciones": [
+    "El 18 de abril de 2013",
+    "El 9 de marzo de 2009",
+    "El 26 de octubre de 2014",
+    "El 24 de junio de 2016"
+   ],
+   "correcta": 0,
+   "explicacion": "El I PIEEM se elaboró en 2010 y se aprobó el 18-04-2013. El 9-03-2009 se constituyó la Mesa para la Igualdad; el 26-10-2014, la Comisión para la Igualdad permanente.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_022",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuándo se constituyó la Comisión para la Igualdad de carácter permanente del Ayuntamiento de Zaragoza?",
+   "opciones": [
+    "El 9 de marzo de 2009",
+    "El 18 de abril de 2013",
+    "El 27 de abril de 2021",
+    "El 26 de octubre de 2014"
+   ],
+   "correcta": 3,
+   "explicacion": "La Comisión para la Igualdad permanente se constituyó el 26-10-2014. El 27-04-2021 aprobó por unanimidad el Grupo Técnico que diseñó el II Plan.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_023",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué grupo entregó a la Comisión de Igualdad el documento base del II Plan de Igualdad municipal el 15 de noviembre de 2022?",
+   "opciones": [
+    "La Comisión Negociadora",
+    "La Unidad Municipal de Igualdad en solitario",
+    "El Grupo Técnico, formado paritariamente por la Corporación y la representación sindical",
+    "La Mesa General de Negociación"
+   ],
+   "correcta": 2,
+   "explicacion": "El Grupo Técnico (constituido el 27-04-2021) entregó el documento base para elevarlo a la Comisión Negociadora y, después, al Gobierno de Zaragoza.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_024",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿En qué boletín y fecha se publicó el II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza?",
+   "opciones": [
+    "BOA de 22 de diciembre de 2023",
+    "BOPZ n.º 1, de 2 de enero de 2024",
+    "BOPZ n.º 16, de 20 de enero de 2024",
+    "BOE de 1 de marzo de 2023"
+   ],
+   "correcta": 2,
+   "explicacion": "Se publicó en el Boletín Oficial de la Provincia de Zaragoza n.º 16, de 20-01-2024, tras su aprobación por el Gobierno de Zaragoza el 22-12-2023.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_025",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el apartado 5.3 del II Plan de Igualdad municipal, su entrada en vigor se produce:",
+   "opciones": [
+    "Al ser aprobado por la Comisión Negociadora",
+    "Al ser aprobado por el Gobierno de Zaragoza y publicado en el Boletín Oficial de la Provincia",
+    "Al día siguiente de su aprobación por el Pleno",
+    "Al registrarse en el Ministerio competente"
+   ],
+   "correcta": 1,
+   "explicacion": "El período de vigencia es de cuatro años desde su aprobación y registro; la entrada en vigor se produce al aprobarlo el Gobierno de Zaragoza y publicarse en el BOP.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_026",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuál de los siguientes es un rasgo metodológico del II Plan de Igualdad municipal?",
+   "opciones": [
+    "Es un plan colectivo, porque mejora también la situación de los hombres de la plantilla",
+    "Es un plan exclusivo para las mujeres de la plantilla",
+    "Es un plan cerrado, que no se adapta a nuevas normas",
+    "Es un plan sectorial, limitado al área de Recursos Humanos"
+   ],
+   "correcta": 0,
+   "explicacion": "Según el apartado 6 es transversal, específico, colectivo, participativo, flexible y dinámico, coherente y en proceso continuo.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_027",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el apartado 6 del II Plan de Igualdad municipal, ¿por qué es un plan «transversal»?",
+   "opciones": [
+    "Porque se aplica solo a las áreas más masculinizadas",
+    "Porque lo negocian todos los sindicatos",
+    "Porque se financia con fondos de varias administraciones",
+    "Porque comprende a todas las Áreas del Ayuntamiento y a la totalidad de la plantilla"
+   ],
+   "correcta": 3,
+   "explicacion": "Transversal: afecta a todas las Áreas y a toda la plantilla. Específico: responde al diagnóstico de la plantilla del Ayuntamiento.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_028",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cómo está compuesta la Comisión de Igualdad del Ayuntamiento de Zaragoza según el II Plan?",
+   "opciones": [
+    "Solo por la Alcaldía y la Concejalía de Personal",
+    "Exclusivamente por representantes sindicales",
+    "Por la Unidad Municipal de Igualdad y la Asesoría Jurídica",
+    "Equipo de Gobierno, servicios municipales con competencias, sindicatos con derecho a negociación colectiva y agentes de igualdad, con representación paritaria entre corporación y sindicatos"
+   ],
+   "correcta": 3,
+   "explicacion": "La representación es paritaria entre la corporación y las secciones sindicales y tiende al equilibrio entre mujeres y hombres siempre que sea posible. Se puede delegar la asistencia.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_029",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el II Plan de Igualdad municipal, las decisiones y acuerdos de la Comisión de Igualdad son:",
+   "opciones": [
+    "Confidenciales hasta la evaluación final",
+    "Públicos solo para los sindicatos",
+    "Públicos",
+    "Reservados a la Corporación"
+   ],
+   "correcta": 2,
+   "explicacion": "El Plan establece que todas las decisiones y acuerdos alcanzados en el seno de la Comisión serán públicos.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_030",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué debe elaborar anualmente la Comisión de Igualdad según el II Plan municipal?",
+   "opciones": [
+    "Un nuevo diagnóstico completo de la plantilla",
+    "Una memoria de carácter público con las reuniones, el trabajo ejecutado y la evaluación del desarrollo del Plan",
+    "Un informe reservado para el Gobierno de Zaragoza",
+    "Un presupuesto de igualdad"
+   ],
+   "correcta": 1,
+   "explicacion": "La memoria anual es pública. Recoge, al menos, las reuniones celebradas, el trabajo de la Comisión y la evaluación del desarrollo del Plan hasta el momento.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_031",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué órgano presta asesoramiento y apoyo técnico a la Comisión de Igualdad y elabora el informe de seguimiento anual del II Plan?",
+   "opciones": [
+    "La Unidad Municipal de Igualdad (UMI)",
+    "La Asesoría Jurídica municipal",
+    "La Oficina de Recursos Humanos",
+    "El Comité de Asesoramiento"
+   ],
+   "correcta": 0,
+   "explicacion": "El informe de seguimiento anual lo elabora la UMI con las fichas de recogida de datos (Anexo III) y se incluye en la memoria anual de la Comisión.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_032",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Quién realiza la evaluación final del II Plan de Igualdad municipal?",
+   "opciones": [
+    "La Comisión de Igualdad",
+    "La Unidad Municipal de Igualdad",
+    "La Comisión Negociadora",
+    "El Gobierno de Zaragoza"
+   ],
+   "correcta": 0,
+   "explicacion": "La evaluación final la lleva a cabo la Comisión de Igualdad y es la base para definir el siguiente Plan; compara los resultados con el diagnóstico de partida.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_033",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el II Plan de Igualdad municipal, ¿qué debe hacerse durante el último año de vigencia?",
+   "opciones": [
+    "Prorrogar automáticamente el Plan por cuatro años",
+    "Disolver la Comisión de Igualdad",
+    "Aprobar el protocolo de acoso",
+    "El diagnóstico de la situación de la plantilla, que se aprueba en la Comisión de Igualdad, para iniciar el siguiente Plan"
+   ],
+   "correcta": 3,
+   "explicacion": "Apartado 11: en el último año se hace el diagnóstico, se aprueba en la Comisión de Igualdad y se inicia la elaboración y negociación del siguiente Plan.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_034",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuándo se aprobó en la Comisión de Igualdad el Protocolo de actuación frente al acoso sexual, acoso por razón de sexo y acoso por orientación sexual del Ayuntamiento de Zaragoza?",
+   "opciones": [
+    "El 23 de febrero de 2021",
+    "El 22 de diciembre de 2023",
+    "El 24 de junio de 2016",
+    "El 18 de abril de 2013"
+   ],
+   "correcta": 2,
+   "explicacion": "El Protocolo se aprobó el 24-06-2016 y se incorporó al pacto convenio vigente entonces. El II Plan lo recoge en su Anexo II.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_035",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuál es el número máximo de personas que componen la Asesoría Confidencial del protocolo de acoso del Ayuntamiento de Zaragoza?",
+   "opciones": [
+    "Cinco",
+    "Diez",
+    "Siete",
+    "Quince"
+   ],
+   "correcta": 1,
+   "explicacion": "Inicialmente son Asesoras/es Confidenciales los agentes de igualdad y los delegados de prevención que reciban formación voluntariamente.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_036",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuál de estas funciones corresponde a la Asesoría Confidencial?",
+   "opciones": [
+    "Resolver el expediente disciplinario",
+    "Recibir las denuncias e iniciar el procedimiento",
+    "Imponer las sanciones",
+    "Nombrar a los miembros del Comité de Asesoramiento"
+   ],
+   "correcta": 1,
+   "explicacion": "La Asesoría Confidencial recibe denuncias, informa a la persona denunciante, hace el primer análisis y el procedimiento informal. El Comité desarrolla el formal.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_037",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuántas personas integran el Comité de Asesoramiento del protocolo de acoso?",
+   "opciones": [
+    "Siete",
+    "Cuatro",
+    "Cinco",
+    "Diez"
+   ],
+   "correcta": 0,
+   "explicacion": "Dos técnicos/as del Servicio de Prevención y Salud Laboral, una persona de la Asesoría Confidencial, un/a abogado/a de la Asesoría Jurídica, un/a psicólogo/a del Servicio de Igualdad y dos representantes sindicales.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_038",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Quién nombra a las personas de la Asesoría Confidencial y del Comité de Asesoramiento?",
+   "opciones": [
+    "El Servicio de Relaciones Laborales",
+    "La Alcaldía",
+    "La Mesa General de Negociación",
+    "La Presidencia de la Comisión de Igualdad"
+   ],
+   "correcta": 3,
+   "explicacion": "Así lo establece el apartado 3 (Nombramientos) de la sección VII del protocolo.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_039",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el protocolo de acoso del Ayuntamiento de Zaragoza, las denuncias anónimas:",
+   "opciones": [
+    "Se tramitan por el procedimiento informal",
+    "Se remiten directamente al Comité de Asesoramiento",
+    "No se admiten a trámite",
+    "Se admiten si hay indicios claros"
+   ],
+   "correcta": 2,
+   "explicacion": "La denuncia puede ser verbal o escrita (si es verbal debe ratificarse por escrito). No se admiten las anónimas.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_040",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "En el protocolo de acoso municipal, si una persona de la plantilla denuncia de forma motivada por otra, ¿qué es necesario?",
+   "opciones": [
+    "Que la denuncia se presente por registro electrónico",
+    "Que la ratifique la representación sindical",
+    "Que la presunta víctima ratifique la existencia del acoso",
+    "Nada más: basta con la denuncia"
+   ],
+   "correcta": 2,
+   "explicacion": "Pueden denunciar la persona presuntamente acosada o su representante legal, la representación sindical con autorización de la víctima y cualquier empleada o empleado público de forma motivada, ratificando la víctima.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_041",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el protocolo municipal, ¿cómo se denomina el acoso sexual producido por superiores jerárquicos o personas cuyas decisiones pueden afectar al empleo y a las condiciones de trabajo?",
+   "opciones": [
+    "Acoso ambiental",
+    "Acoso de intercambio o chantaje sexual",
+    "Acoso por razón de sexo",
+    "Acoso por orientación sexual"
+   ],
+   "correcta": 1,
+   "explicacion": "El acoso sexual tiene dos tipos: el chantaje sexual y el acoso ambiental, que crea un entorno intimidatorio, hostil o humillante.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_042",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el protocolo municipal, el acoso por razón de sexo es todo comportamiento relacionado con:",
+   "opciones": [
+    "Los estereotipos de género, desarrollado de forma sistemática en el ámbito laboral",
+    "La opción religiosa de la persona",
+    "La antigüedad en el puesto",
+    "Exclusivamente conductas de naturaleza sexual"
+   ],
+   "correcta": 0,
+   "explicacion": "Atenta contra la dignidad y la integridad física o psíquica de la persona y crea un entorno intimidatorio, degradante u ofensivo.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_043",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué garantía del protocolo de acoso municipal prohíbe expresamente actuaciones contra quien denuncia o declara como testigo?",
+   "opciones": [
+    "La confidencialidad",
+    "La diligencia y celeridad",
+    "La imparcialidad",
+    "La prohibición de represalias"
+   ],
+   "correcta": 3,
+   "explicacion": "Las garantías son: confidencialidad, respeto y protección de la dignidad, diligencia y celeridad, imparcialidad, prohibición de represalias, compatibilidad con acciones legales y sanción de denuncias fraudulentas. No se considera falsa la denuncia de buena fe aunque no se constate.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_044",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "En el procedimiento del protocolo de acoso, tras el análisis inicial, la Asesoría Confidencial puede:",
+   "opciones": [
+    "Solo iniciar el procedimiento formal",
+    "Imponer directamente una sanción",
+    "Archivar la denuncia sin notificarlo",
+    "No admitir a trámite, iniciar el procedimiento informal o iniciar el formal"
+   ],
+   "correcta": 3,
+   "explicacion": "Si no se admite a trámite, se escribe a la persona denunciante con los motivos. Pueden proponerse a Relaciones Laborales medidas cautelares, como separar a las partes.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_045",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el protocolo municipal, cuando el informe del Comité de Asesoramiento concluye que existe acoso, el informe se considera:",
+   "opciones": [
+    "Una sanción firme",
+    "Una resolución del Gobierno de Zaragoza",
+    "Iniciación de un expediente informativo a resolver por el Servicio de Relaciones Laborales u órgano competente",
+    "Un mero trámite sin efectos"
+   ],
+   "correcta": 2,
+   "explicacion": "El Comité insta al Servicio de Relaciones Laborales a incoar el expediente informativo y adoptar medidas correctoras y, en su caso, sancionadoras.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_046",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Los principios que garantizan la asistencia y protección de las víctimas en el protocolo de acoso municipal son:",
+   "opciones": [
+    "Gratuidad, publicidad y oralidad",
+    "Sigilo, respeto, profesionalidad, objetividad, imparcialidad y celeridad",
+    "Jerarquía, disciplina y reserva",
+    "Proporcionalidad, publicidad y legalidad"
+   ],
+   "correcta": 1,
+   "explicacion": "Principios del apartado 12 del Plan y de la declaración de principios del protocolo.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_047",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el Anexo I del II Plan municipal, ¿cuántos temas de igualdad deben incluir los temarios de pruebas selectivas para los grupos C2 y C1?",
+   "opciones": [
+    "Uno",
+    "Dos",
+    "Tres",
+    "Ninguno"
+   ],
+   "correcta": 0,
+   "explicacion": "Un tema para A.P., C2 y C1 y dos temas para A2 y A1.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_048",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Cuántos temas de igualdad de género deben contener los temarios de pruebas selectivas para el grupo A1 según el Anexo I del II Plan municipal?",
+   "opciones": [
+    "Dos",
+    "Uno",
+    "Tres",
+    "Cuatro"
+   ],
+   "correcta": 0,
+   "explicacion": "Dos temas para A2 y A1, uno para A.P., C2 y C1, sobre la normativa vigente en materia de igualdad de género.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_049",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el marco conceptual del II Plan municipal, la presencia o composición equilibrada se da cuando:",
+   "opciones": [
+    "Cada sexo ocupa exactamente el 50 %",
+    "Las mujeres superan el 60 %",
+    "Ningún sexo supera el 70 %",
+    "Las personas de cada sexo no superan el 60 % ni son menos del 40 %"
+   ],
+   "correcta": 3,
+   "explicacion": "Definición tomada de la disposición adicional primera de la LO 3/2007.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_050",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "Según el marco conceptual del II Plan municipal, ¿qué es la segregación horizontal?",
+   "opciones": [
+    "El predominio de hombres en los puestos superiores",
+    "La diferencia retributiva entre sexos",
+    "La concentración de mujeres y hombres en ocupaciones feminizadas o masculinizadas por los estereotipos de género",
+    "La separación física de los puestos de trabajo"
+   ],
+   "correcta": 2,
+   "explicacion": "Segregación vertical: hombres mayoría en los escalafones superiores (techo de cristal).",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_051",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "En el diagnóstico de la plantilla del II Plan municipal (datos de 2019), ¿cuántas personas integraban la plantilla?",
+   "opciones": [
+    "3.179 personas",
+    "5.019 personas",
+    "1.840 personas",
+    "6.500 personas"
+   ],
+   "correcta": 1,
+   "explicacion": "De las 5.019, 3.179 eran hombres (63,3 %) y 1.840 mujeres (36,7 %). Las áreas más masculinizadas: Bomberos, Policía Local e Infraestructuras y Medio Ambiente.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
+  },
+  {
+   "id": "PIEEM_052",
+   "tema": 2,
+   "tema_nombre": "Igualdad efectiva de mujeres y hombres",
+   "pregunta": "¿Qué se prevé en la evaluación final del II Plan municipal para medir el impacto?",
+   "opciones": [
+    "Un referéndum entre la plantilla",
+    "Comparar los datos del diagnóstico de partida con los obtenidos al finalizar la implementación",
+    "Una auditoría externa obligatoria",
+    "Solo contar las acciones ejecutadas"
+   ],
+   "correcta": 1,
+   "explicacion": "Se combinan indicadores de resultados, valoración subjetiva (calidad, eficacia, eficiencia, adecuación) e indicadores de proceso e impacto.",
+   "bloque": "comun",
+   "ambito": "aragon",
+   "fuente": "II Plan de Igualdad para empleadas y empleados del Ayuntamiento de Zaragoza (BOPZ n.º 16, 20-01-2024)",
+   "revisada": "2026-11"
   }
  ]
 }
