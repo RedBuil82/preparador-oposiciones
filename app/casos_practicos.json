@@ -4696,6 +4696,438 @@
      "explicacion": "Según la plantilla definitiva solo la b) es correcta. Las comidas calientes se mantienen a ≥ 63 ºC (RD 1021/2022), no a 55 ºC."
     }
    ]
+  },
+  {
+   "id": "COM_S01",
+   "oposicion": "comunicacion",
+   "titulo": "Nota de prensa con erratas · Ciclo de Introducción a la Música",
+   "temas": [
+    6,
+    3
+   ],
+   "escenario": "La Unidad de Programación te pasa este borrador de nota de prensa para revisarlo antes de enviarlo a los medios:\n\n«El Auditorio de zaragoza acoge el Domingo 18 de Enero a las 12:00h. un nuevo concierto del ciclo de introducción a la música (CIM). La Orquesta interpretará \"La Consagración De La Primavera\" de Stravinsky. Entradas a 8€ en taquilla, en la web, etc... Asistirá la Consejera de Cultura.»",
+   "preguntas": [
+    {
+     "id": "COM_S01_1",
+     "pregunta": "¿Cuál es la forma correcta de escribir la fecha y la hora del concierto?",
+     "opciones": [
+      "el domingo 18 de Enero a las 12:00 H",
+      "el Domingo 18 de Enero a las 12:00h.",
+      "el Domingo, 18 de enero a las 12,00 h.",
+      "el domingo 18 de enero a las 12:00 h"
+     ],
+     "correcta": 3,
+     "explicacion": "Días y meses van en minúscula; el símbolo «h» va con espacio y sin punto."
+    },
+    {
+     "id": "COM_S01_2",
+     "pregunta": "¿Cómo debe aparecer el nombre de la obra?",
+     "opciones": [
+      "LA CONSAGRACIÓN DE LA PRIMAVERA",
+      "«La Consagración De La Primavera»",
+      "\"La consagración de la primavera\"",
+      "La consagración de la primavera, en cursiva"
+     ],
+     "correcta": 3,
+     "explicacion": "Títulos de obras: solo la primera palabra en mayúscula y en cursiva."
+    },
+    {
+     "id": "COM_S01_3",
+     "pregunta": "¿Qué corrección es correcta para el precio y la enumeración?",
+     "opciones": [
+      "8€ en taquilla, en la web, etc...",
+      "8 € en taquilla y en la web.",
+      "€8 en taquilla, en la web, etc.",
+      "8.- € en taquilla y en la web..."
+     ],
+     "correcta": 1,
+     "explicacion": "El símbolo € va detrás y con espacio; no se combinan «etc.» y puntos suspensivos."
+    },
+    {
+     "id": "COM_S01_4",
+     "pregunta": "¿Cómo deben escribirse «Auditorio de zaragoza» y «la Consejera de Cultura»?",
+     "opciones": [
+      "Auditorio de Zaragoza · la consejera de Cultura",
+      "Auditorio de zaragoza · la consejera de cultura",
+      "Auditorio De Zaragoza · la Consejera De Cultura",
+      "auditorio de Zaragoza · la Consejera de Cultura"
+     ],
+     "correcta": 0,
+     "explicacion": "Los nombres propios de equipamientos llevan mayúscula; los cargos, minúscula (el área, Cultura, mayúscula)."
+    },
+    {
+     "id": "COM_S01_5",
+     "pregunta": "Antes de enviar la nota a los medios, ¿qué dato habría que confirmar con Programación?",
+     "opciones": [
+      "El número de patrocinadores que tiene el ciclo este año",
+      "El color corporativo que se usará en el cartel del concierto",
+      "Que el 18 de enero cae realmente en domingo y en qué sala es el concierto",
+      "El nombre del técnico que redacta la nota para firmarla"
+     ],
+     "correcta": 2,
+     "explicacion": "Hay que comprobar que fecha y día de la semana cuadran y añadir la sala; si un dato no cuadra, se pregunta a Programación."
+    }
+   ]
+  },
+  {
+   "id": "COM_S02",
+   "oposicion": "comunicacion",
+   "titulo": "Consulta y queja en info@zaragozacultural.com",
+   "temas": [
+    3,
+    4
+   ],
+   "escenario": "Llega este correo al buzón info@zaragozacultural.com:\n\n«Compré dos entradas para un concierto en el Auditorio y lo han cambiado de fecha sin avisar. Lo vi por casualidad en Instagram. Quiero que me devolváis el dinero ya. Esto es una vergüenza.»",
+   "preguntas": [
+    {
+     "id": "COM_S02_1",
+     "pregunta": "¿En qué plazo conviene responder a este correo?",
+     "opciones": [
+      "Cuando haya tiempo, no hay plazo",
+      "Solo si vuelve a escribir",
+      "Lo antes posible, en uno o dos días hábiles",
+      "En un mes"
+     ],
+     "correcta": 2,
+     "explicacion": "La atención en info@ es una función diaria del puesto; hay que responder o derivar rápido (el manual municipal de redes fija un máximo de 48 h)."
+    },
+    {
+     "id": "COM_S02_2",
+     "pregunta": "¿Qué tono debe tener la respuesta?",
+     "opciones": [
+      "Defensivo, explicando que no es culpa de la Sociedad",
+      "Irónico, para quitar hierro",
+      "Cordial y claro: reconocer la molestia y dar la solución o el procedimiento",
+      "Muy técnico y jurídico"
+     ],
+     "correcta": 2,
+     "explicacion": "Se escucha, no se discute, se explica el procedimiento y, si procede, se reconoce el error propio."
+    },
+    {
+     "id": "COM_S02_3",
+     "pregunta": "Si la devolución de entradas la gestiona la taquilla o la plataforma de venta, lo correcto es:",
+     "opciones": [
+      "Decirle que, por ser un cambio de fecha, no hay devolución",
+      "No contestar y esperar a que acuda a la taquilla",
+      "Explicarle el procedimiento y derivar la consulta a quien la gestiona",
+      "Hacer la devolución directamente desde el buzón de correo"
+     ],
+     "correcta": 2,
+     "explicacion": "Si no es nuestro, se deriva y se le explica cómo hacerlo; la queja formal puede ir a la hoja de reclamaciones."
+    },
+    {
+     "id": "COM_S02_4",
+     "pregunta": "¿Qué fórmula de saludo y cierre es adecuada?",
+     "opciones": [
+      "Ningún saludo ni firma, para ir directo al asunto",
+      "«Hola, majo:» y cierre con «Un saludo» sin firma",
+      "«Muy Sr. mío:» y cierre «Sin otro particular, le saluda»",
+      "«Estimado/a + nombre:» y cierre «Atentamente» con la Unidad y la Sociedad"
+     ],
+     "correcta": 3,
+     "explicacion": "Saludo formal y cierre con la unidad y la Sociedad."
+    },
+    {
+     "id": "COM_S02_5",
+     "pregunta": "¿Qué falló en la comunicación del cambio de fecha y habría que proponer?",
+     "opciones": [
+      "Nada, publicarlo en Instagram es suficiente para todos",
+      "Cambiar la fecha en la web, sin avisar por otros canales",
+      "Publicarlo solo en una nota de prensa para los medios",
+      "Avisar a los compradores y actualizar todos los canales"
+     ],
+     "correcta": 3,
+     "explicacion": "Un cambio de programación se difunde en todos los canales y se avisa directamente a los compradores."
+    }
+   ]
+  },
+  {
+   "id": "COM_S03",
+   "oposicion": "comunicacion",
+   "titulo": "Patrocinio en las Fiestas del Pilar",
+   "temas": [
+    1,
+    3,
+    5
+   ],
+   "escenario": "Un patrocinador oficial de las Fiestas del Pilar llama a la Unidad de Comunicación y Patrocinio: dice que su logo no aparece en los mupis de la campaña, aunque su contrato lo incluye.",
+   "preguntas": [
+    {
+     "id": "COM_S03_1",
+     "pregunta": "¿Qué es lo primero que debe hacer el técnico de comunicación?",
+     "opciones": [
+      "Comprobar en el contrato los retornos pactados y revisar los mupis",
+      "Retirar su logo del resto de soportes para igualar",
+      "Encargar directamente mupis nuevos con todos los logos",
+      "Pedir disculpas al patrocinador y cerrar la conversación"
+     ],
+     "correcta": 0,
+     "explicacion": "El seguimiento y control de los contratos de patrocinio es una función del puesto (Anexo III)."
+    },
+    {
+     "id": "COM_S03_2",
+     "pregunta": "El contrato de patrocinio cultural es:",
+     "opciones": [
+      "Un convenio de colaboración sin obligaciones para la Sociedad",
+      "Un contrato privado y bilateral, con obligaciones para las dos partes",
+      "Una subvención nominativa sin obligaciones de retorno",
+      "Un contrato administrativo especial sujeto siempre a la LCSP"
+     ],
+     "correcta": 1,
+     "explicacion": "Así lo da por correcto el examen de Técnico/a Medio de Comunicación de 2026."
+    },
+    {
+     "id": "COM_S03_3",
+     "pregunta": "Si se confirma que falta el logo, ¿qué tendría que hacerse con el proveedor de los mupis?",
+     "opciones": [
+      "Pagar la factura completa y olvidar la incidencia",
+      "Cambiar de proveedor sin avisarle ni pedir explicaciones",
+      "Nada, porque el error ya está hecho y no se puede arreglar",
+      "Pedir la corrección según lo pactado y comprobar que se hace"
+     ],
+     "correcta": 3,
+     "explicacion": "La coordinación con proveedores incluye presupuestos, plazos, facturas y el control de la ejecución."
+    },
+    {
+     "id": "COM_S03_4",
+     "pregunta": "Al terminar la campaña, para el patrocinador se elabora:",
+     "opciones": [
+      "Una nota de prensa explicando el error de los mupis",
+      "Nada, porque el contrato ya está cumplido al firmarse",
+      "Únicamente la factura con el importe del patrocinio",
+      "Una memoria con fotos de los soportes, impactos y audiencia"
+     ],
+     "correcta": 3,
+     "explicacion": "La memoria de patrocinio demuestra que se han cumplido los retornos."
+    },
+    {
+     "id": "COM_S03_5",
+     "pregunta": "¿Qué patrocinadores tuvieron las Fiestas del Pilar de 2025?",
+     "opciones": [
+      "Ambar, Ibercaja, Puerto Venecia, Mercazaragoza y Avanza",
+      "Ambar, Ibercaja, Puerto Venecia, FCC y Renfe",
+      "Ambar, Ibercaja, Puerto Venecia, Mercazaragoza y Renfe",
+      "Solo Ibercaja"
+     ],
+     "correcta": 1,
+     "explicacion": "Según la plantilla del examen de Técnico/a Medio de Comunicación de 2026."
+    }
+   ]
+  },
+  {
+   "id": "COM_S04",
+   "oposicion": "comunicacion",
+   "titulo": "Folleto de la programación de Harinera ZGZ",
+   "temas": [
+    5,
+    6,
+    1
+   ],
+   "escenario": "Hay que producir 5.000 folletos tipo díptico con la programación del cuatrimestre de Harinera ZGZ. El diseñador entrega un PDF en RGB, con imágenes a 72 ppp y sin sangrado. Programación cambia una fecha después de que el diseño ya está hecho.",
+   "preguntas": [
+    {
+     "id": "COM_S04_1",
+     "pregunta": "¿Qué hay que pedir al diseñador para que el PDF sea apto para imprenta?",
+     "opciones": [
+      "Exportarlo a JPG en alta calidad para la imprenta",
+      "Nada: un PDF en RGB a 72 ppp se imprime sin problema",
+      "Pasarlo a CMYK, imágenes a 300 ppp y sangrado con marcas",
+      "Reducir el número de páginas para abaratar la tirada"
+     ],
+     "correcta": 2,
+     "explicacion": "Imprenta: CMYK, 300 ppp y unos 3 mm de sangrado; RGB y 72 ppp son para pantalla."
+    },
+    {
+     "id": "COM_S04_2",
+     "pregunta": "Un díptico tiene:",
+     "opciones": [
+      "1 pliegue y 4 caras",
+      "Ningún pliegue",
+      "4 pliegues",
+      "2 pliegues y 6 caras"
+     ],
+     "correcta": 0,
+     "explicacion": "El tríptico es el de 2 pliegues y 6 caras."
+    },
+    {
+     "id": "COM_S04_3",
+     "pregunta": "Ante el cambio de fecha de Programación, ¿qué es lo correcto?",
+     "opciones": [
+      "Imprimir así y avisar del cambio solo en redes",
+      "Tachar la fecha a mano en los 5.000 folletos",
+      "Corregir el arte final, revisarlo y pedir una prueba",
+      "Quitar esa actividad del folleto para no reimprimir"
+     ],
+     "correcta": 2,
+     "explicacion": "Se corrige antes de imprimir; si ya está impreso, hace falta fe de erratas o reimprimir."
+    },
+    {
+     "id": "COM_S04_4",
+     "pregunta": "¿Qué enfoque debe transmitir el folleto según la orientación actual de Harinera ZGZ?",
+     "opciones": [
+      "Exclusivamente cultura comunitaria del distrito",
+      "Programación solo para la Junta de Distrito",
+      "Cultura inclusiva, accesible e innovadora",
+      "Centro de políticas sociales"
+     ],
+     "correcta": 2,
+     "explicacion": "Desde 2024 Harinera es un centro dedicado a la inclusión, la accesibilidad y la innovación artística."
+    },
+    {
+     "id": "COM_S04_5",
+     "pregunta": "Al recibir los folletos y la factura, ¿qué hay que comprobar?",
+     "opciones": [
+      "Solo que el color se parezca al de la prueba",
+      "Nada, porque eso lo revisa siempre Administración",
+      "Solo que se haya cumplido la fecha de entrega",
+      "Los ejemplares, que la factura cuadre con el presupuesto, y archivar"
+     ],
+     "correcta": 3,
+     "explicacion": "Coordinación con proveedores y archivo del material editado (Anexo III)."
+    }
+   ]
+  },
+  {
+   "id": "COM_S05",
+   "oposicion": "comunicacion",
+   "titulo": "Cambio de horario y comentarios en redes",
+   "temas": [
+    4
+   ],
+   "escenario": "Por la lluvia, un concierto al aire libre se retrasa una hora. En Instagram aparecen muchos comentarios: preguntas sobre el nuevo horario, quejas razonables, un comentario con insultos y un usuario que se dedica a provocar en todos los hilos.",
+   "preguntas": [
+    {
+     "id": "COM_S05_1",
+     "pregunta": "¿Qué es lo primero que hay que hacer en redes?",
+     "opciones": [
+      "Responder solo a los insultos",
+      "Publicar el nuevo horario de forma clara en todos los canales",
+      "Borrar todos los comentarios",
+      "Esperar a que pase"
+     ],
+     "correcta": 1,
+     "explicacion": "El cambio se comunica con claridad y en todos los canales; luego se gestionan los comentarios."
+    },
+    {
+     "id": "COM_S05_2",
+     "pregunta": "¿Qué se hace con el comentario que contiene insultos?",
+     "opciones": [
+      "Ocultarlo si la red lo permite y, si no, obviarlo",
+      "Dejarlo y darle «me gusta»",
+      "Contestarle en el mismo tono",
+      "Publicar sus datos"
+     ],
+     "correcta": 0,
+     "explicacion": "Comentarios insultantes, racistas o sexistas: ocultar si es posible; si no, obviar."
+    },
+    {
+     "id": "COM_S05_3",
+     "pregunta": "¿Y con el usuario que provoca en todos los hilos (troll)?",
+     "opciones": [
+      "Discutir con él con datos",
+      "No discutir, mantener la calma e informar a la Dirección de Comunicación",
+      "Bloquear la cuenta oficial",
+      "Contestarle desde la cuenta personal"
+     ],
+     "correcta": 1,
+     "explicacion": "Según el Manual de redes del Ayuntamiento."
+    },
+    {
+     "id": "COM_S05_4",
+     "pregunta": "Las quejas razonables sobre el retraso se gestionan:",
+     "opciones": [
+      "Ignorándolas hasta que termine el concierto",
+      "Borrándolas para que no se acumulen en el hilo",
+      "Con una opinión personal del técnico que gestiona la cuenta",
+      "Respondiendo como institución y, si procede, derivando a Quejas"
+     ],
+     "correcta": 3,
+     "explicacion": "Se responde siempre como institución; las críticas con sentido se aclaran o derivan."
+    },
+    {
+     "id": "COM_S05_5",
+     "pregunta": "Si la situación se agrava y afecta a la reputación de la institución, ¿quién debe intervenir?",
+     "opciones": [
+      "La persona gestora, la Dirección de Comunicación y el servicio afectado",
+      "Solo la persona que gestiona la cuenta de la red social",
+      "El patrocinador principal del ciclo de conciertos",
+      "Solo el servicio o área responsable del concierto"
+     ],
+     "correcta": 0,
+     "explicacion": "El Manual reparte la gestión de la crisis entre los tres."
+    }
+   ]
+  },
+  {
+   "id": "COM_S06",
+   "oposicion": "comunicacion",
+   "titulo": "Lonas y banderolas para una campaña",
+   "temas": [
+    5
+   ],
+   "escenario": "Para la campaña de un nuevo ciclo hay que instalar banderolas en farolas del centro y una lona en la fachada del Auditorio. La impresión y la instalación se estiman en 12.000 € más IVA.",
+   "preguntas": [
+    {
+     "id": "COM_S06_1",
+     "pregunta": "Con ese importe, ¿cómo podría tramitarse el servicio?",
+     "opciones": [
+      "Como convenio de patrocinio",
+      "Como subvención",
+      "Como contrato menor, porque no llega a 15.000 € sin IVA",
+      "Obligatoriamente por procedimiento abierto"
+     ],
+     "correcta": 2,
+     "explicacion": "En servicios y suministros, el contrato menor es para menos de 15.000 € sin IVA (LCSP)."
+    },
+    {
+     "id": "COM_S06_2",
+     "pregunta": "Si el importe hubiera sido de 15.000 € exactos sin IVA:",
+     "opciones": [
+      "Sería un gasto menor",
+      "No haría falta contrato",
+      "Ya no sería contrato menor",
+      "Seguiría siendo contrato menor"
+     ],
+     "correcta": 2,
+     "explicacion": "El límite es «inferior a» 15.000 €; con 15.000 € justos no es contrato menor."
+    },
+    {
+     "id": "COM_S06_3",
+     "pregunta": "¿Con quién se coordina la colocación de banderolas en la vía pública?",
+     "opciones": [
+      "Con la imprenta",
+      "Con los patrocinadores",
+      "Con las Brigadas Municipales o la empresa instaladora",
+      "Con la Policía Local solamente"
+     ],
+     "correcta": 2,
+     "explicacion": "La relación con las Brigadas Municipales es función del puesto."
+    },
+    {
+     "id": "COM_S06_4",
+     "pregunta": "¿Qué tareas administrativas corresponden al técnico en esta compra?",
+     "opciones": [
+      "Pagar directamente al proveedor en efectivo",
+      "Ninguna, porque todo lo tramita Administración",
+      "Firmar el contrato como representante legal de la Sociedad",
+      "Pedir y comparar ofertas, proponer una y controlar ejecución y factura"
+     ],
+     "correcta": 3,
+     "explicacion": "Anexo III: solicitud, conformidad y selección de ofertas y control de su ejecución y presupuesto."
+    },
+    {
+     "id": "COM_S06_5",
+     "pregunta": "Las banderolas deben llevar el logotipo municipal. ¿Qué tamaño mínimo fija el manual de identidad?",
+     "opciones": [
+      "25 mm, salvo en digital",
+      "No hay mínimo",
+      "10 mm de ancho",
+      "20 mm de ancho"
+     ],
+     "correcta": 3,
+     "explicacion": "El manual de identidad corporativa fija 20 mm de ancho como mínimo, sin excepciones."
+    }
+   ]
   }
  ]
 }

@@ -8,6 +8,7 @@ import BANCO_SANITARIO from "./preguntas_sanitario.json";
 import BANCO_DELINEANTE from "./preguntas_delineante.json";
 import BANCO_AUTOCAD from "./preguntas_autocad.json";
 import BANCO_COMUNES from "./preguntas_comunes.json";
+import BANCO_COMUNICACION from "./preguntas_comunicacion.json";
 import CASOS_JSON from "./casos_practicos.json";
 
 // ====== BANCOS DE PREGUNTAS ======
@@ -91,6 +92,16 @@ const OPOSICIONES = {
     divisor: 4,
     preguntas: normalizarBanco(BANCO_AUTOCAD),
   },
+  comunicacion: {
+    id: "comunicacion",
+    nombre: "Zaragoza Cultural · Técnico/a de Comunicación (C1)",
+    nombreCorto: "Zgz Cultural · Comunicación",
+    color: "#E07A1F",
+    divisor: 4, // bases: acierto +0,4, error −0,1 → cada 4 fallos restan 1 acierto
+    simulacro: { preguntas: 25, minutos: 30 }, // 1.er ejercicio: 25 preguntas en 30 min
+    casos: { supuestos: 2, minutos: 20 }, // 2.º ejercicio: 2 supuestos (aquí en versión test de 5 preguntas cada uno)
+    preguntas: normalizarBanco(BANCO_COMUNICACION),
+  },
 };
 
 const CANTIDADES = [5, 10, 20, 50, 100];
@@ -141,6 +152,8 @@ export default function App() {
   const [casoSel, setCasoSel] = useState("simulacro"); // simulacro | <id del supuesto>
   const casosOposicion = CASOS.filter(c => c.oposicion === oposicionId);
   const oposicionesConCasos = Object.values(OPOSICIONES).filter(o => CASOS.some(c => c.oposicion === o.id));
+  const nSupuestos = oposicion.casos?.supuestos || SUPUESTOS_SIMULACRO; // nº de supuestos del simulacro
+  const minCasos = oposicion.casos?.minutos || MINUTOS_CASOS;           // minutos del simulacro de supuestos
 
   // ---- Historial (persistente en el navegador) ----
   const [history, setHistory] = useState([]);
@@ -182,9 +195,9 @@ export default function App() {
     if (!casosOposicion.length) return;
     // En el simulacro se usan supuestos de 5 preguntas, como el examen (5 × 5 = 25)
     const completos = casosOposicion.filter(c => (c.preguntas || []).length >= 5);
-    const baseSim = completos.length >= SUPUESTOS_SIMULACRO ? completos : casosOposicion;
+    const baseSim = completos.length >= nSupuestos ? completos : casosOposicion;
     const elegidos = casoSel === "simulacro"
-      ? shuffle(baseSim).slice(0, SUPUESTOS_SIMULACRO)
+      ? shuffle(baseSim).slice(0, nSupuestos)
       : casosOposicion.filter(c => c.id === casoSel);
     if (!elegidos.length) return;
     const lista = [];
@@ -201,7 +214,7 @@ export default function App() {
       : `Caso práctico · ${elegidos[0].titulo}`);
     setTestPenalizada(casoSel === "simulacro" ? true : penalizacion);
     setTestDivisor(oposicion.divisor || 4);
-    setFinTiempo(casoSel === "simulacro" ? Date.now() + MINUTOS_CASOS * 60000 : null);
+    setFinTiempo(casoSel === "simulacro" ? Date.now() + minCasos * 60000 : null);
     setTiempoAgotado(false);
     setStep("test");
     window.scrollTo(0, 0);
@@ -353,7 +366,7 @@ export default function App() {
     },
     caso: { background: "#fff", border: `2px solid ${ac}`, borderRadius: 10, padding: "18px 20px", margin: "26px 0 14px" },
     casoTit: { fontSize: 17, fontWeight: "bold", margin: "4px 0 10px", lineHeight: 1.3 },
-    casoTxt: { fontSize: 15, lineHeight: 1.6, margin: 0, color: "#333" },
+    casoTxt: { fontSize: 15, lineHeight: 1.6, margin: 0, color: "#333", whiteSpace: "pre-line" },
     expl: { marginTop: 10, padding: "10px 12px", background: "#f0f7f0", borderLeft: "3px solid #28a745", borderRadius: "0 4px 4px 0", fontSize: 13, color: "#2d5a3d", lineHeight: 1.5 },
     resBox: { background: "#fff", border: "1px solid #e0e0e0", borderRadius: 12, padding: 32, textAlign: "center", marginBottom: 24 },
     bigNote: (color) => ({ fontSize: 64, fontWeight: "normal", color, lineHeight: 1, marginBottom: 8 }),
@@ -522,7 +535,7 @@ export default function App() {
 
         {activeTab === "casos" && step === "config" && <>
           <h1 style={S.title}>Casos prácticos</h1>
-          <p style={S.sub}>Cada supuesto plantea una situación real seguida de varias preguntas. Haz un simulacro con {SUPUESTOS_SIMULACRO} supuestos al azar, como en el 2.º ejercicio, o practica uno concreto.</p>
+          <p style={S.sub}>Cada supuesto plantea una situación real seguida de varias preguntas. Haz un simulacro con {nSupuestos} supuestos al azar, como en el 2.º ejercicio, o practica uno concreto.</p>
 
           <div style={S.secTitle}>Oposición</div>
           <select style={S.select} value={casosOposicion.length ? oposicionId : ""} onChange={e => cambiarOposicion(e.target.value)}>
@@ -534,7 +547,7 @@ export default function App() {
 
           <div style={S.secTitle}>Supuestos</div>
           <select style={S.select} value={casoSel} onChange={e => setCasoSel(e.target.value)}>
-            <option value="simulacro">🎯 Simulacro · {Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length)} supuestos al azar en {MINUTOS_CASOS} min</option>
+            <option value="simulacro">🎯 Simulacro · {Math.min(nSupuestos, casosOposicion.length)} supuestos al azar en {minCasos} min</option>
             {casosOposicion.map((c, k) => (
               <option key={c.id} value={c.id}>{k + 1}. {c.titulo} ({c.preguntas.length} preguntas)</option>
             ))}
@@ -550,7 +563,7 @@ export default function App() {
               <div style={S.label}>Preguntas de esta selección</div>
               <div style={{ fontSize: 22, fontWeight: "bold", color: casosOposicion.length ? ACCENT : "#dc3545" }}>
                 {casoSel === "simulacro"
-                  ? "≈ " + Math.min(SUPUESTOS_SIMULACRO, casosOposicion.length) * 5
+                  ? "≈ " + Math.min(nSupuestos, casosOposicion.length) * 5
                   : (casosOposicion.find(c => c.id === casoSel)?.preguntas.length || 0)}
               </div>
             </div>

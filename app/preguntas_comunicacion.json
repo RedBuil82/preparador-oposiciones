@@ -1,0 +1,3259 @@
+[
+ {
+  "id": "ZCC001",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Qué forma de sociedad mercantil es Zaragoza Cultural?",
+  "opciones": [
+   "Sociedad Limitada",
+   "Sociedad Anónima",
+   "Sociedad Anónima Unipersonal",
+   "Sociedad Limitada Municipal"
+  ],
+  "correcta": 2,
+  "explicacion": "Zaragoza Cultural es una sociedad anónima unipersonal (S.A.U.): su único socio es el Ayuntamiento de Zaragoza.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 5"
+ },
+ {
+  "id": "ZCC002",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Es objetivo de actuación de la Sociedad Municipal Zaragoza Cultural:",
+  "opciones": [
+   "Promover y difundir la cultura española en el ámbito de Zaragoza",
+   "Difundir la cultura en el ámbito de su actuación, a través de todo tipo de actividades, incluidas las desarrolladas en la vía pública",
+   "Organizar exposiciones temporales en los Museos Municipales, dependientes del Área de Cultura",
+   "Las tres respuestas anteriores son correctas"
+  ],
+  "correcta": 1,
+  "explicacion": "El art. 2.2 k) de los Estatutos recoge difundir la cultura en su ámbito de actuación con todo tipo de actividades, incluidas las de la vía pública.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 6"
+ },
+ {
+  "id": "ZCC003",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "Son proyectos o programas propios de la Sociedad Municipal Zaragoza Cultural:",
+  "opciones": [
+   "Las Fiestas del Pilar, Música al Raso y el Festival de la Garnacha",
+   "El Festival Zaragoza Florece y Palafox a Escena",
+   "Hola Primavera!, San Valero y la Cabalgata",
+   "Todas las anteriores son correctas"
+  ],
+  "correcta": 2,
+  "explicacion": "Según la plantilla oficial, Hola Primavera!, San Valero y la Cabalgata son programas propios de Zaragoza Cultural; las otras listas incluyen programas que no gestiona.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 7"
+ },
+ {
+  "id": "ZCC004",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "NO compete a la Junta General de la Sociedad Municipal Zaragoza Cultural:",
+  "opciones": [
+   "La modificación de los estatutos sociales",
+   "La disolución de las sociedades",
+   "La aprobación de los expedientes de contratación de los contratos sujetos a regulación armonizada",
+   "Emitir obligaciones u otros títulos que creen deuda"
+  ],
+  "correcta": 2,
+  "explicacion": "La Junta General aprueba cuentas, modifica estatutos, emite obligaciones y acuerda la disolución; aprobar expedientes de contratación no es competencia suya.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 10"
+ },
+ {
+  "id": "ZCC005",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿De qué año son los vigentes Estatutos de la Sociedad Municipal Zaragoza Cultural?",
+  "opciones": [
+   "2016",
+   "2017",
+   "2018",
+   "2019"
+  ],
+  "correcta": 2,
+  "explicacion": "Los Estatutos vigentes los aprobó definitivamente la Junta General el 8 de junio de 2018.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 12"
+ },
+ {
+  "id": "ZCC006",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En el ámbito de la gestión cultural pública, el contrato de patrocinio se caracteriza principalmente por:",
+  "opciones": [
+   "La ausencia total de contraprestación por parte de la entidad pública beneficiaria",
+   "La existencia de una aportación únicamente económica por parte del patrocinador, con el derecho a la difusión pública de su participación como retorno",
+   "La existencia de una aportación económica o en especie por parte del patrocinador, con el derecho a la difusión pública de su participación como retorno",
+   "La concesión de ayudas económicas sin obligación de publicidad ni retorno para el patrocinador"
+  ],
+  "correcta": 2,
+  "explicacion": "En el patrocinio el patrocinador aporta dinero o especie y, a cambio, obtiene la difusión pública de su colaboración.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 15"
+ },
+ {
+  "id": "ZCC007",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "La publicidad que, mediante técnicas de producción de estímulos de intensidades fronterizas con los umbrales de los sentidos o análogas, puede actuar sobre el público destinatario sin ser conscientemente percibida, se define como:",
+  "opciones": [
+   "Publicidad ilícita",
+   "Publicidad subliminal",
+   "Publicidad engañosa",
+   "Publicidad encubierta"
+  ],
+  "correcta": 1,
+  "explicacion": "Es la definición de publicidad subliminal: estímulos en el umbral de los sentidos que actúan sin ser percibidos conscientemente.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 16"
+ },
+ {
+  "id": "ZCC008",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "En relación con las acciones de comunicación derivadas de subvenciones, convenios o acuerdos con el Ayuntamiento de Zaragoza, a través de la Dirección de Comunicación, señale la opción correcta:",
+  "opciones": [
+   "El uso del logotipo municipal es opcional si la entidad beneficiaria tiene su propia imagen corporativa",
+   "Los materiales pueden difundirse sin validación previa si cumplen criterios técnicos y respetan la normativa vigente",
+   "Es obligatorio incorporar el logotipo municipal, enviar previamente los materiales para validación y presentar el formulario conformado para justificar el gasto",
+   "Solo es necesario incluir el logotipo municipal en campañas digitales"
+  ],
+  "correcta": 2,
+  "explicacion": "Las acciones derivadas de subvenciones o convenios deben llevar el logotipo municipal, enviarse antes a validar y justificarse con el formulario conformado.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 20"
+ },
+ {
+  "id": "ZCC009",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "En el ámbito de la comunicación pública, y conforme a la normativa sobre protección del derecho al honor, la intimidad y la propia imagen, ¿en qué casos es necesario contar con el consentimiento de una persona para utilizar su imagen?",
+  "opciones": [
+   "Siempre, con independencia del contexto o de la condición de la persona. Existe un régimen sancionador al respecto",
+   "Únicamente cuando la imagen se difunda en redes sociales",
+   "Solo cuando se trate de menores de edad en actividades públicas",
+   "Con carácter general, salvo en casos de interés público o cuando la imagen se capte en actos públicos o de personas con relevancia pública"
+  ],
+  "correcta": 3,
+  "explicacion": "Por regla general hace falta consentimiento para usar la imagen de alguien, salvo interés público, actos públicos o personas con relevancia pública.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 22"
+ },
+ {
+  "id": "ZCC010",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "En relación con la estrategia digital del Ayuntamiento de Zaragoza en materia cultural, ¿cuál de las siguientes afirmaciones refleja de forma más precisa su enfoque estratégico?",
+  "opciones": [
+   "Se basa en la creación de comunidad, el uso de canales bidireccionales y la segmentación de contenidos para adaptar la información a los intereses de los públicos",
+   "Se centra exclusivamente en aumentar el número de seguidores en redes sociales mediante contenidos promocionales",
+   "Prioriza la difusión de actividades municipales frente a las iniciativas culturales privadas en entornos digitales dentro de la estrategia de la cultura experiencial",
+   "Sustituye los canales tradicionales por una comunicación digital unidireccional"
+  ],
+  "correcta": 0,
+  "explicacion": "La estrategia digital cultural del Ayuntamiento se basa en crear comunidad, canales bidireccionales y segmentar contenidos por públicos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 23"
+ },
+ {
+  "id": "ZCC011",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual de uso de Redes Sociales del Ayuntamiento de Zaragoza: ¿quién tiene la responsabilidad de atender una crisis en Redes Sociales?",
+  "opciones": [
+   "La persona encargada de gestionar la red social en cuestión",
+   "La Dirección de Comunicación",
+   "El Servicio/Área/Organismo afectado",
+   "Las tres respuestas son correctas"
+  ],
+  "correcta": 3,
+  "explicacion": "El Manual de redes del Ayuntamiento reparte la gestión de crisis entre la persona gestora de la cuenta, la Dirección de Comunicación y el servicio afectado.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 24"
+ },
+ {
+  "id": "ZCC012",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En el ámbito de la comunicación institucional, ¿qué se entiende por gestión de la agenda mediática?",
+  "opciones": [
+   "Ejercer control directo sobre los periodistas y sus contenidos",
+   "Influir de manera estratégica en los temas que ocupan la atención de los medios de comunicación",
+   "Reducir la presencia institucional en los medios",
+   "Limitar la comunicación a canales digitales propios"
+  ],
+  "correcta": 1,
+  "explicacion": "Gestionar la agenda mediática es influir estratégicamente en los temas que ocupan la atención de los medios.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 25"
+ },
+ {
+  "id": "ZCC013",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En relación con los criterios de clasificación de los géneros periodísticos. Señale la respuesta correcta.",
+  "opciones": [
+   "Pertenecen al ámbito de la información la noticia, el reportaje objetivo y la columna",
+   "La crónica y el reportaje interpretativo son dos géneros periodísticos híbridos",
+   "Pertenecen al ámbito de opinión la entrevista de declaraciones, la crítica y la tribuna",
+   "Todas son correctas"
+  ],
+  "correcta": 1,
+  "explicacion": "La crónica y el reportaje interpretativo combinan información e interpretación: son géneros híbridos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 26"
+ },
+ {
+  "id": "ZCC014",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿En qué año se firmó el protocolo de buenas prácticas \"Tratamiento de la Información sobre Violencia Machista en los Medios de Comunicación\", impulsado por el Ayuntamiento de Zaragoza y la Asociación de Periodistas de Aragón?",
+  "opciones": [
+   "2014",
+   "2016",
+   "2017",
+   "2019"
+  ],
+  "correcta": 1,
+  "explicacion": "El protocolo sobre el tratamiento de la violencia machista en los medios se firmó en 2016 entre el Ayuntamiento y la Asociación de Periodistas de Aragón.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 27"
+ },
+ {
+  "id": "ZCC015",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Cuál es una característica esencial que debe cumplir una web institucional?",
+  "opciones": [
+   "Presentar gran cantidad de información técnica, aunque dificulte su uso",
+   "Tener un enfoque principalmente publicitario",
+   "Ser accesible, usable y orientada al ciudadano",
+   "Estar estructurada conforme a la estructura administrativa"
+  ],
+  "correcta": 2,
+  "explicacion": "Una web institucional debe ser accesible, usable y pensada para la ciudadanía, no para reflejar el organigrama.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 28"
+ },
+ {
+  "id": "ZCC016",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿En qué se basa principalmente el periodismo de datos en el ámbito público?",
+  "opciones": [
+   "En la interpretación subjetiva de la información",
+   "En el análisis de datos y estadísticas",
+   "En el uso de recursos visuales exclusivamente",
+   "En aspectos visuales"
+  ],
+  "correcta": 1,
+  "explicacion": "El periodismo de datos se apoya en el análisis de datos y estadísticas.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 29"
+ },
+ {
+  "id": "ZCC017",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Si se deben enviar archivos a imprenta para la producción de un material gráfico en offset ¿en qué modo de color deben prepararse los documentos si te quieres asegurar una impresión correcta?",
+  "opciones": [
+   "Se recomienda que los archivos estén en perfiles de color CMYK",
+   "Se recomienda que los archivos estén en perfiles de color RGB",
+   "Depende del software utilizado",
+   "Se recomienda que los archivos estén únicamente en escala de grises"
+  ],
+  "correcta": 0,
+  "explicacion": "La impresión offset trabaja en cuatricromía, por eso los archivos se preparan en CMYK; RGB es para pantalla.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 30"
+ },
+ {
+  "id": "ZCC018",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "¿Qué es un imagotipo en el contexto de una identidad visual?",
+  "opciones": [
+   "Una representación gráfica de una marca compuesta únicamente por tipografía, sin ningún símbolo visual que la acompañe",
+   "Una representación gráfica en la que el símbolo y el texto están integrados de manera inseparable, formando un solo elemento",
+   "Una representación gráfica de una marca que combina un elemento textual (nombre) y un símbolo o icono, pero que ambos elementos pueden funcionar tanto conjuntamente como por separado",
+   "Ninguna de las respuestas anteriores es correcta"
+  ],
+  "correcta": 2,
+  "explicacion": "El imagotipo combina texto y símbolo, que también pueden usarse por separado; si son inseparables es un isologo.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 31"
+ },
+ {
+  "id": "ZCC019",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "En el diseño de una identidad visual para actividades culturales municipales, ¿qué implica la coherencia visual?",
+  "opciones": [
+   "Mantener una unidad formal, estética y cromática en todos los soportes de comunicación (carteles, web, redes sociales, folletos, etc.), de manera que se refuerce la identidad institucional y se facilite el reconocimiento inmediato por parte de la ciudadanía",
+   "Aplicar estilos gráficos diferenciados en cada soporte (carteles, web, redes o folletos) con el objetivo de adaptar el mensaje a distintos públicos, aunque ello suponga una pérdida de unidad en la imagen institucional y dificulte su reconocimiento por parte de la ciudadanía",
+   "Priorizar la creatividad individual de cada pieza gráfica frente a los criterios establecidos en los manuales de identidad, permitiendo variaciones en tipografía, color o composición siempre que el resultado sea visualmente atractivo, aunque no responda a una línea institucional común",
+   "Adaptar completamente el estilo visual en cada soporte según tendencias o modas del momento, modificando colores, tipografías y composiciones sin seguir una línea común, con el fin de resultar más actual en cada canal"
+  ],
+  "correcta": 0,
+  "explicacion": "Coherencia visual es mantener la misma unidad formal, estética y cromática en todos los soportes para que se reconozca la institución.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 32"
+ },
+ {
+  "id": "ZCC020",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "En relación con la representación equilibrada de mujeres y hombres en imágenes institucionales del Ayuntamiento de Zaragoza, y teniendo en cuenta la Guía para el tratamiento de imágenes no sexistas ¿qué criterio cuantitativo se establece como referencia?",
+  "opciones": [
+   "Presencia proporcional según el sector profesional representado",
+   "Presencia equilibrada de mujeres y hombres (entre un 40% y 60% de cada uno de los sexos) en las imágenes",
+   "Igualdad exacta de hombres y mujeres al 50% en todos los casos",
+   "Priorizar la presencia de uno de los sexos en función del mensaje de la campaña, sin necesidad de mantener proporciones mínimas"
+  ],
+  "correcta": 1,
+  "explicacion": "La guía municipal de imágenes no sexistas fija como referencia una presencia equilibrada: entre el 40 % y el 60 % de cada sexo.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 33"
+ },
+ {
+  "id": "ZCC021",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué artista es el autor de la obra que fue utilizada como imagen gráfica del 30º aniversario del Auditorio de Zaragoza e incorporada a la programación de Grandes Conciertos, Ciclo de Introducción a la Música (CIM) y el Ciclo Pilar Bayona?",
+  "opciones": [
+   "Jorge Gay Molins",
+   "Pepe Cerdá García",
+   "Hermógenes Pardos Pueyo",
+   "José Manuel Broto Gimeno"
+  ],
+  "correcta": 0,
+  "explicacion": "La imagen del 30.º aniversario del Auditorio fue una obra de Jorge Gay (autor de las pinturas de la sala de prensa).",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 34"
+ },
+ {
+  "id": "ZCC022",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Dónde y en qué año se celebró la primera edición de Puchero Sonoro?",
+  "opciones": [
+   "La primera edición se celebró en el Auditorio de Zaragoza Princesa Leonor en 2024",
+   "La primera edición se celebró en Harinera Zaragoza en 2023",
+   "La primera edición se celebró en el Laboratorio Audiovisual de Zaragoza en 2024",
+   "Ninguna de las tres respuestas anteriores es correcta"
+  ],
+  "correcta": 3,
+  "explicacion": "Según la plantilla oficial, ninguna de las tres combinaciones de lugar y año es la correcta.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 35"
+ },
+ {
+  "id": "ZCC023",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuál es la sala con menor aforo del Auditorio de Zaragoza?",
+  "opciones": [
+   "Sala Luis Galve",
+   "Sala Mariano Gracia",
+   "Sala Mozart",
+   "Sala Multiusos"
+  ],
+  "correcta": 1,
+  "explicacion": "La Sala Mariano Gracia (conferencias) es la de menor aforo; la Luis Galve ronda las 430 butacas y la Mozart las 2.000.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 36"
+ },
+ {
+  "id": "ZCC024",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Uno de los soportes físicos que se emplean para comunicar y difundir la programación cultural municipal son los circuitos municipales de MUPIs. ¿Cuál es la medida estándar que se utiliza para este tipo de soporte según el Manual de Identidad Corporativa del Ayuntamiento de Zaragoza?",
+  "opciones": [
+   "100 x 150 cm",
+   "120 x 175 cm",
+   "140 x 200 cm",
+   "Ninguna de las anteriores respuestas es correcta"
+  ],
+  "correcta": 1,
+  "explicacion": "Según el Manual de Identidad Corporativa municipal, el MUPI estándar mide 120 x 175 cm.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 37"
+ },
+ {
+  "id": "ZCC025",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué edición corresponderá al Concurso del Cartel anunciador de las Fiestas del Pilar en el año 2027?",
+  "opciones": [
+   "XCVII",
+   "XCVIII",
+   "XCIX",
+   "Ninguna de las anteriores respuestas es correcta"
+  ],
+  "correcta": 0,
+  "explicacion": "En 2026 se celebró el XCVI Concurso del Cartel; en 2027 será el XCVII.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 38"
+ },
+ {
+  "id": "ZCC026",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "En el marco de las Fiestas del Pilar, el Ayuntamiento de Zaragoza presentó un nuevo elemento festivo destinado al público infantil, el León Garganchón, ¿en qué año se presentó?",
+  "opciones": [
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "correcta": 3,
+  "explicacion": "El León Garganchón se presentó en las Fiestas del Pilar de 2025 como novedad para el público infantil.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 39"
+ },
+ {
+  "id": "ZCC027",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "Los patrocinadores oficiales de las Fiestas del Pilar de Zaragoza en 2025 fueron:",
+  "opciones": [
+   "Ambar, Ibercaja, Puerto Venecia, Mercazaragoza y Avanza",
+   "Ambar, Ibercaja, Puerto Venecia, FCC, Renfe",
+   "Ambar, Ibercaja, Puerto Venecia, Mercazaragoza y Renfe",
+   "Ambar, Ibercaja, Puerto Venecia, Frutos Secos el Rincón y Renfe"
+  ],
+  "correcta": 1,
+  "explicacion": "Según la plantilla oficial, los patrocinadores del Pilar 2025 fueron Ambar, Ibercaja, Puerto Venecia, FCC y Renfe.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 40"
+ },
+ {
+  "id": "ZCC028",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "En el diseño de campañas de comunicación institucional para eventos culturales en entornos urbanos, el uso de soportes exteriores de gran formato responde principalmente a una lógica comunicativa específica. ¿Cuál de las siguientes afirmaciones describe con mayor precisión dicha función estratégica?",
+  "opciones": [
+   "Permiten transmitir mensajes complejos y detallados, favoreciendo la argumentación racional del público mediante textos extensos y contenido informativo exhaustivo",
+   "Se orientan a maximizar la notoriedad y el impacto visual inmediato en contextos de alta competencia perceptiva, mediante mensajes sintéticos y elementos gráficos de gran escala",
+   "Su principal finalidad es optimizar la eficiencia económica de la campaña, reduciendo costes frente a otros medios publicitarios como televisión o medios digitales",
+   "Se utilizan principalmente para segmentar audiencias de forma personalizada, adaptando el contenido en tiempo real según el perfil de cada viandante"
+  ],
+  "correcta": 1,
+  "explicacion": "Los soportes exteriores de gran formato buscan notoriedad e impacto visual inmediato con mensajes breves y gráficos grandes.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 41"
+ },
+ {
+  "id": "ZCC029",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Qué tipo de relación buscan las marcas al asociar su nombre a un escenario dentro de un festival?",
+  "opciones": [
+   "Una relación funcional basada en la utilidad del espacio, donde el público identifica la marca únicamente como un elemento informativo sin carga emocional",
+   "Una relación emocional y experiencial, en la que la marca se vincula a momentos positivos del público, reforzando su posicionamiento",
+   "Una relación indirecta, en la que la marca evita asociarse explícitamente al evento para no saturar al consumidor",
+   "Una relación exclusivamente contractual, en la que la marca limita su presencia a cumplir requisitos legales sin buscar impacto en el público"
+  ],
+  "correcta": 1,
+  "explicacion": "Al patrocinar un escenario de festival la marca busca una relación emocional y experiencial con el público.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 42"
+ },
+ {
+  "id": "ZCC030",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En relación con la evaluación del ROI (Return on Investment) de una posible campaña de marketing para promocionar las actividades de verano del espacio cultural Harinera ZGZ (programación gratuita de talleres y música organizada por Zaragoza Cultural), ¿cuál de los siguientes indicadores sería más adecuado para medir si la inversión en publicidad ha generado un retorno positivo para el Ayuntamiento?",
+  "opciones": [
+   "Número de impresiones del anuncio en redes sociales",
+   "Cantidad de anuncios publicados en prensa local",
+   "Incremento del número total de asistentes a las actividades comparado con el mismo periodo del año anterior",
+   "Ninguna de las respuestas anteriores es correcta"
+  ],
+  "correcta": 2,
+  "explicacion": "Para medir el retorno de la campaña lo adecuado es el aumento de asistentes respecto al mismo periodo del año anterior, no las impresiones o los anuncios.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 43"
+ },
+ {
+  "id": "ZCC031",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "El Ayuntamiento informará a la población de su gestión a través de",
+  "opciones": [
+   "Los medios de comunicación digital y mediante la edición de publicaciones y folletos, vallas publicitarias, proyección de vídeos, tablones de anuncios y paneles informativos, organización de actos informativos y cuantos otros medios se consideren necesarios",
+   "Los medios de comunicación digital y mediante la edición de publicaciones y folletos, colocación de carteles, tablones de anuncios y paneles informativos, organización de actos informativos y cuantos otros medios se consideren necesarios",
+   "Los medios de comunicación social y mediante la edición de publicaciones y folletos, colocación de carteles, vallas publicitarias, proyección de vídeos, tablones de anuncios y paneles informativos, organización de actos informativos y cuantos otros medios se consideren necesarios",
+   "Ninguna de las respuestas anteriores es correcta"
+  ],
+  "correcta": 2,
+  "explicacion": "El texto municipal habla de medios de comunicación social, publicaciones y folletos, carteles, vallas, vídeos, tablones, paneles y actos informativos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 44"
+ },
+ {
+  "id": "ZCC032",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿En qué se basan principalmente las encuestas del Estudio General de Medios para medir las audiencias? Señale la respuesta correcta.",
+  "opciones": [
+   "En la medición automática de dispositivos electrónicos instalados en los hogares",
+   "En el análisis de datos de navegación digital y cookies",
+   "En encuestas declarativas realizadas a una muestra representativa de la población",
+   "En registros administrativos de consumo facilitados por las propias empresas de medios"
+  ],
+  "correcta": 2,
+  "explicacion": "El EGM mide audiencias con encuestas declarativas a una muestra representativa de la población.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 48"
+ },
+ {
+  "id": "ZCC033",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Cuál es el sistema de medición de audiencias digitales de referencia en España en la actualidad? Señale la respuesta correcta.",
+  "opciones": [
+   "GfK, a través del medidor GfK DAM seleccionado por la industria",
+   "Comscore, como sistema oficial designado por la industria",
+   "Ambos sistemas tienen actualmente la misma consideración oficial",
+   "Ninguno, ya que no existe un sistema oficial de medición en España"
+  ],
+  "correcta": 0,
+  "explicacion": "La industria seleccionó a GfK, con su medidor GfK DAM, como sistema de referencia de audiencias digitales en España.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 49"
+ },
+ {
+  "id": "ZCC034",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "En el contexto actual de la inteligencia artificial aplicada a la creación de contenidos visuales, ¿qué tendencia caracteriza de forma más precisa la evolución reciente de estos sistemas? Señale la respuesta correcta.",
+  "opciones": [
+   "La sustitución completa de los procesos creativos humanos por sistemas autónomos sin intervención editorial",
+   "El uso exclusivo de bases de datos cerradas para garantizar la originalidad absoluta de los contenidos generados",
+   "El desarrollo de modelos generativos multimodales capaces de integrar texto, imagen y vídeo en flujos de creación coherentes",
+   "La limitación de la IA a tareas de edición básica, sin capacidad de generación de contenido original"
+  ],
+  "correcta": 2,
+  "explicacion": "La tendencia actual son los modelos generativos multimodales que integran texto, imagen y vídeo.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 50"
+ },
+ {
+  "id": "ZCC035",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué información aparece en la sección 'Noticias' de la web zaragozacultura.com? Señale la respuesta correcta.",
+  "opciones": [
+   "Las noticias generadas por el Área de Cultura, Educación y Turismo",
+   "Las noticias de actualidad generadas por el Área de Cultura y Turismo",
+   "Las noticias generadas por Zaragoza Cultural SAU.",
+   "Noticias de la cultura de la ciudad"
+  ],
+  "correcta": 3,
+  "explicacion": "La sección «Noticias» de zaragozacultura.com recoge noticias de la cultura de la ciudad.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 51"
+ },
+ {
+  "id": "ZCC036",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según las recomendaciones del Gobierno de España en su Guía de comunicación digital, ¿cómo debe ser el tono en redes sociales institucionales? Señale la respuesta correcta.",
+  "opciones": [
+   "Exclusivamente formal, utilizando terminología administrativa para reforzar el carácter institucional",
+   "Cercano y claro, manteniendo el rigor institucional y evitando tecnicismos innecesarios",
+   "Informal y coloquial, adaptándose al lenguaje propio de los usuarios en redes sociales",
+   "Publicitario, orientado principalmente a generar impacto y notoriedad"
+  ],
+  "correcta": 1,
+  "explicacion": "La Guía de comunicación digital del Gobierno recomienda un tono cercano y claro, con rigor institucional y sin tecnicismos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 52"
+ },
+ {
+  "id": "ZCC037",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Cuál es la Ordenanza que regula la utilización de medios electrónicos en la provisión de servicios y gestión de procedimientos por parte del Ayuntamiento de Zaragoza, así como la presencia de éste en las redes telemáticas:",
+  "opciones": [
+   "La Ordenanza de Transparencia de la actividad pública y participación ciudadana",
+   "La Ordenanza de Comunicación Digital",
+   "Ordenanza sobre Transparencia y libre acceso a la información",
+   "La Ordenanza de Administración Electrónica"
+  ],
+  "correcta": 3,
+  "explicacion": "La Ordenanza de Administración Electrónica regula los medios electrónicos municipales y la presencia del Ayuntamiento en redes telemáticas.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 53"
+ },
+ {
+  "id": "ZCC038",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Según la teoría de José Luis Piñuel Raigada, ¿cuál es la función principal de un gabinete de comunicación institucional?",
+  "opciones": [
+   "Gestionar exclusivamente la publicidad comercial de la institución",
+   "Organizar eventos internos sin relación con los medios",
+   "Actuar como intermediario entre la institución y los medios de comunicación",
+   "Sustituir la labor de los periodistas"
+  ],
+  "correcta": 2,
+  "explicacion": "Para Piñuel, el gabinete de comunicación hace de intermediario entre la institución y los medios.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 54"
+ },
+ {
+  "id": "ZCC039",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "El artículo 18 de la Constitución Española de 1978 garantiza:",
+  "opciones": [
+   "El derecho al honor",
+   "El derecho al honor y a la propia imagen",
+   "El derecho al honor, a la intimidad personal y a la propia imagen",
+   "El derecho al honor, a la intimidad personal y familiar y a la propia imagen"
+  ],
+  "correcta": 3,
+  "explicacion": "El art. 18.1 CE garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 64"
+ },
+ {
+  "id": "ZCC040",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Según el modelo de desarrollo de audiencias de Jaume Colomer, conocido como la \"escalera de públicos\", ¿cuál es el objetivo principal de este enfoque en la gestión cultural?",
+  "opciones": [
+   "Incrementar el número de espectadores mediante campañas publicitarias masivas",
+   "Transformar progresivamente a los no públicos en públicos activos y fidelizados",
+   "Clasificar a los públicos según su nivel económico",
+   "Priorizar únicamente a los públicos habituales para garantizar la sostenibilidad"
+  ],
+  "correcta": 1,
+  "explicacion": "La «escalera de públicos» de Jaume Colomer busca convertir poco a poco a los no públicos en públicos activos y fidelizados.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta reserva 1"
+ },
+ {
+  "id": "ZCC041",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "En el ámbito de la Comunicación digital, ¿qué se entiende por normas de netiqueta o netiquette?",
+  "opciones": [
+   "Conjunto de normas de comportamiento adecuado en Internet y en la comunicación en línea",
+   "Código deontológico aplicable exclusivamente a profesionales del periodismo",
+   "Directrices técnicas para la navegación en redes sociales",
+   "Normativa legal que regula el uso de plataformas digitales"
+  ],
+  "correcta": 0,
+  "explicacion": "La netiqueta es el conjunto de normas de buen comportamiento en Internet y en la comunicación en línea.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta reserva 2"
+ },
+ {
+  "id": "ZCC042",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "De acuerdo con el artículo 50 de la Ley Orgánica del Régimen Electoral General (LOREG), ¿cuál es el principio que rige la comunicación institucional durante el periodo electoral?",
+  "opciones": [
+   "La libertad absoluta de información para que el ciudadano conozca la gestión pública",
+   "La suspensión total de cualquier tipo de comunicación del Ayuntamiento",
+   "La obligatoriedad de publicar todos los logros alcanzados en la legislatura",
+   "La neutralidad institucional en la información"
+  ],
+  "correcta": 3,
+  "explicacion": "El art. 50 LOREG impone la neutralidad institucional: durante el periodo electoral no se pueden hacer campañas que destaquen logros.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta reserva 3"
+ },
+ {
+  "id": "ZCC043",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué establecen las bases del concurso del cartel de las Fiestas del Pilar del Ayuntamiento de Zaragoza de 2026 respecto al uso de herramientas de Inteligencia Artificial en las obras presentadas?",
+  "opciones": [
+   "Se permite el uso de herramientas de Inteligencia Artificial siempre que el autor o autora declare expresamente qué partes de la obra han sido generadas mediante estas tecnologías, garantizando así la transparencia del proceso creativo",
+   "Se prohíbe únicamente el uso de Inteligencia Artificial en las fases finales del trabajo, como la edición o mejora estética, pero se admite su utilización en fases previas como la documentación, inspiración o generación de ideas",
+   "Toda obra presentada deberá haber sido creada íntegramente por el autor o autora, quedando expresamente prohibido el uso de herramientas de Inteligencia Artificial (IA) para la realización de estos trabajos",
+   "El uso de Inteligencia Artificial es obligatorio para garantizar la innovación y la calidad técnica de las obras presentadas"
+  ],
+  "correcta": 2,
+  "explicacion": "Las bases del concurso del cartel del Pilar 2026 exigían obras íntegramente hechas por el autor y prohibían usar inteligencia artificial.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta reserva 4"
+ },
+ {
+  "id": "ZCC044",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué función cumple un boletín electrónico en la comunicación institucional?",
+  "opciones": [
+   "Es un instrumento contractual entre Administración y ciudadanos",
+   "Es un canal de comunicación directa con los públicos",
+   "Es un formato de evento digital",
+   "Es un documento informativo transversal"
+  ],
+  "correcta": 1,
+  "explicacion": "El boletín electrónico es un canal de comunicación directa con los públicos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta reserva 5"
+ },
+ {
+  "id": "ZCC045",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En relación con la naturaleza jurídica del contrato de patrocinio cultural, señale la respuesta correcta:",
+  "opciones": [
+   "El contrato de patrocinio cultural tiene carácter privado y se encuentra siempre sujeto a la Ley de Contratos del Sector Público",
+   "El contrato de patrocinio cultural tiene carácter administrativo y se encuentra siempre sujeto a la Ley de Contratos del Sector Público",
+   "El contrato de patrocinio cultural se considera una modalidad especial de contrato de servicios dentro del sector público",
+   "El contrato de patrocinio cultural tiene carácter privado y bilateral, generando obligaciones recíprocas entre patrocinador y entidad patrocinada"
+  ],
+  "correcta": 3,
+  "explicacion": "El contrato de patrocinio cultural es privado y bilateral: genera obligaciones recíprocas para patrocinador y patrocinado.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 58"
+ },
+ {
+  "id": "ZCC046",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "El Ayuntamiento fomentará el uso de las nuevas tecnologías de la información y la comunicación mediante la creación de una página web que permita:",
+  "opciones": [
+   "Facilitar al máximo las gestiones con la Administración Local",
+   "Mejorar la transparencia de la Administración incorporando a la red toda la información de carácter público que se genere en la ciudad",
+   "Potenciar la relación entre Administraciones a través de redes telemáticas para beneficio de los ciudadanos",
+   "Todas las respuestas son correctas"
+  ],
+  "correcta": 3,
+  "explicacion": "La web municipal debe facilitar las gestiones, mejorar la transparencia y potenciar la relación entre Administraciones: todas son correctas.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 60"
+ },
+ {
+  "id": "ZCC047",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Según el Manual de aplicaciones básicas de identidad corporativa del Ayuntamiento de Zaragoza relativo al uso del logotipo municipal, ¿cuál es el tamaño mínimo permitido para su aplicación?",
+  "opciones": [
+   "15 mm de ancho, siempre que se mantenga la legibilidad",
+   "20 mm de ancho, sin posibilidad de reducirlo en ningún caso",
+   "25 mm de ancho, salvo en soportes digitales",
+   "Ninguna de las anteriores respuestas es correcta"
+  ],
+  "correcta": 1,
+  "explicacion": "El manual de identidad corporativa fija un tamaño mínimo del logotipo municipal de 20 mm de ancho, sin excepciones.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Comunicación A2 (29/04/2026) · pregunta 61"
+ },
+ {
+  "id": "ZCC048",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Señale la respuesta correcta. Son Unidades de la Sociedad Municipal Zaragoza Cultural:",
+  "opciones": [
+   "Cultura tradicional y Programación",
+   "Programación y Comunicación",
+   "Comunicación y Cultura social"
+  ],
+  "correcta": 1,
+  "explicacion": "Programación y Comunicación son unidades de Zaragoza Cultural (la plaza de comunicación está en la Unidad de Comunicación y Patrocinio).",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 1"
+ },
+ {
+  "id": "ZCC049",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Señale la respuesta correcta. La Sociedad Municipal Zaragoza Cultural se encarga de gestionar:",
+  "opciones": [
+   "El Museo del Foro y el Laboratorio Audiovisual",
+   "La Harinera y el Museo del Foro",
+   "El Laboratorio Audiovisual y la Harinera"
+  ],
+  "correcta": 2,
+  "explicacion": "Zaragoza Cultural gestiona el Laboratorio Audiovisual y Harinera ZGZ, además del Auditorio.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 2"
+ },
+ {
+  "id": "ZCC050",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Señale la respuesta correcta. En virtud de lo dispuesto en el artículo 7 de los Estatutos de la Sociedad Municipal Zaragoza Cultural, la dirección y administración de la Sociedad corresponderá a:",
+  "opciones": [
+   "El Consejo de Administración, al Patronato de las Artes Escénicas y al Consejo de Cultura",
+   "El Director Gerente, a la Comisión de Cultura y al Patronato de las Artes Escénicas",
+   "La Junta General, al Consejo de Administración y al Director/a Gerente"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 7 de los Estatutos: la dirección y administración corresponden a la Junta General, el Consejo de Administración y el Director/a Gerente.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 3"
+ },
+ {
+  "id": "ZCC051",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Qué salas tiene el Auditorio Princesa Leonor?",
+  "opciones": [
+   "Sala Mozart, Sala Galve, Sala Multiusos y Sala Hipóstila",
+   "Sala Mozart, Sala Galve, Sala Multiusos, Sala Mariano Gracia",
+   "Sala Mozart, Sala Galve, Sala Multiusos, Sala Hipóstila, Sala Mariano Gracia, Sala de videoconferencia y salas de reuniones"
+  ],
+  "correcta": 2,
+  "explicacion": "El Auditorio tiene las salas Mozart, Luis Galve, Multiusos, Hipóstila y Mariano Gracia, además de videoconferencia y 11 salas de reuniones.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 4"
+ },
+ {
+  "id": "ZCC052",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué espacio está destinado para las actuaciones de circo programadas por Zaragoza Cultural?",
+  "opciones": [
+   "Valdespartera",
+   "Parque Delicias",
+   "Parque Macanaz"
+  ],
+  "correcta": 1,
+  "explicacion": "Según la plantilla oficial, el circo que programa Zaragoza Cultural se instala en el Parque Delicias.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 6"
+ },
+ {
+  "id": "ZCC053",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿En qué año se inauguró el nuevo Tragachicos de Zaragoza?",
+  "opciones": [
+   "1907",
+   "2012",
+   "2025"
+  ],
+  "correcta": 1,
+  "explicacion": "Según la plantilla oficial, el nuevo Tragachicos se inauguró en 2012.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta 49"
+ },
+ {
+  "id": "ZCC054",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Qué sala del Auditorio está específicamente diseñada para música de cámara?",
+  "opciones": [
+   "Sala Mozart",
+   "Sala Luis Galve",
+   "Sala multiusos"
+  ],
+  "correcta": 1,
+  "explicacion": "La Sala Luis Galve (unas 430 plazas) está pensada para la música de cámara.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a de Producción C1 (31/03/2026) · pregunta reserva 1"
+ },
+ {
+  "id": "ZCC055",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿En qué año fueron declaradas las fiestas del Pilar como \"Fiesta de Interés Turístico Nacional\"?",
+  "opciones": [
+   "Año 1958",
+   "Año 1960",
+   "Año 1965",
+   "Año 1966"
+  ],
+  "correcta": 2,
+  "explicacion": "Según las plantillas oficiales, las Fiestas del Pilar se declararon de Interés Turístico Nacional en 1965.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 1"
+ },
+ {
+  "id": "ZCC056",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuál de las siguientes no constituye una unidad diferenciada en el organigrama de la Sociedad Municipal Zaragoza Cultural, S.A.U.?",
+  "opciones": [
+   "Administración",
+   "Contabilidad",
+   "Programación",
+   "Producción"
+  ],
+  "correcta": 1,
+  "explicacion": "Administración, Programación y Producción son unidades de Zaragoza Cultural; Contabilidad no es una unidad diferenciada.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 5"
+ },
+ {
+  "id": "ZCC057",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuál es la naturaleza jurídica de la Sociedad Municipal Zaragoza Cultural, S.A.U.?",
+  "opciones": [
+   "Un organismo autónomo administrativo del Ayuntamiento",
+   "Una sociedad mercantil local de capital íntegramente municipal",
+   "Una fundación pública municipal",
+   "Una entidad privada con participación municipal mayoritaria"
+  ],
+  "correcta": 1,
+  "explicacion": "Es una sociedad mercantil local de capital íntegramente municipal (S.A.U.).",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 10"
+ },
+ {
+  "id": "ZCC058",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Según los Estatutos de la Sociedad Municipal Zaragoza Cultural, S.A.U., ¿cuál es el órgano competente para aprobar las cuentas anuales de la sociedad?",
+  "opciones": [
+   "El Consejo de Administración",
+   "El Director Gerente",
+   "La Junta General",
+   "El Ayuntamiento Pleno"
+  ],
+  "correcta": 2,
+  "explicacion": "Las cuentas anuales las formula el Consejo y las aprueba la Junta General (art. 9 de los Estatutos).",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 11"
+ },
+ {
+  "id": "ZCC059",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Cuáles de las siguientes actividades forman parte del objeto social de la Sociedad Municipal Zaragoza Cultural, S.A.U., conforme sus Estatutos:",
+  "opciones": [
+   "La conservación y difusión del patrimonio artístico de la ciudad de Zaragoza",
+   "La conservación y difusión del patrimonio artístico y científico de la ciudad de Zaragoza",
+   "La conservación y difusión del patrimonio artístico, científico y bibliográfico de la ciudad de Zaragoza",
+   "La conservación y difusión del patrimonio artístico, científico, bibliográfico y documental de la ciudad de Zaragoza"
+  ],
+  "correcta": 3,
+  "explicacion": "El objeto social incluye conservar y difundir el patrimonio artístico, científico, bibliográfico y documental de Zaragoza.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 13"
+ },
+ {
+  "id": "ZCC060",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Qué sala del Auditorio Princesa Leonor, no es accesible para personas con discapacidad física?",
+  "opciones": [
+   "Sala Multiusos",
+   "Sala Mozart",
+   "Sala Mariano Gracia",
+   "Ninguna respuesta es correcta"
+  ],
+  "correcta": 3,
+  "explicacion": "Según la plantilla oficial, ninguna de esas salas es inaccesible: todas lo son para personas con discapacidad física.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 25"
+ },
+ {
+  "id": "ZCC061",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Cuál es una característica clave de la comunicación cultural en el entorno digital?",
+  "opciones": [
+   "Es estática y no evoluciona",
+   "Se basa en la bidireccionalidad y participación del público",
+   "No requiere planificación estratégica",
+   "Ninguna de las respuestas es correcta"
+  ],
+  "correcta": 1,
+  "explicacion": "La comunicación cultural digital es bidireccional y busca la participación del público.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 36"
+ },
+ {
+  "id": "ZCC062",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Cuál es el principio básico del protocolo en actos culturales institucionales?",
+  "opciones": [
+   "Maximizar la presencia de patrocinadores",
+   "Respetar la jerarquía institucional y el orden de precedencias",
+   "Priorizar únicamente criterios artísticos",
+   "Todas las respuestas son correctas"
+  ],
+  "correcta": 1,
+  "explicacion": "El protocolo en actos institucionales respeta la jerarquía institucional y el orden de precedencias.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 38"
+ },
+ {
+  "id": "ZCC063",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "En el ámbito de la programación cultural, ¿cuál es la principal característica que define a un 'Ciclo' frente a un 'Festival'?",
+  "opciones": [
+   "El ciclo presenta una periodicidad dilatada en el tiempo (semanal, mensual) y se articula en torno a un eje temático o disciplina común",
+   "El ciclo tiene una duración muy concentrada en el tiempo, generalmente pocos días, en torno a un eje temático o disciplina común, buscando un impacto mediático explosivo",
+   "El ciclo se caracteriza por la dispersión geográfica absoluta de sus actividades con un hilo conductor temático",
+   "Las tres son ciertas"
+  ],
+  "correcta": 0,
+  "explicacion": "El ciclo se reparte en el tiempo (semanal, mensual) con un eje común; el festival se concentra en pocos días.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 39"
+ },
+ {
+  "id": "ZCC064",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Qué papel tiene Harinera en la actual política cultural municipal:",
+  "opciones": [
+   "Es un centro dedicado a las políticas sociales",
+   "Es un centro de referencia de la cultura comunitaria",
+   "Es un centro cultural dedicado a la inclusión, la accesibilidad y la innovación artística",
+   "Es un centro multidisciplinar de uso exclusivo para programaciones de la Junta de Distrito de San José"
+  ],
+  "correcta": 2,
+  "explicacion": "Desde 2024 Harinera ZGZ es un centro cultural dedicado a la inclusión, la accesibilidad y la innovación artística.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 41"
+ },
+ {
+  "id": "ZCC065",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "El ayuntamiento de Zaragoza, regula los actos de Protocolo, Ceremonial, Honores y Distinciones, a través de:",
+  "opciones": [
+   "Un Real Decreto",
+   "Una Ordenanza",
+   "Un Reglamento",
+   "Ninguna de las respuestas es correcta"
+  ],
+  "correcta": 2,
+  "explicacion": "El Ayuntamiento regula el protocolo, ceremonial, honores y distinciones mediante un Reglamento.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 44"
+ },
+ {
+  "id": "ZCC066",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Desde qué siglo data la existencia de la Comparsa de Gigantes y Cabezudos de Zaragoza?",
+  "opciones": [
+   "Siglo XVI",
+   "Siglo XVII",
+   "Siglo XVIII",
+   "Siglo XIX"
+  ],
+  "correcta": 0,
+  "explicacion": "Según la plantilla oficial, la Comparsa de Gigantes y Cabezudos de Zaragoza existe desde el siglo XVI.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 54"
+ },
+ {
+  "id": "ZCC067",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "La producción propia de la Sociedad Municipal Zaragoza Cultural más reciente es:",
+  "opciones": [
+   "Monumental Tour",
+   "Cabalgata de Reyes: \"Oro, Incienso y Mirra\"",
+   "Zaragoza Luce",
+   "Zaragoza Florece"
+  ],
+  "correcta": 1,
+  "explicacion": "Según la plantilla oficial, la producción propia más reciente es la Cabalgata de Reyes «Oro, Incienso y Mirra».",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 55"
+ },
+ {
+  "id": "ZCC068",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El personaje del León Garganchón se incorpora a las Fiestas del Pilar como:",
+  "opciones": [
+   "Sustitución definitiva del Tragachicos original",
+   "Representación histórica de un personaje medieval aragonés",
+   "Recurso exclusivo para espectáculos teatrales",
+   "Elemento complementario dentro de la oferta festiva infantil"
+  ],
+  "correcta": 3,
+  "explicacion": "El León Garganchón es un complemento dentro de la oferta infantil del Pilar, no sustituye al Tragachicos.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 59"
+ },
+ {
+  "id": "ZCC069",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "La instalación del Tragachicos durante las Fiestas del Pilar se caracteriza principalmente por:",
+  "opciones": [
+   "Permanecer fija en el interior de un edificio municipal",
+   "Instalarse tradicionalmente en espacios públicos abiertos destinados al ocio infantil",
+   "Situarse exclusivamente en el interior de centros escolares",
+   "Ubicarse en el recinto ferial de Valdespartera"
+  ],
+  "correcta": 1,
+  "explicacion": "El Tragachicos se instala en espacios públicos abiertos destinados al ocio infantil.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta reserva 1"
+ },
+ {
+  "id": "ZCC070",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El espacio Río y Juego, dentro de la programación de las Fiestas del Pilar, se caracteriza principalmente por:",
+  "opciones": [
+   "Integrar actividades educativas y lúdicas relacionadas con el medio ambiente y el entorno natural",
+   "Ser un recinto dedicado exclusivamente a espectáculos musicales infantiles",
+   "Funcionar como zona de atracciones mecánicas tradicionales",
+   "Acoger representaciones teatrales profesionales"
+  ],
+  "correcta": 0,
+  "explicacion": "Río y Juego combina actividades educativas y lúdicas sobre el medio ambiente y el entorno natural.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta reserva 5"
+ },
+ {
+  "id": "ZCC071",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "En el año 2026 se celebra que edición del Ciclo de Introducción a la Música en el Auditorio de Zaragoza:",
+  "opciones": [
+   "44",
+   "45",
+   "46",
+   "47"
+  ],
+  "correcta": 2,
+  "explicacion": "En 2026 se celebró la 46.ª edición del Ciclo de Introducción a la Música (13 conciertos, de enero a marzo).",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 62"
+ },
+ {
+  "id": "ZCC072",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "La Beca otorgada por el Auditorio de Zaragoza para impulsar la carrera profesional de jóvenes cantantes está nombrada con el nombre de qué artista:",
+  "opciones": [
+   "Pilar Lorengar",
+   "Pilar Bayona",
+   "Teresa Berganza",
+   "José Carreras"
+  ],
+  "correcta": 0,
+  "explicacion": "La beca del Auditorio para jóvenes cantantes lleva el nombre de Pilar Lorengar.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 63"
+ },
+ {
+  "id": "ZCC073",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Cuál de los siguientes programas no gestiona Zaragoza Cultural?",
+  "opciones": [
+   "Música al Raso y las Fiestas del Pilar",
+   "La Cabalgata de Reyes y Carnaval",
+   "Fiestas del Pilar y Hola Primavera",
+   "Música al Raso y Teatreate"
+  ],
+  "correcta": 3,
+  "explicacion": "Según la plantilla oficial, Música al Raso y Teatreate no los gestiona Zaragoza Cultural.",
+  "fuente": "Examen real Zaragoza Cultural · Técnico/a Medio de Programación A2 (31/03/2026) · pregunta 64"
+ },
+ {
+  "id": "ZCN001",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuál es el capital social de Zaragoza Cultural según sus Estatutos?",
+  "opciones": [
+   "100.000,00 €",
+   "6.010,12 €",
+   "60.101,21 €",
+   "60.000,00 €"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 5 de los Estatutos: 60.101,21 €, totalmente suscrito y desembolsado.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN002",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "El capital social de Zaragoza Cultural está dividido en:",
+  "opciones": [
+   "100 acciones ordinarias nominativas",
+   "10 acciones de distinta clase",
+   "60 acciones al portador",
+   "1.000 participaciones sociales"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 5: 100 acciones ordinarias nominativas, numeradas del 1 al 100, todas del Ayuntamiento.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN003",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Dónde tiene su domicilio social Zaragoza Cultural?",
+  "opciones": [
+   "En la Casa Consistorial, plaza del Pilar, 18",
+   "En el Auditorio de Zaragoza",
+   "En el Torreón Fortea, calle Torrenueva, 25",
+   "En el edificio Seminario, vía Hispanidad, 20"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 4 de los Estatutos: Torreón Fortea, c/ Torrenueva, 25, 50003 Zaragoza.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN004",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuántos miembros puede tener el Consejo de Administración de Zaragoza Cultural?",
+  "opciones": [
+   "Entre 3 y 12",
+   "Un número fijo de 7",
+   "Entre 5 y 15",
+   "Entre 3 y 9"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 12 de los Estatutos: un mínimo de 3 y un máximo de 12 consejeros, con cargo gratuito.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN005",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Los consejeros de Zaragoza Cultural se nombran por un periodo de:",
+  "opciones": [
+   "6 años, reelegibles una sola vez",
+   "Toda la legislatura municipal sin posibilidad de cese",
+   "2 años, no reelegibles",
+   "4 años, reelegibles"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 13: se nombran por 4 años; el cargo es revocable, renunciable y reelegible.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN006",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Según los Estatutos, el Consejo de Administración se reunirá como mínimo:",
+  "opciones": [
+   "Una vez al semestre",
+   "Una vez al trimestre",
+   "Una vez al mes",
+   "Una vez al año"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 15: cuantas veces lo exija el interés de la Sociedad y, como mínimo, una vez al trimestre.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN007",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Con qué antelación mínima se convoca el Consejo de Administración, salvo urgencia?",
+  "opciones": [
+   "5 días hábiles",
+   "72 horas",
+   "24 horas",
+   "48 horas"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 15: convocatoria por escrito con 48 horas de antelación como mínimo.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN008",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "En caso de empate en una votación del Consejo de Administración:",
+  "opciones": [
+   "Se repite la votación en la sesión siguiente",
+   "Se eleva el asunto a la Junta General",
+   "Decide el voto de calidad del Presidente",
+   "Decide el Director/a Gerente"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 15: los acuerdos se adoptan por mayoría absoluta y, si hay empate, decide el voto de calidad del Presidente.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN009",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "La delegación permanente de facultades del Consejo en una Comisión Ejecutiva requiere:",
+  "opciones": [
+   "Unanimidad de los consejeros",
+   "Mayoría simple de los asistentes",
+   "Mayoría absoluta de los presentes",
+   "El voto favorable de dos terceras partes de los componentes del Consejo"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 16: hacen falta dos tercios del Consejo y no produce efecto hasta su inscripción en el Registro Mercantil.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN010",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Quién asiste a las sesiones del Consejo de Administración con voz pero sin voto?",
+  "opciones": [
+   "Nadie puede asistir sin ser consejero",
+   "El Alcalde y el Secretario del Pleno",
+   "El Director/a Gerente y el Interventor General Municipal",
+   "Los jefes de todas las unidades de la Sociedad"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 15: el Director-Gerente y el Interventor General asisten con voz y sin voto.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN011",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "El Director/a Gerente de Zaragoza Cultural:",
+  "opciones": [
+   "Lo designa el Pleno municipal por cuatro años",
+   "Lo elige la Junta General entre funcionarios de carrera",
+   "Lo nombra el Consejo, a propuesta del Presidente, con un contrato de alta dirección",
+   "Es siempre el concejal de Cultura"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 17: lo nombra el Consejo a propuesta del Presidente, con contrato laboral especial de alta dirección, y puede cesarlo libremente.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN012",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿En qué plazo debe el Consejo formular las cuentas anuales?",
+  "opciones": [
+   "En seis meses desde el cierre del ejercicio",
+   "Antes del 30 de junio",
+   "En el primer mes del año",
+   "En un máximo de tres meses desde el cierre del ejercicio"
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 20: plazo máximo de tres meses desde el cierre, junto con el informe de gestión.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN013",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Qué artículo de la Ley 7/1985 permite que Zaragoza Cultural se rija por el derecho privado?",
+  "opciones": [
+   "Art. 25",
+   "Art. 47",
+   "Art. 85 ter",
+   "Art. 121"
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 85 ter LBRL: las sociedades mercantiles locales se rigen por el derecho privado, salvo en materia presupuestaria, contable, de control y de contratación.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN014",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿En qué año se creó el Laboratorio Audiovisual de Zaragoza?",
+  "opciones": [
+   "1988",
+   "1975",
+   "2016",
+   "1994"
+  ],
+  "correcta": 0,
+  "explicacion": "Se creó en 1988 por iniciativa de varias entidades municipales y hoy está integrado en Zaragoza Cultural.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN015",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Delicias Discográficas es:",
+  "opciones": [
+   "El programa de fiestas del barrio de Delicias",
+   "El festival de música de Harinera ZGZ",
+   "Una sala de conciertos del Auditorio",
+   "El sello que edita en formato físico los trabajos producidos en el Laboratorio Audiovisual"
+  ],
+  "correcta": 3,
+  "explicacion": "Es el sello del Laboratorio Audiovisual, con casi 250 referencias de todos los estilos.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN016",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "Harinera ZGZ abrió sus puertas como equipamiento cultural en:",
+  "opciones": [
+   "1988",
+   "2016",
+   "2024",
+   "1994"
+  ],
+  "correcta": 1,
+  "explicacion": "La antigua harinera de San José se inauguró el 19 de marzo de 2016; en 2024 se reorientó a la cultura inclusiva.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN017",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "La Sala Multiusos del Auditorio tiene capacidad para unas:",
+  "opciones": [
+   "2.000 personas sentadas",
+   "800 personas de pie",
+   "10.000 personas de pie",
+   "6.500 personas de pie o 2.500 sentadas"
+  ],
+  "correcta": 3,
+  "explicacion": "Es un espacio diáfano de 2.215 m² con escenario de 425 m².",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN018",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 1,
+  "tema_nombre": "La Sociedad Municipal Zaragoza Cultural S.A.U.",
+  "pregunta": "¿Cuál de estos objetivos recoge expresamente el art. 2.2 de los Estatutos de Zaragoza Cultural?",
+  "opciones": [
+   "Promover y participar en la organización de las fiestas tradicionales de la ciudad",
+   "Gestionar los museos de la Ruta de Caesaraugusta",
+   "Conceder licencias de espectáculos públicos",
+   "Gestionar las bibliotecas municipales"
+  ],
+  "correcta": 0,
+  "explicacion": "Es el objetivo l) del art. 2.2; por eso la Sociedad organiza el Pilar o San Valero.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN019",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Entre qué días se celebraron las Fiestas del Pilar de 2026?",
+  "opciones": [
+   "Del 12 al 20 de octubre",
+   "Del 10 al 18 de octubre",
+   "Del 4 al 13 de octubre",
+   "Del 9 al 17 de octubre"
+  ],
+  "correcta": 1,
+  "explicacion": "Del sábado 10 al domingo 18 de octubre de 2026 (nueve días).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN020",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Cuál fue el lema de las Fiestas del Pilar 2026?",
+  "opciones": [
+   "«El Pilar es de todos»",
+   "«Este Pilar, te vas a emocionar»",
+   "«Zaragoza se encuentra»",
+   "«Vive el Pilar»"
+  ],
+  "correcta": 1,
+  "explicacion": "Lema oficial de la edición de 2026.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN021",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El cartel ganador de las Fiestas del Pilar 2026 se titula:",
+  "opciones": [
+   "La ciudad en ofrenda",
+   "Pilar de luz",
+   "Zaragoza en flor",
+   "Cierzo y jota"
+  ],
+  "correcta": 0,
+  "explicacion": "«La ciudad en ofrenda», de Jesana Motilva Santaliestra, primer premio del XCVI Concurso Anunciador.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN022",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué día se celebra la Ofrenda de Flores?",
+  "opciones": [
+   "El 13 de octubre",
+   "El 11 de octubre",
+   "El primer sábado de las fiestas",
+   "El 12 de octubre"
+  ],
+  "correcta": 3,
+  "explicacion": "La Ofrenda de Flores es el 12 de octubre; el 13 se celebran la Ofrenda de Frutos y el Rosario de Cristal.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN023",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Dónde se hizo la presentación institucional de las Fiestas del Pilar 2026?",
+  "opciones": [
+   "En la Sala Hipóstila del Auditorio",
+   "En el Teatro Principal",
+   "En Harinera ZGZ",
+   "En el Torreón Fortea"
+  ],
+  "correcta": 0,
+  "explicacion": "Fue el 23 de septiembre de 2026 en la Sala Hipóstila del Auditorio.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN024",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "En el Pilar 2026, las Food Trucks se instalaron en:",
+  "opciones": [
+   "La plaza del Pilar",
+   "El Parque Grande",
+   "Valdespartera",
+   "El Parque de San Pablo"
+  ],
+  "correcta": 3,
+  "explicacion": "Parque de San Pablo, del 8 al 18 de octubre.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN025",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El ciclo «Historias en Danza» del Pilar 2026 recuperó como escenario:",
+  "opciones": [
+   "La Sala Mozart",
+   "La plaza Salamero",
+   "El patio del Centro de Historias",
+   "La plaza Aragón"
+  ],
+  "correcta": 2,
+  "explicacion": "La principal novedad de artes escénicas fue recuperar el patio del Centro de Historias para la danza.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN026",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué día es el día grande de San Valero?",
+  "opciones": [
+   "El 12 de octubre",
+   "El 29 de enero",
+   "El 5 de marzo",
+   "El 23 de abril"
+  ],
+  "correcta": 1,
+  "explicacion": "San Valero, patrón de Zaragoza, se celebra el 29 de enero; en 2026 la programación duró del 28 de enero al 1 de febrero.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN027",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "La Ronda del Gallo se celebra:",
+  "opciones": [
+   "La víspera de San Valero",
+   "El último día del Pilar",
+   "En Nochevieja",
+   "El mismo 29 de enero por la mañana"
+  ],
+  "correcta": 0,
+  "explicacion": "Abre los actos de San Valero la víspera (en 2026, el 28 de enero).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN028",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El reparto del roscón de San Valero tiene lugar en:",
+  "opciones": [
+   "El Parque Grande",
+   "La plaza de España",
+   "La plaza del Pilar",
+   "La plaza de San Felipe"
+  ],
+  "correcta": 2,
+  "explicacion": "El reparto del tradicional roscón se hace en la plaza del Pilar el 29 de enero.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN029",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "El Ciclo de Introducción a la Música (CIM) del Auditorio se caracteriza por:",
+  "opciones": [
+   "Conciertos los domingos por la mañana, de enero a marzo",
+   "Conciertos de jazz en verano",
+   "Conciertos al aire libre en los barrios",
+   "Un festival de una sola semana en octubre"
+  ],
+  "correcta": 0,
+  "explicacion": "En 2026 fue su 46.ª edición: 13 conciertos en domingo entre el 4 de enero y el 29 de marzo.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN030",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Cuál de estos es uno de los tres grandes ciclos musicales del Auditorio?",
+  "opciones": [
+   "Música al Raso",
+   "Teatreate",
+   "Ciclo de Solistas Pilar Bayona",
+   "Delicias a la fresca"
+  ],
+  "correcta": 2,
+  "explicacion": "Los tres ciclos son la Temporada de Grandes Conciertos, el Ciclo de Solistas Pilar Bayona y el CIM.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN031",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "En 2026 el Auditorio presentó por primera vez una imagen común para sus tres ciclos con obra de:",
+  "opciones": [
+   "Pepe Cerdá",
+   "Jorge Gay",
+   "Julia Dorado",
+   "Jesana Motilva"
+  ],
+  "correcta": 2,
+  "explicacion": "La artista aragonesa Julia Dorado; antes se habían usado obras de Jorge Gay y de Pepe Cerdá.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN032",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué formación es residente del Auditorio y cumplió 31 años de ciclo en 2026?",
+  "opciones": [
+   "La Orquesta Sinfónica Goya",
+   "La JONDE",
+   "El Grupo Enigma",
+   "La Ronda de Boltaña"
+  ],
+  "correcta": 2,
+  "explicacion": "El Grupo Enigma es residente del Auditorio de Zaragoza Princesa Leonor.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN033",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Cómo organiza Harinera ZGZ buena parte de su programación?",
+  "opciones": [
+   "Con convocatorias abiertas de propuestas por cuatrimestres",
+   "Exclusivamente con la Junta de Distrito",
+   "Por concurso de méritos entre empresas",
+   "Solo con producciones propias de Zaragoza Cultural"
+  ],
+  "correcta": 0,
+  "explicacion": "Personas, colectivos y entidades presentan propuestas por formulario web con un dosier en PDF.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN034",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "La campaña «En Navidad, regala cultura» anima a regalar:",
+  "opciones": [
+   "Visitas a los museos municipales",
+   "Libros de autores aragoneses",
+   "Abonos o entradas del Auditorio",
+   "Discos de Delicias Discográficas"
+  ],
+  "correcta": 2,
+  "explicacion": "Promueve regalar experiencias culturales con abonos y entradas del Auditorio.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN035",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 2,
+  "tema_nombre": "Actividades y programación cultural. Fiestas del Pilar",
+  "pregunta": "¿Qué acontecimiento marcó el contexto de las Fiestas del Pilar 2026?",
+  "opciones": [
+   "La Expo 2028",
+   "La designación de Zaragoza como Capital Europea del Deporte 2027",
+   "El centenario del Auditorio",
+   "El 50.º aniversario del Pilar como fiesta de interés turístico"
+  ],
+  "correcta": 1,
+  "explicacion": "Las fiestas de 2026 estuvieron marcadas por la designación de Zaragoza como Capital Europea del Deporte 2027.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN036",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En el proceso de comunicación, la retroalimentación (feedback) es:",
+  "opciones": [
+   "Cualquier interferencia que distorsiona el mensaje",
+   "El canal por el que viaja el mensaje",
+   "La respuesta del receptor que vuelve al emisor",
+   "El código en que se escribe el mensaje"
+  ],
+  "correcta": 2,
+  "explicacion": "El feedback es la respuesta del receptor; lo que distorsiona el mensaje es el ruido.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN037",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En comunicación, el «ruido» es:",
+  "opciones": [
+   "Todo lo que distorsiona o dificulta que el mensaje llegue bien",
+   "La respuesta negativa del público",
+   "El número de impactos de una campaña",
+   "El volumen de un anuncio de radio"
+  ],
+  "correcta": 0,
+  "explicacion": "Ruido es cualquier interferencia (técnica, semántica, de contexto) entre emisor y receptor.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN038",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "La estructura de pirámide invertida en una nota de prensa consiste en:",
+  "opciones": [
+   "Poner lo más importante al principio y los detalles al final",
+   "Empezar por el contexto y terminar con la noticia",
+   "Alternar datos y citas por igual",
+   "Contar los hechos en orden cronológico"
+  ],
+  "correcta": 0,
+  "explicacion": "Si se corta el final no se pierde lo esencial; la entradilla responde a las 5 W.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN039",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Las «5 W» que debe responder la entradilla de una noticia son:",
+  "opciones": [
+   "Dónde, cuándo, cuánto, quién y con quién",
+   "Qué, cuánto, quién, cómo y para quién",
+   "Qué, quién, cuánto, cómo y cuál",
+   "Quién, qué, cuándo, dónde y por qué"
+  ],
+  "correcta": 3,
+  "explicacion": "Who, What, When, Where, Why (a veces se añade How: cómo).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN040",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Qué norma impide al Ayuntamiento hacer campañas que destaquen sus logros durante el periodo electoral?",
+  "opciones": [
+   "El art. 50 de la LOREG",
+   "La Ordenanza de Administración Electrónica",
+   "La Ley 39/2015 de procedimiento",
+   "La Ley 19/2013 de transparencia"
+  ],
+  "correcta": 0,
+  "explicacion": "El art. 50 de la LOREG impone la neutralidad institucional en periodo electoral.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN041",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "La ley de transparencia propia de Aragón es la:",
+  "opciones": [
+   "Ley 11/2005",
+   "Ley 8/2015",
+   "Ley 19/2013",
+   "Ley 7/1985"
+  ],
+  "correcta": 1,
+  "explicacion": "Ley 8/2015, de Transparencia de la Actividad Pública y Participación Ciudadana de Aragón; la estatal es la 19/2013.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN042",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Un correo de la Unidad de Programación a la de Comunicación con los datos de un concierto es un ejemplo de comunicación:",
+  "opciones": [
+   "Externa",
+   "Interna",
+   "Publicitaria",
+   "Política"
+  ],
+  "correcta": 1,
+  "explicacion": "Es comunicación interna, entre unidades de la propia organización.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN043",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "La diferencia entre comunicación institucional y comunicación política es que en la institucional:",
+  "opciones": [
+   "Se permite la propaganda en periodo electoral",
+   "Habla la institución con neutralidad, no un partido",
+   "Habla el partido que gobierna",
+   "Solo se usan redes sociales"
+  ],
+  "correcta": 1,
+  "explicacion": "La comunicación institucional es de servicio público, veraz y neutral.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN044",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Qué documento se entrega a los periodistas en una presentación con toda la información ampliada?",
+  "opciones": [
+   "La convocatoria",
+   "El dosier de prensa",
+   "El briefing",
+   "La fe de erratas"
+  ],
+  "correcta": 1,
+  "explicacion": "El dosier de prensa recoge la información completa, imágenes y contactos.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN045",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "La convocatoria de prensa sirve para:",
+  "opciones": [
+   "Avisar a los medios de un acto o rueda de prensa: qué, cuándo y dónde",
+   "Contar la noticia completa ya publicada",
+   "Solicitar presupuestos a imprentas",
+   "Responder a una queja ciudadana"
+  ],
+  "correcta": 0,
+  "explicacion": "Invita a los medios a asistir; la nota de prensa cuenta la noticia.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN046",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Según los Estatutos de Zaragoza Cultural, crear nuevos públicos y fomentar hábitos de consumo cultural es el objetivo:",
+  "opciones": [
+   "l)",
+   "g)",
+   "a)",
+   "j)"
+  ],
+  "correcta": 1,
+  "explicacion": "Objetivo g) del art. 2.2; la escalera de públicos de Colomer trabaja en esa línea.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN047",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Cuál es el orden lógico de una campaña de difusión cultural?",
+  "opciones": [
+   "Evaluar, planificar, difundir, crear",
+   "Planificar, crear, difundir, evaluar",
+   "Difundir, crear, planificar, evaluar",
+   "Crear, difundir, evaluar, planificar"
+  ],
+  "correcta": 1,
+  "explicacion": "Se planifica (objetivos, públicos, calendario), se crean los materiales, se difunden y se evalúan los resultados.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN048",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Si la web, el folleto y la nota de prensa de una actividad dan horarios distintos, la fuente de referencia es:",
+  "opciones": [
+   "La de las redes sociales, por ser la más actual",
+   "La que se publicó primero",
+   "La información validada por la Unidad de Programación",
+   "La que elija el técnico de comunicación"
+  ],
+  "correcta": 2,
+  "explicacion": "Una sola versión de los datos, la de Programación; ante la duda se pregunta, no se inventa.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN049",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "Una campaña como «En Navidad, regala cultura» es un ejemplo de comunicación:",
+  "opciones": [
+   "Jurídica",
+   "Persuasiva",
+   "De crisis",
+   "Interna"
+  ],
+  "correcta": 1,
+  "explicacion": "Busca influir en una conducta (regalar abonos); la informativa da datos como horarios o lugares.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN050",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "El retorno que recibe un patrocinador consiste principalmente en:",
+  "opciones": [
+   "La difusión pública de su marca y su participación",
+   "El derecho a decidir la programación",
+   "Una rebaja de impuestos municipales",
+   "Una subvención pública"
+  ],
+  "correcta": 0,
+  "explicacion": "El patrocinador aporta dinero o especie a cambio de visibilidad: logos, menciones, presencia en soportes.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN051",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En la comunicación pública, la accesibilidad universal implica:",
+  "opciones": [
+   "Traducir todos los contenidos al inglés para llegar a los turistas",
+   "Usar siempre lenguaje técnico y jurídico para que la información sea precisa",
+   "Adaptar los formatos para que la información llegue también a personas con discapacidad",
+   "Publicar la información únicamente en la web municipal, que es accesible"
+  ],
+  "correcta": 2,
+  "explicacion": "Lectura fácil, subtítulos, texto alternativo, contraste suficiente, información clara.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN052",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "En una rueda de prensa institucional, el orden de intervención y de colocación de las autoridades lo marca:",
+  "opciones": [
+   "Los patrocinadores",
+   "El criterio de los periodistas",
+   "El protocolo y el orden de precedencias",
+   "El orden de llegada"
+  ],
+  "correcta": 2,
+  "explicacion": "El protocolo respeta la jerarquía institucional; en Zaragoza se regula por un Reglamento.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN053",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 3,
+  "tema_nombre": "La comunicación en la Administración Pública",
+  "pregunta": "¿Cuál de estas acciones sirve para evaluar una campaña de difusión de un ciclo cultural?",
+  "opciones": [
+   "Comparar la asistencia con la del mismo periodo del año anterior",
+   "Contar cuántos carteles se encargaron",
+   "Revisar el presupuesto de la imprenta",
+   "Medir el número de páginas del programa"
+  ],
+  "correcta": 0,
+  "explicacion": "Los indicadores de resultado (asistencia, alcance, repercusión en prensa) miden el éxito; los de esfuerzo no.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN054",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿De qué año es el Manual de uso de redes sociales del Ayuntamiento de Zaragoza?",
+  "opciones": [
+   "2023",
+   "2015",
+   "2019",
+   "2026"
+  ],
+  "correcta": 2,
+  "explicacion": "Manual de uso de redes sociales del Ayuntamiento de Zaragoza (2019).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN055",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual de redes del Ayuntamiento, ¿cómo se trata a la ciudadanía en los mensajes?",
+  "opciones": [
+   "De tú (segunda persona del singular)",
+   "De usted, siempre",
+   "En tercera persona",
+   "En primera persona del plural"
+  ],
+  "correcta": 0,
+  "explicacion": "Se prefiere el tuteo, porque el interlocutor se entiende como una persona concreta.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN056",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual de redes municipal, escribir un texto entero en mayúsculas:",
+  "opciones": [
+   "Es el estilo corporativo en Instagram",
+   "Equivale a gritar y solo se usa de forma puntual",
+   "Mejora la accesibilidad",
+   "Es obligatorio en los avisos urgentes"
+  ],
+  "correcta": 1,
+  "explicacion": "Las mayúsculas equivalen a gritar; solo se usan puntualmente para destacar algo.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN057",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Los hashtags municipales se forman con el prefijo:",
+  "opciones": [
+   "#AYTO",
+   "#ZARAGOZA",
+   "#ZC",
+   "#ZGZ"
+  ],
+  "correcta": 3,
+  "explicacion": "Por ejemplo #ZGZesCultura, #ZGZIgualdad o #ZGZMásAccesible.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN058",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿En qué plazo recomienda el Manual de redes responder a un comentario?",
+  "opciones": [
+   "Antes de 48 horas",
+   "En 7 días",
+   "En 10 días hábiles",
+   "No fija plazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Plazo recomendado: antes de las 48 horas siguientes al comentario.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN059",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Si un ciudadano deja en redes una queja no urgente sobre un servicio, el Manual indica:",
+  "opciones": [
+   "Contestar con una opinión personal",
+   "Ignorarlo",
+   "Derivarlo al formulario de Quejas y sugerencias",
+   "Borrar el comentario"
+  ],
+  "correcta": 2,
+  "explicacion": "El formulario de Quejas y sugerencias genera número de registro.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN060",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué se hace con un comentario insultante o racista en un perfil municipal?",
+  "opciones": [
+   "Responder de forma contundente",
+   "Dejarlo visible para mostrar transparencia",
+   "Bloquear todos los comentarios del perfil",
+   "Ocultarlo si la red lo permite y, si no, obviarlo"
+  ],
+  "correcta": 3,
+  "explicacion": "Agresivos, insultantes, racistas, sexistas o publicitarios: ocultar si es posible; si no, obviar.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN061",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Ante un troll o un tema polémico, el Manual recomienda:",
+  "opciones": [
+   "Cerrar temporalmente la cuenta hasta que la polémica se calme",
+   "No discutir, mantener la calma e informar a la Dirección de Comunicación",
+   "Responder con humor e ironía para desactivar la provocación",
+   "Discutir con datos y argumentos hasta convencerle públicamente"
+  ],
+  "correcta": 1,
+  "explicacion": "Nunca discutir en línea; actuar con calma y avisar a Comunicación.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN062",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual de redes, un único comentario negativo:",
+  "opciones": [
+   "No es una crisis, pero gestionarlo mal sí puede provocarla",
+   "Es siempre una crisis",
+   "Debe borrarse de inmediato",
+   "Obliga a publicar un comunicado oficial"
+  ],
+  "correcta": 0,
+  "explicacion": "Una crisis afecta a la reputación; un comentario aislado no lo es.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN063",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué tipos de crisis en redes distingue el Manual municipal?",
+  "opciones": [
+   "Interna y externa",
+   "Leve, grave y muy grave",
+   "Por acumulación, orquestada o espontánea",
+   "Técnica, política y económica"
+  ],
+  "correcta": 2,
+  "explicacion": "Puede crecer por acumulación, ser orquestada o surgir de forma espontánea.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN064",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Si en una crisis en redes aparecen hechos que pueden ser delito:",
+  "opciones": [
+   "Se denuncian desde la cuenta personal del técnico",
+   "Se trasladan a los Servicios Jurídicos",
+   "Se ignoran",
+   "Se responden públicamente"
+  ],
+  "correcta": 1,
+  "explicacion": "Se documenta el proceso y, si hay delitos, se pasa a los Servicios Jurídicos.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN065",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué herramienta menciona el Manual de redes para programar publicaciones en tardes y festivos?",
+  "opciones": [
+   "Hootsuite",
+   "Canva",
+   "Bitly",
+   "Google Alerts"
+  ],
+  "correcta": 0,
+  "explicacion": "Hootsuite sirve para programar y, junto con Google Alerts, para monitorizar.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN066",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual municipal, YouTube se usa sobre todo como:",
+  "opciones": [
+   "Red para atención ciudadana",
+   "Canal de avisos de última hora",
+   "Repositorio o hemeroteca del material audiovisual",
+   "Red para fotos en formato cuadrado"
+  ],
+  "correcta": 2,
+  "explicacion": "X es informativa, Facebook más extensa, Instagram visual y YouTube el archivo de vídeo.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN067",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué recoge el Manual municipal sobre el lenguaje inclusivo en redes?",
+  "opciones": [
+   "Usar genéricos como «alumnado» o «infancia» y no usar «@» ni «x»",
+   "Usar «x» (todxs)",
+   "Usar «@» para englobar ambos géneros",
+   "Usar siempre el masculino genérico"
+  ],
+  "correcta": 0,
+  "explicacion": "Se prefieren alternativas léxicas; nunca «@» ni «x».",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN068",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Para publicar en redes la foto de un taller donde aparecen menores:",
+  "opciones": [
+   "Se puede publicar si la tomó personal municipal",
+   "Se necesita autorización plena y constatada",
+   "Basta con que sea un acto público",
+   "Basta con pixelar a uno de ellos"
+  ],
+  "correcta": 1,
+  "explicacion": "El Manual prohíbe usar imágenes de menores sin autorización plena y constatada.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN069",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "¿Qué tipografía indica el Manual de redes para las plantillas municipales?",
+  "opciones": [
+   "Times New Roman",
+   "Arial",
+   "Comic Sans",
+   "Helvetica"
+  ],
+  "correcta": 1,
+  "explicacion": "Plantillas en Arial y con el color corporativo, según el Manual de la Marca.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN070",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Según el Manual de redes, ¿dónde va el enlace en una publicación?",
+  "opciones": [
+   "Al principio, antes del texto",
+   "Solo en los comentarios",
+   "En mitad del mensaje",
+   "Al final, con una llamada a la acción y acortado"
+  ],
+  "correcta": 3,
+  "explicacion": "Al final, precedido de «Más info. >» y acortado con Bitly; se prefiere la web municipal.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN071",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 4,
+  "tema_nombre": "Comunicación digital y redes sociales",
+  "pregunta": "Cuando un empleado responde en un perfil municipal, debe hacerlo:",
+  "opciones": [
+   "Solo si tiene autorización del Alcalde",
+   "Con su nombre y su opinión",
+   "Siempre como institución, nunca a título personal",
+   "Desde su cuenta personal"
+  ],
+  "correcta": 2,
+  "explicacion": "Quien publica actúa como portavoz de la institución.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN072",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "¿En qué modo de color se preparan las piezas que solo se verán en pantalla (web, redes)?",
+  "opciones": [
+   "RGB",
+   "CMYK",
+   "Pantone",
+   "Escala de grises"
+  ],
+  "correcta": 0,
+  "explicacion": "RGB es el modo de pantalla; CMYK es para imprenta (cuatricromía).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN073",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "¿Qué resolución se recomienda para las imágenes de un folleto que se va a imprimir?",
+  "opciones": [
+   "300 ppp",
+   "1.200 ppp",
+   "72 ppp",
+   "150 ppp"
+  ],
+  "correcta": 0,
+  "explicacion": "300 ppp para imprenta; en web bastan 72-150.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN074",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "El sangrado de un documento para imprenta es:",
+  "opciones": [
+   "El espacio de separación que se deja entre dos columnas de texto",
+   "Una tinta especial que se aplica a los fondos de color intenso",
+   "Un margen extra, normalmente de unos 3 mm, que se corta tras imprimir",
+   "El margen interior que se deja para la encuadernación del folleto"
+  ],
+  "correcta": 2,
+  "explicacion": "Evita filos blancos al cortar; va con marcas de corte.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN075",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Un díptico es un folleto con:",
+  "opciones": [
+   "Dos pliegues y seis caras",
+   "Ocho páginas grapadas",
+   "Una hoja sin pliegues",
+   "Un pliegue y cuatro caras"
+  ],
+  "correcta": 3,
+  "explicacion": "El díptico tiene 1 pliegue y 4 caras; el tríptico, 2 pliegues y 6 caras.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN076",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Las medidas de un A4 son:",
+  "opciones": [
+   "210 × 297 mm",
+   "148 × 210 mm",
+   "297 × 420 mm",
+   "99 × 210 mm"
+  ],
+  "correcta": 0,
+  "explicacion": "A4 = 210 × 297 mm; el A5 es la mitad y el formato DL mide 99 × 210 mm.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN077",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "El programa de mano de un concierto es:",
+  "opciones": [
+   "El contrato que se firma con los músicos y la orquesta invitada",
+   "El guion técnico con las necesidades de sonido e iluminación",
+   "El cartel de gran formato con el que se anuncia toda la temporada",
+   "El folleto que se entrega al público en la sala con el repertorio y los intérpretes"
+  ],
+  "correcta": 3,
+  "explicacion": "Incluye ciclo, fecha, sala, intérpretes, repertorio, notas al programa, créditos y patrocinadores.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN078",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "¿Qué es la prueba de color o ferro?",
+  "opciones": [
+   "El archivo digital del diseño preparado en modo de color RGB",
+   "El presupuesto detallado que entrega la imprenta antes del encargo",
+   "La factura final con el detalle de ejemplares y tintas",
+   "Una prueba impresa que se revisa antes de la tirada definitiva"
+  ],
+  "correcta": 3,
+  "explicacion": "Se revisa antes de imprimir toda la tirada para evitar errores de color o de contenido.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN079",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "El arte final que se envía a imprenta debe ir preferentemente en:",
+  "opciones": [
+   "PDF para imprenta (PDF/X) con las fuentes incrustadas",
+   "Word con las fuentes sin incrustar",
+   "PNG transparente",
+   "JPG en RGB a 72 ppp"
+  ],
+  "correcta": 0,
+  "explicacion": "El PDF/X con fuentes incrustadas evita sustituciones y problemas de color.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN080",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "El gramaje de un papel indica:",
+  "opciones": [
+   "Su peso en gramos por metro cuadrado",
+   "Su brillo",
+   "Su porcentaje de reciclado",
+   "Su grosor en milímetros"
+  ],
+  "correcta": 0,
+  "explicacion": "Se expresa en g/m²: a más gramaje, papel más grueso y pesado.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN081",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "¿Qué rasgo debe tener un cartel?",
+  "opciones": [
+   "Poco texto, que se lea de lejos y con jerarquía clara",
+   "Mucho texto explicativo",
+   "Muchas tipografías distintas",
+   "Letra pequeña para que quepa toda la información"
+  ],
+  "correcta": 0,
+  "explicacion": "El cartel se lee de lejos; los detalles van en el folleto o en la web.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN082",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Si se detecta un error en un folleto ya impreso, las opciones son:",
+  "opciones": [
+   "Una fe de erratas o reimprimir",
+   "Retirar el logo del Ayuntamiento",
+   "Ignorarlo",
+   "Corregirlo a mano en cada ejemplar"
+  ],
+  "correcta": 0,
+  "explicacion": "Por eso la revisión se hace antes de dar el visto bueno a la tirada.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN083",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "La jerarquía visual en un folleto cultural sirve para que:",
+  "opciones": [
+   "El diseño sea más llamativo",
+   "Se ahorre papel",
+   "Quepan más patrocinadores",
+   "Se lean primero qué, cuándo, dónde y cuánto cuesta"
+  ],
+  "correcta": 3,
+  "explicacion": "Ordena la información por importancia.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN084",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Para pedir a imprenta un folleto, el técnico de comunicación debe, entre otras cosas:",
+  "opciones": [
+   "Pagar la factura en efectivo",
+   "Elegir siempre la oferta más cara",
+   "Contratar directamente a quien quiera sin dejar rastro",
+   "Pedir presupuestos, comparar las ofertas y proponer una"
+  ],
+  "correcta": 3,
+  "explicacion": "Anexo III: pedir, dar la conformidad y seleccionar ofertas, y controlar la ejecución y el presupuesto.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN085",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Al recibir la factura de la imprenta hay que comprobar que:",
+  "opciones": [
+   "Se ha abonado por adelantado antes de entregar el material",
+   "Coincide con el presupuesto aprobado y con los plazos pactados",
+   "Incluye un descuento por pronto pago sobre el precio ofertado",
+   "Está firmada por el Alcalde o por la Vicepresidenta de la Sociedad"
+  ],
+  "correcta": 1,
+  "explicacion": "Anexo III: coordinación con proveedores en presupuestos, plazos y facturas.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN086",
+  "bloque": "especifica",
+  "ambito": "aragon",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "La colocación de banderolas y lonas en la vía pública se coordina con:",
+  "opciones": [
+   "Los patrocinadores, que asumen el coste de la instalación",
+   "La Policía Local, que es quien autoriza y monta los soportes",
+   "La imprenta, que siempre incluye la instalación en el precio",
+   "Las Brigadas Municipales o la empresa instaladora"
+  ],
+  "correcta": 3,
+  "explicacion": "La relación con las Brigadas Municipales es una función del puesto (Anexo III).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN087",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Un contrato de servicios es contrato menor cuando su valor estimado, sin IVA, es inferior a:",
+  "opciones": [
+   "15.000 €",
+   "5.000 €",
+   "40.000 €",
+   "100.000 €"
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 118 LCSP: menos de 15.000 € en servicios y suministros y menos de 40.000 € en obras.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN088",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Un contrato de obras es contrato menor cuando su valor estimado, sin IVA, es inferior a:",
+  "opciones": [
+   "221.000 €",
+   "40.000 €",
+   "15.000 €",
+   "60.000 €"
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 118 LCSP: menos de 40.000 € en obras.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN089",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 5,
+  "tema_nombre": "Producción de materiales de comunicación cultural",
+  "pregunta": "Para que un material sea accesible conviene:",
+  "opciones": [
+   "Publicar el PDF solo como imagen",
+   "Escribir todo en mayúsculas",
+   "Letra legible, buen contraste y, si hace falta, una versión en lectura fácil",
+   "Usar solo el color para diferenciar la información"
+  ],
+  "correcta": 2,
+  "explicacion": "No fiarlo todo al color, que el PDF sea accesible y pensar en la lectura fácil.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN090",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál de estas fechas está bien escrita según la RAE?",
+  "opciones": [
+   "lunes, 12 de octubre",
+   "Lunes 12 de Octubre de 2.026",
+   "Lunes, 12 de Octubre",
+   "lunes, 12 de Octubre"
+  ],
+  "correcta": 0,
+  "explicacion": "Días de la semana y meses van en minúscula, y los años se escriben sin punto.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN091",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál está bien escrita?",
+  "opciones": [
+   "la alcaldesa de Zaragoza",
+   "La Alcaldesa De Zaragoza",
+   "la alcaldesa de zaragoza",
+   "la Alcaldesa de Zaragoza"
+  ],
+  "correcta": 0,
+  "explicacion": "Los cargos van en minúscula; el topónimo, con mayúscula.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN092",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe correctamente el título de una obra o espectáculo en un texto?",
+  "opciones": [
+   "«El Lago de los Cisnes»",
+   "El lago de los cisnes, en cursiva",
+   "\"El Lago De Los Cisnes\"",
+   "EL LAGO DE LOS CISNES"
+  ],
+  "correcta": 1,
+  "explicacion": "Solo la primera palabra (y los nombres propios) en mayúscula, y en cursiva.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN093",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es la forma correcta de escribir una hora?",
+  "opciones": [
+   "20:00 h",
+   "20:00 H",
+   "20:00h.",
+   "20.00 hrs."
+  ],
+  "correcta": 0,
+  "explicacion": "El símbolo «h» va separado por un espacio, en minúscula y sin punto (también vale 20.00 h).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN094",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe un precio según la norma?",
+  "opciones": [
+   "15.- €",
+   "15 €",
+   "15€",
+   "€15"
+  ],
+  "correcta": 1,
+  "explicacion": "El símbolo va detrás del número y separado por un espacio.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN095",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe correctamente el año?",
+  "opciones": [
+   "el año 2.026",
+   "el año 2 026",
+   "el año 2026",
+   "el año 2,026"
+  ],
+  "correcta": 2,
+  "explicacion": "Los años nunca llevan punto ni espacio.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN096",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "Según la RAE, ¿cómo se recomienda separar los millares en un número de más de cuatro cifras?",
+  "opciones": [
+   "Con apóstrofo (15'119'919)",
+   "Con un espacio (15 119 919)",
+   "Con coma (15,119,919)",
+   "No se separan nunca"
+  ],
+  "correcta": 1,
+  "explicacion": "La RAE recomienda el espacio; la Administración usa mucho el punto. Lo importante es ser coherente.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN097",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es la abreviatura correcta del ordinal «cuadragésima sexta»?",
+  "opciones": [
+   "46ª",
+   "46.ª",
+   "46º",
+   "46a."
+  ],
+  "correcta": 1,
+  "explicacion": "Punto antes de la letra volada: 46.ª, 1.er, 2.º.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN098",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es el orden de uso de las comillas en español?",
+  "opciones": [
+   "Inglesas, simples, angulares",
+   "Angulares « », luego inglesas “ ” y luego simples ‘ ’",
+   "Simples, angulares, inglesas",
+   "Da igual el orden"
+  ],
+  "correcta": 1,
+  "explicacion": "Primero angulares; dentro de ellas, inglesas, y dentro de estas, simples.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN099",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe en un texto un extranjerismo no adaptado como «backstage»?",
+  "opciones": [
+   "En negrita",
+   "Entre paréntesis",
+   "En mayúsculas",
+   "En cursiva"
+  ],
+  "correcta": 3,
+  "explicacion": "Los extranjerismos crudos van en cursiva (o entre comillas si no se puede usar cursiva).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN100",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Qué signo se usa para abrir y cerrar un inciso en un texto?",
+  "opciones": [
+   "El guion bajo (_)",
+   "La barra (/)",
+   "La raya (—)",
+   "El guion (-)"
+  ],
+  "correcta": 2,
+  "explicacion": "La raya marca incisos y diálogos; el guion une palabras compuestas o intervalos (2026-2027).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN101",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "Según la Ortografía de 2010, ¿cuál está bien escrito?",
+  "opciones": [
+   "guion",
+   "guión",
+   "guíon",
+   "guïon"
+  ],
+  "correcta": 0,
+  "explicacion": "Es monosílabo a efectos ortográficos, así que no lleva tilde.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN102",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál está bien puntuado?",
+  "opciones": [
+   "Entradas en taquilla ,y en la web .",
+   "¡Entradas a la venta !",
+   "¿Quieres venir ?",
+   "Entradas en taquilla y en la web."
+  ],
+  "correcta": 3,
+  "explicacion": "No se deja espacio antes de los signos de puntuación.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN103",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es correcto en español?",
+  "opciones": [
+   "¿Quieres venir al concierto",
+   "¿Quieres venir al concierto?",
+   "Quieres venir al concierto¿",
+   "Quieres venir al concierto?"
+  ],
+  "correcta": 1,
+  "explicacion": "Los signos de apertura ¿ ¡ son obligatorios.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN104",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál está bien escrito?",
+  "opciones": [
+   "Música, danza, teatro, etc....",
+   "Música, danza, teatro, etc...",
+   "Música, danza, teatro, etc.",
+   "Música, danza, teatro...etc."
+  ],
+  "correcta": 2,
+  "explicacion": "No se combinan «etc.» y puntos suspensivos; estos siempre son tres.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN105",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es la forma correcta del plural de una sigla?",
+  "opciones": [
+   "las ONG's",
+   "las O.N.G.",
+   "las ONG",
+   "las ONGs"
+  ],
+  "correcta": 2,
+  "explicacion": "Las siglas no llevan puntos ni marcan el plural en la escritura.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN106",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál de estas lleva punto?",
+  "opciones": [
+   "h (hora)",
+   "pza. (plaza)",
+   "€ (euro)",
+   "km (kilómetro)"
+  ],
+  "correcta": 1,
+  "explicacion": "Las abreviaturas llevan punto (pza., av., n.º); los símbolos no (km, h, min, €).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN107",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es la alternativa recomendada a «en base a»?",
+  "opciones": [
+   "A partir de",
+   "A nivel de",
+   "En relación a",
+   "De cara a"
+  ],
+  "correcta": 0,
+  "explicacion": "Se recomienda evitar «en base a»: a partir de, basándose en, según.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN108",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "Señala la frase correctamente escrita:",
+  "opciones": [
+   "Sòlo quedan entradas para el domingo",
+   "Solo quedan entradas para el Domingo",
+   "Solo quedan entradas para el domingo",
+   "Sólo quedan entradas para el domingo"
+  ],
+  "correcta": 2,
+  "explicacion": "Desde 2010, «solo» no lleva tilde ni siquiera como adverbio.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN109",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe correctamente el género musical?",
+  "opciones": [
+   "un concierto de Jazz",
+   "un concierto de JAZZ",
+   "un concierto de Música Clásica",
+   "un concierto de jazz"
+  ],
+  "correcta": 3,
+  "explicacion": "Los géneros y estilos (jazz, ópera, jota, rock) van en minúscula.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN110",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es correcto en una dirección?",
+  "opciones": [
+   "Plaza Del Pilar, 18",
+   "plaza del Pilar, 18",
+   "Plaza del Pilar, 18",
+   "plaza del pilar, 18"
+  ],
+  "correcta": 1,
+  "explicacion": "El genérico (plaza, calle, avenida) va en minúscula; el nombre propio, con mayúscula.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN111",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cuál es la forma correcta de expresar un periodo de fechas en un texto?",
+  "opciones": [
+   "del 10 a 18 de octubre",
+   "del 10 al 18 de octubre",
+   "del 10-18 de octubre",
+   "desde el 10 hasta 18 de octubre"
+  ],
+  "correcta": 1,
+  "explicacion": "Se usa «del ... al ...»; el guion solo se usa sin preposiciones (10-18 de octubre).",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN112",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe la fecha de la festividad del Pilar?",
+  "opciones": [
+   "El 12 de octubre (con letras: el Doce de Octubre)",
+   "El doce de octubre, siempre con letras y en minúscula",
+   "El 12 De Octubre, con mayúscula en las dos palabras",
+   "El 12 de Octubre, con mayúscula por ser festividad"
+  ],
+  "correcta": 0,
+  "explicacion": "En cifras el mes va en minúscula; solo cuando la fecha se escribe con letras como nombre de la festividad lleva mayúsculas.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN113",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe el nombre de la institución?",
+  "opciones": [
+   "ayuntamiento de Zaragoza",
+   "AYUNTAMIENTO de zaragoza",
+   "Ayuntamiento de Zaragoza",
+   "Ayuntamiento De Zaragoza"
+  ],
+  "correcta": 2,
+  "explicacion": "Los nombres de instituciones llevan mayúscula en las palabras significativas.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN114",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe este nombre en mayúsculas?",
+  "opciones": [
+   "Alvaro",
+   "ÁLVARO",
+   "ÁLVARÓ",
+   "ALVARO"
+  ],
+  "correcta": 1,
+  "explicacion": "Las mayúsculas también llevan tilde.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN115",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe el nombre de un periódico en un texto?",
+  "opciones": [
+   "el periódico de aragón, en cursiva",
+   "El Periódico de Aragón, en cursiva",
+   "«El periódico de Aragón»",
+   "EL PERIÓDICO DE ARAGÓN"
+  ],
+  "correcta": 1,
+  "explicacion": "Las publicaciones periódicas llevan mayúscula en las palabras significativas y van en cursiva.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN116",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "La primera vez que aparece una sigla poco conocida en un texto, conviene:",
+  "opciones": [
+   "Desarrollarla: Ciclo de Introducción a la Música (CIM)",
+   "Escribirla en minúscula para que no parezca un grito",
+   "Escribirla con puntos entre las letras: C.I.M.",
+   "Ponerla en cursiva para que se distinga del texto"
+  ],
+  "correcta": 0,
+  "explicacion": "Se desarrolla la primera vez y después se usa la sigla.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN117",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Cómo se escribe un número de teléfono según las recomendaciones de estilo?",
+  "opciones": [
+   "9767-26-136",
+   "976.726.136",
+   "976 726 136",
+   "976-726-136"
+  ],
+  "correcta": 2,
+  "explicacion": "Agrupado con espacios y sin puntos.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN118",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "Si en la ficha que envía Programación la fecha no coincide con el día de la semana, el técnico de comunicación debe:",
+  "opciones": [
+   "Elegir el dato que le parezca más lógico",
+   "Quitar la fecha del folleto",
+   "Preguntar a Programación y no publicar hasta confirmarlo",
+   "Publicar los dos datos"
+  ],
+  "correcta": 2,
+  "explicacion": "Una sola fuente de verdad: si un dato no cuadra se pregunta, no se inventa.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ },
+ {
+  "id": "ZCN119",
+  "bloque": "especifica",
+  "ambito": "estatal",
+  "tema": 6,
+  "tema_nombre": "Tratamiento de la información y revisión ortotipográfica",
+  "pregunta": "¿Qué datos debe incluir la ficha de una actividad para difundirla?",
+  "opciones": [
+   "Título, imagen y redes del artista; el precio se da en taquilla",
+   "Precio, lugar y patrocinadores; la sinopsis no es necesaria",
+   "Título, fechas, horario, espacio, precio y venta, accesibilidad e imágenes con créditos",
+   "Título y fecha; el resto lo completa Comunicación por su cuenta"
+  ],
+  "correcta": 2,
+  "explicacion": "Son los datos de la ficha que envía Programación y que hay que comprobar.",
+  "fuente": "Pregunta propia a partir de los apuntes (fuentes oficiales verificadas)"
+ }
+]
