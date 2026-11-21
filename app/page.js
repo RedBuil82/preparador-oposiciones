@@ -164,6 +164,21 @@ export default function App() {
     try { localStorage.setItem("oposiciones_history", JSON.stringify(history)); } catch (e) {}
   }, [history]);
 
+  // ---- Preguntas falladas (persistente en el navegador) ----
+  // Clave: "<oposición>|<id de pregunta>". Se añade al fallar y se quita al acertar.
+  const [falladas, setFalladas] = useState({});
+  const [resumenFalladas, setResumenFalladas] = useState(null); // { nuevas, quitadas } del último test
+  useEffect(() => {
+    try { const raw = localStorage.getItem("oposiciones_falladas"); if (raw) setFalladas(JSON.parse(raw)); } catch (e) {}
+  }, []);
+  function guardarFalladas(obj) {
+    setFalladas(obj);
+    try { localStorage.setItem("oposiciones_falladas", JSON.stringify(obj)); } catch (e) {}
+  }
+  const claveFallada = (p) => `${oposicionId}|${p.id}`;
+  const poolRepaso = PREGUNTAS.filter(p => falladas[claveFallada(p)]);
+  const MAX_REPASO = 50;
+
   const ac = activeTab === "historial" ? "#1a1a1a" : ACCENT;
 
   // ---- Cálculo de pools según filtros ----
@@ -248,6 +263,22 @@ export default function App() {
     setStep("test");
   }
 
+  function comenzarRepaso() {
+    if (!poolRepaso.length) return;
+    const elegidas = shuffle(poolRepaso).slice(0, MAX_REPASO);
+    setPreguntas(elegidas);
+    setRespuestas({});
+    setRevisando(false);
+    setTestLabel(`Repaso de falladas (${elegidas.length} de ${poolRepaso.length})`);
+    setTestPenalizada(penalizacion);
+    setTestDivisor(oposicion.divisor || 3);
+    setFinTiempo(null);
+    setTiempoAgotado(false);
+    setResumenFalladas(null);
+    setStep("test");
+    window.scrollTo(0, 0);
+  }
+
   function comenzarSimulacro() {
     const sim = oposicion.simulacro;
     if (!sim || !PREGUNTAS.length) return;
@@ -302,6 +333,18 @@ export default function App() {
       nota: notaFinal,
       penalizada: testPenalizada,
     });
+    if (activeTab !== "casos") {
+      const nuevo = { ...falladas };
+      let nuevas = 0, quitadas = 0;
+      preguntas.forEach((p, i) => {
+        if (p.id === undefined || p.id === null || respuestas[i] === undefined) return; // en blanco: no cambia nada
+        const k = claveFallada(p);
+        if (respuestas[i] === p.correcta) { if (nuevo[k]) { delete nuevo[k]; quitadas++; } }
+        else { if (!nuevo[k]) nuevas++; nuevo[k] = { ts: Date.now() }; }
+      });
+      guardarFalladas(nuevo);
+      setResumenFalladas({ nuevas, quitadas });
+    } else setResumenFalladas(null);
     setFinTiempo(null);
     setRevisando(true);
     setStep("resultado");
@@ -421,6 +464,13 @@ export default function App() {
         {tiempoAgotado && <p style={{ fontSize: 13, color: "#dc3545", marginBottom: 8 }}>⏱ Se acabó el tiempo: se ha corregido lo que tenías contestado.</p>}
         <p style={{ fontSize: 16, color: "#666", marginBottom: 6 }}>{aciertos()} correctas · {errores()} falladas · {enBlanco()} en blanco · de {preguntas.length}</p>
         <p style={{ fontSize: 13, color: "#999" }}>{ap ? "✓ Aprobado · Guardado en historial" : "✗ Suspenso · Guardado en historial"}</p>
+        {resumenFalladas && (resumenFalladas.nuevas > 0 || resumenFalladas.quitadas > 0) && (
+          <p style={{ fontSize: 13, color: "#555", marginTop: 8 }}>
+            {resumenFalladas.nuevas > 0 && <>📌 {resumenFalladas.nuevas} nueva{resumenFalladas.nuevas > 1 ? "s" : ""} en tu lista de falladas. </>}
+            {resumenFalladas.quitadas > 0 && <>✅ {resumenFalladas.quitadas} superada{resumenFalladas.quitadas > 1 ? "s" : ""} (quitada{resumenFalladas.quitadas > 1 ? "s" : ""} de la lista). </>}
+            Quedan {poolRepaso.length} por repasar.
+          </p>
+        )}
         {testPenalizada && <p style={{ fontSize: 11, color: "#bbb", fontFamily: "monospace", marginTop: 8 }}>Fórmula: aciertos − (errores ÷ {testDivisor}) · las respuestas en blanco no restan</p>}
       </div>
     );
@@ -480,6 +530,27 @@ export default function App() {
                 <button style={S.btn(ACCENT, false)} onClick={comenzarSimulacro}>Empezar simulacro →</button>
               </div>
             )}
+
+            <div style={{ ...S.countBox, borderColor: poolRepaso.length ? "#dc3545" : "#e0e0e0", borderWidth: 2 }}>
+              <div style={{ flex: 1, minWidth: 200 }}>
+                <div style={S.label}>Repaso de errores</div>
+                <div style={{ fontSize: 15 }}>
+                  {poolRepaso.length
+                    ? <>🔁 Tienes <strong>{poolRepaso.length}</strong> pregunta{poolRepaso.length > 1 ? "s" : ""} fallada{poolRepaso.length > 1 ? "s" : ""} en {oposicion.nombreCorto}. Si aciertas una en el repaso, sale de la lista.{poolRepaso.length > MAX_REPASO ? ` Cada repaso trae ${MAX_REPASO}.` : ""}</>
+                    : <>Aquí aparecerán las preguntas que falles en los tests para repasarlas después.</>}
+                </div>
+                {poolRepaso.length > 0 && (
+                  <button style={{ background: "none", border: "none", color: "#999", fontSize: 12, cursor: "pointer", padding: "6px 0 0", textDecoration: "underline", fontFamily: "Georgia" }}
+                    onClick={() => {
+                      if (!window.confirm("¿Vaciar la lista de falladas de esta oposición?")) return;
+                      const nuevo = { ...falladas };
+                      Object.keys(nuevo).filter(k => k.startsWith(oposicionId + "|")).forEach(k => delete nuevo[k]);
+                      guardarFalladas(nuevo);
+                    }}>Vaciar lista</button>
+                )}
+              </div>
+              <button style={S.btn("#dc3545", poolRepaso.length === 0)} disabled={poolRepaso.length === 0} onClick={comenzarRepaso}>Repasar falladas →</button>
+            </div>
 
             <div style={S.secTitle}>Bloque</div>
             <div style={S.chipRow}>
